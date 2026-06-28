@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Atlas Médico"
+  pageTitle: Quartz 5
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: pt-BR
+  locale: en-US
   baseUrl: albertdicksonlf.github.io/quartz-medicina
   ignorePatterns:
     - private
@@ -29,7 +29,7 @@ configuration:
         secondary: "#284b63"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#84a59d55"
+        textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
         lightgray: "#393639"
@@ -39,7 +39,7 @@ configuration:
         secondary: "#7b97aa"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#84a59d40"
+        textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -78,7 +78,7 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: false
+    enabled: true
     order: 50
     layout:
       position: right
@@ -159,13 +159,6 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
-    options:
-      localGraph:
-        depth: 2
-        scale: 1.2
-        fontSize: 0.7
-        opacityScale: 1
-        enableRadial: true
     layout:
       position: right
       priority: 10
@@ -181,7 +174,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 5
+      priority: 50
   - source: github:quartz-community/article-title
     enabled: true
     layout:
@@ -245,7 +238,7 @@ plugins:
       priority: 25
       display: mobile-only
   - source: github:quartz-community/bases-page
-    enabled: false
+    enabled: true
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
@@ -257,7 +250,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: true
+      hidePropertiesView: false
       delimiters: ---
       language: yaml
     order: 5
