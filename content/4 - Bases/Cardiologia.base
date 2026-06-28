@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Cardiologia - Geral
+    filters:
+      and:
+        - área.containsAny("Cardiologia", "Cirurgia Cardíaca")
+  - type: cards
+    name: Cardiologia - Aulas
+    filters:
+      and:
+        - área.containsAny("Cardiologia", "Cirurgia Cardíaca")
+        - tipo == ["Aula"]
+    image: note.card
+    cardSize: 280

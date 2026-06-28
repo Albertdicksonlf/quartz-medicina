@@ -1,0 +1,70 @@
+filters:
+  and:
+    - '!file.path.contains("6- Sistema")'
+views:
+  - type: cards
+    name: Endocrinologia - Terapêutica
+    filters:
+      and:
+        - área.contains("Endocrinologia")
+        - and:
+            - file.path.contains("1.5 Terapêutica")
+    order:
+      - file.name
+      - área
+    sort:
+      - property: file.ctime
+        direction: ASC
+    cardSize: 250
+    image: note.card
+  - type: table
+    name: Endocrinologia - Exames
+    filters:
+      and:
+        - área.contains("Endocrinologia")
+        - and:
+            - file.path.contains("1.4 Exames e Procedimento")
+    cardSize: 300
+    image: note.área
+    imageFit: contain
+    imageAspectRatio: 0.25
+  - type: cards
+    name: Endocrinologia - Doenças
+    filters:
+      and:
+        - área.containsAny("Endocrinologia")
+        - file.path.contains("1.2 Doenças e Condições")
+    order:
+      - file.name
+      - tipo
+      - prevalência
+    sort:
+      - property: file.ctime
+        direction: DESC
+    cardSize: 390
+    image: note.card
+    imageFit: contain
+  - type: table
+    name: Endocrinologia - Guias de Raciocínio
+    filters:
+      and:
+        - área.contains("Endocrinologia")
+        - file.path.contains("1.1 Guias de Raciocínio (QP)")
+    order:
+      - file.name
+      - tipo
+      - área
+  - type: table
+    name: Aulas - Endócrino
+    filters:
+      and:
+        - área.contains("Endocrinologia")
+        - file.path.contains("3.1 Notas de Aula")
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+      - property: file.ctime
+        direction: ASC

@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Tabela
+    filters:
+      and:
+        - área.contains("Imunologia")
+    image: note.card

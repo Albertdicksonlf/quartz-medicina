@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Nefrologia Geral
+    filters:
+      and:
+        - área.contains("Nefrologia")
+  - type: table
+    name: Nefrologia - Aulas
+    filters:
+      and:
+        - área.containsAny("Nefrologia", "Urologia")
+        - tipo.contains("Aula")
+  - type: table
+    name: Nefro - Uro - Anotações
+    filters:
+      and:
+        - área.containsAny("Nefrologia", "Urologia")
+        - tipo.contains("Anotações")

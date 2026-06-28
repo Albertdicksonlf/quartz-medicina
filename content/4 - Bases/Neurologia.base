@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - área.containsAny("Neurologia", "Neurocirurgia")
+  - type: table
+    name: Aulas - Neurologia
+    filters:
+      and:
+        - área.containsAny("Neurologia", "Neurocirurgia")
+        - tipo == ["Aula"]
+    order:
+      - file.name
+      - data
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Anotações - Neurologia
+    filters:
+      and:
+        - área.containsAny("Neurologia", "Neurocirurgia")
+        - tipo == ["Anotações"]

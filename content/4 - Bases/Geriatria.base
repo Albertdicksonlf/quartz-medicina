@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - área.contains("Geriatria")
+        - file.path.contains("3.1 Notas de Aulas")
+    order:
+      - file.name
+      - file.tags
+    sort: []
+    image: note.card

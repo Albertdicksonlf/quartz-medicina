@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Oncologia Geral
+    filters:
+      and:
+        - área.contains("Oncologia")
+    image: note.card

@@ -1,0 +1,46 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.path.containsAny("3.1 Notas de Aulas")
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+  - type: table
+    name: Aulas - Endócrino
+    filters:
+      and:
+        - file.path.contains("3.1 Notas de Aulas")
+        - área.contains("Endocrinologia")
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+      - property: file.ctime
+        direction: ASC
+  - type: table
+    name: Não-Processado
+    filters:
+      and:
+        - file.tags.contains("Não-Processado")
+  - type: table
+    name: Aulas sem área e não processado - Tudo Gastro
+    filters:
+      and:
+        - file.path.contains("3.1 Notas de Aulas")
+        - área.isEmpty()
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Exemplo
+    filters:
+      and:
+        - file.path.contains("3.1 Notas de Aulas")
+        - Período.contains("P5")

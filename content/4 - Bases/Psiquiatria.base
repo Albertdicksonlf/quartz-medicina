@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Psiquiatria
+    filters:
+      and:
+        - área.contains("Psiquiatria")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Psiquiatria - Aula
+    filters:
+      and:
+        - área.contains("Psiquiatria")
+        - tipo == ["Aula"]
+    image: note.card
+  - type: cards
+    name: Psiquiatria - Doenças
+    filters:
+      and:
+        - área.contains("Psiquiatria")
+        - file.path.containsAny("1.2 Doenças e Condições")
+    image: note.card

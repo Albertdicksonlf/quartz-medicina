@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Anestesio - Geral
+    filters:
+      and:
+        - área.contains("Anestesiologia")
+    image: note.card
+  - type: table
+    name: Anestesio - Aulas
+    filters:
+      and:
+        - área.contains("Anestesiologia")
+        - tipo == ["Aula"]

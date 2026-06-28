@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.path.contains("1.5 Terapêutica")
+        - '!note["classe medicamentosa"].isEmpty()'
