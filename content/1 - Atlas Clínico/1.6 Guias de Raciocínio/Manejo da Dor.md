@@ -73,6 +73,22 @@ Uma abordagem mais moderna e refinada, que escolhe a classe de fármaco com base
     - **[[Analgésicos Adjuvantes]]:** Modulam a percepção da dor. Essenciais para dor neuropática e nociplástica.
     - **[[Corticoides]]:** Potente ação anti-inflamatória. Útil em dores por edema ou compressão.
 
+### ⚡ Foco na Dor Aguda — pérolas de agente
+*Analgesia multimodal e poupadora de opioide; ênfase nos detalhes que mudam a escolha à beira-leito.*
+
+- **Tetos de dose (não-opioides):** [[Dipirona]] 5 g/dia (VO / IV / SC; risco raro de agranulocitose) · [[Paracetamol]] 4 g/dia (contraindicado em hepatopatia grave; **reduz ~20% o consumo de opioide**).
+- **[[AINEs]] na dor aguda:** a seletividade COX-1 × COX-2 **não muda a analgesia** — muda apenas o perfil de efeitos adversos (GI/renal × cardiovascular).
+- **Opioides fortes:**
+	- [[Morfina]] = **padrão-ouro IV** na dor aguda intensa. Metabólito ativo **M6G (morfina-6-glicuronídeo)** tem clearance renal → **cautela na insuficiência renal** (acúmulo e toxicidade).
+	- [[Metadona]]: agonista μ de **longa duração (15–40 h)** + ação **antagonista NMDA**.
+	- [[Oxicodona]]: opção por via oral.
+- **Opioides moderados / atípicos (dor moderada):**
+	- [[Tramadol]]: baixa afinidade μ + **inibição da recaptação de serotonina e noradrenalina** → menos efeitos opioides clássicos (atenção a risco serotoninérgico e convulsivo).
+	- [[Nalbufina]]: **agonista κ / antagonista μ** → efeito-teto, **sem depressão respiratória**; **cuidado em quem já usa agonista μ** (pode reverter a analgesia / precipitar abstinência).
+	- [[Codeína]]: pró-fármaco (CYP2D6 → morfina), antitussígeno, em geral associada ao paracetamol.
+- **Adjuvante:** [[Cetamina]] — antagonista NMDA, **poupador de opioide** na dor aguda intensa ou refratária.
+- **Regra de segurança:** **nunca combinar opioide fraco + opioide forte** (competição de receptor — sem ganho analgésico e mais efeitos adversos).
+
 ## 🔪 4. Terapias Intervencionistas e Cirúrgicas - [[Tratamento Cirúrgico da Dor]]
 Reservadas para **dor refratária** e intensa, após falha do tratamento clínico otimizado.
 - **Exemplos:** Bloqueios de nervos, ablação por radiofrequência, neuroestimulação, cirurgias (ex: Cingulotomia em cuidados paliativos).

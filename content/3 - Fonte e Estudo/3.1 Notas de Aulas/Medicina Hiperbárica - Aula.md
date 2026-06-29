@@ -4,13 +4,26 @@ data: 2026-06-23T13:18:00
   - Anestesiologia
 tipo:
   - Aula
-classe medicamentosa:
-tipo de doença:
-prevalência:
-aliases:
-card:
+classe medicamentosa: null
+tipo de doença: null
+prevalência: null
+aliases: null
+card: null
 ---
-Status: #Não-Processado 
+Status: #processado-1 
+
+> [!success]- Notas geradas a partir desta aula (processado em 2026-06-29)
+> **Atlas — nota principal (completa):**
+> - [[Oxigenoterapia Hiperbárica (OHB)]]
+>
+> **Atlas — esqueletos criados (1.2 Doenças e Condições):**
+> - [[Doença Descompressiva]]
+> - [[Embolia Gasosa]]
+> - [[Barotrauma]]
+> - [[Intoxicação por Monóxido de Carbono]]
+> - [[Gangrena Gasosa]]
+> - [[Gangrena de Fournier]]
+> - [[Fasciíte Necrosante]]
 
 # Medicina do Mergulhador 
 

@@ -10,7 +10,17 @@ prevalência:
 aliases:
 card:
 ---
-Status: #Não-Processado 
+Status: #processado-1 
+
+> [!success]- Processado em 2026-06-29 — modo enriquecimento
+> **Guia enriquecido:**
+> - [[Manejo da Dor]] — novo bloco "⚡ Foco na Dor Aguda — pérolas de agente" (seção 3, Ferramentas)
+>
+> **Esqueletos de fármaco criados (1.5 Terapêutica):**
+> - [[Tramadol]]
+> - [[Codeína]]
+> - [[Oxicodona]]
+> - [[Nalbufina]]
 
 # Manejo da Dor 
 

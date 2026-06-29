@@ -285,7 +285,7 @@ A DAOP compartilha fatores com a aterosclerose em geral:
 - Curativos
 - Antibioticoterapia se infecção
 - **Desbridamento cirúrgico** quando indicado
-- Câmara hiperbárica em casos selecionados
+- [[Oxigenoterapia Hiperbárica (OHB)|Câmara hiperbárica]] em casos selecionados
 - Pacientes com Gangrena infectada, tratar antes e depois revascularizar
 - úlcera não infectada -> Revascularizar e depois tratar a úlcera 
 

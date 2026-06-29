@@ -157,7 +157,7 @@ tipo de exame: null
 - Off-loading (em pé diabético) — sem alívio da pressão, recidiva
 - Controle glicêmico (HbA1c < 8% idealmente)
 - Revascularização se DAP coexistente ([[Revascularização de Membro Inferior]])
-- Câmara hiperbárica — evidência limitada, considerar em casos refratários
+- [[Oxigenoterapia Hiperbárica (OHB)|Câmara hiperbárica]] — evidência limitada, considerar em casos refratários
 
 ---
 
