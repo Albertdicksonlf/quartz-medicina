@@ -106,7 +106,7 @@ Os 11 critérios padronizados (≥ 2 em 12 meses) — ver [[Transtorno por Uso d
 ## 🧨 Complicações Crônicas (Lista Não-Exaustiva)
 
 ### **Cardiovasculares**
-- [[Doença Coronariana]], IAM
+- [[Síndromes Coronarianas|Doença Arterial Coronariana]], IAM
 - [[Doença Arterial Periférica]]
 - AVC isquêmico e hemorrágico
 - Aneurisma de aorta abdominal

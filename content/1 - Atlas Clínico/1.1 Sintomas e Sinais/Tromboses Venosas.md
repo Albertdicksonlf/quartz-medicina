@@ -94,7 +94,7 @@ tipo: Síndrome
   - **[[Heparinas]]** ([[Enoxaparina]] ou [[Heparina Não Fracionada]])
   - **[[Varfarina]]** (requer monitoramento com [[INR]])
 - **Situações Especiais (ex: TEP maciço, TVP extensa):**
-  - **[[Trombolíticos (ex: Alteplase)]]** para dissolver o coágulo.
+  - **Trombolíticos (ex: Alteplase)** para dissolver o coágulo.
 
 ---
 ## 6. 🛡️ Profilaxia de TEV (Prevenção Primária)

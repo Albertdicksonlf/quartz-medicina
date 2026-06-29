@@ -107,6 +107,10 @@ tipo de doença:
 - **Trombólise dirigida por cateter (intra-trombo):** a **TVP iliofemoral** é a **única indicação** de trombólise na TVP — melhor (não único) tratamento nesses casos, em paciente jovem com trombo extenso.
 - **Trombectomia mecânica:** reservada a casos como **flegmasia cerulea dolens** ou trombo flutuante; risco de retrombose e embolia pulmonar.
 - **Filtro de veia cava:** **contraindicação à anticoagulação** ou recorrência/complicação apesar de anticoagulação adequada.
+- **Trombólise** -> Se há algum risco de isquemia 
+	Ou seja, o membro que já está apresentando phlegmasia cerulea dolens, ou que está em risco de evoluir para (edema extremo ou phlegmasia alba dolens — afinal a única diferença entre ambos é se a pele está pálida ou não)._
+
+Durante a trombólise, a anticoagulação é mantida, mas com Heparina não fracionada, com possibilidade de reversão 
 
 ---
 ## 💡 Pontos de Aprendizado e Heurísticas

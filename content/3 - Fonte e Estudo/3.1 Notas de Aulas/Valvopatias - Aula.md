@@ -8,7 +8,12 @@ prevalência:
 aliases:
 card:
 ---
-Status: #Não-Processado 
+Status: #processado-1
+
+> [!success] Processado nesta sessão (29/06/2026) → Atlas Clínico
+> **Hub:** [[Valvopatias]] · **Guia:** [[Abordagem do Sopro Cardíaco]]
+> **Valvopatias:** [[Estenose Mitral]] · [[Insuficiência Mitral]] · [[Insuficiência Aórtica]] · [[Estenose Aórtica]]
+> **Esqueletos criados:** [[Endocardite Infecciosa]] · [[Hipertensão Pulmonar]] · [[Prolapso da Valva Mitral]] · [[TAVI]] · [[Plastia Valvar]] · [[Comissurotomia Mitral]] · [[Valvoplastia Mitral por Balão]] · [[MitraClip]] · [[Prótese Valvar]] · [[Sopro Diastólico]] · [[Estalido de Abertura]] · [[Pulso Parvus et Tardus]] · [[Sinais Periféricos da Insuficiência Aórtica]]
 
 # Valvopatias 
 

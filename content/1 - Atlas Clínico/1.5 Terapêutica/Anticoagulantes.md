@@ -55,6 +55,36 @@ aliases:
   - **Antídoto:** Idarucizumabe.
 
 ---
+## 💉 Esquemas de Dose: Profilática × Plena (Terapêutica)
+
+> [!warning] Sempre individualizar
+> Doses de referência para o adulto. **Ajuste por peso, função renal (ClCr) e risco de sangramento.** HBPM e DOACs exigem cautela/ajuste na disfunção renal; com ClCr muito baixa prefira [[Heparina Não Fracionada (HNF)|HNF]].
+
+### Parenterais (Heparinas e Fondaparinux)
+
+| Agente | Dose **Profilática** (prevenção de TEV) | Dose **Plena** (terapêutica) |
+|---|---|---|
+| [[Enoxaparina]] (HBPM) | 40 mg SC 1x/dia (20 mg/dia se ClCr < 30 ou alto risco de sangramento) | 1 mg/kg SC 12/12h **ou** 1,5 mg/kg SC 1x/dia (1 mg/kg 1x/dia se ClCr < 30) |
+| [[Heparina Não Fracionada (HNF)]] | 5.000 UI SC 8/8h ou 12/12h | Bólus IV ~80 UI/kg + infusão ~18 UI/kg/h, **titulada pelo [[TTPA]]** (alvo 1,5–2,5× o controle) |
+| [[Fondaparinux]] | 2,5 mg SC 1x/dia | 5 mg (<50 kg) / 7,5 mg (50–100 kg) / 10 mg (>100 kg) SC 1x/dia |
+
+### Varfarina (intensidade = alvo de INR, sem dose fixa)
+- **Alvo geral (FA, TEV):** INR **2,0–3,0**.
+- **Prótese mecânica:** aórtica em ritmo sinusal 2,0–3,0; **mitral ou aórtica de risco 2,5–3,5**.
+- Não há "dose profilática" fixa — a intensidade é o próprio alvo de INR. Iniciar com **sobreposição de heparina** (a [[Varfarina]] é pró-trombótica nas primeiras 48–72h, pela queda precoce de proteínas C/S).
+
+### DOACs (a dose plena varia pela indicação)
+
+| Fármaco | FA não valvar (prevenção de AVC) | TEV (TVP/TEP) | Profilaxia (pós-artroplastia) |
+|---|---|---|---|
+| [[Rivaroxabana]] | 20 mg/dia (15 mg se ClCr 15–50) | 15 mg 12/12h por 21 dias → 20 mg/dia | 10 mg/dia |
+| [[Apixabana]] | 5 mg 12/12h (2,5 mg 12/12h se ≥2: idade ≥80, peso ≤60 kg, Cr ≥1,5) | 10 mg 12/12h por 7 dias → 5 mg 12/12h | 2,5 mg 12/12h |
+| [[Dabigatrana]] | 150 mg 12/12h (110 mg 12/12h se idoso/alto risco) | 150 mg 12/12h **após ≥5 dias** de heparina parenteral | 220 mg/dia (110 mg no 1º dia) |
+
+> [!tip] Regra prática
+> **Profilática** = dose fixa baixa para **prevenir** trombo em quem ainda não tem (paciente acamado/cirúrgico). **Plena** = dose terapêutica para **tratar / impedir a propagação** de um evento estabelecido (TEV, SCA) ou prevenir embolia de alto risco (FA, prótese mecânica).
+
+---
 ## 💊 Indicações Clínicas Principais
 Os 3 mecanismos que geram indicação de anticoagulação crônica
 

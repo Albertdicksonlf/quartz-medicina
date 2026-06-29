@@ -120,13 +120,13 @@ card: null
 ### **2. Anticoagulação (base do tratamento)**
 *Iniciar **empiricamente na suspeita** quando a probabilidade é alta — não esperar a imagem.*
 - **Onde tratar:** baixo risco (sPESI 0) pode ser ambulatorial; intermediário/alto → internação.
-- **Estável / ambulatorial:** preferência por **[[Anticoagulantes Orais Diretos (DOACs)]]** ([[Rivaroxabana]] 15 mg 12/12h por 21 dias, depois 20 mg/dia; ou [[Apixabana]]). Alternativa de baixo custo: [[Varfarina]] com ponte de [[Enoxaparina]].
+- **Estável / ambulatorial:** preferência por **[[DOACs|Anticoagulantes Orais Diretos]]** ([[Rivaroxabana]] 15 mg 12/12h por 21 dias, depois 20 mg/dia; ou [[Apixabana]]). Alternativa de baixo custo: [[Varfarina]] com ponte de [[Enoxaparina]].
 - **Internado / estável:** **[[Heparina de Baixo Peso Molecular (HBPM)]]** ([[Enoxaparina]]).
 - **Instável / IRC grave / alto risco:** **[[Heparina Não Fracionada (HNF)]]** (titulável e reversível).
 - **Duração:** mínimo **3 meses**; estendida se TEP não provocado ou fator de risco persistente.
 
 ### **3. Terapia de Reperfusão (TEP de alto risco)**
-- **Trombólise sistêmica** ([[Trombolíticos (ex: Alteplase)]] — Alteplase 100 mg em 2 h): reservada ao **TEP de alto risco com instabilidade hemodinâmica refratária** às medidas iniciais.
+- **Trombólise sistêmica** ([[Fibrólise|Trombolíticos]] — Alteplase 100 mg em 2 h): reservada ao **TEP de alto risco com instabilidade hemodinâmica refratária** às medidas iniciais.
     - Janela de indicação até ~**14 dias**; não há tempo porta-agulha ideal.
     - Não usar antes de confirmar TEP, **salvo PCR com forte suspeição** (pode-se trombolisar durante a RCP).
 - **Contraindicação à trombólise** → **trombectomia mecânica** ou terapia dirigida por cateter.
