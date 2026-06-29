@@ -78,7 +78,7 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: false
+    enabled: true
     order: 50
     layout:
       position: right
@@ -87,6 +87,7 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
+      disableBrokenWikilinks: true
     order: 60
   - source: github:quartz-community/description
     enabled: true
@@ -158,14 +159,15 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     options:
       localGraph:
-        depth: 2
+        depth: 1
         scale: 1.2
         fontSize: 0.7
         opacityScale: 1
         enableRadial: true
+        focusOnHover: true
     layout:
       position: right
       priority: 10
