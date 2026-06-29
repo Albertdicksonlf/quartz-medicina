@@ -10,7 +10,12 @@ prevalência:
 aliases:
 card:
 ---
-Status: #Não-Processado 
+Status: #processado-1
+
+> [!success] Processado nesta sessão (29/06/2026) → Atlas Clínico
+> **Nota completada:** [[Morte Encefálica]] (1.2)
+> **Âncoras bidirecionais:** [[Reflexos de Tronco Encefálico]] · [[Escala de Coma de Glasgow]] · [[Rebaixamento do nível de consciência]] · [[Doação de Órgãos]] (link reverso adicionado)
+> **Exames vinculados:** [[EEG]] · [[Doppler]] · [[Arteriografia]] · [[Cintilografia]] · [[Gasometria arterial]]
 
 ## Morte Encefálica
 

@@ -11,7 +11,13 @@ prevalência:
 aliases:
 card:
 ---
-Status: #Não-Processado 
+Status: #processado-1
+
+> [!success] Processado nesta sessão (29/06/2026) → Atlas Clínico
+> **Sintoma-guia:** [[Lombalgia]] (1.1) · **Guia:** [[Abordagem da Lombalgia]] (1.6)
+> **Doença:** [[Radiculopatia]] (1.2, com topografia L4/L5/S1 e C6/C7)
+> **Esqueletos criados:** [[Hérnia de Disco]] · [[Síndrome da Cauda Equina]] · [[Espondilite Anquilosante (EA)]] · [[Sinal de Lasègue]] · [[Ciclobenzaprina]]
+> **Âncoras existentes:** [[Mielopatia]] · [[Dor Neuropática]] · [[AINEs]] · [[Corticoides]] · [[Duais (ISRSN)]] · [[Ressonância Magnética]] · [[Eletroneuromiografia]] · [[Aneurisma de Aorta Abdominal (AAA)]] · [[Pielonefrite Aguda]] · [[Nefrolitíase (cálculos renais)]]
 
 ## Lombalgia
 

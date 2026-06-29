@@ -16,6 +16,7 @@ tipo de exame: ''
   - Medicina de Emergência
   - Clínica Médica
 ---
+
 # Crises Hipertensivas
 
 > [!abstract] Resumo de Uma Linha

@@ -28,7 +28,7 @@ tipo de exame: null
 - Vedado à **gestante** (exceto medula óssea).
 
 **Doador falecido:**
-- **Morte encefálica** → permite doar órgãos sólidos (coração, pulmões, fígado, pâncreas, intestino, rins) e tecidos.
+- **[[Morte Encefálica|Morte encefálica]]** → permite doar órgãos sólidos (coração, pulmões, fígado, pâncreas, intestino, rins) e tecidos.
 - **Parada cardiocirculatória** → permite doar **tecidos** (córneas, pele, ossos, válvulas, vasos).
 
 ## ⚖️ Aspectos Legais (Brasil)

@@ -152,7 +152,7 @@ card:
 - Ponte com HBPM: apenas se hospitalizado e alto risco tromboembólico
 
 **Se não pode anticoagular a longo prazo:**
-- [[Oclusão Percutânea do Apêndice Atrial Esquerdo]] (WATCHMAN ou similar)
+- Oclusão Percutânea do Apêndice Atrial Esquerdo (WATCHMAN ou similar)
 - Amputação cirúrgica do apêndice atrial esquerdo (se em cirurgia por outro motivo)
 
 > [!important] Converter o ritmo NÃO elimina o risco tromboembólico
