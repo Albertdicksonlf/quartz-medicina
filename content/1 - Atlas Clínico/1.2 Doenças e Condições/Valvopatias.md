@@ -52,7 +52,7 @@ As quatro valvopatias esquerdas, organizadas por **fase do ciclo** em que geram 
 - **Droga de escolha:** [[Penicilina G Benzatina]] IM.
   - **< 20 kg:** 600.000 UI · **≥ 20 kg:** 1.200.000 UI.
   - **Intervalo:** a cada **21 dias** (recomendação brasileira para área de alto risco; a concentração protetora cai antes de 4 semanas).
-- **Alternativas:** penicilina V oral 250 mg 2x/dia (adesão pior); [[Sulfadiazina]]; em alérgicos a betalactâmicos → macrolídeo (eritromicina).
+- **Alternativas:** Penicilina V oral 250 mg 2x/dia (adesão pior); [[Sulfadiazina]]; em alérgicos a betalactâmicos → macrolídeo (eritromicina).
 - **Duração (escalona pela gravidade da cardite):**
   - Sem cardite → até 21 anos **ou** 5 anos após o último surto (o maior).
   - Cardite com resolução / lesão leve residual → até 25 anos **ou** 10 anos após o surto.

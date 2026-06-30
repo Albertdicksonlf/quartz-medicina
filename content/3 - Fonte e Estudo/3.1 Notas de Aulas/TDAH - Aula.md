@@ -10,12 +10,7 @@ prevalência:
 aliases:
 card:
 ---
-Status: #processado-1
-
-> [!success] Processado nesta sessão (29/06/2026) → Atlas Clínico
-> **Nota principal (reescrita completa):** [[Transtorno do Déficit de Atenção e Hiperatividade (TDAH)]]
-> **Esqueletos criados:** [[Metilfenidato]] · [[Lisdexanfetamina]] · [[Atomoxetina]] · [[Transtorno Opositor-Desafiador (TOD)]] · [[Transtorno de Conduta]]
-> **Âncoras existentes:** [[Clonidina]] · [[Transtorno do Espectro Autista (TEA)]] · [[Tiques]] · [[Inatenção (Desatenção)]] · [[Eletrocardiograma (ECG)]]
+Status: #Não-processado
 
 # TDAH 
 

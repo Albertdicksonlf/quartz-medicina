@@ -31,16 +31,15 @@ Dose máxima de 5g/dia
 
 **Paracetamol**
 •Via oral ou intravenosa
-
 •Reduz 20 % do consumo de opioides
-
 Dose máxima 4g/dia
 
 Contra indicado em insuficiência hepática ou doença hepática grave
 
-
 **AINEs**
+
 Cox 1 -> Constittutivas, prostaglandinas Constitutivas 
+
 Cox 2 -> Indutivas, patológicas. 
 	Obs -> Seletivos ao cox 2 (Eterocoxibe )
 
@@ -67,6 +66,7 @@ Poucos efeitos colaterais relacionados aos opioides.
 **NALBUFINA**
 
 agonista kappa e **antagonista mi** 
+
 Não causa depressão respiratória 
 
 Efeito teto 
