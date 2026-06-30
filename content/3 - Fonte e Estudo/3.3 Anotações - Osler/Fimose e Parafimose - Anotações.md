@@ -11,7 +11,12 @@ prevalência:
 aliases:
 card:
 ---
-Status: #Não-Processado 
+Status: #processado-1 
+
+> [!success]- Processado em 2026-06-29 — reprocessamento
+> **Notas do Atlas melhoradas (1.2):**
+> - [[Fimose]] — corrigidos frontmatter e link em Diferenciais; enriquecida (fisiológica × patológica, postoplastia/dilatação)
+> - [[Parafimose]] — manejo refinado (método osmótico, técnica de Dundee) e Diferenciais adicionados
 
 ## Fimose
 

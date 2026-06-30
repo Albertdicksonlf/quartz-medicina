@@ -11,7 +11,18 @@ prevalência:
 aliases:
 card:
 ---
-Status: #Não-Processado 
+Status: #processado-1 
+
+> [!success]- Processado em 2026-06-29
+> **Atlas — notas completas (1.2):**
+> - [[Trauma Raquimedular (TRM)]]
+> - [[Trauma Vertebral]]
+>
+> **Esqueletos criados:**
+> - [[Choque Medular]] · [[Choque Neurogênico]] · [[Síndrome do Cone Medular]] (1.2)
+> - [[Escala ASIA (AIS)]] (1.3 Achados-Pivô)
+>
+> **Nota enriquecida:** [[Mielopatia]] (link reverso para o trauma)
 
 ## TRM e Vertebral
 

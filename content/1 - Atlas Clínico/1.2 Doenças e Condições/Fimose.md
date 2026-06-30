@@ -1,59 +1,78 @@
 ---
+aliases:
+  - Estenose do prepúcio
+  - Phimosis
+card: null
+classe de medicamentos: null
 date: 2026-03-14T22:40:00
+prevalência: Comum
+tipo: Doença
+tipo de doença: null
+tipo de exame: null
 área:
   - Urologia
   - Pediatria
-tipo: Doença
-tipo de exame: 
-tipo de doença: Infecciosa
-classe de medicamentos:
-prevalência: Muito Comum
-aliases:
-  - Estenose do prepúcio
-card: 
 ---
-
-#Não-Processado 
 # Fimose
 
 > [!abstract] Resumo de Uma Linha
-> Condição em que o prepúcio é muito estreito e não pode ser retraído sobre a glande do pênis.
+> Incapacidade de **retrair o prepúcio** sobre a glande. Pode ser **fisiológica** (aderências naturais do lactente, que se resolvem sozinhas) ou **patológica** (anel fibrótico cicatricial). A retração forçada na infância **causa** fimose patológica e deve ser evitada.
 
 ## 🌪️ Fisiopatologia
-- **Fimose Fisiológica:** Presente ao nascimento devido a aderências naturais entre o prepúcio e a glande. Tende a resolver espontaneamente até os 3-5 anos.
-- **Fimose Patológica:** Cicatriz fibrosa (anel fibrótico) resultante de inflamações crônicas ([[Balanopostite]]), higiene precária ou trauma por retração forçada.
+- **Fisiológica:** aderências naturais entre prepúcio e glande ao nascimento; resolve espontaneamente até ~3-5 anos. É o estado **normal** do lactente.
+- **Patológica (cicatricial):** anel fibrótico por inflamação crônica ([[Balanopostite]] de repetição), líquen escleroso (balanite xerótica obliterante), higiene precária ou **trauma por retração forçada**.
 
 ## 🤒 Apresentação Clínica
 - Dificuldade ou impossibilidade de expor a glande.
-- Dor durante a ereção ou atividade sexual.
-- Acúmulo de esmegma e predisposição a infecções.
-- Jato urinário "em balão" (o prepúcio infla antes da urina sair).
+- **Fisiológica:** assintomática — o principal "manejo" é **orientar e tranquilizar os pais**.
+- **Patológica (sinais de alerta):**
+	- Irritação ou sangramento do orifício prepucial
+	- **Ereção dolorosa** / dor na atividade sexual
+	- **Balanopostite de repetição**
+	- Jato urinário "em balão" (o prepúcio infla antes de urinar), abaulamento e, nos casos graves, **retenção urinária**
+	- Acúmulo de esmegma
 
 ---
 
 ## 🎯 ACHADOS-CHAVE (PIVÔS)
-- **Anel Fibrótico:** Presença de uma cicatriz branca e firme na extremidade do prepúcio (indica fimose patológica).
+- **Anel fibrótico:** cicatriz branca e firme na extremidade do prepúcio = fimose **patológica** (distingue da aderência fisiológica, que é tecido fino e frouxo).
 
 ---
 
 ## 🔍 Diagnósticos Diferenciais
-- **Aderências Prepuciais:** Tecido fino que une o prepúcio à glande, normal na infância.
-- [[Parafimose]] (Emergência!).
+- Aderências prepuciais fisiológicas (normais na infância)
+- Parafimose (emergência — prepúcio retraído e preso atrás da glande)
+- Balanopostite
+- Líquen escleroso (balanite xerótica obliterante)
+
+---
+
+## 🔬 Investigação e Diagnóstico
+- **Clínico** (inspeção e tentativa de retração suave). Em geral dispensa exames complementares.
 
 ---
 
 ## 💊 Tratamento e Manejo
-- **Tratamento Clínico:** Corticoides tópicos (ex: Betametasona) + exercícios suaves de retração (indicado para casos leves e em crianças).
-- **Tratamento Cirúrgico (Postectomia/Circuncisão):** Remoção cirúrgica do prepúcio.
-    - **Indicações:** Fimose patológica persistente, balanopostites de repetição, infecções urinárias recorrentes.
+### **1. Fisiológica**
+- **Conduta expectante** + orientação aos pais; higiene suave **sem retração forçada**.
+- **[[Corticoides|Corticoide]] tópico** (ex.: betametasona) + manobras de retração suave aceleram a resolução em casos selecionados.
+
+### **2. Patológica**
+- Corticoide tópico + **dilatação prepucial** podem ser tentados em casos leves.
+- **Cirúrgico:**
+	- **[[Postectomia]]** (circuncisão) — ressecção total do prepúcio
+	- **Postoplastia** — plástica que preserva o prepúcio
+	- **Indicações:** fimose patológica persistente, balanopostites de repetição, ITU recorrente, retenção urinária, ereção dolorosa.
 
 ---
 
 ## 💡 Pontos de Aprendizado e Heurísticas
-- **Heurística:** Nunca force a retração do prepúcio em crianças pequenas; isso causa microtraumas que levam à fimose patológica (cicatricial).
+- **Nunca forçar a retração** do prepúcio em crianças — microtraumas → fimose cicatricial.
+- **Fisiológica ≠ patológica:** a fisiológica é normal e resolve; só a patológica (anel fibrótico/sintomas) demanda intervenção.
+- **Risco a longo prazo:** fimose crônica com má higiene é fator de risco para [[Câncer de Pênis]].
 
 ---
 
 ### ➕ Novas Anotações / Insights
-*- Nota criada a partir de Semiologia Urológica.*
+*- Nota reprocessada a partir da anotação Osler "Fimose e Parafimose".*
 -

@@ -49,18 +49,26 @@ Ação analgésica, antipirética e anti-inflamatória
 Sem diferença entre Cox-1 ou Cox-2 para tratar a dor aguda, diferneça mais nos efeitos colaterais. 
 
 #### OPIOIDES Fracos 
+
 **CODEINAS**
+
 Opioide fraco, atuando no receptor mi. 
 Antitussigeno 
 Geralmente vendido em associação com Paracetamol
+
 **TRAMADOL**
+
 Afinidade baixa ao receptor mi 
+
 Multiplos mecanismos de ação -> inibidor da recaptação da serotonina e norepinefrina. 
+
 Poucos efeitos colaterais relacionados aos opioides. 
 
 **NALBUFINA**
+
 agonista kappa e **antagonista mi** 
 Não causa depressão respiratória 
+
 Efeito teto 
 	Usado mais em dores moderadas 
 	Atenção nos apcientes que já estão em uso de opioides (Antagosnista mi)
@@ -72,7 +80,7 @@ via oral
 
 **MORFINA**
 padrào ouro para controle agudo da dor intensa por via venosa. 
-Metabolizada no fígado, sendo metabolizada em morfina-3-glicuronídeo e Morfina-6-glicuronídeo; o efeito é do metabólito morfina-6-glicuronideo, que é feito o clearence renal. Cautela em pacientes com insuficiência renal. 
+Metabolizada no fígado, sendo metabolizada em morfina-3-glicuronídeo e Morfina-6-glicuronídeo; o efeito é do metabólito **morfina-6-glicuronideo,** que é feito o clearence renal. Cautela em pacientes com insuficiência renal. 
 
 **METADONA**
 agonista mi de longa duração (15-40 horas)
@@ -82,5 +90,6 @@ também tem ação nos receptores de glutamato NMDA
 #### ADJUVANTES
 
 **CETAMINA** 
+
 Antagonista NMDA 
 analgésico 

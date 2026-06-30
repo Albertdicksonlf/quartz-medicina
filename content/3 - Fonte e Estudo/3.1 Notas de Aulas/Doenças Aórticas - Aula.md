@@ -123,6 +123,7 @@ Avaliação pré-operatória adequada com ANgio-TC
 **Complicações**
 Pulmonares
 IRA
+
 Paraplegia 
 	Por conta da irrigação das intercostais -> Artéria da adamkiewicz
 IAM 
@@ -214,7 +215,7 @@ TIpo B cronica
 
 ---
 
-## 📝 Notas Processadas
+# 📝 Notas Processadas
 > [!success] Processado em 2026-06-05 — sessão Doenças Aórticas (Modo Completo, escopo B)
 > **Notas completas:** [[Dissecção de Aorta]] · [[Síndrome Aórtica Aguda (SAA)]] · [[Aneurisma de Aorta]] · [[Mediastino Alargado]] · [[Abordagem da Dor Torácica]]
 > **Enriquecidas:** [[Dor torácica]] (conexões com guias) · [[Pulsos Assimétricos]] (link ao guia)

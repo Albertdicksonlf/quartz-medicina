@@ -68,6 +68,10 @@ tipo de exame: ''
 - **Exame de escolha:** [[Angiotomografia Computadorizada|AngioTC]] / [[TC de Tórax]].
 - **Limiar cirúrgico:** **ascendente ≥ 5,5 cm** (menor, ~5,0 cm, em [[Síndrome de Marfan]]/valva aórtica bicúspide); **descendente ≥ 6,0 cm**; toracoabdominal segue critérios análogos ao AAA.
 - **Complicações:** **paraplegia** (isquemia medular pela **artéria de Adamkiewicz**), IRA, complicações pulmonares, IAM.
+	- PORQUE Esta artéria de Adamkiewicz? 
+		A irrigação da medula é ajudada pelas intercostais, que saem da aorta. 
+		Principalmente na porção distal, existe essa de Adamkiewicz que auxilia irrifação de T9 a T12.
+- Em cirurgias de manejo aortico, pode ocorrer de ocluir essas artérias intercostais, que pode acometer a medula e gerar a paraplegia 
 
 ---
 
