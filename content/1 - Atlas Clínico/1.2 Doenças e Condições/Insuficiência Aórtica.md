@@ -19,6 +19,14 @@ tipo de exame: ""
 > [!abstract] Resumo de Uma Linha
 > Refluxo diastólico de sangue da **aorta → ventrículo esquerdo** por incompetência da valva aórtica. A forma **crônica** cursa com sobrecarga de volume + pressão, bem tolerada por anos e rica em sinais periféricos; a forma **aguda** (dissecção tipo A, endocardite) é **emergência** por edema pulmonar e choque.
 
+## 🧬 Etiologia
+- **Causa(s) Principal(is):**
+	- **Primária (doença dos folhetos):** valva aórtica **bicúspide** (congênita), [[Febre Reumática]], sequela de [[Endocardite Infecciosa|endocardite infecciosa]], degenerativa/calcífica.
+	- **Secundária (dilatação da raiz/anel aórtico):** hipertensão de longa data, [[Síndrome de Marfan|síndrome de Marfan]] e demais doenças do colágeno, aneurisma/ectasia ânuloaórtica, [[Dissecção de Aorta|dissecção de aorta]] tipo A.
+- **Causas da forma AGUDA (emergência):** [[Dissecção de Aorta|dissecção de aorta]] tipo A e [[Endocardite Infecciosa|endocardite infecciosa]] (perfuração de folheto).
+- **Fatores de Risco / Gatilhos:** hipertensão arterial, doenças hereditárias do tecido conjuntivo, sífilis (aortite — histórico), uso de drogas injetáveis (endocardite).
+- **Classificação Etiológica:** primária (valvar) × secundária (raiz da aorta); crônica × **aguda**.
+
 ## 🌪️ Fisiopatologia
 - **Mecanismo basal:** na diástole, sangue retorna da aorta ao VE → o VE recebe volume da aurícula **+** volume regurgitado → **sobrecarga de volume e de pressão**.
 - **Adaptação crônica:** hipertrofia excêntrica + dilatação do VE para manter o volume ejetado → eleva o volume sistólico → **aumenta a PA sistólica e reduz a PA diastólica** (aorta "esvazia" na diástole) → **pressão de pulso alargada**.
@@ -28,8 +36,6 @@ tipo de exame: ""
 ## 🤒 Apresentação Clínica
 - **IAo Crônica:** muito bem tolerada por anos; depois [[Dispneia|dispneia]], intolerância aos esforços, [[Angina Pectoris|angina]], [[Palpitações|palpitações]], [[Síncope|síncope]].
 - **IAo Aguda:** IC grave de instalação rápida — congestão pulmonar, [[Choque Cardiogênico|choque cardiogênico]]; **sinais periféricos ausentes** e sopro de baixa intensidade (diagnóstico é ecocardiográfico).
-- **Etiologias Primárias (da valva):** [[Febre Reumática]], sequela de [[Endocardite Infecciosa|endocardite]], valva aórtica **bicúspide**, degenerativa/calcífica.
-- **Etiologias por dilatação da raiz (secundárias):** HAS, [[Síndrome de Marfan|síndrome de Marfan]]/doenças do colágeno, [[Dissecção de Aorta|dissecção de aorta]] (causa clássica de IAo **aguda**).
 
 ---
 

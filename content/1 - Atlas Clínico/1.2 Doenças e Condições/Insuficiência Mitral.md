@@ -19,6 +19,13 @@ tipo de exame: ""
 > [!abstract] Resumo de Uma Linha
 > Refluxo sistólico de sangue do **VE → átrio esquerdo** por incompetência do aparelho valvar mitral, gerando **sobrecarga de volume** do VE. Divide-se em **primária** (doença da valva → tratar a valva) e **secundária/funcional** (doença do anel/ventrículo → tratar o ventrículo); a forma **aguda** é emergência por edema pulmonar.
 
+## 🧬 Etiologia
+- **Causa(s) Principal(is):**
+	- **Primária (orgânica — doença intrínseca da valva):** [[Prolapso da Valva Mitral|prolapso da valva mitral]] (degeneração mixomatosa — **causa mais comum** em países desenvolvidos), [[Febre Reumática]] (principal causa em países em desenvolvimento), [[Endocardite Infecciosa|endocardite infecciosa]] (perfuração de folheto / rotura de cordoalha), congênita.
+	- **Secundária (funcional — valva estruturalmente normal):** [[Síndrome Coronariana Aguda|isquemia miocárdica]] e dilatação do VE pela [[Insuficiência Cardíaca|insuficiência cardíaca]] → dilatação do anel e tração dos folhetos; [[Cardiomiopatia Hipertrófica|cardiomiopatia hipertrófica]] (movimento sistólico anterior).
+- **Fatores de Risco / Gatilhos:** doença arterial coronariana / IAM prévio, faringoamigdalite estreptocócica não tratada (febre reumática), uso de drogas injetáveis e próteses valvares (endocardite), idade avançada (degeneração mixomatosa).
+- **Classificação Etiológica:** primária (orgânica) × secundária (funcional); crônica × **aguda** ([[Rotura de Músculo Papilar|rotura de músculo papilar]] pós-IAM, [[Endocardite Infecciosa|endocardite]]).
+
 ## 🌪️ Fisiopatologia
 - **Mecanismo basal:** parte do volume sistólico regurgita para o AE → o VE recebe volume pulmonar **+** volume regurgitado → **sobrecarga de volume** → hipertrofia excêntrica e dilatação do VE.
 - **Armadilha da fração de ejeção:** o refluxo para o AE (câmara de baixa pressão) "alivia" o VE, mantendo a FE artificialmente alta. Por isso o **ponto de corte de disfunção é mais alto (FE ≤ 60%)**.
@@ -32,8 +39,6 @@ tipo de exame: ""
 	- [[Dispneia]] de esforço, [[Ortopneia|ortopneia]]
 	- [[Palpitações]] ([[Fibrilação Atrial|FA]] por dilatação atrial)
 	- Fadiga (baixo débito anterógrado)
-- **Etiologias Primárias:** [[Prolapso da Valva Mitral|prolapso da valva mitral]] (causa mais comum), [[Febre Reumática]], [[Endocardite Infecciosa|endocardite infecciosa]], congênitas.
-- **Etiologias Secundárias:** isquemia miocárdica, [[Cardiomiopatia Hipertrófica|cardiomiopatia hipertrófica]], dilatação por IC/IAM (dilatação do anel mitral).
 - **Sinais de Alerta (Red Flags):** edema pulmonar súbito (sugere forma aguda / [[Rotura de Músculo Papilar|rotura de músculo papilar]]).
 
 ---

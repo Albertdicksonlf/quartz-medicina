@@ -18,6 +18,15 @@ tipo de exame: ""
 > [!abstract] Resumo de Uma Linha
 > Obstrução ao fluxo do **átrio esquerdo → ventrículo esquerdo** por estreitamento da valva mitral; etiologia **reumática** na imensa maioria. O VE é poupado — o problema é **congestão a montante** (átrio esquerdo, pulmão, coração direito). Grave quando área valvar **≤ 1,5 cm²**.
 
+## 🧬 Etiologia
+- **Causa(s) Principal(is):**
+	- [[Febre Reumática]] — responsável por **>90%** dos casos; praticamente a única causa relevante (fusão comissural + espessamento/calcificação dos folhetos, anos após o surto reumático).
+	- Calcificação degenerativa do anel mitral (idosos) — causa incomum e geralmente leve.
+	- Raras: congênita (valva "em paraquedas"), doenças do colágeno, carcinoide, doenças de depósito.
+- **Fatores de Risco / Gatilhos:** faringoamigdalite estreptocócica não tratada na infância/adolescência; sexo feminino; aglomeração e baixo acesso à saúde (epidemiologia da febre reumática).
+- **Gatilhos de descompensação (precipitam sintomas, não são causa):** taquicardia que encurta a diástole — febre, exercício, **gravidez**, início de [[Fibrilação Atrial|FA]].
+- **Classificação Etiológica:** reumática (quase totalidade) × degenerativa × congênita/outras (raras).
+
 ## 🌪️ Fisiopatologia
 - **Mecanismo basal:** valva rígida e com comissuras fundidas → gradiente de pressão diastólico AE→VE → **aumento da pressão atrial esquerda**.
 - **Cascata retrógrada:** congestão pulmonar → [[Hipertensão Pulmonar|hipertensão pulmonar]] → sobrecarga de VD → aumento da pressão venosa central (sinais de IC direita).
@@ -75,6 +84,7 @@ tipo de exame: ""
 - **Wilkins ≤ 8 → [[Valvoplastia Mitral por Balão]]** (cateter-balão) — de escolha quando anatomia favorável.
 - **Wilkins > 8 → [[Comissurotomia Mitral]] cirúrgica ou [[Prótese Valvar|troca valvar]].**
 - **Indicação de intervenção:** estenose grave **sintomática**, ou com complicadores ([[Hipertensão Pulmonar|hipertensão pulmonar]], [[Fibrilação Atrial|FA]] de início recente).
+	- Lembrar do Fluxograma (Estenose Grave - Etiologia - Sintomas - Complicadores e Intervenção)
 
 ---
 

@@ -18,6 +18,14 @@ tipo de exame: ""
 > [!abstract] Resumo de Uma Linha
 > Estreitamento da via de saída do VE ao nível da valva aórtica → o VE gera **pressões muito altas** para vencer a obstrução → **hipertrofia concêntrica**. Sintomática define mau prognóstico (**tríade angina/síncope/dispneia**). Causa clássica de morte súbita; tratamento é mecânico.
 
+## 🧬 Etiologia
+- **Causa(s) Principal(is) (a idade decide a causa):**
+	- **Degenerativa/calcífica** — **causa mais comum no idoso (> 70 anos)**; calcificação progressiva de valva tricúspide normal (mecanismo tipo aterosclerose).
+	- **Valva aórtica bicúspide (congênita)** — causa mais comum no adulto **jovem/meia-idade** (estenose precoce, 40–60 anos); presente em ~1–2% da população.
+	- [[Febre Reumática|reumática]] — costuma acometer **junto com a mitral** (estenose aórtica reumática isolada é rara).
+- **Fatores de Risco / Gatilhos:** idade avançada, hipertensão, dislipidemia, tabagismo, diabetes, doença renal crônica (perfil aterosclerótico da via degenerativa); valva bicúspide acelera a calcificação.
+- **Classificação Etiológica:** degenerativa/calcífica × congênita (bicúspide) × reumática.
+
 ## 🌪️ Fisiopatologia
 - **Mecanismo basal:** obstrução fixa à ejeção → **sobrecarga de pressão** → [[Hipertrofia Ventricular Esquerda (HVE)|hipertrofia ventricular esquerda]] concêntrica → disfunção diastólica.
 - **Calcificação degenerativa:** fluxo turbulento → estresse mecânico, dano endotelial e inflamação (mecanismo semelhante à aterosclerose → mesmos fatores de risco); ao ECO há hiperecogenicidade e espessamento dos folhetos.
@@ -33,7 +41,6 @@ tipo de exame: ""
 	- [[Síncope|Síncope]] (esforço) → sobrevida ~50% em **3 anos**
 	- [[Dispneia|Dispneia]]/IC → sobrevida ~50% em **2 anos**
 - **Sinais de Alerta (Red Flags):** síncope aos esforços e risco de **morte súbita**.
-- **Etiologias:** degenerativa/calcífica (idosos), valva **bicúspide** (mais jovens), [[Febre Reumática|reumática]] (costuma acometer também a mitral).
 
 ---
 

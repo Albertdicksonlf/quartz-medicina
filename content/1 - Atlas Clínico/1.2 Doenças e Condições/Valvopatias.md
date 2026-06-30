@@ -29,11 +29,28 @@ As quatro valvopatias esquerdas, organizadas por **fase do ciclo** em que geram 
 
 ---
 
+## 🧬 Etiologia
+*Visão transversal — qual processo lesa a valva. O detalhe etiológico específico está em cada nota-filha.*
+
+- **Causas Principais:**
+	- [[Febre Reumática]] — principal causa em **jovens** no Brasil; acomete sobretudo a **mitral** (estenose), depois a aórtica.
+	- **Degeneração calcífica** — principal causa em **idosos**; predomina na **aórtica** (estenose) e na calcificação do anel mitral.
+	- [[Endocardite Infecciosa|endocardite infecciosa]] — destruição/perfuração de folhetos ou rotura de cordoalha → **insuficiência** (frequentemente aguda).
+	- **Congênita** — valva aórtica **bicúspide** (estenose/insuficiência aórtica precoce no adulto).
+	- **Isquêmica/funcional** — disfunção de músculo papilar e dilatação do anel/ventrículo → insuficiência (sobretudo [[Insuficiência Mitral|mitral secundária]]).
+- **Fatores de Risco / Gatilhos:**
+	- Faringoamigdalite estreptocócica não tratada → febre reumática.
+	- Idade avançada e perfil aterosclerótico (hipertensão, dislipidemia, tabagismo, diabetes) → degeneração calcífica.
+	- Drogas injetáveis, próteses valvares e má higiene oral → endocardite.
+	- Doenças do colágeno ([[Síndrome de Marfan|Marfan]]) e dilatação da raiz da aorta → insuficiência aórtica.
+- **Classificação Etiológica:** reumática · degenerativa/calcífica · infecciosa (endocardite) · congênita (bicúspide) · isquêmica/funcional.
+
+---
+
 ## 🌪️ Princípio Fisiopatológico Unificador
 
 - **Estenose** = sobrecarga de **pressão** a montante → hipertrofia concêntrica (quando acomete VE) ou congestão retrógrada (estenose mitral poupa o VE).
 - **Insuficiência** = sobrecarga de **volume** → dilatação e hipertrofia excêntrica da câmara que recebe o refluxo.
-- **Etiologia transversal no Brasil:** a [[Febre Reumática]] domina nos jovens (sobretudo mitral); a degeneração calcífica domina nos idosos (sobretudo aórtica).
 
 ---
 
