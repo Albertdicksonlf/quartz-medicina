@@ -88,8 +88,9 @@ tipo de exame: null
 ### **3. Corticoide — controvérsia**
 - A metilprednisolona em altas doses **não é recomendada de rotina** (evidência fraca de benefício e risco de complicações — infecção, hiperglicemia). Decisão institucional/caso a caso.
 
-### **4. Cirurgia (descompressão/estabilização) — idealmente < 24 h**
+### **4. Cirurgia (descompressão/estabilização) — idealmente < 24 h** 
 - **Indicações:** **compressão medular**, **lesões penetrantes**, **fraturas/luxações instáveis** (ver [[Trauma Vertebral]]).
+	- Ou seja, quando tiver risco de lesão secundária 
 
 ---
 
