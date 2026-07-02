@@ -10,7 +10,7 @@ prevalência:
 aliases:
 card:
 ---
-Status: #processado-1
+Status: #processado-1 
 
 > [!success] Processado nesta sessão (29/06/2026) → Atlas Clínico
 > **Hub:** [[Valvopatias]] · **Guia:** [[Abordagem do Sopro Cardíaco]]

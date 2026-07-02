@@ -68,3 +68,4 @@ tipo de doença:
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+[[Estenose Aórtica]]

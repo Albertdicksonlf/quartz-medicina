@@ -28,7 +28,7 @@ tipo de exame: null
 
 ## 🤒 Apresentação Clínica
 - **Fraqueza proximal e simétrica, predominando em membros inferiores** ([[Fraqueza Muscular|fraqueza]] muscular).
-- **Disfunção autonômica:** xerostomia, [[Disfunção Erétil|disfunção erétil]].
+- **Disfunção autonômica:** xerostomia, [[Disfunção Erétil|disfunção erétil]]. -> (DISAUTONOMIA)
 - Acometimento ocular (ptose, diplopia) menos proeminente que na miastenia.
 - **Achado semiológico característico:** **facilitação pós-exercício** (força/reflexos melhoram após contração sustentada).
 

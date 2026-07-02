@@ -28,7 +28,7 @@ tipo de exame: ""
 ## 🤒 Apresentação Clínica
 - **Quadro típico:** dor local (conforme o nível da raiz) com **irradiação** no trajeto correspondente + déficit sensitivo e/ou motor.
 - **Sintomas Principais:**
-	- [[Lombalgia|Dor lombar]] / cervicalgia com irradiação
+	- [[Lombalgia|Dor lombar]] / [[Cervicalgia|cervicalgia]] com irradiação
 	- [[Dor Neuropática|Dor neuropática]] (parestesia, queimação)
 	- Fraqueza segmentar
 

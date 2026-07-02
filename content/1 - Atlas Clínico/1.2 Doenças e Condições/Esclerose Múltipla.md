@@ -27,7 +27,7 @@ tipo de exame: null
 	- **Degeneração axonal:** perda irreversível de axônios e atrofia → causa a **progressão** da incapacidade.
 - **Topografia preferencial das lesões:** periventricular, justacortical, infratentorial, **nervo óptico** e **medula espinhal** (córtex é acometido, porém mais raro).
 - **Fenótipos Clínicos:**
-	- **EM Recidivante-Remitente (EMRR):** Forma mais comum (~85-90%), com surtos seguidos de recuperação total ou parcial.
+	- **EM Recidivante-Remitente (EMRR):** Forma mais comum (~85-90%), com surtos seguidos de recuperação total ou parcial. -> inflamatória 
 	- **EM Progressiva Primária (EMPP):** Progressão contínua desde o início, sem surtos claros.
 	- **EM Progressiva Secundária (EMPS):** Evolução da EMRR para progressão constante de incapacidade.
 
@@ -53,15 +53,15 @@ tipo de exame: null
 *Dados que fecham o diagnóstico conforme McDonald 2024.*
 
 - **Exame Físico:**
-	- [[Sinal de Lhermitte]] (choque ao fletir o pescoço)
-	- [[Fenômeno de Uhthoff]] (piora dos sintomas com o calor)
+	- Sinal de Lhermitte (choque ao fletir o pescoço)
+	- Fenômeno de Uhthoff (piora dos sintomas com o calor)
 - **Laboratoriais (LCR):**
-	- [[Bandas Oligoclonais]] (IgG intrathecal)
-	- [[Índice de Kappa Free Light Chain]] (kFLC) - Novo substituto equivalente às bandas.
+	- Bandas Oligoclonais (IgG intrathecal)
+	- Índice de Kappa Free Light Chain (kFLC) - Novo substituto equivalente às bandas.
 - **Imagem (RM):**
-	- [[Dedos de Dawson]] (lesões periventriculares ovoides)
-	- [[Sinal da Veia Central]] (CVS) - Alta especificidade.
-	- [[Lesões com Aro Paramagnético]] (PRL) - Marcador de inflamação crônica ativa.
+	- Dedos de Dawson (lesões periventriculares ovoides)
+	- Sinal da Veia Central (CVS) - Alta especificidade.
+	- Lesões com Aro Paramagnético (PRL) - Marcador de inflamação crônica ativa.
 	- **Buracos negros em T1** (black holes na substância branca — marcam perda axonal/dano crônico).
 
 ---
@@ -99,10 +99,10 @@ tipo de exame: null
 - **Segunda Linha:** Plasmaférese (se falha ao corticoide)
 
 ### **2. Terapias Modificadoras da Doença (DMT)**
-- **Alta Eficácia:** [[Ocrelizumabe]], [[Ofatumumabe]], [[Natalizumabe]], [[Alemtuzumabe]].
-- **Eficácia Moderada:** [[Fingolimode]], [[Cladribina]], [[Fumarato de Dimetila]].
-- **Plataforma:** [[Acetato de Glatirámer]], [[Interferon Beta]].
-- **EM Progressiva Primária (EMPP):** **[[Ocrelizumabe]]** é a opção com evidência.
+- **Alta Eficácia:** Ocrelizumabe, Ofatumumabe, Natalizumabe, Alemtuzumabe.
+- **Eficácia Moderada:** Fingolimode, Cladribina, Fumarato de Dimetila.
+- **Plataforma:** Acetato de Glatirámer, Interferon Beta.
+- **EM Progressiva Primária (EMPP):** **Ocrelizumabe** é a opção com evidência.
 
 ---
 

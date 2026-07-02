@@ -74,7 +74,7 @@ tipo de exame: null
 - Piora da fraqueza **respiratória/bulbar** exigindo ventilação mecânica.
 - **Suspender piridostigmina**; **imunoterapia de ação rápida** (IgIV ou plasmaférese) + imunoterapia crônica; identificar e tratar o **fator precipitante** (infecção, fármacos).
 
-> [!warning] Fármacos a evitar na miastenia
+> [!warning] Fármacos a evitar na miastenia -> Oque o TDC falou
 > Macrolídeos, quinolonas, aminoglicosídeos, betabloqueadores, anticonvulsivantes e hidroxicloroquina (pioram a transmissão neuromuscular).
 
 ---

@@ -48,7 +48,8 @@ Status: #processado-1
 
 **OBS -> Sindrome de Eisenmenger: Mau prognóstico**
 	Nessas 3 sindromes, se apresentar uma Cianose, já quer dizer quadro avançado
-## CIV 
+## CIV
+
 10-40% das cardiopatias congênitas mais comum 
 
 Perimembranosa -> Grande maioria (80%)

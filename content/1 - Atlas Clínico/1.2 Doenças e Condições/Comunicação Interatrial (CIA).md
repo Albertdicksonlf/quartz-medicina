@@ -34,13 +34,14 @@ tipo de doença:
 - Frequentemente **assintomática** na infância; quando sintomática: [[Insuficiência Cardíaca|ICC]], **fibrilação atrial** (adulto), infecções respiratórias de repetição.
 - Porta de entrada: [[Sopro Cardíaco na Infância]].
 - **Exame físico:** **desdobramento fixo e hiperfonético de B2** (não varia com a respiração — pelo hiperfluxo pulmonar constante).
+	- A pulmonar naturalmente é mais atrasdada; quando inspiramos, tem mais Pré-carga, mais volume, isso atrasa ainda mais o fechamento da pulmonar, ocorrendo o desdobramento de B2
 
 ---
 
 ## 🎯 ACHADOS-CHAVE (PIVÔS)
 - **Exame físico:** desdobramento **fixo** de B2.
 - **ECG:** bloqueio de ramo direito (BRD); sobrecarga de VD.
-- **RX:** cardiomegalia + aumento da trama pulmonar.
+- **RX:** cardiomegalia + aumento da trama pulmonar. (essas de hiperfluxo pulmonar)
 - **Padrão-ouro:** [[Ecocardiograma]].
 
 ---

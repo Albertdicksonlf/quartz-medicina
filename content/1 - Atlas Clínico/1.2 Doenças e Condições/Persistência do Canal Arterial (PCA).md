@@ -28,6 +28,7 @@ tipo de doença:
 - O ducto arterioso é uma estrutura fetal que liga a artéria pulmonar à aorta descendente. Ao nascer, **↑O₂ e queda das prostaglandinas** promovem constrição e fechamento.
 - Persistindo, a alta pressão aórtica gera shunt **aorta → artéria pulmonar (E→D)** → **congestão/hiperfluxo pulmonar** e sobrecarga de VE.
 - **Prematuro:** falta o estímulo de fechamento → maior incidência.
+- Rubeola também tem relação
 
 ## 🤒 Apresentação Clínica
 - Depende do tamanho: de assintomática a [[Insuficiência Cardíaca|ICC]] e infecções respiratórias de repetição.

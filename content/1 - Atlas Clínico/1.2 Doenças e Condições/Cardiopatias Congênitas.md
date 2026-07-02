@@ -35,7 +35,7 @@ Ao nascer, ↑O₂ e queda das prostaglandinas fecham esses shunts. Por isso **m
 ### **A. Acianóticas** (sat. geralmente > 95%)
 Sem passagem significativa de sangue venoso para a circulação sistêmica.
 
-**A.1 — Hiperfluxo pulmonar (shunt E→D):** sangue oxigenado recircula ao pulmão → congestão pulmonar e [[Insuficiência Cardíaca|ICC]].
+**A.1 — Hiperfluxo pulmonar (shunt E→D):** sangue oxigenado recircula ao pulmão → congestão pulmonar e [[Insuficiência Cardíaca|ICC]]. - Aumento da trama pulmonar 
 - [[Comunicação Interventricular (CIV)]] — **a mais comum de todas** (~1/4); sopro holossistólico rude (BEE).
 - [[Comunicação Interatrial (CIA)]] — desdobramento **fixo** de B2.
 - [[Persistência do Canal Arterial (PCA)]] — sopro contínuo "em maquinaria".
@@ -58,6 +58,8 @@ Sem passagem significativa de sangue venoso para a circulação sistêmica.
 - **Espectro:** assintomático → [[Insuficiência Cardíaca|ICC]] → cianose grave.
 - **Exame de escolha:** **[[Ecocardiograma]]** (fluxo anormal, estrutura, **Qp/Qs**, estimativa da pressão arterial pulmonar).
 - **Apoio:** ECG (sobrecargas), RX de tórax (cardiomegalia, trama pulmonar; sinais clássicos por doença).
+	- Aumento da Trama pulmonar -> Geralmente esses com Shunt E -> D
+	- Ausencia de trama pulmonar -> Acianóticas (ficar ligado)
 
 ## 🧠 Conceitos Transversais (pivôs do tema)
 - **Lesões canal-dependentes:** dependem do canal arterial para fluxo pulmonar (atresias/estenoses críticas) ou sistêmico (coarctação/estenose aórtica críticas, TGA). No RN em choque/cianose → **[[Prostaglandina E1 (Alprostadil)]]** para manter/reabrir o canal.
