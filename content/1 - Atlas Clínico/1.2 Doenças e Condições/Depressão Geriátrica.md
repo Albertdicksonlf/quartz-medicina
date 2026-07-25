@@ -50,7 +50,7 @@ Além dos fatores Psicossociais, uma redução dos níveis de Monoaminas explica
     - **Exames Laboratoriais Essenciais:**
       - [[Hemograma]] (para excluir anemia).
       - Hormônios Tireoidianos (para excluir hipotireoidismo).
-      - [[Vitamina B12]] e `Folato`.
+      - [[Vitamina B12 (Cobalamina)|Vitamina B12]] e `Folato`.
       - [[Função renal e hepática]], [[Eletrólitos]].
     - **Exames de Imagem (quando indicado):**
       - [[Tomografia Computadorizada de Crânio]] ou [[Ressonância Magnética]] devem ser consideradas na presença de [[Sinais neurológicos focais]] ou [[Declínio cognitivo de início súbito]].

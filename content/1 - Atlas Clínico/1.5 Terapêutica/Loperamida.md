@@ -35,7 +35,7 @@ aliases:
 
 ## ⚠️ Efeitos Adversos Importantes
 - **[[Constipação crônica|Constipação]]** (o mais comum).
-- Cólicas abdominais, [[Náuseas]].
+- Cólicas abdominais, [[Náusea|Náuseas]].
 - Sonolência, tontura (raro em doses terapêuticas).
 - **Cardiotoxicidade (arritmias graves):** Pode ocorrer em casos de **abuso ou superdosagem**, pois em doses muito altas a loperamida pode atravessar a barreira hematoencefálica e atingir o coração.
 

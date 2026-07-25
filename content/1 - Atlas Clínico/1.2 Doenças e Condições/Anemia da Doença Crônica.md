@@ -52,7 +52,7 @@ aliases:
   - **[[Saturação de Transferrina BAIXA (< 20%)]]**: Indica que o ferro não está disponível.
   - **[[Ferro sérico BAIXO]]**.
   - **[[Capacidade Total de Ligação do Ferro (TIBC) BAIXA ou Normal]]**: O corpo não tenta compensar produzindo mais transferrina (diferente da ferropriva).
-- **Marcadores Inflamatórios:** [[PCR]] e [[VHS]] geralmente elevados.
+- **Marcadores Inflamatórios:** [[PCR]] e [[Velocidade de Hemossedimentação (VHS)|VHS]] geralmente elevados.
 - [[VCM Baixo]]
 
 ---

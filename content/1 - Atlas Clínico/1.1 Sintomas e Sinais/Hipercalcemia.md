@@ -11,7 +11,7 @@ aliases:
 # Hipercalcemia (MOC)
 
 > [!abstract] Resumo de Uma Linha
-> Guia para a abordagem diagnóstica do **[[Cálcio sérico elevado]]**. O raciocínio é centrado na dosagem do **[[PTH]]** para diferenciar as causas PTH-dependentes (paratireoide) das PTH-independentes (malignidade, vitamina D, etc.).
+> Guia para a abordagem diagnóstica do **[[Cálcio sérico elevado]]**. O raciocínio é centrado na dosagem do **[[PTH (Paratormônio)|PTH]]** para diferenciar as causas PTH-dependentes (paratireoide) das PTH-independentes (malignidade, vitamina D, etc.).
 
 ## 1. Apresentação Clínica Geral
 *Muitos pacientes são assintomáticos. Os sintomas geralmente aparecem com hipercalcemia grave (> 12 mg/dL) ou de instalação rápida.* - Mas são bastante inespecíficos
@@ -71,7 +71,7 @@ aliases:
 ## 4. 🔬 Investigação (Abordagem Escalonada)
 
 1.  **Confirmar:** [[Cálcio sérico]] + [[Albumina]] (para cálculo do [[Cálcio corrigido]]). Idealmente, [[Cálcio iônico]].
-2.  **O Exame-Chave:** **[[PTH]]**.
+2.  **O Exame-Chave:** **[[PTH (Paratormônio)|PTH]]**.
 3.  **Investigação Complementar:** [[Fósforo]], [[Função renal (Creatinina)]], [[Vitamina D (25-OH)]], [[Eletroforese de proteínas séricas]].
 4.  **Se PTH suprimido:** Investigar malignidade ([[Rastreamento oncológico]]), dosar [[PTHrP]] e [[Vitamina D (1,25-OH)]] (Calcitriol).
 
@@ -96,7 +96,7 @@ aliases:
 ## 💡 Pontos de Aprendizado
 - A hipercalcemia mais comum no ambulatório é o **Hiperparatireoidismo Primário**.
 - A hipercalcemia mais comum no paciente internado é a **Malignidade**.
-- O primeiro e mais importante exame para o diagnóstico diferencial é a dosagem de **[[PTH]]**.
+- O primeiro e mais importante exame para o diagnóstico diferencial é a dosagem de **[[PTH (Paratormônio)|PTH]]**.
 - O tratamento de emergência se baseia em [[Hidratação vigorosa com Soro Fisiológico]] e [[Bisfosfonatos]].
 - [[Diuréticos Tiazídicos]] causam hipercalcemia. [[Diuréticos de Alça]] tratam hipercalcemia.
 

@@ -18,7 +18,7 @@ aliases:
 ## 💊 Indicações Clínicas Principais
 - **`Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFER)`**:
   - **Adicionada** à terapia padrão (IECA/BRA/ARNI + BB + ARM + iSGLT2) em pacientes **autodeclarados negros** que permanecem sintomáticos (NYHA III-IV), pois demonstrou **[[Redução de mortalidade]]** neste subgrupo (estudo A-HeFT).
-  - **Alternativa** aos [[IECA]]/[[BRA]]/[[ARNI]] em pacientes que não toleram essas classes devido a [[Hipercalemia]], [[Piora da função renal]] ou [[Angioedema]].
+  - **Alternativa** aos [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]/[[BRA]]/[[ARNI]] em pacientes que não toleram essas classes devido a [[Hipercalemia]], [[Piora da função renal]] ou [[Angioedema]].
 
 ## Posologia Comum
 - A combinação é frequentemente usada em doses crescentes, 3 vezes ao dia. Exige titulação cuidadosa.
@@ -29,7 +29,7 @@ aliases:
 - **[[Hipotensão postural]]** e tontura.
 - **[[Lúpus induzido por drogas]]**: Efeito adverso clássico da **[[Hidralazina]]** em doses altas ou uso prolongado. Requer monitoramento de [[FAN]] e sintomas.
 - Palpitações (taquicardia reflexa).
-- [[Náuseas]].
+- [[Náusea|Náuseas]].
 
 ## 🔬 Monitoramento
 - **[[Pressão Arterial]]** (monitorar hipotensão).

@@ -29,7 +29,7 @@ aliases:
 
 ## Vantagens (em comparação com o Bypass Gástrico)
 - **[[Não há desvio do intestino]]** (não é disabsortiva).
-- **[[Menor risco de deficiências nutricionais graves]]** (especialmente de [[Ferro]], [[Cálcio]] e [[Vitamina B12]]), embora a suplementação ainda seja necessária.
+- **[[Menor risco de deficiências nutricionais graves]]** (especialmente de [[Ferro]], [[Cálcio]] e [[Vitamina B12 (Cobalamina)|Vitamina B12]]), embora a suplementação ainda seja necessária.
 - **[[Menor risco de Síndrome de Dumping]]**.
 - **[[Menor risco de hérnias internas]]**.
 - Acesso ao Estômago por endoscopia

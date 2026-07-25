@@ -112,7 +112,7 @@ tipo de exame: null
 - **Nefrite Lúpica, Vasculites, Goodpasture:** imunossupressão agressiva (corticoide + ciclofosfamida/rituximabe ± plasmaférese).
 
 ### **3. Manejo Renoprotetor de Longo Prazo**
-- Após fase aguda: **[[IECA]]** ou **[[BRA]]** para controle de proteinúria.
+- Após fase aguda: **[[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]** ou **[[BRA]]** para controle de proteinúria.
 - Controle pressórico rigoroso.
 - Acompanhamento da TFG e proteinúria.
 

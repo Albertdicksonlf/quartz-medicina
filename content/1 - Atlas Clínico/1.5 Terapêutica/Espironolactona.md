@@ -29,7 +29,7 @@ aliases:
 - **Titulação:** Aumentar para 25 a 50 mg/dia conforme tolerância e níveis de potássio.
 
 ## ⚠️ Efeitos Adversos Importantes
-- **[[Hipercalemia (Potássio elevado)]]**: **Principal e mais perigoso efeito adverso.** Risco aumentado em pacientes com `Doença Renal Crônica` ou em uso concomitante de [[IECA]], [[BRA]] ou suplementos de potássio. **Monitoramento rigoroso é mandatório.**
+- **[[Hipercalemia (Potássio elevado)]]**: **Principal e mais perigoso efeito adverso.** Risco aumentado em pacientes com `Doença Renal Crônica` ou em uso concomitante de [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]], [[BRA]] ou suplementos de potássio. **Monitoramento rigoroso é mandatório.**
 - **[[Ginecomastia]]** (crescimento das mamas em homens), mastalgia, irregularidades menstruais: Devido ao bloqueio inespecífico de receptores de androgénios e progesterona. É a principal causa de descontinuação.
 - [[Piora da função renal (Aumento da Creatinina)]] (menos comum que com IECA/BRA).
 - Distúrbios gastrointestinais.

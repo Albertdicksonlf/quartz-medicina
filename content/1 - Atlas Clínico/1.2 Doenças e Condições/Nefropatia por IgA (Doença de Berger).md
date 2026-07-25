@@ -124,7 +124,7 @@ tipo de exame: null
 
 ### **1. Medidas Renoprotetoras (para todos)**
 - **Controle rigoroso da PA** (meta < 130/80 mmHg)
-- **[[IECA]]** ou **[[BRA (Bloqueadores do Receptor de Angiotensina II)|BRA]]** se proteinúria > 0,5-1 g/dia (mesmo em normotensos) — pilar do tratamento
+- **[[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]** ou **[[BRA (Bloqueadores do Receptor de Angiotensina II)|BRA]]** se proteinúria > 0,5-1 g/dia (mesmo em normotensos) — pilar do tratamento
 - **[[Inibidores de SGLT2]]** — evidência crescente em proteinúria persistente
 - Dieta, MEV, controle de comorbidades
 

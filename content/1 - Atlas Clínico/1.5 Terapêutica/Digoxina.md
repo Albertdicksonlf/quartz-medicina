@@ -34,7 +34,7 @@ aliases:
   - **[[Bradicardia]]** excessiva.
   - **[[Bloqueios atrioventriculares]]**.
   - **[[Arritmias ventriculares]]** (principalmente Extrassístoles Ventriculares bigeminadas ou Taquicardia Ventricular Bidirecional).
-- **Gastrointestinais:** [[Anorexia]], [[Náuseas]], [[Vômitos]], [[Dor abdominal]].
+- **Gastrointestinais:** [[Anorexia]], [[Náusea|Náuseas]], [[Vômitos]], [[Dor abdominal]].
 - **Neurológicos:** [[Visão turva ou amarelada (Xantopsia)]] - sinal clássico de intoxicação, confusão, fadiga.
 
 ### Fatores que Aumentam o Risco de Intoxicação

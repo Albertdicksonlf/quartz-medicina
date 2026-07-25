@@ -17,7 +17,7 @@ aliases:
 - A Vitamina D pode ser obtida pela dieta ou sintetizada na pele sob [[Exposição solar (UVB)]] (`Colecalciferol` - D3).
 - Ela passa por duas hidroxilações para se tornar ativa:
   1.  No fígado: É convertida em **[[25-hidroxivitamina D (25-OH Vit D)]]** (Calcidiol). Este é o **melhor marcador do status corporal** de Vitamina D e o que dosamos no sangue.
-  2.  No rim: É convertida na forma ativa, **[[1,25-di-hidroxivitamina D (1,25-(OH)₂ Vit D)]]** ([[Calcitriol]]), sob estímulo do [[PTH]].
+  2.  No rim: É convertida na forma ativa, **[[1,25-di-hidroxivitamina D (1,25-(OH)₂ Vit D)]]** ([[Calcitriol]]), sob estímulo do [[PTH (Paratormônio)|PTH]].
 - A função clássica do [[Calcitriol]] é **aumentar a absorção intestinal de [[Cálcio]] e [[Fósforo]]**.
 
 ## 💊 Indicações Clínicas Principais
@@ -35,7 +35,7 @@ aliases:
 
 ## ⚠️ Efeitos Adversos (Intoxicação)
 - A intoxicação por Vitamina D (Hipervitaminose D) é **rara** e ocorre apenas com doses muito altas e prolongadas.
-- **Manifestações:** Resultam da **[[Hipercalcemia]]**: [[Náuseas]], [[Vômitos]], [[Constipação]], poliúria, polidipsia, confusão mental, [[Nefrocalcinose]], [[Insuficiência Renal Aguda]].
+- **Manifestações:** Resultam da **[[Hipercalcemia]]**: [[Náusea|Náuseas]], [[Vômitos]], [[Constipação]], poliúria, polidipsia, confusão mental, [[Nefrocalcinose]], [[Insuficiência Renal Aguda]].
 
 ## 💡 Pontos de Aprendizado
 - A deficiência de Vitamina D é extremamente comum na população geral.

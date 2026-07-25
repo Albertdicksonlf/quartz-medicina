@@ -43,7 +43,7 @@ card:
 - **Genéticos:** Risco aumenta progressivamente com grau de parentesco (componente poligênico)
 - **Cannabis:** Especialmente uso antes dos 15 anos, uso prolongado, e Cannabis com alto THC — associado a início precoce e pior prognóstico
 - **Ambiente urbano:** Viver em cidades grandes aumenta o risco
-- **Traumas na infância:** Situação socioeconômica precária, abuso → ver [[Evento Traumático na Anamnese]]
+- **Traumas na infância:** Situação socioeconômica precária, abuso → ver Evento Traumático na Anamnese
 - **Imigração:** Fator de risco independente
 
 ### Epidemiologia

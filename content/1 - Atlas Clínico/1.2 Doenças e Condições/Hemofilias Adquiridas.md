@@ -39,7 +39,7 @@ aliases:
 - **Clínico:** [[Início súbito de sangramentos graves em um paciente idoso SEM história prévia de coagulopatia]].
 - **Laboratorial (O Padrão Clássico):**
   1.  **[[TTPA marcadamente alargado]]**.
-  2.  [[INR]] e [[Contagem de plaquetas]] são normais.
+  2.  [[TAP ou INR (Índice Normalizado Internacional)|INR]] e [[Contagem de plaquetas]] são normais.
   3.  **[[O TTPA alargado NÃO CORRIGE com o teste de mistura]]**: Este é o **achado-pivô absoluto** que indica a presença de um **inibidor** no plasma do paciente.
 - **Laboratorial Confirmatório:**
   - **[[Dosagem da atividade do Fator VIII muito baixa]]**.

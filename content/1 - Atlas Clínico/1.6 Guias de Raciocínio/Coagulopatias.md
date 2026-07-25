@@ -54,7 +54,7 @@ aliases:
 ---
 ## 3. 🔬 Investigação
 1.  **[[Coagulograma (INR e TTPA)]]**: O primeiro e mais importante passo.
-2.  **[[Teste de Mistura]]**: Se o [[TTPA]] ou [[INR]] está alargado, mistura-se o plasma do paciente com plasma normal.
+2.  **[[Teste de Mistura]]**: Se o [[TTPA]] ou [[TAP ou INR (Índice Normalizado Internacional)|INR]] está alargado, mistura-se o plasma do paciente com plasma normal.
     - Se o tempo **corrige**: Sugere **deficiência** de um fator.
     - Se o tempo **não corrige**: Sugere a presença de um **inibidor**.
 3.  **[[Dosagem específica dos fatores de coagulação]]**: Para confirmar a deficiência suspeita (ex: dosar Fator VIII na suspeita de Hemofilia A).

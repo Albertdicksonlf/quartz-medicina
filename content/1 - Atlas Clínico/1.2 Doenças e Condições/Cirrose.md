@@ -123,7 +123,7 @@ A cirrose é a via final comum de uma lesão hepática crônica e contínua. O p
         
 - **O Silêncio da Cirrose:** Lembre-se que a cirrose compensada pode ser completamente assintomática, com exames de função hepática (ALT/AST) normais ou quase normais. Não se deixe enganar pela ausência de sintomas.
     
-- **Função vs. Lesão:** Na cirrose estabelecida, os marcadores de **função** ([[INR]] e [[Albumina]]) são muito mais importantes para o prognóstico do que os marcadores de **lesão** ([[ALT]] e [[AST]]).
+- **Função vs. Lesão:** Na cirrose estabelecida, os marcadores de **função** ([[TAP ou INR (Índice Normalizado Internacional)|INR]] e [[Albumina]]) são muito mais importantes para o prognóstico do que os marcadores de **lesão** ([[ALT]] e [[AST]]).
     
 - **Os Scores não são acadêmicos, são práticos:** O **[[Score de Child-Pugh]]** te dá uma noção rápida da gravidade e do prognóstico a curto prazo. O **[[Score MELD]]** é a ferramenta objetiva usada para priorizar pacientes na fila de [[Transplante Hepático]].
 

@@ -27,7 +27,7 @@ card:
 	- **[[Ataxia de Marcha]] Grave:** Incapacidade de ficar de pé ou andar mesmo com ajuda (diferente da instabilidade da neurite, onde o paciente geralmente consegue, ainda que com dificuldade).
 	- **[[Cefaleia]] Súbita e Intensa ("Thunderclap") ou Dor Cervical:** Pode indicar dissecção arterial (vertebral/basilar) ou hemorragia.
 	- **Qualquer Déficit Neurológico Focal Novo:** Paresia facial, hemiparesia, etc.
-- **Ação Imediata:** Se qualquer `red flag` estiver presente, o protocolo de [[AVC]] deve ser ativado imediatamente. A avaliação `HINTS` ainda é útil, mas a suspeita de causa central já é altíssima.
+- **Ação Imediata:** Se qualquer `red flag` estiver presente, o protocolo de [[Acidente Vascular Encefálico|AVC]] deve ser ativado imediatamente. A avaliação `HINTS` ainda é útil, mas a suspeita de causa central já é altíssima.
 
 ## 🧠 2. Estrutura de Pensamento (Periférico vs. Central)
 *A história é sugestiva, mas o exame físico é o divisor de águas.*
@@ -67,7 +67,7 @@ card:
     -   Se todos os 3 testes forem periféricos, o diagnóstico é **CAUSA PERIFÉRICA**.
 
 ## 🎯 4. Achados-Pivô Decisivos
-- Um [[Exame HINTS]] central é diagnóstico de [[AVC]] até prova em contrário (sensibilidade de ~99%, superior à RM nas primeiras 24-48h).
+- Um [[Exame HINTS]] central é diagnóstico de [[Acidente Vascular Encefálico|AVC]] até prova em contrário (sensibilidade de ~99%, superior à RM nas primeiras 24-48h).
 - A incapacidade de andar ou ficar de pé sem apoio, mesmo com os olhos abertos, é um forte preditor de AVC cerebelar.
 - Nistagmo que diminui ou desaparece com a fixação visual é típico de causa periférica.
 

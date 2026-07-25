@@ -131,7 +131,7 @@ card:
 
 **Mínimo:**
 - **[[Espermograma]]** (2 amostras com intervalo de 4-12 semanas)
-- **Hormônios:** FSH, LH, [[Testosterona]] total, Prolactina, TSH
+- **Hormônios:** FSH, LH, [[Testosterona Total e Livre|Testosterona]] total, Prolactina, TSH
 - **USG escrotal com Doppler** se exame físico alterado
 
 **Específicos (conforme suspeita):**

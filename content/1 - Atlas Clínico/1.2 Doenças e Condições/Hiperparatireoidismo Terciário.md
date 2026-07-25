@@ -12,13 +12,13 @@ aliases:
 # Hiperparatireoidismo Terciário
 
 > [!abstract] Resumo de Uma Linha
-> Condição que ocorre quando o `Hiperparatireoidismo Secundário` crónico (geralmente devido à `Doença Renal Crônica`) evolui para um estado de **hipersecreção autónoma de [[PTH]]**. A glândula paratireoide torna-se independente dos estímulos regulatórios (Cálcio e Fósforo), resultando em **[[Hipercalcemia]]**.
+> Condição que ocorre quando o `Hiperparatireoidismo Secundário` crónico (geralmente devido à `Doença Renal Crônica`) evolui para um estado de **hipersecreção autónoma de [[PTH (Paratormônio)|PTH]]**. A glândula paratireoide torna-se independente dos estímulos regulatórios (Cálcio e Fósforo), resultando em **[[Hipercalcemia]]**.
 
 ## Fisiopatologia
 - O `Hiperparatireoidismo Secundário` é uma resposta adaptativa à [[Hipocalcemia]] e [[Hiperfosfatemia]] da DRC, causando hiperplasia difusa das quatro glândulas paratireoides.
 - A estimulação crónica e persistente por anos (geralmente em pacientes em diálise há muito tempo) pode induzir mutações e a **transformação de uma glândula hiperplásica num adenoma autónomo**.
-- Esta glândula "enlouquecida" passa a produzir quantidades massivas de [[PTH]], independentemente dos níveis séricos de cálcio e fósforo.
-- O [[PTH]] excessivo continua a retirar cálcio dos ossos, mas agora, na ausência de regulação, eleva o cálcio sérico a níveis perigosos ([[Hipercalcemia]]).
+- Esta glândula "enlouquecida" passa a produzir quantidades massivas de [[PTH (Paratormônio)|PTH]], independentemente dos níveis séricos de cálcio e fósforo.
+- O [[PTH (Paratormônio)|PTH]] excessivo continua a retirar cálcio dos ossos, mas agora, na ausência de regulação, eleva o cálcio sérico a níveis perigosos ([[Hipercalcemia]]).
 
 ## Apresentação Clínica Geral
 - **Perfil do Paciente:** Quase exclusivo de pacientes com **[[Doença Renal Crônica terminal]]**, tipicamente em **diálise há muitos anos**.
@@ -37,7 +37,7 @@ aliases:
 - **O Achado-Pivô Diagnóstico:** A combinação de:
   1.  **[[PTH marcadamente elevado]]** (geralmente > 800-1000 pg/mL).
   2.  **[[Hipercalcemia (Cálcio elevado)]]** (total e iónico).
-  3.  **[[Hiperfosfatemia (Fósforo elevado)]]** (pois o rim continua a não conseguir excretar o fósforo, apesar do [[PTH]] elevado).
+  3.  **[[Hiperfosfatemia (Fósforo elevado)]]** (pois o rim continua a não conseguir excretar o fósforo, apesar do [[PTH (Paratormônio)|PTH]] elevado).
 
 ---
 ## 🔍 Diagnósticos Diferenciais
@@ -62,7 +62,7 @@ aliases:
 
 ### **1. Tratamento Clínico (Controlo de Danos)**
 *Usado para controlar a hipercalcemia enquanto se aguarda a cirurgia, ou em pacientes sem condições cirúrgicas.*
-- **[[Cinacalcete]]**: [[Calcimimético]] em doses elevadas. Pode ajudar a reduzir o [[PTH]] e o [[Cálcio]], mas a resposta é muitas vezes limitada pela autonomia da glândula.
+- **[[Cinacalcete]]**: [[Calcimimético]] em doses elevadas. Pode ajudar a reduzir o [[PTH (Paratormônio)|PTH]] e o [[Cálcio]], mas a resposta é muitas vezes limitada pela autonomia da glândula.
 - **Manejo da [[Hiperfosfatemia]]**: Uso agressivo de [[Quelantes de Fósforo]] sem cálcio (ex: [[Sevelamer]]).
 - `Diálise` com baixa concentração de cálcio.
 
@@ -78,7 +78,7 @@ aliases:
 ---
 ## 💡 Pontos de Aprendizado
 - A sequência de progressão é: `DRC` → `Hiperparatireoidismo Secundário` (Cálcio baixo, PTH alto) → `Hiperparatireoidismo Terciário` (Cálcio alto, PTH alto).
-- O HPT Terciário é um estado de produção autónoma de [[PTH]] que se tornou independente do estímulo que o criou.
+- O HPT Terciário é um estado de produção autónoma de [[PTH (Paratormônio)|PTH]] que se tornou independente do estímulo que o criou.
 - O tratamento de escolha é a [[Paratireoidectomia]].
 
 ---

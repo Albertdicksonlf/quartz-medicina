@@ -29,7 +29,7 @@ aliases:
 
 ## ⚠️ Efeitos Adversos Importantes
 - É geralmente muito bem tolerada.
-- Os efeitos mais comuns são [[Cefaleia]], [[Náuseas]] e [[Constipação]] leve.
+- Os efeitos mais comuns são [[Cefaleia]], [[Náusea|Náuseas]] e [[Constipação]] leve.
 - Reações cutâneas são raras.
 
 ## Contraindicações e Precauções

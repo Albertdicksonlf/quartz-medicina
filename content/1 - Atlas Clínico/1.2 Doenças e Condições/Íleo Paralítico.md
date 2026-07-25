@@ -34,7 +34,7 @@ aliases:
 - **Diferença da Obstrução Mecânica:** A dor é descrita como um **desconforto difuso e contínuo**, e **NÃO** como uma cólica intensa e paroxística.
 - **Sintomas:**
   - [[Distensão abdominal]] difusa.
-  - [[Náuseas]] e vômitos (biliosos ou gástricos).
+  - [[Náusea|Náuseas]] e vômitos (biliosos ou gástricos).
   - [[Parada de eliminação de gases e fezes]] (obstipação).
   - Intolerância alimentar.
 

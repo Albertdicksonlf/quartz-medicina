@@ -27,7 +27,7 @@ aliases: []
 
 ## ⚠️ Efeitos Adversos Importantes
 - É geralmente bem tolerada.
-- Os efeitos mais comuns são gastrointestinais: [[Náuseas]], [[Vómitos]], [[Dor abdominal]].
+- Os efeitos mais comuns são gastrointestinais: [[Náusea|Náuseas]], [[Vômitos]], [[Dor abdominal]].
 
 ## 🔬 Monitoramento
 - Não requer monitoramento laboratorial de rotina.

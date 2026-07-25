@@ -76,7 +76,7 @@ aliases:
 *Segue uma estratégia agressiva/permissiva para manter os níveis acima dos limiares de segurança.*
 - **[[Concentrado de Plaquetas]]**: Para manter as [[Plaquetas > 50.000]] em sangramento grave ou > 20.000 em alto risco.
 - **[[Crioprecipitado]]**: Para repor fibrinogênio, com a meta de manter o **[[Fibrinogênio > 100-150 mg/dL]]**.
-- **[[Plasma Fresco Congelado (PFC)]]**: Para repor os outros fatores e ajudar a corrigir o [[INR]].
+- **[[Plasma Fresco Congelado (PFC)]]**: Para repor os outros fatores e ajudar a corrigir o [[TAP ou INR (Índice Normalizado Internacional)|INR]].
 
 ### **3. Anticoagulação (Uso Controverso)**
 - **[[Heparina]]**: O uso de heparina em baixas doses pode ser considerado em casos raros onde a **trombose é o fenômeno predominante** e o sangramento é mínimo, para tentar interromper a ativação da cascata. Não é um tratamento de rotina.

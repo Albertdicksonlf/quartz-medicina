@@ -18,11 +18,11 @@ aliases:
   - **Mecanismo:** Níveis maciços de [[25-OH Vitamina D]] têm ação direta nos receptores, causando aumento da absorção intestinal de [[Cálcio]] e [[Fósforo]], e aumento da reabsorção óssea.
 - **Excesso de Calcitriol (1,25-OH Vitamina D):**
   - **Causa:** [[Produção extra-renal de Calcitriol]] por macrófagos ativados em **Doenças Granulomatosas** (ex: `Sarcoidose`, `Tuberculose`) ou `Linfomas`.
-  - **Mecanismo:** O [[Calcitriol]] é produzido de forma desregulada (sem feedback do [[PTH]] ou [[Fósforo]]) e promove intensa absorção intestinal de [[Cálcio]] e [[Fósforo]].
+  - **Mecanismo:** O [[Calcitriol]] é produzido de forma desregulada (sem feedback do [[PTH (Paratormônio)|PTH]] ou [[Fósforo]]) e promove intensa absorção intestinal de [[Cálcio]] e [[Fósforo]].
 
 ## Apresentação Clínica Geral
 - **[[Hipercalcemia]]** e **[[Hipercalciúria]]** (excreção aumentada de cálcio na urina).
-- Os sintomas são os da `Hipercalcemia MOC`: [[Náuseas]], [[Vômitos]], [[Constipação]], [[Poliúria]], [[Polidipsia]], [[Nefrolitíase]], [[Confusão mental]], [[Fraqueza]].
+- Os sintomas são os da `Hipercalcemia MOC`: [[Náusea|Náuseas]], [[Vômitos]], [[Constipação]], [[Poliúria]], [[Polidipsia]], [[Nefrolitíase]], [[Confusão mental]], [[Fraqueza]].
 
 ---
 ## 🎯 ACHADOS-CHAVE (PIVÔS)

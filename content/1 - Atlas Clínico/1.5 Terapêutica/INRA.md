@@ -10,7 +10,7 @@ aliases:
 # ARNI (Sacubitril/Valsartana)
 
 > [!abstract] Resumo de Uma Linha
-> Classe terapêutica inovadora, representada pela combinação fixa de Sacubitril (inibidor da neprilisina) e Valsartana (BRA), que demonstrou ser **superior aos [[IECA]]/[[BRA]] isolados** na redução de mortalidade e hospitalizações em pacientes com `Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFER)`.
+> Classe terapêutica inovadora, representada pela combinação fixa de Sacubitril (inibidor da neprilisina) e Valsartana (BRA), que demonstrou ser **superior aos [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]/[[BRA]] isolados** na redução de mortalidade e hospitalizações em pacientes com `Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFER)`.
 
 ## Mecanismo de Ação (Duplo)
 O [[Sacubitril/Valsartana]] tem dois componentes com ações complementares:
@@ -22,7 +22,7 @@ O [[Sacubitril/Valsartana]] tem dois componentes com ações complementares:
 
 ## 💊 Indicação Clínica Principal
 - **`Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFER)`**:
-  - **Recomendado como substituto** de um [[IECA]] ou [[BRA]] em pacientes sintomáticos (NYHA II-III) que toleraram previamente doses adequadas de IECA/BRA. É considerado um dos pilares do tratamento ("Quarteto Fantástico").
+  - **Recomendado como substituto** de um [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]] ou [[BRA]] em pacientes sintomáticos (NYHA II-III) que toleraram previamente doses adequadas de IECA/BRA. É considerado um dos pilares do tratamento ("Quarteto Fantástico").
 
 ## Vantagens (em comparação com IECA/BRA isolados na ICFER)
 - **[[Redução adicional significativa de mortalidade cardiovascular e hospitalizações por IC]]** (demonstrado no estudo PARADIGM-HF).
@@ -36,7 +36,7 @@ O [[Sacubitril/Valsartana]] tem dois componentes com ações complementares:
 - **[[Angioedema]]**: O risco é **ligeiramente maior** do que com os [[BRA]] isolados (pois a neprilisina também degrada a bradicinina, embora em menor grau que a ECA).
 
 > [!warning] Interação Crítica
-> O [[Sacubitril/Valsartana]] **NUNCA** deve ser administrado concomitantemente com um [[IECA]]. É necessário um **período de "washout" de pelo menos 36 horas** após a última dose do IECA antes de iniciar o ARNI, devido ao risco aumentado de [[Angioedema]] grave. A troca por um [[BRA]] não exige washout.
+> O [[Sacubitril/Valsartana]] **NUNCA** deve ser administrado concomitantemente com um [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]. É necessário um **período de "washout" de pelo menos 36 horas** após a última dose do IECA antes de iniciar o ARNI, devido ao risco aumentado de [[Angioedema]] grave. A troca por um [[BRA]] não exige washout.
 
 ## 🔬 Monitoramento
 - **[[Pressão Arterial]]** (monitorar hipotensão sintomática).

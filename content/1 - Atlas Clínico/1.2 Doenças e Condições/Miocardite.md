@@ -158,7 +158,7 @@ card:
 ### **1. Suporte Clínico Geral**
 - Repouso (evitar exercício na fase aguda)
 - Tratamento de [[Insuficiência Cardíaca]]:
-	- [[IECA]]/[[BRA]]
+	- [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]/[[BRA]]
 	- [[Betabloqueadores]] (após estabilização hemodinâmica)
 	- [[Espironolactona]]
 	- [[Diuréticos de Alça]] se congestão

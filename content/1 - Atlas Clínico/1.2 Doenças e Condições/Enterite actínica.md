@@ -19,7 +19,7 @@ aliases:
 ## Fisiopatologia
 - A [[Radiação ionizante]] causa dano direto às células de rápida proliferação da mucosa intestinal.
 - Além disso, causa dano vascular (endarterite obliterante), levando a uma isquemia crônica e fibrose progressiva da parede intestinal.
-- **Forma Aguda:** Ocorre durante ou logo após a radioterapia. Manifesta-se como [[Diarreia]], [[Náuseas]], [[Dor abdominal]] e [[Tenesmo]] (se o reto for irradiado). Geralmente autolimitada.
+- **Forma Aguda:** Ocorre durante ou logo após a radioterapia. Manifesta-se como [[Diarreia]], [[Náusea|Náuseas]], [[Dor abdominal]] e [[Tenesmo]] (se o reto for irradiado). Geralmente autolimitada.
 - **Forma Crônica:** Desenvolve-se meses a **anos** após o término da radioterapia. É progressiva e resulta das alterações vasculares e fibróticas crônicas.
 
 ## Apresentação Clínica (Forma Crônica)

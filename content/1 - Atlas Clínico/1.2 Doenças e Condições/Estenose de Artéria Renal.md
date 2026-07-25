@@ -51,7 +51,7 @@ card: ''
 	- HAS de início **<30 anos** (suspeita DFM) ou **>55 anos** abruptamente (suspeita ARAS)
 	- HAS maligna ou acelerada
 	- **EAP recorrente "flash"** ([[Edema Agudo de Pulmão]] súbito, sem causa cardíaca clara) — sinal de Pickering, sugere doença bilateral
-	- Piora ≥30% da [[Creatinina]] após início de [[IECA]] ou [[BRA]]
+	- Piora ≥30% da [[Creatinina]] após início de [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]] ou [[BRA]]
 	- Discrepância de tamanho renal >1,5 cm entre os rins
 	- [[Hipocalemia]] espontânea (sem diurético) — reflete hiperaldosteronismo secundário
 	- [[Sopro Abdominal]] sistodiastólico em flanco/epigástrio
@@ -70,7 +70,7 @@ card: ''
 
 - **Laboratoriais:**
 	- [[Hipocalemia]] espontânea (alcalose hipocalêmica por hiperaldosteronismo secundário)
-	- Elevação aguda da [[Creatinina]] após [[IECA]]/[[BRA]] (≥30% — pista clássica)
+	- Elevação aguda da [[Creatinina]] após [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]/[[BRA]] (≥30% — pista clássica)
 	- [[Relação Aldosterona Renina]] normal ou alta com **renina alta** (diferencia de [[Hiperaldosteronismo Primário]], que tem renina baixa)
 	- Proteinúria geralmente leve (<1g/24h)
 
@@ -144,7 +144,7 @@ Investigar EAR quando há ≥1 critério clínico (red flag) acima.
 ### **2. Tratamento Específico (Farmacológico — TERAPIA MÉDICA OTIMIZADA - "OMT")**
 
 **Pilar 1 — Bloqueio do SRAA:**
-- **Primeira Linha (estenose UNILATERAL):** [[IECA]] (ex.: [[Captopril]], Enalapril) ou [[BRA]] (ex.: Losartana, [[Valsartana]])
+- **Primeira Linha (estenose UNILATERAL):** [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]] (ex.: [[Captopril]], Enalapril) ou [[BRA]] (ex.: Losartana, [[Valsartana]])
 	- ⚠️ **CONTRAINDICADO em estenose BILATERAL ou em rim único** — risco de IRA por queda da TFG
 	- Monitorizar [[Creatinina]] e [[Potássio Sérico]] em 1–2 semanas após início
 

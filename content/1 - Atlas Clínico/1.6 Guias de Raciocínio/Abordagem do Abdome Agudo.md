@@ -80,6 +80,12 @@ Com isso, temos pistas e podemos definir o diagnóstico sindrômico.
 3.  **Raio-X de Abdome (deitado):** Para ver distensão de alças.
 
 ---
+## 🔗 Conexões com Guias de Raciocínio
+- [[Abordagem da Dor Abdominal]] — algoritmo de triagem e roteamento da queixa
+- [[Dor abdominal]] — semiologia e anamnese da dor abdominal
+
+---
+
 ### **➕ Novas Anotações / Insights**
 
 

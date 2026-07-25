@@ -64,7 +64,7 @@ card:
 - **Monitoramento:** PA contínua (arterial invasiva ideal), lactato sérico em uso prolongado, função renal
 
 ## Contraindicações
-- [[AVC]] (↑ PIC)
+- [[Acidente Vascular Encefálico|AVC]] (↑ PIC)
 - [[Síndrome Coronariana Aguda]] (roubo coronariano)
 - [[Insuficiência Renal]] ou [[Insuficiência Hepática]] grave com uso prolongado
 - Atrofia óptica de Leber e ambliopia tabágica (sensibilidade ao cianeto)

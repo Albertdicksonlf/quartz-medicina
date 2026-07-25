@@ -17,7 +17,7 @@ aliases:
 - O CaSR é o "sensor" de cálcio nas glândulas paratireoides e nos rins.
 - Na HHF, a mutação no CaSR faz com que tanto a paratireoide quanto os túbulos renais "pensem" que o cálcio sérico está mais baixo do que realmente está.
 - **Consequências:**
-  1.  **Paratireoide:** A secreção de [[PTH]] só é suprimida em níveis de cálcio mais altos que o normal, resultando em um [[PTH normal ou levemente elevado]] apesar da hipercalcemia.
+  1.  **Paratireoide:** A secreção de [[PTH (Paratormônio)|PTH]] só é suprimida em níveis de cálcio mais altos que o normal, resultando em um [[PTH normal ou levemente elevado]] apesar da hipercalcemia.
   2.  **Rins:** O rim "pensa" que precisa economizar cálcio, levando a uma **[[Reabsorção aumentada de cálcio]]** nos túbulos.
 
 ## Apresentação Clínica Geral

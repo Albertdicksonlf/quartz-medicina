@@ -60,7 +60,7 @@ aliases:
   - **[[Calprotectina fecal]]**: Exame de triagem fundamental para confirmar inflamação.
   - [[Coprocultura]] e [[EPF]] (para excluir causas infecciosas).
   - [[Pesquisa de toxinas para C. difficile]].
-- **Exames de Sangue:** [[Hemograma]], [[PCR]], [[VHS]], [[Albumina]].
+- **Exames de Sangue:** [[Hemograma]], [[PCR]], [[Velocidade de Hemossedimentação (VHS)|VHS]], [[Albumina]].
 - **Exame de Imagem/Endoscópico:**
   - **[[Colonoscopia com biópsias seriadas]]**: **É o exame de escolha** para o diagnóstico definitivo. Permite visualizar a inflamação, determinar sua extensão e coletar amostras para histopatologia.
 

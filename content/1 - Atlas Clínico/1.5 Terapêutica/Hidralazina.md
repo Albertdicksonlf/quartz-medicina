@@ -45,7 +45,7 @@ card:
 
 ## 🎯 ACHADOS-CHAVE (PIVÔS) E PÉROLAS
 
-- **Gestação:** Um dos poucos anti-hipertensivos IV seguros na gestação. [[iECA]] e [[BRA (Bloqueadores do Receptor de Angiotensina II)|BRA]] são absolutamente contraindicados na gravidez — fetotóxicos.
+- **Gestação:** Um dos poucos anti-hipertensivos IV seguros na gestação. [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]] e [[BRA (Bloqueadores do Receptor de Angiotensina II)|BRA]] são absolutamente contraindicados na gravidez — fetotóxicos.
 - **Nunca usar isolado na IC crônica** — taquicardia reflexa e retenção de sódio anulam o benefício hemodinâmico. Associar BB + diurético.
 - **Nunca usar na dissecção de aorta** — taquicardia reflexa intensa aumenta o dP/dt → propaga a dissecção.
 - **Síndrome lúpus-símile:** Com uso prolongado em doses altas (>200 mg/dia), especialmente em acetiladores lentos.

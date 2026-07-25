@@ -56,7 +56,7 @@ tipo de exame: null
 
 ### **Grupo B: Antagonistas da Vitamina K**
 - [[Varfarina]]
-- *Pista:* monitorizada por [[INR]]; reversível com [[Vitamina K]]
+- *Pista:* monitorizada por [[TAP ou INR (Índice Normalizado Internacional)|INR]]; reversível com [[Vitamina K]]
 
 ### **Grupo C: Anticoagulantes Orais Diretos (DOACs)**
 - **Inibidores diretos do fator Xa:** [[Rivaroxabana]], [[Apixabana]], [[Edoxabana]]
@@ -112,7 +112,7 @@ tipo de exame: null
 
 | Etapa | Critério |
 |-------|----------|
-| **Antes da punção** | Suspender **5 dias** antes + **[[INR]] ≤ 1,4** |
+| **Antes da punção** | Suspender **5 dias** antes + **[[TAP ou INR (Índice Normalizado Internacional)|INR]] ≤ 1,4** |
 | **Após punção** | Pode reiniciar **na mesma noite** (dose de manutenção) |
 | **Cateter mantido** | INR diário; manter < 1,4 durante permanência |
 

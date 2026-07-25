@@ -92,7 +92,7 @@ tipo: Síndrome
   - **[[Apixabana]]**
 - **Opções Clássicas:**
   - **[[Heparinas]]** ([[Enoxaparina]] ou [[Heparina Não Fracionada]])
-  - **[[Varfarina]]** (requer monitoramento com [[INR]])
+  - **[[Varfarina]]** (requer monitoramento com [[TAP ou INR (Índice Normalizado Internacional)|INR]])
 - **Situações Especiais (ex: TEP maciço, TVP extensa):**
   - **Trombolíticos (ex: Alteplase)** para dissolver o coágulo.
 

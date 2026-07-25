@@ -50,7 +50,7 @@ aliases:
 
 - **Confirmar a Esteatorreia:** [[Teste de gordura fecal (Sudan III ou quantitativo)]].
 - **Investigar a Causa (guiado pela suspeita):**
-  - **Função Hepática e Biliar:** [[Hepatograma (FA, GGT, Bilirrubinas)]], [[INR]], [[Albumina]].
+  - **Função Hepática e Biliar:** [[Hepatograma (FA, GGT, Bilirrubinas)]], [[TAP ou INR (Índice Normalizado Internacional)|INR]], [[Albumina]].
   - **Imagem:** [[Ultrassonografia Abdominal]], [[Colangioressonância (CPRM)]] ou [[CPRE]] (se suspeita de obstrução).
   - **Avaliação do Íleo Terminal:** [[Colonoscopia com ileoscopia]], [[Entero-TC]] ou [[Entero-RM]].
   - **Suspeita de SCBID:** [[Teste respiratório de hidrogénio com Lactulose]].

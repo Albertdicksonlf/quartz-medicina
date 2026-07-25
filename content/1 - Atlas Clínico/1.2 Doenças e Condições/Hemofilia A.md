@@ -36,7 +36,7 @@ aliases:
 - **Clínico:** [[Hemartrose espontânea]] em um paciente do sexo masculino.
 - **Laboratorial de Triagem:**
   - **[[TTPA alargado]]** que **[[Corrige com o teste de mistura]]**.
-  - [[Contagem de plaquetas]] e [[INR]] são **normais**.
+  - [[Contagem de plaquetas]] e [[TAP ou INR (Índice Normalizado Internacional)|INR]] são **normais**.
 - **Laboratorial Confirmatório:**
   - **[[Dosagem da atividade do Fator VIII muito baixa ou indetectável]]**.
 

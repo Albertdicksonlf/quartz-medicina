@@ -9,7 +9,7 @@ aliases:
 # Teste da Mistura
 
 > [!abstract] O que é e para que serve?
-> Exame funcional realizado para diferenciar a causa de um tempo de coagulação alargado ([[INR]] ou [[TTPA]]). Ele responde à pergunta: "O problema é uma **deficiência** de fator ou a presença de um **inibidor**?".
+> Exame funcional realizado para diferenciar a causa de um tempo de coagulação alargado ([[TAP ou INR (Índice Normalizado Internacional)|INR]] ou [[TTPA]]). Ele responde à pergunta: "O problema é uma **deficiência** de fator ou a presença de um **inibidor**?".
 
 ## Indicações Principais
 - Investigação de um [[TTPA alargado inexplicado]].

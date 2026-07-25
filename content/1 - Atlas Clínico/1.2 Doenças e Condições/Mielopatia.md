@@ -24,7 +24,7 @@ tipo de exame: null
 
 ## 🌪️ Fisiopatologia
 - A medula conduz as vias motoras (corticoespinhal) e sensitivas (cordões posteriores = vibração/propriocepção; espinotalâmico = dor/temperatura). A lesão interrompe essas vias **abaixo** do nível acometido.
-- **Etiologias:** compressiva (hérnia, tumor, abscesso, [[Trauma Raquimedular (TRM)|trauma]]), inflamatória/desmielinizante (mielite transversa, [[Esclerose Múltipla]]), vascular (infarto medular), metabólica/carencial (degeneração combinada subaguda por déficit de [[Vitamina B12]]), infecciosa.
+- **Etiologias:** compressiva (hérnia, tumor, abscesso, [[Trauma Raquimedular (TRM)|trauma]]), inflamatória/desmielinizante (mielite transversa, [[Esclerose Múltipla]]), vascular (infarto medular), metabólica/carencial (degeneração combinada subaguda por déficit de [[Vitamina B12 (Cobalamina)|Vitamina B12]]), infecciosa; Síndrome medular posterior - Tabes dorsalis ([[Sifilis]]) e esclerose múltipla.
 
 ## 🤒 Apresentação Clínica
 - **Motor:** para/tetraparesia, tipicamente **espástica** (NMS): hiperreflexia, Babinski, clônus (na fase aguda pode haver flacidez transitória — "choque medular").

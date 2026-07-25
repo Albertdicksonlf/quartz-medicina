@@ -158,7 +158,7 @@ Paciente com **dispneia progressiva** aos esforços, **ortopneia**, **DPN**, ede
 | Opção | Comentário |
 |---|---|
 | **[[INRA]] (Sacubitril-Valsartana)** | **PREFERÊNCIA** (estudo PARADIGM-HF — superior ao IECA) |
-| **[[IECA]]** | Captopril, Enalapril (disponíveis no SUS) |
+| **[[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]** | Captopril, Enalapril (disponíveis no SUS) |
 | **[[BRA]]** | Losartana, Valsartana (intolerância a IECA, ex.: tosse) |
 
 **Cuidados:**
@@ -255,7 +255,7 @@ Paciente com **dispneia progressiva** aos esforços, **ortopneia**, **DPN**, ede
 - Reduz hospitalização e melhora qualidade de vida
 
 ### **7. ICFEr Assintomática (Estágio B com FEVE < 40%)**
-- **Tratar mesmo sem sintomas:** [[IECA]] + [[Betabloqueadores]] + [[Espironolactona]]
+- **Tratar mesmo sem sintomas:** [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]] + [[Betabloqueadores]] + [[Espironolactona]]
 - (Diferente da disfunção diastólica assintomática, que **não se trata**)
 
 ### **8. ICFEm (Fração de Ejeção Melhorada)**

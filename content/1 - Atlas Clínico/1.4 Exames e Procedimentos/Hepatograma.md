@@ -61,6 +61,6 @@ aliases:
 ---
 ## 💡 Pontos de Aprendizado e Heurísticas
 
-- **"Função hepática" é um nome impreciso.** Lembre-se que [[ALT]] e [[AST]] medem **lesão**, enquanto [[INR]] e [[Albumina]] medem **função** de síntese.
+- **"Função hepática" é um nome impreciso.** Lembre-se que [[ALT]] e [[AST]] medem **lesão**, enquanto [[TAP ou INR (Índice Normalizado Internacional)|INR]] e [[Albumina]] medem **função** de síntese.
 - Elevações extremas de transaminases (> 1000 U/L, "hepatite fulminante") devem levantar suspeita de três causas principais: Hepatite viral aguda, DILI (especialmente por [[Paracetamol]]) ou hepatite isquêmica.
 - Se a [[FA elevada]] for o único achado, sempre solicite uma [[GGT]]. Se a [[GGT]] for normal, a causa da elevação da FA provavelmente não é o fígado (pense em causas ósseas ou fisiológicas, como crescimento em adolescentes e gestação).

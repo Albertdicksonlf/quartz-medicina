@@ -29,7 +29,7 @@ card:
 - **Mecanismo:**
 	- Em condições normais, o estrogênio exerce feedback negativo no eixo hipotálamo-hipófise
 	- Clomifeno bloqueia esse feedback → hipotálamo "interpreta" baixos níveis de estrogênio → ↑ GnRH → ↑ LH e FSH
-	- ↑ LH → estímulo das células de Leydig → ↑ produção de [[Testosterona]] endógena
+	- ↑ LH → estímulo das células de Leydig → ↑ produção de [[Testosterona Total e Livre|Testosterona]] endógena
 	- ↑ FSH → estímulo das células de Sertoli → melhora a espermatogênese
 - **Vantagem-chave:** Diferente da reposição direta de testosterona, o clomifeno **preserva** o eixo HPG e a espermatogênese
 - **Farmacocinética:**
@@ -62,7 +62,7 @@ card:
 	- Máximo: 6 ciclos consecutivos
 
 ### **Monitorização**
-- [[Testosterona]] total, LH, FSH, estradiol em 4-8 semanas
+- [[Testosterona Total e Livre|Testosterona]] total, LH, FSH, estradiol em 4-8 semanas
 - [[Espermograma]] em 3 meses
 - Acompanhar PSA se >40 anos
 

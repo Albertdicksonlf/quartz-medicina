@@ -19,7 +19,7 @@ aliases:
 - **Quadro Clínico:** Início súbito de:
   - **Náuseas e vômitos**: Muitas vezes é o sintoma predominante, especialmente em crianças.
   - `Diarreia Aguda Aquosa` não-sanguinolenta.
-  - [[Náuseas]], Cólicas abdominais`.
+  - [[Náusea|Náuseas]], Cólicas abdominais`.
   - Febre baixa ou ausente ou ausente, mialgia, cefaleia.
 - **Duração:** É uma doença autolimitada, durando geralmente **24 a 72 horas**.
 

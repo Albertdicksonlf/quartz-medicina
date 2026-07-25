@@ -22,7 +22,7 @@ card:
 
 ## 🌪️ Fisiopatologia
 
-- **Mecanismo:** Lesão ou disfunção testicular primária → redução da produção de [[Testosterona]] (células de Leydig) e/ou prejuízo da espermatogênese (células de Sertoli)
+- **Mecanismo:** Lesão ou disfunção testicular primária → redução da produção de [[Testosterona Total e Livre|Testosterona]] (células de Leydig) e/ou prejuízo da espermatogênese (células de Sertoli)
 - **Resposta hipofisária:** Tentativa compensatória → ↑ LH (estímulo testosterona) + ↑ FSH (estímulo espermatogênese)
 - **Resultado:** Hipogonadismo "hipergonadotrófico" — gonadotrofinas elevadas mas testículo incapaz de responder
 
@@ -69,7 +69,7 @@ card:
 
 | Hormônio | Primário (Testicular) | Central (Hipofisário) |
 |---|---|---|
-| **[[Testosterona]]** | ↓ Baixa | ↓ Baixa |
+| **[[Testosterona Total e Livre|Testosterona]]** | ↓ Baixa | ↓ Baixa |
 | **LH** | **↑ Alto** | ↓ Baixo / Normal |
 | **FSH** | **↑ Alto** | ↓ Baixo / Normal |
 | **Inibina B** | ↓ Baixa | ↓ Baixa |
@@ -110,7 +110,7 @@ card:
 
 #### **A. SEM desejo de Fertilidade (Foco nos Sintomas)**
 
-- **Reposição de [[Testosterona]] (TRT):**
+- **Reposição de [[Testosterona Total e Livre|Testosterona]] (TRT):**
 	- Gel transdérmico (1%): 5-10 g/dia
 	- Injetável: undecilato de testosterona (Nebido) IM a cada 10-14 semanas
 	- Adesivo, implante subcutâneo

@@ -30,7 +30,7 @@ aliases:
 
 ## ⚠️ Efeitos Adversos Importantes
 - É geralmente muito bem tolerado.
-- Os efeitos mais comuns são gastrointestinais leves: [[Flatulência]], [[Náuseas]].
+- Os efeitos mais comuns são gastrointestinais leves: [[Flatulência]], [[Náusea|Náuseas]].
 
 ## Alternativas
 - `Paramomicina` (aminoglicosídeo não absorvível).

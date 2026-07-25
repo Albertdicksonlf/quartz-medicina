@@ -78,7 +78,7 @@ card:
 
 - **Anamnese:** Cirurgias prévias, doenças neurológicas, padrão de início
 - **Análise de urina pós-orgásmica:** ausência de espermatozoides (exclui retrógrada)
-- **Hormônios:** [[Testosterona]], FSH, LH, prolactina, TSH
+- **Hormônios:** [[Testosterona Total e Livre|Testosterona]], FSH, LH, prolactina, TSH
 - **[[USG Transretal]]:** avaliar obstrução de ductos ejaculatórios, vesículas seminais
 - **[[RM de Coluna]]:** se suspeita neurológica
 

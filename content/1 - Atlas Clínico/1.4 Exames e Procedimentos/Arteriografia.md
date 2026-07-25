@@ -65,4 +65,4 @@ aliases:
 - **Relacionados ao Cateterismo:**
   - [[Dissecção ou perfuração do vaso]].
   - [[Embolização distal]] (fragmentos de uma placa de ateroma podem se soltar e ocluir um vaso menor "rio abaixo").
-  - [[AVC]] (em procedimentos que envolvem a aorta ou artérias cervicais).
+  - [[Acidente Vascular Encefálico|AVC]] (em procedimentos que envolvem a aorta ou artérias cervicais).

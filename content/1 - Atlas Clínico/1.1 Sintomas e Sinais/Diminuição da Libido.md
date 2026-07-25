@@ -26,7 +26,7 @@ card:
 
 - **Componentes:** Libido depende de regulação **hormonal** (testosterona, prolactina, dopamina), **central** (estímulos psicológicos, integração cortical) e **periférica** (saúde geral, ausência de dor)
 - **Mecanismos:**
-	- Baixa [[Testosterona]] reduz o estímulo central para o desejo
+	- Baixa [[Testosterona Total e Livre|Testosterona]] reduz o estímulo central para o desejo
 	- Alta prolactina inibe o eixo HPG e o desejo
 	- Dopamina (sistema de recompensa) facilita; serotonina (excessiva) inibe
 	- Fatores psicológicos modulam fortemente o impulso
@@ -97,5 +97,5 @@ card:
 
 ### ➕ Novas Anotações / Insights
 *- Nota criada em modo esqueleto — Albert 17/05/2026*
-- Indicação de dosagem hormonal: [[Testosterona]], [[Prolactina]], [[TSH]] como triagem mínima.
+- Indicação de dosagem hormonal: [[Testosterona Total e Livre|Testosterona]], [[Prolactina]], [[TSH]] como triagem mínima.
 -

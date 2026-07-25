@@ -5,7 +5,7 @@ aliases:
   - Diferenciação Pré-renal Renal Pós-renal
 card: null
 classe de medicamentos: null
-date: '2026-05-02T10:25:00'
+date: 2026-05-02T10:25:00
 prevalência: null
 tipo: Guia de Raciocínio
 tipo de doença: null
@@ -47,7 +47,7 @@ Mnemônico **AEIOU** ([[Urgências Dialíticas]]):
 | Tamanho renal (USG)                 | Normal            | **Reduzido** (rins pequenos)       |
 | Anemia                              | Ausente ou leve   | **Frequente** (deficiência de EPO) |
 | [[Hiperparatireoidismo Secundário]] | Ausente           | Presente (PTH alto)                |
-| [[Hiperfosfatemia]] crônica         | Ausente           | Presente                           |
+| Hiperfosfatemia crônica             | Ausente           | Presente                           |
 | Densidade óssea                     | Normal            | Osteodistrofia renal               |
 | Cinética                            | **Mudança aguda** | Estável ou progressão lenta        |
 
@@ -74,7 +74,7 @@ A topografia organiza o raciocínio diagnóstico **e** o manejo:
 - **Vasoconstrição renal por fármacos:**
 	- **[[AINEs]]** → vasoconstrição da arteríola **aferente**
 	- **[[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]] / [[BRA]]** → vasodilatação da arteríola **eferente** (perigoso em estenose bilateral de artéria renal)
-- **Hipercalcemia** (também causa vasoconstrição)
+- **[[Hipercalcemia]]** (também causa vasoconstrição)
 
 *Pista laboratorial:* **FENa < 1%, FEUreia < 35%, urina concentrada (Osm > 500), Ureia/Cr > 40, cilindros hialinos**
 
@@ -85,28 +85,28 @@ A topografia organiza o raciocínio diagnóstico **e** o manejo:
 #### **B1. Tubular ([[Necrose Tubular Aguda]] — mais comum)**
 - **Isquêmica:** evolução de pré-renal não revertida; choque; cirurgia grande
 - **Tóxica:**
-	- **Exógenas:** [[Aminoglicosídeos]], [[Anfotericina B]], [[Cisplatina]], [[Vancomicina]], **[[Contraste Iodado]]**, [[AINEs]]
-	- **Endógenas:** [[Mioglobinúria]] ([[Rabdomiólise]]), hemoglobinúria (hemólise), cadeias leves ([[Mieloma Múltiplo]]), [[Ácido Úrico]] ([[Síndrome de Lise Tumoral]])
+	- **Exógenas:** [[Amicacina|aminoglicosídeos]], [[Anfotericina B]], [[Cisplatina]], [[Vancomicina]], **contraste iodado**, [[AINEs]]
+	- **Endógenas:** [[Urina Escura (Mioglobinúria)|mioglobinúria]] ([[Rabdomiólise]]), hemoglobinúria (hemólise), cadeias leves ([[Mieloma Múltiplo]]), [[Ácido Úrico Sérico|ácido úrico]] ([[Síndrome de Lise Tumoral]])
 
-*Pista:* **Cilindros granulares pigmentados, FENa > 2%, FEUreia > 50%**
+*Pista:* **[[Cilindros Granulares Pigmentados]], FENa > 2%, FEUreia > 50%**
 
 #### **B2. Intersticial ([[Nefrite Intersticial Aguda]])**
-- **Fármacos** (70-75%): **[[Beta-lactâmicos]]**, **[[AINEs]]**, **[[IBPs]]**, sulfas, alopurinol
-- **Infecções:** [[Leptospirose]], [[CMV]], [[Toxoplasmose]]
-- **Doenças sistêmicas:** [[LES]], [[Síndrome de Sjögren]], [[Sarcoidose]]
+- **Fármacos** (70-75%): **[[Penicilinas|beta-lactâmicos]]**, **[[AINEs]]**, **[[Inibidores da bomba de prótons (IBPs)|IBPs]]**, sulfas, alopurinol
+- **Infecções:** [[Leptospirose]], [[Citomegalovírus|CMV]], [[Toxoplasmose]]
+- **Doenças sistêmicas:** [[Lúpus Eritematoso Sistêmico|LES]], Síndrome de Sjögren, sarcoidose
 
-*Pista:* **Piúria estéril, eosinofilúria, eosinofilia ± rash + febre**
+*Pista:* **[[Piúria Estéril]], [[Eosinofilúria]], eosinofilia ± rash + febre**
 
-#### **B3. Glomerular ([[Glomerulonefrite]] aguda / [[GNRP]])**
+#### **B3. Glomerular ([[Glomerulonefrite]] aguda / [[Glomerulonefrite Rapidamente Progressiva (GNRP)|GNRP]])**
 - Síndromes nefríticas e nefróticas
 - Pós-infecciosa, IgA, vasculites ANCA, anti-GBM, lúpus
 
-*Pista:* **Hematúria + cilindros hemáticos + proteinúria significativa (≥ 1 g)**
+*Pista:* **Hematúria + [[Cilindros Hemáticos]] + proteinúria significativa (≥ 1 g)**
 
 #### **B4. Vascular (grandes ou pequenos vasos)**
 - Trombose de artéria/veia renal
 - **[[Doença Ateroembólica Renal]]** (pós-procedimento)
-- Microangiopatia trombótica ([[PTT]], [[Síndrome Hemolítico-Urêmica (SHU)]])
+- Microangiopatia trombótica ([[Púrpura Trombocitopênica Trombótica (PTT)|PTT]], [[Síndrome Hemolítico-Urêmica (SHU)]])
 - Vasculites de pequenos vasos (poliangeite microscópica, PAN, crioglobulinemia)
 
 *Pista:* **Hematúria + contexto vascular (procedimento, hipertensão maligna, diarreia sanguinolenta na SHU)**
@@ -116,7 +116,7 @@ A topografia organiza o raciocínio diagnóstico **e** o manejo:
 **Quem entra aqui?** Obstrução do fluxo urinário em **qualquer ponto** entre cálice renal e uretra.
 
 - **Causas baixas (frequentes):** [[Hiperplasia Prostática Benigna]], cálculo vesical, obstrução de sonda, neoplasia vesical
-- **Causas altas (mais sutis, exigem obstrução **bilateral** para causar IRA):** [[Litíase Urinária]] bilateral, fibrose retroperitoneal, neoplasia pélvica/abdominal comprimindo ureteres
+- **Causas altas (mais sutis, exigem obstrução bilateral para causar IRA):** [[Nefrolitíase (cálculos renais)|litíase urinária]] bilateral, fibrose retroperitoneal, neoplasia pélvica/abdominal comprimindo ureteres
 - **Intratubular:** **[[Aciclovir]]** (precipita), metotrexato, sulfonamidas
 
 > [!important] Pós-renal Sempre Bilateral
@@ -176,7 +176,7 @@ Calcular FENa (e FEUreia se em uso de diurético)
 
 **Se padrão glomerular (hematúria + proteinúria):**
 - Solicitar marcadores de GN: complemento, ANCA, anti-DNA, anti-GBM, ASLO
-- Considerar **biópsia renal** precocemente (GN rapidamente progressiva tem janela terapêutica curta)
+- Considerar **[[Biópsia Renal]]** precocemente (GN rapidamente progressiva tem janela terapêutica curta)
 
 **Se vascular (pós-procedimento, livedo, eosinofilia):**
 - Pensar em **[[Doença Ateroembólica Renal]]**
@@ -186,9 +186,9 @@ Calcular FENa (e FEUreia se em uso de diurético)
 
 | Achado | Investigação Adicional |
 |--------|-------------------------|
-| Mialgia + urina escura | [[CPK]] + mioglobina urinária ([[Rabdomiólise]]) |
+| Mialgia + urina escura | [[Elevação de CPK\|CPK]] + mioglobina urinária ([[Rabdomiólise]]) |
 | Neoplasia hematológica em quimio | Ácido úrico, P, K, Ca ([[Síndrome de Lise Tumoral]]) |
-| Anemia + plaquetopenia + esquizócitos | Microangiopatia ([[SHU]], [[PTT]]) |
+| Anemia + plaquetopenia + esquizócitos | Microangiopatia ([[Síndrome Hemolítico-Urêmica (SHU)\|SHU]], [[Púrpura Trombocitopênica Trombótica (PTT)\|PTT]]) |
 | Gestante 3º trimestre | Pré-eclâmpsia, HELLP |
 | Dor lombar súbita | Trombose vascular |
 | Idoso com perda ponderal | [[Mieloma Múltiplo]] (cadeias leves) |
@@ -200,13 +200,13 @@ Calcular FENa (e FEUreia se em uso de diurético)
 ### **Pivôs Topográficos (Decisão Pré × Renal × Pós)**
 - **Anúria abrupta** = obstrução completa (até prova em contrário)
 - **FENa < 1% + urina concentrada** = pré-renal
-- **Cilindros granulares pigmentados** = NTA
+- **[[Cilindros Granulares Pigmentados]]** = NTA
 - **Hidronefrose no USG** = pós-renal
 - **Resposta a volume em 24-48h** = pré-renal confirmada
 
 ### **Pivôs Etiológicos (Causa Renal Específica)**
-- **Eosinofilia + rash + febre + uso de β-lactâmico** = [[NIA]]
-- **Hematúria + cilindros hemáticos + proteinúria** = [[Glomerulonefrite]]
+- **Eosinofilia + rash + febre + uso de β-lactâmico** = [[Nefrite Intersticial Aguda|NIA]]
+- **Hematúria + [[Cilindros Hemáticos]] + proteinúria** = [[Glomerulonefrite]]
 - **Livedo + dedo azul + pós-cateterismo + eosinofilia + hipocomplementemia** = [[Doença Ateroembólica Renal]]
 - **CPK > 5x normal + mioglobinúria + urina escura** = [[Rabdomiólise]]
 - **Ácido úrico > 8 + P > 4,5 + neoplasia em quimio** = [[Síndrome de Lise Tumoral]]
@@ -239,8 +239,8 @@ Calcular FENa (e FEUreia se em uso de diurético)
 7. **Stewardship renal:** revisar prescrição diariamente, suspender nefrotóxicos, ajustar doses
 
 ### **Cuidados com a Prescrição em IRA**
-- **Suspender:** [[AINEs]], [[Aminoglicosídeos]] (se possível), contraste eletivo, [[Anfotericina B]] (preferir lipossomal), nefrotóxicos em geral
-- **Cuidado:** [[IECA]]/[[BRA]] (suspender em fase aguda), [[Espironolactona]] (risco hipercalemia), [[Metformina]] (acidose lática)
+- **Suspender:** [[AINEs]], aminoglicosídeos (se possível), contraste eletivo, [[Anfotericina B]] (preferir lipossomal), nefrotóxicos em geral
+- **Cuidado:** [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]/[[BRA]] (suspender em fase aguda), [[Espironolactona]] (risco hipercalemia), [[Metformina]] (acidose lática)
 - **Ajustar dose:** todos os fármacos com excreção renal — inclusive antibióticos (vancomicina), DOACs, gabapentina, opioides
 - **Manter:** [[Estatinas]], [[Aspirina]] em doses cardioprotetoras (geralmente seguras)
 
@@ -249,10 +249,10 @@ Calcular FENa (e FEUreia se em uso de diurético)
 ## 🔗 Conexões com Outros Guias
 
 - [[Urgências Dialíticas]] — quando dialisar (AEIOU)
-- [[Manejo da Hipercalemia]]
+- [[Hipercalemia]] — manejo detalhado do distúrbio mais letal
 - [[Doença Renal Crônica]] — IRA é fator de risco para DRC
 - [[Acidose Metabólica]] — distúrbio frequente em IRA
-- [[Síndrome Urêmica]]
+- [[Glomerulopatias]] — quando o padrão é glomerular
 
 ---
 
@@ -269,4 +269,5 @@ Calcular FENa (e FEUreia se em uso de diurético)
 
 ### ➕ Updates de Casos Reais
 *- Caso F.G.O (45 anos, pós-Sleeve, diarreia + IRA + ATR4): exemplo clássico de **IRA pré-renal sobre DRC** — Cr 1,4 → 2,12 (1,51× = KDIGO 1), com hipercalemia paradoxal pela combinação de IRA + ATR4 (hipoaldosteronismo no DM). A diarreia precipitou tudo: perdas + acidose metabólica que normalmente daria hipocalemia, mas a falha do shift renal/aldosterônico inverteu o resultado.*
+*- Auditoria de links (2026-07-09): ~20 links fantasmas corrigidos via Filosofia B (siglas soltas → pipe para filename real). Conceitos sem nota no vault (Sjögren, sarcoidose sistêmica, contraste iodado, hiperfosfatemia) foram convertidos em texto puro.*
 -

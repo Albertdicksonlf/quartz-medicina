@@ -22,7 +22,7 @@ aliases:
 - **Transmissão:** Ingestão de alimentos contaminados, principalmente **[[Ovos crus ou mal cozidos]]**, **[[Carne de aves]]** e laticínios não pasteurizados. Contato com répteis também é uma fonte.
 - **Incubação:** 6 a 72 horas.
 - **Quadro Clínico:**
-  - Início com [[Náuseas]], [[Vômitos]] e [[Cólicas abdominais]].
+  - Início com [[Náusea|Náuseas]], [[Vômitos]] e [[Cólicas abdominais]].
   - Seguidos por [[Diarreia]], que pode ser **[[Aquosa ou inflamatória (com muco e, ocasionalmente, sangue)]]**.
   - [[Febre]] é comum.
 - **Duração:** Geralmente autolimitada, 3 a 7 dias.

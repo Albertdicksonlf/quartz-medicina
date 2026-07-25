@@ -59,7 +59,7 @@ aliases:
 - **[[Retossigmoidoscopia]]** ou **[[Colonoscopia com biópsias seriadas]]**: Exame de escolha para diagnóstico, avaliação da extensão e atividade, e rastreamento de displasia/câncer.
 - **Exames Laboratoriais:**
   - [[Hemograma]] (avaliar [[Anemia]]).
-  - [[PCR]] e [[VHS]] (marcadores de atividade inflamatória).
+  - [[PCR]] e [[Velocidade de Hemossedimentação (VHS)|VHS]] (marcadores de atividade inflamatória).
   - [[Albumina]] (marcador de gravidade/nutrição).
   - **[[Calprotectina fecal elevada]]**: Excelente marcador de atividade inflamatória intestinal.
 - **Exames de Fezes:** [[Coprocultura]], [[EPF]], [[Pesquisa de toxinas para C. difficile]] para excluir causas infecciosas.

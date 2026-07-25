@@ -39,7 +39,7 @@ tipo de exame: null
 ## 🎯 ACHADOS-CHAVE (PIVÔS)
 - **Laboratoriais (LCR):**
 	- Pleocitose **linfocítica** (10–400)
-	- **Hemácias / xantocromia** (necrose hemorrágica) — discriminante-chave vs anti-NMDAR (LCR limpo)
+	- **Hemácias / xantocromia** (necrose hemorrágica) — discriminante-chave vs anti-NMDAR (LCR limpo) - Ligeiramente espec'fico 
 	- Proteinorraquia tipicamente moderada (não tratar "<150" como teto rígido)
 - **Imagem ([[Ressonância Magnética de Crânio]] — exame de escolha):** hipersinal em T2/FLAIR no lobo temporal medial, frequentemente hemorrágico.
 - **EEG:** [[EEG|descargas periódicas / foco temporal]].

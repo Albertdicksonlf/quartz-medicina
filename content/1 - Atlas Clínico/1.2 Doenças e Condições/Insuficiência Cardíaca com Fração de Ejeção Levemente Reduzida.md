@@ -101,7 +101,7 @@ Idêntica à ICFEr:
 - Único com **forte evidência** de benefício prognóstico em ICFElr (estudo DELIVER)
 
 ### **2. Demais Pilares (Recomendação IIa/IIb)**
-- **[[IECA]] / [[BRA]] / [[INRA]]** — considerar
+- **[[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]] / [[BRA]] / [[INRA]]** — considerar
 - **[[Betabloqueadores]]** — considerar
 - **[[Antagonista Mineralocorticoide]]** ([[Espironolactona]]) — considerar
 

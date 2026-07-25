@@ -27,7 +27,7 @@ aliases:
 - **[[Doppler Arterial de Membros Inferiores]]**: Para avaliar a **Doença Arterial Periférica (DAP)**, localizar estenoses e oclusões.
 
 ### **2. Doença Cerebrovascular**
-- **[[Doppler de Artérias Carótidas e Vertebrais]]**: Rastreamento e quantificação de placas de aterosclerose que podem causar um [[AVC]].
+- **[[Doppler de Artérias Carótidas e Vertebrais]]**: Rastreamento e quantificação de placas de aterosclerose que podem causar um [[Acidente Vascular Encefálico|AVC]].
 
 ### **3. Cardiologia (como parte do Ecocardiograma)**
 - **[[Ecocardiograma com Doppler]]**: É fundamental para avaliar:

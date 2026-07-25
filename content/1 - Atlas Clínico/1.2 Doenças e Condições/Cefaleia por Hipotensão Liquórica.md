@@ -33,7 +33,7 @@ tipo de exame: null
 - **Sintomas Principais:**
 	- **[[Cefaleia]] Ortostática:** É o sintoma cardinal. Geralmente descrita como uma dor latejante ou em pressão, tipicamente occipital ou holocraniana.
 - **Sintomas Associados:**
-    - [[Náuseas e Vômitos]].
+    - [[Náusea|Náuseas]] e [[Vômitos]].
     - [[Rigidez de Nuca]] (por tração das meninges).
     - Sintomas auditivos: Zumbido, hipoacusia, sensação de ouvidos tampados.
     - Sintomas visuais: Fotofobia, [[Diplopia]] (por tração de nervos cranianos).
@@ -128,7 +128,7 @@ tipo de exame: null
 - **Profilaxia em wet tap conhecido:**
 	- Hidratação vigorosa
 	- Repouso pós-parto/cirurgia
-	- Considerar [[Cosintropina]] IV (evidência fraca)
+	- Considerar Cosintropina IV (evidência fraca)
 	- Blood patch profilático antes da alta (controverso)
 - **Diagnóstico diferencial obrigatório em puérpera com cefaleia:**
 	- Pré-eclâmpsia / eclâmpsia tardia

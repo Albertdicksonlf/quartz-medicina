@@ -76,7 +76,7 @@ card:
 - **Análise de urina pós-orgasmo:** Coletar primeira urina após masturbação → microscopia para espermatozoides
 - **[[Espermograma]]:** Volume seminal muito reduzido ou ausente
 - **Anamnese de medicamentos** e cirurgias
-- **Avaliação hormonal** ([[Testosterona]], FSH) se infertilidade
+- **Avaliação hormonal** ([[Testosterona Total e Livre|Testosterona]], FSH) se infertilidade
 
 ---
 

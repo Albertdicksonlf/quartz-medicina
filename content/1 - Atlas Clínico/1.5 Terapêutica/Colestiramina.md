@@ -34,7 +34,7 @@ aliases:
 *São principalmente gastrointestinais, pois a droga não é absorvida.*
 
 - **[[Constipação]]**: Efeito adverso **muito comum** e principal fator limitante. Pode ser severa.
-- [[Distensão abdominal]], [[Flatulência]], [[Náuseas]].
+- [[Distensão abdominal]], [[Flatulência]], [[Náusea|Náuseas]].
 - **[[Esteatorreia]]**: Em doses altas, pode se ligar também aos ácidos graxos e causar ou piorar a má absorção de gorduras e [[Vitaminas lipossolúveis (A, D, E, K)]].
 - **[[Acidose metabólica hiperclorêmica]]** (raro).
 
@@ -45,7 +45,7 @@ aliases:
 
 ## Contraindicações e Precauções
 - **Contraindicações:** Obstrução biliar completa (a droga não teria ação).
-- **Precauções:** Pacientes com [[Constipação]] preexistente, risco de impactação fecal. Monitorar o [[INR]] de perto se usada com [[Varfarina]]. Considerar [[Suplementação de vitaminas lipossolúveis]] em uso crônico.
+- **Precauções:** Pacientes com [[Constipação]] preexistente, risco de impactação fecal. Monitorar o [[TAP ou INR (Índice Normalizado Internacional)|INR]] de perto se usada com [[Varfarina]]. Considerar [[Suplementação de vitaminas lipossolúveis]] em uso crônico.
 
 ---
 ### **➕ Novas Anotações / Insights**

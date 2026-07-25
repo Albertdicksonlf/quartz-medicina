@@ -43,7 +43,7 @@ aliases:
 
 ## 💊 Tratamento Pós-Operatório
 - **[[Inibidores da Bomba de Prótons (IBPs)]]**: Para proteger a anastomose.
-- **[[Suplementação polivitamínica e mineral]]**: Obrigatória, focando em [[Ferro]], [[Vitamina B12]] (geralmente injetável), [[Cálcio]] e [[Vitamina D]].
+- **[[Suplementação polivitamínica e mineral]]**: Obrigatória, focando em [[Ferro]], [[Vitamina B12 (Cobalamina)|Vitamina B12]] (geralmente injetável), [[Cálcio]] e [[Vitamina D]].
 - **[[Ácido Ursodesoxicólico]]**: Pode ser usado para prevenir cálculos biliares.
 
 ---

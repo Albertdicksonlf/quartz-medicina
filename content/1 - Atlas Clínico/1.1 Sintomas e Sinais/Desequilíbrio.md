@@ -25,7 +25,7 @@ card:
     1.  **Sistema Proprioceptivo:** Informa a posição das articulações e do corpo no espaço ([[Neuropatia Periférica]], mielopatias).
     2.  **Sistema Visual:** Fornece orientação em relação ao ambiente.
     3.  **Sistema Vestibular:** Detecta movimentos e a posição da cabeça.
-- **Disfunção Motora:** Além dos déficits sensoriais, o desequilíbrio pode ser causado por problemas na resposta motora (eferente), como fraqueza muscular, bradicinesia ([[Doença de Parkinson - Aula]]) ou espasticidade ([[AVC]]).
+- **Disfunção Motora:** Além dos déficits sensoriais, o desequilíbrio pode ser causado por problemas na resposta motora (eferente), como fraqueza muscular, bradicinesia ([[Doença de Parkinson - Aula]]) ou espasticidade ([[Acidente Vascular Encefálico|AVC]]).
 
 ## 🕵️ Roteiro de Anamnese (O Script)
 *O que perguntar para caracterizar este sintoma?*
@@ -35,11 +35,11 @@ card:
     - "A instabilidade ocorre apenas ao andar ou também parado?"
     - "Você sente que seu corpo 'puxa' para algum lado?"
     - "Você tem medo de cair?"
-3.  **Cronologia:** O início foi súbito (sugere [[AVC]]) ou gradual e progressivo (sugere doença degenerativa)?
+3.  **Cronologia:** O início foi súbito (sugere [[Acidente Vascular Encefálico|AVC]]) ou gradual e progressivo (sugere doença degenerativa)?
 4.  **Sintomas Associados:**
     - Perda de sensibilidade nos pés ([[Neuropatia Periférica]]).
     - Rigidez, lentidão de movimentos, tremores ([[Doença de Parkinson - Aula]]).
-    - Fraqueza em um lado do corpo (sequela de [[AVC]]).
+    - Fraqueza em um lado do corpo (sequela de [[Acidente Vascular Encefálico|AVC]]).
     - Problemas de memória ou incontinência urinária (tríade da [[Hidrocefalia de Pressão Normal]]).
 5.  **Revisão de Medicamentos:** Investigar o uso de sedativos, hipnóticos, anti-hipertensivos ([[Polifarmácia]]).
 

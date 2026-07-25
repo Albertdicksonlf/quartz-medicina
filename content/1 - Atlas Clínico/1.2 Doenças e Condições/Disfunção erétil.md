@@ -34,7 +34,7 @@ card:
 	- **PDE-5 degrada GMPc** → causa detumescência (perda da ereção) ← alvo dos inibidores de PDE-5
 4. **Fatores moduladores:**
 	- **Psicológico:** integra o estímulo central
-	- **Hormonal:** [[Testosterona]] mantém libido e modula vias centrais e periféricas
+	- **Hormonal:** [[Testosterona Total e Livre|Testosterona]] mantém libido e modula vias centrais e periféricas
 
 ### **Etiologia (Causas)**
 
@@ -97,7 +97,7 @@ card:
 ### **Laboratório Mínimo**
 - **Glicemia de jejum** + HbA1c
 - **Perfil lipídico** (risco cardiovascular)
-- **[[Testosterona]] total matinal** (8h)
+- **[[Testosterona Total e Livre|Testosterona]] total matinal** (8h)
 - **[[TSH]]**
 - **PSA** (se >40 anos, antes de repor testosterona)
 

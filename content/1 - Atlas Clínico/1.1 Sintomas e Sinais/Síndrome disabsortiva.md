@@ -70,7 +70,7 @@ aliases:
 - **Clínico:** A presença de **[[Esteatorreia]]** associada a **[[Perda de peso]]** e/ou **[[Sinais/sintomas de deficiências nutricionais específicas]]**.
 - **Laboratorial:**
   - **[[Confirmação de Esteatorreia]]**: [[Teste de gordura fecal qualitativo (Sudan III)]] ou [[Teste de gordura fecal quantitativo]].
-  - **[[Testes de Deficiências Nutricionais]]**: [[Anemia]] (micro ou macrocítica), [[Hipoalbuminemia]], [[INR alargado]], [[Níveis baixos de vitaminas lipossolúveis (A, D, E, K)]], [[Cálcio]], [[Magnésio]], [[Ferro]], [[Vitamina B12]].
+  - **[[Testes de Deficiências Nutricionais]]**: [[Anemia]] (micro ou macrocítica), [[Hipoalbuminemia]], [[INR alargado]], [[Níveis baixos de vitaminas lipossolúveis (A, D, E, K)]], [[Cálcio]], [[Magnésio]], [[Ferro]], [[Vitamina B12 (Cobalamina)|Vitamina B12]].
 
 ---
 ## 4. 🔬 Investigação (Abordagem Escalonada)

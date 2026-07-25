@@ -99,7 +99,7 @@ card:
 - Tratar a causa base sempre que possível (ex.: abstinência alcoólica, controle do Chagas).
 
 ### **2. Tratamento por Fenótipo**
-- **Dilatada (ICFEr):** Tratamento padrão de [[Insuficiência Cardíaca com Fração de Ejeção Reduzida]] — quadrupla terapia ([[IECA]]/[[BRA]]/[[Sacubitril-Valsartana]] + [[Betabloqueadores]] + [[Espironolactona]] + [[Inibidores de SGLT2]]).
+- **Dilatada (ICFEr):** Tratamento padrão de [[Insuficiência Cardíaca com Fração de Ejeção Reduzida]] — quadrupla terapia ([[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]/[[BRA]]/[[Sacubitril-Valsartana]] + [[Betabloqueadores]] + [[Espironolactona]] + [[Inibidores de SGLT2]]).
 - **Hipertrófica:** [[Betabloqueadores]] ou BCC não-DHP ([[Verapamil]], [[Diltiazem]]); **evitar** diuréticos, nitratos e digitálicos; [[Mavacamteno]] em casos selecionados.
 - **Restritiva:** Tratamento de [[Insuficiência Cardíaca com Fração de Ejeção Preservada]] + tratar causa base.
 

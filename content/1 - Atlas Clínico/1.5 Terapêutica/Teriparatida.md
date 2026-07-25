@@ -37,7 +37,7 @@ classe medicamentosa:
 ## ⚠️ Efeitos Adversos Importantes
 - **[[Hipercalcemia]]** transitória (geralmente leve).
 - [[Hipercalciúria]].
-- [[Náuseas]], [[Cefaleia]], [[Tontura]], [[Cãibras nas pernas]].
+- [[Náusea|Náuseas]], [[Cefaleia]], [[Tontura]], [[Cãibras nas pernas]].
 - Dor no local da injeção.
 - Risco teórico (muito baixo em humanos) de Osteossarcoma.
 

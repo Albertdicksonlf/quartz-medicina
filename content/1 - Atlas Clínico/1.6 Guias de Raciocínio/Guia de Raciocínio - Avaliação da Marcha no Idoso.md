@@ -23,7 +23,7 @@ card:
 *O principal viés é o "idadismo": atribuir a instabilidade apenas à idade avançada, ignorando causas reversíveis.*
 
 - **Sinais de Alerta (Red Flags) para Avaliação Urgente:** 🚩
-	- Início **agudo** de distúrbio da marcha (suspeita de [[AVC]] ou compressão medular).
+	- Início **agudo** de distúrbio da marcha (suspeita de [[Acidente Vascular Encefálico|AVC]] ou compressão medular).
 	- Queda recente com lesão grave (fratura) ou incapacidade de se levantar ("long lie").
 	- Sinais neurológicos focais associados (diplopia, disartria, fraqueza assimétrica).
 	- Medo severo e paralisante de cair (ptofobia), que pode indicar um componente psicogênico ou um problema grave subjacente.
@@ -39,7 +39,7 @@ card:
 - **Pista Diagnóstica:** Dor que limita o movimento, perda de sensibilidade nos pés ([[Sinal de Romberg]] positivo), ou fraqueza muscular evidente.
 
 ### **Nível 2: Nível Médio (Integração Espinhal e Tronco Encefálico)**
-- **Causas:** Mielopatia (compressão medular), sequelas de [[AVC]], [[Doença de Parkinson - Aula]] e outras síndromes parkinsonianas.
+- **Causas:** Mielopatia (compressão medular), sequelas de [[Acidente Vascular Encefálico|AVC]], [[Doença de Parkinson - Aula]] e outras síndromes parkinsonianas.
 - **Pista Diagnóstica:** Padrões de marcha específicos: marcha espástica/em tesoura (mielopatia), marcha ceifante (hemiparesia), marcha em pequenos passos/arrastada com bradicinesia (parkinsonismo).
 
 ### **Nível 3: Nível Superior (Controle Cortical e Subcortical)**

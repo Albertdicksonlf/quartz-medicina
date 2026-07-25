@@ -44,7 +44,7 @@ card:
 
 **Humor:** elevado, expansivo ou **irritável** de forma anormal e persistente + aumento de energia/atividade dirigida a objetivos
 
-**Duração mínima:** ≥ **7 dias** (ou qualquer duração se exigir hospitalização ou houver características psicóticas)
+**Duração mínima:** ≥ **7 dias** (ou qualquer duração se exigir hospitalização ou houver características psicóticas); mas geralmente ocorre em meses de evolução
 
 **Sintomas — mnemônico DIGFAST (≥ 3; ou ≥ 4 se humor apenas irritável):**
 

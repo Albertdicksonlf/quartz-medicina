@@ -59,7 +59,7 @@ card:
 - Prolactina (inibe quando elevada)
 - TSH (hipo/hipertireoidismo afeta)
 - **Pistas:** Diminuição global da libido, fadiga, perda de massa muscular, ginecomastia, atrofia testicular
-- **Investigação:** [[Testosterona]] matinal, LH, FSH, prolactina, TSH
+- **Investigação:** [[Testosterona Total e Livre|Testosterona]] matinal, LH, FSH, prolactina, TSH
 
 > [!important] Maioria dos Casos é MISTA
 > O componente hormonal, vascular e psicogênico frequentemente **coexistem**. O raciocínio identifica o **predominante** para direcionar o tratamento, mas raramente é puro.
@@ -78,7 +78,7 @@ card:
 ### **Passo 2 (Laboratorial Mínimo) — Para TODOS**
 - **Glicemia de jejum + HbA1c**
 - **Perfil lipídico**
-- **[[Testosterona]] total matinal (8h)**
+- **[[Testosterona Total e Livre|Testosterona]] total matinal (8h)**
 - **TSH**
 
 ### **Passo 3 (Se Hormonal Suspeito ou Confirmado)**
@@ -115,7 +115,7 @@ card:
 
 - **Heurística da Idade:** Jovem sem fatores de risco = pense psicogênica. >50 com risco CV = vascular. Misto é o mais comum.
 - **Pivô das Ereções Matinais:** Pergunte sempre — é o divisor de águas mente/corpo.
-- **Pivô da Fertilidade:** Antes de prescrever [[Testosterona]] exógena, sempre perguntar **"quer ter filhos?"** — TRT suprime espermatogênese.
+- **Pivô da Fertilidade:** Antes de prescrever [[Testosterona Total e Livre|Testosterona]] exógena, sempre perguntar **"quer ter filhos?"** — TRT suprime espermatogênese.
 - **Pivô da DE como Marcador CV:** DE vasculogênica em homem <60 anos = estratificar risco cardiovascular agressivamente (Framingham/SCORE).
 - **Pérola dos Medicamentos:** ISRS é causa medicamentosa mais comum de disfunção sexual (libido e ejaculação). Sempre rastrear.
 - **Erro Comum:** Tratar DE com iPDE-5 sem corrigir hipogonadismo concomitante — resposta subótima.

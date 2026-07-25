@@ -32,7 +32,7 @@ aliases:
 - **Sintoma Principal:** **[[Edema periférico bilateral e simétrico]]**, causado pela [[Hipoalbuminemia]] severa. Pode haver [[Ascite]] e [[Derrame pleural]].
 - **Sintomas Gastrointestinais:**
   - [[Diarreia crônica]], frequentemente com [[Esteatorreia]].
-  - [[Dor abdominal]], [[Náuseas]].
+  - [[Dor abdominal]], [[Náusea|Náuseas]].
 - **Outros:** [[Fadiga]], [[Perda de peso]], [[Tetania]] (por hipocalcemia devido à má absorção de Vit D e ligação do cálcio às gorduras).
 - [[Infecções de repetição]] (devido à perda de imunoglobulinas e linfócitos).
 

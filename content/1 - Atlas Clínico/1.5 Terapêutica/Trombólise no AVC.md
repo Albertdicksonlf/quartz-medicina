@@ -118,7 +118,7 @@ card:
 
 ### **Complicações Intraoperatórias**
 - **Hemorragia sistêmica** (TGI, TGU, sítios de punção)
-- **Angioedema orolingual** (~1-5%) — risco aumentado em uso de [[IECA]]
+- **Angioedema orolingual** (~1-5%) — risco aumentado em uso de [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]
 - Hipotensão
 
 ### **Complicações Pós-Infusão (24h)**

@@ -102,7 +102,7 @@ A inflamação intersticial:
 
 ### **Sangue**
 - **[[Eosinofilia]]** periférica — sensibilidade variável (~80% em NIA por β-lactâmicos; menor em AINEs/IBPs)
-- [[VHS]] e [[PCR (Proteína C Reativa)]] elevados
+- [[Velocidade de Hemossedimentação (VHS)|VHS]] e [[PCR (Proteína C Reativa)]] elevados
 - IgE pode estar elevada
 - [[Creatinina Sérica]] elevada
 

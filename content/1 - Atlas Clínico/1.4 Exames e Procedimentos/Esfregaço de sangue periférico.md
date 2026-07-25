@@ -23,7 +23,7 @@ aliases:
 
 ### **Série Vermelha (Hemácias)**
 - [[Microcitose e Hipocromia]]: Hemácias pequenas e pálidas. Sugere `Anemia Ferropriva` ou `Talassemia`.
-- [[Macrocitose e Neutrófilos hipersegmentados]]: Hemácias grandes e neutrófilos com múltiplos lóbulos nucleares. Achado-pivô de `Anemia Megaloblástica` (deficiência de [[Vitamina B12]]/Folato).
+- [[Macrocitose e Neutrófilos hipersegmentados]]: Hemácias grandes e neutrófilos com múltiplos lóbulos nucleares. Achado-pivô de `Anemia Megaloblástica` (deficiência de [[Vitamina B12 (Cobalamina)|Vitamina B12]]/Folato).
 - **[[Esquizócitos]]**: **Hemácias fragmentadas**. Achado-pivô de `Anemia Hemolítica Microangiopática` (ocorre na `PTT`, `SHU`, `CIVD`).
 - **[[Esferócitos]]**: Hemácias pequenas, esféricas e sem o halo central claro. Sugere `Esferocitose Hereditária` ou `Anemia Hemolítica Autoimune`.
 - [[Dacriócitos]] ("hemácias em lágrima"): Sugerem fibrose na medula óssea.

@@ -48,7 +48,7 @@ tipo de exame: null
 ## 🌪️ Fisiopatologia
 - **Mecanismo Basal:** O dano aos nervos periféricos pode ocorrer no axônio (axonopatia), na bainha de mielina (mielinopatia) ou no corpo celular do neurônio.
 - **Classificação Fisiopatológica (pela ENMG):**
-	- **Axonal:** É o tipo mais comum. Degeneração "dying-back" (a parte mais distal é afetada primeiro), com **redução das amplitudes**. Típica de causas metabólicas ([[Diabetes Mellitus]]), tóxicas (álcool) e deficiências vitamínicas ([[Vitamina B12]]).
+	- **Axonal:** É o tipo mais comum. Degeneração "dying-back" (a parte mais distal é afetada primeiro), com **redução das amplitudes**. Típica de causas metabólicas ([[Diabetes Mellitus]]), tóxicas (álcool) e deficiências vitamínicas ([[Vitamina B12 (Cobalamina)|Vitamina B12]]).
 	- **Desmielinizante:** A perda da bainha de mielina **lentifica a condução** (redução da velocidade, bloqueio de condução). Sugere causa autoimune — [[Síndrome de Guillain-Barré]] (aguda) ou [[CIDP]] (crônica).
 - **Classificação Anatômica:**
 	- **Polineuropatia Simétrica Distal:** padrão mais comum, afeta os nervos mais longos primeiro → clássico padrão **"em bota e luva"**.
@@ -85,7 +85,7 @@ tipo de exame: null
 - **Diagnóstico Clínico:** Suspeitado pela história e exame físico.
 - **Investigação Laboratorial (Triagem Inicial para Causas Comuns):**
     - Glicemia de jejum e Hemoglobina Glicada (HbA1c) -> [[Diabetes Mellitus]].
-    - Dosagem de [[Vitamina B12]].
+    - Dosagem de [[Vitamina B12 (Cobalamina)|Vitamina B12]].
     - TSH -> Hipotireoidismo; função renal e hepática.
     - VHS/PCR; Eletroforese e imunoeletroforese de proteínas (soro/urina) -> Gamopatias monoclonais.
     - Autoanticorpos (FAN, anti-Ro/anti-La) conforme suspeita.
@@ -98,7 +98,7 @@ tipo de exame: null
 
 ### **1. Tratar a Causa Base**
 - Controle glicêmico rigoroso no [[Diabetes Mellitus]].
-- Reposição de [[Vitamina B12]].
+- Reposição de [[Vitamina B12 (Cobalamina)|Vitamina B12]].
 - Abstinência de álcool.
 - Imunoterapia (corticoides, imunoglobulina) para causas autoimunes ([[CIDP]], [[Vasculite]]).
 

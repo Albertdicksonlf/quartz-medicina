@@ -38,7 +38,7 @@ aliases: []
 - Por ser pouco absorvida, os efeitos colaterais são geralmente leves e gastrointestinais:
   - [[Flatulência]]
   - [[Dor abdominal]]
-  - [[Náuseas]]
+  - [[Náusea|Náuseas]]
 - Reações de hipersensibilidade são raras.
 
 ## 🔬 Monitoramento

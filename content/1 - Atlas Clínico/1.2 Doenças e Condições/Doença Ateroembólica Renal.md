@@ -100,7 +100,7 @@ tipo de exame: null
 ### **Laboratoriais**
 - **[[Eosinofilia]]** sanguínea (50-80%) — pode ser confundida com [[Nefrite Intersticial Aguda]]
 - **[[Hipocomplementemia]]** — C3 e C4 baixos (consumo nas inflamações ao redor dos cristais)
-- Aumento de [[VHS]] e [[PCR (Proteína C Reativa)]]
+- Aumento de [[Velocidade de Hemossedimentação (VHS)|VHS]] e [[PCR (Proteína C Reativa)]]
 - Pode haver [[Trombocitopenia]] discreta
 - **[[Eosinofilúria]]** — sobreposição com NIA
 
@@ -131,7 +131,7 @@ tipo de exame: null
 ### **Avaliação**
 - [[Hemograma]] (eosinofilia)
 - [[Complemento (C3, C4)]] (consumo)
-- [[VHS]] e [[PCR (Proteína C Reativa)]]
+- [[Velocidade de Hemossedimentação (VHS)|VHS]] e [[PCR (Proteína C Reativa)]]
 - Sorologias para vasculite (FAN, ANCA, anti-DNA, crioglobulinas)
 - [[Urocultura]] e sumário de urina
 - [[Fundoscopia]] — buscar placas de Hollenhorst
@@ -161,7 +161,7 @@ A confirmação histológica é desejável em casos atípicos.
 ### **2. Suporte**
 - Manejo de IRA (igual ao de [[Insuficiência Renal Aguda]])
 - Diálise se preencher critérios AEIOU
-- Controle rigoroso de pressão arterial — preferir [[IECA]]/[[BRA]] se tolerado (proteção endotelial)
+- Controle rigoroso de pressão arterial — preferir [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]/[[BRA]] se tolerado (proteção endotelial)
 - **[[Estatinas]]** em alta intensidade — estabilizam placa, podem reduzir embolizações futuras
 - Tratamento de feridas cutâneas
 

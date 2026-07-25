@@ -78,6 +78,7 @@ Na emergência, **afastar complicações ameaçadoras à vida** antes de localiz
 - Paraparesia + nível sensitivo + bexiga → [[Mielopatia]]
 - Adulto jovem + neurite óptica + parestesia/fraqueza em outro momento → [[Esclerose Múltipla]]
 - Hemiparesia súbita + sinais corticais → [[Acidente Vascular Encefálico|AVC]]
+- Mononeuropatias -> [[Hanseniase]]
 
 ---
 

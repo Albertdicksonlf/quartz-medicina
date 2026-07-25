@@ -29,7 +29,7 @@ aliases:
 ## ⚠️ Efeitos Adversos Importantes
 *As fluoroquinolonas têm um perfil de segurança que exige atenção.*
 
-- **Gastrointestinais:** [[Náuseas]], [[Vômitos]], [[Diarreia]].
+- **Gastrointestinais:** [[Náusea|Náuseas]], [[Vômitos]], [[Diarreia]].
 - **Sistema Nervoso Central:** [[Cefaleia]], tontura, confusão (especialmente em idosos).
 - **Tendinopatia e Ruptura de Tendão:** **[[Risco aumentado de tendinite e ruptura do tendão de Aquiles]]**. É um efeito adverso característico da classe.
 - **[[Prolongamento do intervalo QT]]**: Risco de arritmias cardíacas (Torsades de Pointes).

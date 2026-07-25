@@ -81,7 +81,7 @@ card:
 	- Padrão de masturbação
 	- Componente relacional
 - **Laboratório:**
-	- [[Testosterona]] total
+	- [[Testosterona Total e Livre|Testosterona]] total
 	- [[TSH]]
 	- [[Prolactina]]
 	- Glicemia / HbA1c (excluir neuropatia diabética)

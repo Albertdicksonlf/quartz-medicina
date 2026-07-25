@@ -22,7 +22,7 @@ card:
 - **Mecanismo:** A vertigem é o resultado de um conflito agudo de informações neurológicas. O cérebro recebe sinais incongruentes do sistema vestibular de um lado em comparação com o outro, ou em comparação com os sistemas visual e proprioceptivo.
 - **Classificação (Origem):**
     - **Periférica (~90%):** Lesão no ouvido interno ou no nervo vestibular ([[VPPB]], [[Neurite Vestibular]], [[Doença de Meniere]]). Geralmente tem início súbito, é muito intensa, acompanhada de náuseas/vômitos severos e associada a nistagmo que melhora com a fixação do olhar.
-    - **Central (~10%):** Lesão no tronco encefálico ou cerebelo ([[AVC]], [[Migrânea Vestibular]], tumores). O início pode ser súbito ou gradual, os sintomas são mais brandos ou desproporcionais, e frequentemente há outros sinais neurológicos focais. O nistagmo não é suprimido pela fixação do olhar.
+    - **Central (~10%):** Lesão no tronco encefálico ou cerebelo ([[Acidente Vascular Encefálico|AVC]], [[Migrânea Vestibular]], tumores). O início pode ser súbito ou gradual, os sintomas são mais brandos ou desproporcionais, e frequentemente há outros sinais neurológicos focais. O nistagmo não é suprimido pela fixação do olhar.
 
 ## 🕵️ Roteiro de Anamnese (O Script)
 A caracterização da vertigem segue a abordagem temporal (TiTrATE).
@@ -30,7 +30,7 @@ A caracterização da vertigem segue a abordagem temporal (TiTrATE).
 1.  **Cronologia (Timing):**
     -   **Episódios de Segundos:** Provocados por movimento da cabeça. Altamente sugestivo de [[VPPB]].
     -   **Episódios de Minutos a Horas:** Recorrentes e espontâneos. Pensar em [[Doença de Meniere]] ou [[Migrânea Vestibular]].
-    -   **Episódio Único, Súbito e Persistente (Horas a Dias):** Caracteriza a Síndrome Vestibular Aguda. Principais diferenciais são [[Neurite Vestibular]] e [[AVC]] de circulação posterior.
+    -   **Episódio Único, Súbito e Persistente (Horas a Dias):** Caracteriza a Síndrome Vestibular Aguda. Principais diferenciais são [[Neurite Vestibular]] e [[Acidente Vascular Encefálico|AVC]] de circulação posterior.
 
 2.  **Gatilhos (Triggers):**
     -   **Mudança de posição:** Virar na cama, olhar para cima. Clássico da [[VPPB]].
@@ -44,7 +44,7 @@ A caracterização da vertigem segue a abordagem temporal (TiTrATE).
 ## 🩺 Semiologia no Exame Físico
 -   **Busca por [[Nistagmo]]**: Analisar sua direção (horizontal, vertical, torcional), latência e fatigabilidade. Nistagmo puramente vertical ou que muda de direção com o olhar é um sinal de alerta para causa central.
 -   **[[Manobra de Dix-Hallpike]]**: Manobra provocativa para diagnosticar [[VPPB]] do canal posterior.
--   **[[Exame HINTS]]**: Essencial na síndrome vestibular aguda para diferenciar [[AVC]] de [[Neurite Vestibular]]. Um HINTS "tranquilizador" (sugestivo de causa periférica) em um paciente com vertigem aguda tem maior sensibilidade que uma ressonância magnética nas primeiras 24-48h.
+-   **[[Exame HINTS]]**: Essencial na síndrome vestibular aguda para diferenciar [[Acidente Vascular Encefálico|AVC]] de [[Neurite Vestibular]]. Um HINTS "tranquilizador" (sugestivo de causa periférica) em um paciente com vertigem aguda tem maior sensibilidade que uma ressonância magnética nas primeiras 24-48h.
 
 ---
 

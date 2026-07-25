@@ -151,7 +151,7 @@ Quando o álcool é **retirado abruptamente**, o cérebro fica em estado de **hi
 
 ### **Pivôs Laboratoriais**
 - [[Hemograma]], [[Eletrólitos]] ([[Magnésio]] e [[Potássio]] frequentemente reduzidos)
-- Função hepática, [[Albumina]], [[INR]]
+- Função hepática, [[Albumina]], [[TAP ou INR (Índice Normalizado Internacional)|INR]]
 - Função renal
 - [[Glicemia Capilar]] (afastar hipoglicemia)
 - **Etilemia** (pode ainda estar alta no início)

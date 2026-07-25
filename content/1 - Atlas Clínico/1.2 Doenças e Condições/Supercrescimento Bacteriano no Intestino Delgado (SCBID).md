@@ -21,7 +21,7 @@ aliases:
 - **Consequências:**
   1.  **[[Fermentação de Carboidratos]]**: Produção excessiva de [[Gases (Hidrogénio, Metano)]], causando [[Distensão]] e [[Flatulência]].
   2.  **[[Deficiência ou Inativação de Sais Biliares]]**: As bactérias desconjugam os sais biliares, tornando-os ineficazes para a digestão de gorduras, o que leva a [[Esteatorreia]].
-  3.  **Consumo de Nutrientes:** As bactérias podem consumir [[Vitamina B12]], levando à sua deficiência.
+  3.  **Consumo de Nutrientes:** As bactérias podem consumir [[Vitamina B12 (Cobalamina)|Vitamina B12]], levando à sua deficiência.
   4.  [[Lesão da Mucosa]] (em casos graves).
 
 ## Causas Principais (Fatores Predisponentes)
@@ -45,7 +45,7 @@ aliases:
   - **[[Flatulência excessiva]]**.
   - [[Diarreias Crônicas|Diarreia Crônica]] (pode ser aquosa ou gordurosa - [[Esteatorreia]]).
   - [[Dor abdominal]] tipo cólica.
-- Em casos mais graves, podem ocorrer [[Perda de peso]] e sintomas de deficiência de [[Vitamina B12]] ([[Anemia Megaloblástica]], [[Neuropatia periférica]]).
+- Em casos mais graves, podem ocorrer [[Perda de peso]] e sintomas de deficiência de [[Vitamina B12 (Cobalamina)|Vitamina B12]] ([[Anemia Megaloblástica]], [[Neuropatia periférica]]).
 
 ---
 ## 🎯 ACHADOS-CHAVE (PIVÔS)
@@ -83,7 +83,7 @@ aliases:
 - **Esquema:** Geralmente um ciclo de 10 a 14 dias. Recorrências são comuns, podendo exigir ciclos repetidos.
 
 ### **3. Suporte Nutricional**
-- Correção de deficiências (ex: reposição de [[Vitamina B12]]).
+- Correção de deficiências (ex: reposição de [[Vitamina B12 (Cobalamina)|Vitamina B12]]).
 - Dieta pobre em FODMAPs pode ajudar a reduzir os sintomas de gases em alguns pacientes.
 
 ---

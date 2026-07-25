@@ -55,7 +55,7 @@ Embora hoje usemos a classificação KDIGO (G e A), a evolução clássica descr
 *Link direto com a nota: [[Manejo do Diabetes na Doença Renal Crônica]]*
 
 1.  **Bloqueio do SRAA (Hemodinâmico):**
-    - **[[IECA]] ou [[BRA]]** (Enalapril/Losartana).
+    - **[[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]] ou [[BRA]]** (Enalapril/Losartana).
     - **Ação:** Abrem a Arteríola Eferente, reduzindo a pressão intraglomerular e a albuminúria. Indispensáveis se RAC > 30.
 2.  **Controle Glicêmico e Glomerular:**
     - **[[iSGLT2]]:** Fazem vasoconstrição da Aferente (feedback tubuloglomerular), "despressurizando" o glomérulo.

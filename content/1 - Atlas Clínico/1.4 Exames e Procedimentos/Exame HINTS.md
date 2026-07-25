@@ -79,7 +79,7 @@ card:
 ---
 
 ## 💡 Pontos de Aprendizado
-- **Heurística:** Um Head Impulse **normal** (negativo) em um paciente com vertigem aguda contínua é um achado paradoxal e perigoso, sendo o componente de maior acurácia do HINTS para diagnosticar um [[AVC]].
+- **Heurística:** Um Head Impulse **normal** (negativo) em um paciente com vertigem aguda contínua é um achado paradoxal e perigoso, sendo o componente de maior acurácia do HINTS para diagnosticar um [[Acidente Vascular Encefálico|AVC]].
 - **HINTS "Plus":** Adicionar a avaliação da audição ao HINTS (com fricção dos dedos) aumenta ainda mais a sensibilidade. Uma perda auditiva nova associada a um HINTS central sugere fortemente um AVC no território da AICA.
 - **Erro Comum:** Aplicar o HINTS a pacientes com vertigem posicional breve, para os quais a manobra diagnóstica correta é a [[Manobra de Dix-Hallpike]].
 

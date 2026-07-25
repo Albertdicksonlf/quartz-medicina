@@ -22,7 +22,7 @@ aliases:
 ## Vantagens sobre a Varfarina
 - Início de ação rápido (2-4 horas).
 - Dose oral fixa, 1 ou 2 vezes ao dia.
-- **Não requer monitoramento de rotina com [[INR]].**
+- **Não requer monitoramento de rotina com [[TAP ou INR (Índice Normalizado Internacional)|INR]].**
 - Menos interações medicamentosas e alimentares.
 
 ## 🔬 Monitoramento e Antídoto

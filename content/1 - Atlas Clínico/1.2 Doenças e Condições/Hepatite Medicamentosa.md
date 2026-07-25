@@ -78,7 +78,7 @@ aliases:
 - **[[Suspender o agente suspeito IMEDIATAMENTE]]**.
 
 ### **Tratamento de Suporte**
-- Monitoramento da função hepática, especialmente do [[INR]].
+- Monitoramento da função hepática, especialmente do [[TAP ou INR (Índice Normalizado Internacional)|INR]].
 - Manejo de sintomas como [[Náusea]] e [[Prurido]].
 
 ### **Antídotos e Tratamentos Específicos**

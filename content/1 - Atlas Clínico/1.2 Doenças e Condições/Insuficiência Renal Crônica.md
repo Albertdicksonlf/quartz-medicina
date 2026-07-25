@@ -100,7 +100,7 @@ aliases:
 ## 7. 🧭 Principais Complicações
 - **`Doença Cardiovascular`**: Principal causa de morte em pacientes com DRC (Infarto, AVC, Insuficiência Cardíaca).
 - **[[Anemia da DRC]]**: Por deficiência de [[Eritropoetina]] e deficiência de ferro.
-- **[[Distúrbio Mineral e Ósseo (DMO-DRC)]]**: Alterações complexas no metabolismo do [[Cálcio]], [[Fósforo]], [[PTH]] e [[Vitamina D]], levando a [[Dor óssea]], fraturas e calcificações vasculares.
+- **[[Distúrbio Mineral e Ósseo (DMO-DRC)]]**: Alterações complexas no metabolismo do [[Cálcio]], [[Fósforo]], [[PTH (Paratormônio)|PTH]] e [[Vitamina D]], levando a [[Dor óssea]], fraturas e calcificações vasculares.
 - **`Hipercalemia`**.
 - **`Acidose Metabólica`**.
 - **`Sobrecarga Volêmica`** e [[Hipertensão Arterial Sistêmica]].

@@ -12,7 +12,7 @@ aliases:
 # Distúrbio Mineral e Ósseo da Doença Renal Crônica (DMO-DRC)
 
 > [!abstract] Resumo de Uma Linha
-> Desordem sistêmica do metabolismo mineral e ósseo que ocorre como complicação da DRC. É caracterizada por anormalidades no [[Cálcio]], [[Fósforo]], [[PTH]] e [[Vitamina D]], alterações na estrutura óssea e desenvolvimento de [[Calcificações vasculares ou em tecidos moles]].
+> Desordem sistêmica do metabolismo mineral e ósseo que ocorre como complicação da DRC. É caracterizada por anormalidades no [[Cálcio]], [[Fósforo]], [[PTH (Paratormônio)|PTH]] e [[Vitamina D]], alterações na estrutura óssea e desenvolvimento de [[Calcificações vasculares ou em tecidos moles]].
 
 ## Fisiopatologia (O Ciclo Vicioso)
 1.  **[[Retenção de Fósforo]]**: Com a queda da [[TFG]], o rim perde a capacidade de excretar fósforo, levando à **[[Hiperfosfatemia]]**.
@@ -65,9 +65,9 @@ aliases:
 ### **2. Controle do Hiperparatireoidismo Secundário**
 - **[[Reposição de Vitamina D]]**:
   - Se [[25-OH Vit D baixa]], repor com `Colecalciferol` ou `Ergocalciferol`.
-  - **[[Vitamina D Ativa (Calcitriol)]]** ou análogos (`Paricalcitol`, `Doxercalciferol`): Usados para suprimir o [[PTH]] diretamente e melhorar a [[Hipocalcemia]]. Requerem monitoramento rigoroso de Cálcio e Fósforo.
+  - **[[Vitamina D Ativa (Calcitriol)]]** ou análogos (`Paricalcitol`, `Doxercalciferol`): Usados para suprimir o [[PTH (Paratormônio)|PTH]] diretamente e melhorar a [[Hipocalcemia]]. Requerem monitoramento rigoroso de Cálcio e Fósforo.
 - **[[Calcimiméticos]]**:
-  - **[[Cinacalcete]]**: Aumenta a sensibilidade do receptor de cálcio na paratireoide, "enganando-a" para que produza menos [[PTH]]. É usado quando o controle com quelantes e Vit D não é suficiente, especialmente se houver hipercalcemia ou hiperfosfatemia.
+  - **[[Cinacalcete]]**: Aumenta a sensibilidade do receptor de cálcio na paratireoide, "enganando-a" para que produza menos [[PTH (Paratormônio)|PTH]]. É usado quando o controle com quelantes e Vit D não é suficiente, especialmente se houver hipercalcemia ou hiperfosfatemia.
 
 ### **3. Tratamento Cirúrgico (Exceção)**
 - `Paratireoidectomia`: Para casos de hiperparatireoidismo terciário (autônomo) ou secundário grave e refratário ao tratamento clínico.

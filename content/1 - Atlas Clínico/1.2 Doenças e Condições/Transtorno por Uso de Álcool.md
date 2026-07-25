@@ -110,7 +110,7 @@ Ver nota dedicada: [[Síndrome de Abstinência Alcoólica]]
 - **VCM aumentado** — sem anemia ou com anemia macrocítica
 - **CDT (transferrina deficiente em carboidrato)** — marcador específico mas pouco disponível
 - **Etilemia** — útil em emergências, não em ambulatório
-- [[Plaquetas]] reduzidas, [[INR]] elevado em casos avançados ([[Cirrose Hepática]])
+- [[Plaquetas]] reduzidas, [[TAP ou INR (Índice Normalizado Internacional)|INR]] elevado em casos avançados ([[Cirrose Hepática]])
 
 ### **Critérios Diagnósticos DSM-5-TR**
 Os 11 critérios (≥ 2 em 12 meses) — ver [[Transtorno por Uso de Substâncias]]:
@@ -139,7 +139,7 @@ Os 11 critérios (≥ 2 em 12 meses) — ver [[Transtorno por Uso de Substância
 3. **Critérios DSM-5-TR** — quantificar gravidade
 4. **Avaliar comorbidades** psiquiátricas
 5. **Avaliação de complicações orgânicas:**
-	- [[Hemograma]], função hepática, [[GGT]], [[INR]], albumina
+	- [[Hemograma]], função hepática, [[GGT]], [[TAP ou INR (Índice Normalizado Internacional)|INR]], albumina
 	- [[USG de Abdome]] (esteatose, cirrose)
 	- [[Eletrocardiograma]] (cardiomiopatia)
 	- [[Endoscopia Digestiva Alta]] se suspeita de varizes

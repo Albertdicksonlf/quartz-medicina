@@ -1,14 +1,24 @@
 ---
 data:
 área:
+  - Neurocirurgia
+  - Neurologia
 tipo:
+  - Aula
 classe medicamentosa:
 tipo de doença:
 prevalência:
 aliases:
 card:
 ---
-Status: 
+Status: #processado-1
+
+> [!success] Processado em 2026-07-02 → Atlas Clínico (modo Esqueleto; 2 hubs completos)
+> **Hub / Guia:** [[Malformações Congênitas do SNC na Pediatria]]
+> **Ramo A – Deformidades Cranianas:** [[Craniossinostose]] · [[Deformidade Craniana]] · [[Plagiocefalia Postural]] · [[Síndrome de Crouzon]] · [[Síndrome de Apert]] · [[Sinal do Arlequim]] · [[Sinal da Prata Batida]] · [[Radiografia de Crânio]]
+> **Ramo B – Disrafismos:** [[Mielomeningocele]] · [[Disrafismo Espinhal]] · [[Espinha Bífida]] · [[Meningocele]] · [[Malformação de Chiari Tipo II]] · [[Hidrocefalia]] · [[Siringomielia]] · [[Síndrome da Medula Presa]] · [[Bexiga Neurogênica]] · [[Sinal da Banana]] · [[Ácido Fólico]]
+> **Reutilizadas:** [[TC de Crânio]] · [[Síndrome do Cone Medular]]
+> *Fora do escopo (mencionados, não pedidos): Tumores de SNC pediátricos; Paralisia cerebral/espasticidade.*
 
 **Cranioestenoses**
 

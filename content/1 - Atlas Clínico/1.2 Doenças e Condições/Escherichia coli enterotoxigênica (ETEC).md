@@ -24,7 +24,7 @@ aliases:
 - **Quadro Clínico:**
   - Início súbito de `Diarreia Aguda Aquosa`, **[[Volumosa e não sanguinolenta]]**.
   - [[Cólicas abdominais]].
-  - [[Náuseas]] e [[Vômitos]] podem ocorrer.
+  - [[Náusea|Náuseas]] e [[Vômitos]] podem ocorrer.
   - [[Febre baixa ou ausente]].
 - **Duração:** Autolimitada, geralmente 3 a 5 dias.
 

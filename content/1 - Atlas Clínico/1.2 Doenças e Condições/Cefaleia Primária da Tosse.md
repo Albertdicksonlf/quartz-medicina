@@ -40,8 +40,8 @@ card:
 ---
 
 ## 🔍 Diagnósticos Diferenciais
-- **[[Malformação de Chiari Tipo I]]** (Presente em até 40% dos casos de cefaleia da tosse).
-- [[Cefaleia do Exercício]] (Ocorre com esforço sustentado, não apenas Valsalva súbito).
+- Malformação de Chiari Tipo I (presente em até 40% dos casos de cefaleia da tosse — principal causa secundária a excluir).
+- Cefaleia primária do exercício (ocorre com esforço sustentado, não apenas Valsalva súbito).
 - Tumores de fossa posterior.
 
 ---

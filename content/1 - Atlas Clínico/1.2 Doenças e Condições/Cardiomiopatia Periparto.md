@@ -108,7 +108,7 @@ card:
 ### **1. Tratamento da IC Aguda — DURANTE a Gestação**
 
 > [!warning] CONTRAINDICADOS na gestação
-> **NÃO usar:** [[IECA]], [[BRA]], [[Sacubitril-Valsartana]] (teratogênicos)
+> **NÃO usar:** [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]], [[BRA]], [[Sacubitril-Valsartana]] (teratogênicos)
 
 **Permitidos / Preferidos:**
 - ⭐ **[[Hidralazina]] + [[Nitratos]]** (substituem IECA/BRA na gestação)
@@ -119,7 +119,7 @@ card:
 
 ### **2. Tratamento Pós-Parto (mãe sem amamentar)**
 - Tratamento padrão de [[Insuficiência Cardíaca com Fração de Ejeção Reduzida]]:
-	- [[IECA]]/[[BRA]] ou [[Sacubitril-Valsartana]]
+	- [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]/[[BRA]] ou [[Sacubitril-Valsartana]]
 	- [[Betabloqueadores]]
 	- [[Espironolactona]]
 	- [[Inibidores de SGLT2]]

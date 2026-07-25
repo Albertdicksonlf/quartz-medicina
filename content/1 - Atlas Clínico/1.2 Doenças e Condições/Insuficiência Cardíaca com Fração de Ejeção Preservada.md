@@ -186,7 +186,7 @@ Quando há sintomas + FEVE preservada, o H2FPEF estima a probabilidade de ICFEp:
 ### **3. Drogas SEM Benefício Comprovado em ICFEp**
 > Em ICFEp, **NÃO usar de rotina** (apenas se houver outra indicação específica):
 - **[[Betabloqueadores]]** — sem benefício prognóstico em ICFEp pura. Usar se HAS, FA, DAC concomitantes.
-- **[[IECA]]/[[BRA]]/[[INRA]]** — uso para controle pressórico, sem benefício específico de mortalidade na ICFEp pura.
+- **[[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]/[[BRA]]/[[INRA]]** — uso para controle pressórico, sem benefício específico de mortalidade na ICFEp pura.
 
 ### **4. Manejo de Comorbidades-chave**
 

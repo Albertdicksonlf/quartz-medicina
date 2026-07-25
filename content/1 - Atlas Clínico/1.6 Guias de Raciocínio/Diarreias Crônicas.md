@@ -86,7 +86,7 @@ aliases:
 ### **Passo 1: Exames de Triagem Básicos**
 *Para a maioria dos pacientes.*
 - **[[Hemograma]]** (avaliar anemia, inflamação).
-- **[[PCR (Proteína C Reativa)]]** e/ou [[VHS]] (marcadores inflamatórios).
+- **[[PCR (Proteína C Reativa)]]** e/ou [[Velocidade de Hemossedimentação (VHS)|VHS]] (marcadores inflamatórios).
 - **[[Eletrólitos]], [[Função renal]], [[Albumina]]** (avaliar estado nutricional e hidratação).
 - **[[Hormônios Tireoidianos]]** (excluir hipertireoidismo).
 - **[[Exame Parasitológico de Fezes (EPF)]]** (pelo menos 3 amostras).

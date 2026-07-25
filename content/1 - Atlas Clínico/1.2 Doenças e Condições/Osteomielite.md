@@ -77,7 +77,7 @@ tipo de exame: null
 - Fístula com drenagem persistente
 
 ### **Laboratoriais**
-- [[VHS]] **> 70 mm/h** (alta especificidade para osteomielite em pé diabético — LR+ ~3)
+- [[Velocidade de Hemossedimentação (VHS)|VHS]] **> 70 mm/h** (alta especificidade para osteomielite em pé diabético — LR+ ~3)
 - [[PCR Elevada]] (sensível mas pouco específica)
 - [[Leucocitose]] (frequentemente discreta ou ausente nas formas crônicas)
 - Procalcitonina elevada (sugere bacteremia/sepse)

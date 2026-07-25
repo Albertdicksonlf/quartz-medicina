@@ -39,7 +39,7 @@ aliases:
 
 ## ⚠️ Efeitos Adversos Importantes
 - É geralmente **muito bem tolerada**.
-- **Comuns:** [[Cefaleia]], [[Náuseas]], dor abdominal, diarreia (paradoxalmente).
+- **Comuns:** [[Cefaleia]], [[Náusea|Náuseas]], dor abdominal, diarreia (paradoxalmente).
 - **Raros, mas Graves:**
   - **[[Nefrite Intersticial]]**: Requer monitoramento da [[Função renal (Creatinina)]] periodicamente.
   - Pancreatite aguda.

@@ -6,7 +6,7 @@ aliases:
   - Indicação de TSR de Urgência
 card: null
 classe de medicamentos: null
-date: '2026-05-02T10:30:00'
+date: 2026-05-02T10:30:00
 prevalência: null
 tipo: Guia de Raciocínio
 tipo de doença: null
@@ -45,13 +45,13 @@ tipo de exame: null
 
 ### **A — Acidose Refratária**
 
-**Critério:** **pH < 7,1** ou acidose metabólica grave (HCO₃⁻ < 12-15) refratária a tratamento clínico
+**Critério:** **pH < 7,1** ou acidose metabólica grave (HCO₃⁻ < 12-15) refratária a tratamento clínico — ver [[Acidose Metabólica]]
 
 **Fisiopatologia:** acúmulo de ácidos não-voláteis (sulfato, fosfato, urato, ácidos orgânicos) que o rim normalmente excretaria
 
 **Tratamento Clínico Antes da Diálise:**
 1. **Tratar causa base** (ex: tratar [[Sepse]], reverter choque)
-2. **[[Bicarbonato de Sódio]] IV** (cautela em hipervolemia — ele tem sódio)
+2. **Bicarbonato de sódio IV** (cautela em hipervolemia — ele tem sódio)
 	- Geralmente 50-100 mEq IV se pH < 7,1
 3. Otimizar perfusão e oxigenação
 
@@ -60,11 +60,11 @@ tipo de exame: null
 - Acidose com hipervolemia (não tolera mais volume)
 - Acidose com hipercalemia (potencializam-se)
 
-### **E — Eletrólitos (Hipercalemia)**
+### **E — Eletrólitos ([[Hipercalemia]])**
 
 **Critério:**
-- [[Potássio]] > **6,5 mEq/L** refratário
-- Qualquer K⁺ > 5,5 com **alterações no [[ECG]]**:
+- [[Potássio Sérico|Potássio]] > **6,5 mEq/L** refratário
+- Qualquer K⁺ > 5,5 com **alterações no [[Eletrocardiograma (ECG)|ECG]]**:
 	- Onda T apiculada/em tenda
 	- Achatamento da onda P
 	- Prolongamento de PR
@@ -81,32 +81,32 @@ A diferença K⁺ extra/intracelular (~4 vs ~140 mEq/L) gera o potencial de repo
 Se alterações elétricas → vai direto para estabilização
 
 #### **Passo 2: Estabilização de Membrana** (não baixa K⁺, protege coração)
-- **[[Gluconato de Cálcio]] 10%** — 10 mL IV em 2-3 min
+- **Gluconato de cálcio 10%** — 10 mL IV em 2-3 min
 - Início: 1-3 min; duração: 30-60 min
 - Pode repetir se ECG não melhorar em 5 min
 
 #### **Passo 3: Shift Intracelular** (transitório, ganha tempo)
-- **[[Glicoinsulina]]:** insulina regular 10 UI IV + glicose 50% 50 mL IV
+- **Glicoinsulina:** insulina regular 10 UI IV + glicose 50% 50 mL IV
 	- Início: 10-20 min; duração: 4-6 h
-- **β2-agonista inalatório:** [[Salbutamol]] 10-20 mg nebulizado
+- **β2-agonista inalatório:** salbutamol 10-20 mg nebulizado
 	- Início: 30 min; aditivo à insulina
-- **[[Bicarbonato de Sódio]]** (apenas se acidose associada)
+- **Bicarbonato de sódio** (apenas se acidose associada)
 
 #### **Passo 4: Espoliação de Potássio**
 - **TGU:** [[Diuréticos de Alça]] ([[Furosemida]] 40-80 mg IV) — só se diurese mantida
-- **TGI:** Resinas de troca iônica
-	- [[Sulfonato de Poliestireno Cálcico (Sorcal)]] — clássico, ação lenta (4-6h), risco de necrose intestinal
-	- [[Patiromer]] / [[Ciclosilicato de Zircônio]] — modernas, mais seguras
+- **TGI:** resinas de troca iônica
+	- Sulfonato de poliestireno cálcico (Sorcal) — clássico, ação lenta (4-6h), risco de necrose intestinal
+	- Patiromer / ciclosilicato de zircônio — modernas, mais seguras
 
 #### **Passo 5: Suspender Causas**
-- IECA/BRA, espironolactona, AINEs, suplementos de potássio
+- IECA/BRA, [[Espironolactona|espironolactona]], [[AINEs]], suplementos de potássio
 - Reverter acidose
 
 **Quando Dialisar:**
 - K⁺ > 6,5 sem resposta às medidas acima
 - K⁺ com alterações ECG persistentes apesar de Ca + glicoinsulina
 - Hipercalemia + IRA oligúrica/anúrica (não há como eliminar via TGU)
-- Massa de potássio importante (rabdomiólise extensa, lise tumoral)
+- Massa de potássio importante ([[Rabdomiólise|rabdomiólise extensa]], [[Síndrome de Lise Tumoral|lise tumoral]])
 
 ### **I — Intoxicações Dialisáveis**
 
@@ -129,13 +129,13 @@ Se alterações elétricas → vai direto para estabilização
 - Baixo volume de distribuição (< 1 L/kg)
 - Hidrossolúvel
 
-**Não dialisáveis:** digoxina (alto Vd), benzodiazepínicos (alta ligação proteica), antidepressivos tricíclicos, opioides
+**Não dialisáveis:** [[Digoxina|digoxina]] (alto Vd), [[Benzodiazepínicos|benzodiazepínicos]] (alta ligação proteica), [[Antidepressivos Tricíclicos|antidepressivos tricíclicos]], [[Opioides|opioides]]
 
 ### **O — Overload (Hipervolemia Refratária)**
 
 **Critério:** hipervolemia / [[Edema Agudo de Pulmão]] **refratário** a:
 - Restrição hídrica e de sódio
-- [[Diuréticos de Alça]] em doses máximas (Furosemida 200-400 mg IV)
+- [[Diuréticos de Alça]] em doses máximas ([[Furosemida]] 200-400 mg IV)
 - Ventilação não invasiva (CPAP/BiPAP)
 
 **Quem Comumente Apresenta?**
@@ -149,20 +149,20 @@ Se alterações elétricas → vai direto para estabilização
 - Necessidade de criar espaço para nutrição/medicações
 - Instabilidade respiratória apesar de VNI
 
-**Modalidade de Escolha:** **Ultrafiltração lenta contínua (SCUF)** ou hemodiálise prolongada (SLED) — em pacientes hemodinamicamente instáveis, **CRRT** é melhor tolerada que hemodiálise convencional.
+**Modalidade de Escolha:** **ultrafiltração lenta contínua (SCUF)** ou hemodiálise prolongada (SLED) — em pacientes hemodinamicamente instáveis, a **terapia contínua (CRRT)** é melhor tolerada que a hemodiálise convencional.
 
 ### **U — Uremia Franca**
 
 **Critério:** manifestações clínicas da síndrome urêmica:
 
-#### **Encefalopatia Urêmica**
-- [[Confusão]], letargia, [[Asterixis]]
+#### **[[Encefalopatia Urêmica]]**
+- [[Confusão Mental|Confusão]], letargia, [[Asterixis ('flapping')|asterixis]]
 - Convulsões, coma (estágio avançado)
 - Fala arrastada, mioclonias
 
-#### **Pericardite Urêmica**
+#### **[[Pericardite Urêmica]]**
 - Atrito pericárdico
-- Dor torácica pleurítica
+- [[Dor torácica pleurítica]]
 - Pode evoluir para [[Tamponamento Cardíaco]]
 
 #### **Sangramento Urêmico (Discrasia Plaquetária)**
@@ -216,11 +216,11 @@ Mesmo indicando diálise, **continuar manejo clínico** durante o preparo:
 
 | Modalidade | Indicação Preferencial | Vantagens | Desvantagens |
 |------------|------------------------|-----------|--------------|
-| **[[Hemodiálise Intermitente (HDI)]]** | Paciente estável, urgência metabólica/eletrolítica | Rápida, eficaz | Instabilidade hemodinâmica em chocados |
-| **[[CRRT]]** (terapia contínua) | UTI, choque, instabilidade | Mais tolerada hemodinamicamente, lenta | Requer anticoagulação, custo alto |
-| **[[SLED]]** (sustained low-efficiency dialysis) | Intermediário entre HDI e CRRT | Boa tolerância + eficácia razoável | Disponibilidade variável |
+| **[[Hemodiálise]] intermitente (HDI)** | Paciente estável, urgência metabólica/eletrolítica | Rápida, eficaz | Instabilidade hemodinâmica em chocados |
+| **CRRT** (terapia contínua) | UTI, choque, instabilidade | Mais tolerada hemodinamicamente, lenta | Requer anticoagulação, custo alto |
+| **SLED** (sustained low-efficiency dialysis) | Intermediário entre HDI e CRRT | Boa tolerância + eficácia razoável | Disponibilidade variável |
 | **[[Diálise Peritoneal]]** | Crônico, pediatria, ambientes sem HD | Não requer acesso vascular | Lenta para urgência |
-| **[[Ultrafiltração Isolada (SCUF)]]** | Hipervolemia sem urgência metabólica | Remove só volume | Não corrige eletrólitos |
+| **Ultrafiltração isolada (SCUF)** | Hipervolemia sem urgência metabólica | Remove só volume | Não corrige eletrólitos |
 
 ### **Critérios para Escolher Modalidade**
 - **Paciente estável + urgência clara** → HDI (mais rápida)
@@ -254,7 +254,7 @@ Mesmo indicando diálise, **continuar manejo clínico** durante o preparo:
 
 | Letra | Indicação | Critério Refratário | Manejo Clínico Antes |
 |-------|-----------|----------------------|------------------------|
-| **A** | Acidose | pH < 7,1 | Tratar causa, [[Bicarbonato de Sódio]] |
+| **A** | Acidose | pH < 7,1 | Tratar causa, bicarbonato de sódio |
 | **E** | Eletrólitos | K⁺ > 6,5 ou ECG alterado | Cálcio + glicoinsulina + β2 + resina |
 | **I** | Intoxicação | Substância dialisável + sintomas | Suporte, antídoto se houver |
 | **O** | Overload | EAP refratário | Diurético dose máxima + VNI |
@@ -264,8 +264,8 @@ Mesmo indicando diálise, **continuar manejo clínico** durante o preparo:
 
 ## 🔗 Conexões com Outros Guias
 
+- [[Abordagem da IRA]] — algoritmo geral da lesão renal aguda
 - [[Insuficiência Renal Aguda]] — quadro principal que leva à indicação
-- [[Abordagem da IRA]] — algoritmo geral
 - [[Doença Renal Crônica]] — descompensação aguda também usa AEIOU
 - [[Hipercalemia]] — manejo detalhado
 - [[Edema Agudo de Pulmão]] — quando dialisar por congestão
@@ -274,4 +274,5 @@ Mesmo indicando diálise, **continuar manejo clínico** durante o preparo:
 
 ### ➕ Updates de Casos Reais
 *- (Anote aqui aprendizados sobre casos reais — especialmente situações em que houve dúvida sobre indicar diálise ou não)*
+*- Auditoria de links (2026-07-09): ~12 links fantasmas corrigidos. Fármacos sem nota no vault (gluconato de cálcio, glicoinsulina, salbutamol, bicarbonato, resinas de troca) e modalidades (CRRT, SLED, SCUF, HDI) convertidos em texto puro — criar esqueletos vazios apenas para "resolver" o link seria trocar dívida por dívida.*
 -

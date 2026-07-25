@@ -11,7 +11,7 @@ aliases:
 # Hiperparatireoidismo Secundário
 
 > [!abstract] Resumo de Uma Linha
-> Condição **compensatória** caracterizada pela hipersecreção de **[[PTH]]** pelas glândulas paratireoides em resposta a um estímulo crônico, principalmente a **[[Hipocalcemia]]** e/ou **[[Hiperfosfatemia]]**, sendo a `Doença Renal Crônica` sua principal causa.
+> Condição **compensatória** caracterizada pela hipersecreção de **[[PTH (Paratormônio)|PTH]]** pelas glândulas paratireoides em resposta a um estímulo crônico, principalmente a **[[Hipocalcemia]]** e/ou **[[Hiperfosfatemia]]**, sendo a `Doença Renal Crônica` sua principal causa.
 
 ## Fisiopatologia
 - O Hiperparatireoidismo Secundário (HPS) não é uma doença autônoma da paratireoide, mas sim uma **resposta fisiológica correta** a um problema subjacente.
@@ -20,7 +20,7 @@ aliases:
   2.  O rim doente não consegue produzir **[[Calcitriol (Vitamina D ativa)]]**.
   3.  A [[Hiperfosfatemia]] (que se liga ao cálcio) e a falta de [[Calcitriol]] (que absorve cálcio no intestino) causam **[[Hipocalcemia]]** (cálcio sérico baixo).
   4.  A [[Hipocalcemia]], a [[Hiperfosfatemia]] e a ausência do feedback negativo do [[Calcitriol]] são percebidas pelas glândulas paratireoides.
-  5.  As glândulas respondem com **hiperplasia** e **aumento da produção de [[PTH]]** na tentativa de normalizar o cálcio (retirando-o dos ossos) e eliminar o fósforo.
+  5.  As glândulas respondem com **hiperplasia** e **aumento da produção de [[PTH (Paratormônio)|PTH]]** na tentativa de normalizar o cálcio (retirando-o dos ossos) e eliminar o fósforo.
 - **Outras Causas:** Deficiência grave de [[Vitamina D]] - Aqui o fosfato vai estar baixo
 - ou síndromes disabsortivas podem causar [[Hipocalcemia]] crônica, levando também ao HPS.
 
@@ -73,15 +73,15 @@ aliases:
     - [[Carbonato de Lantânio]]
     - [[Carbonato de Cálcio]] (usado também como repositor de cálcio).
   - **Reposição de Vitamina D:**
-    - **[[Calcitriol]]** ou análogos (`Paricalcitol`): Usados para suprimir diretamente a produção de [[PTH]] e corrigir a [[Hipocalcemia]].
+    - **[[Calcitriol]]** ou análogos (`Paricalcitol`): Usados para suprimir diretamente a produção de [[PTH (Paratormônio)|PTH]] e corrigir a [[Hipocalcemia]].
   - **[[Calcimiméticos]]**:
-    - **[[Cinacalcete]]**: "Engana" a glândula paratireoide, fazendo-a pensar que o cálcio sérico está alto, o que diminui a secreção de [[PTH]].
+    - **[[Cinacalcete]]**: "Engana" a glândula paratireoide, fazendo-a pensar que o cálcio sérico está alto, o que diminui a secreção de [[PTH (Paratormônio)|PTH]].
 
 ---
 ## 💡 Pontos de Aprendizado
 - A **principal diferença** diagnóstica: HPP = [[Cálcio alto]] + [[PTH alto]]. HPS = **[[Cálcio baixo ou normal]]** + [[PTH alto]].
 - O HPS é uma **resposta fisiológica** a um problema, não a doença em si.
-- O tratamento da HPS na DRC não visa apenas baixar o [[PTH]], mas sim o controle conjunto de [[Cálcio]], [[Fósforo]] e [[PTH]] para prevenir a [[Calcificação vascular]] e a doença óssea.
+- O tratamento da HPS na DRC não visa apenas baixar o [[PTH (Paratormônio)|PTH]], mas sim o controle conjunto de [[Cálcio]], [[Fósforo]] e [[PTH (Paratormônio)|PTH]] para prevenir a [[Calcificação vascular]] e a doença óssea.
 - [[Hiperparatireoidismo Terciário]]
 
 ---

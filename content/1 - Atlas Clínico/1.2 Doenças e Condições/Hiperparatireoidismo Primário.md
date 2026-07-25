@@ -15,9 +15,9 @@ aliases:
 > Doença endócrina caracterizada pela produção excessiva e autônoma de **[[Paratormônio (PTH)]]**, que se torna inadequada para o nível de cálcio sérico, levando à **[[Hipercalcemia]]**.
 
 ## Fisiopatologia
-- A homeostase do cálcio é regulada pelo [[PTH]], que normalmente é suprimido quando o cálcio está alto.
-- No HPP, as glândulas paratireoides (geralmente uma) perdem essa regulação e produzem [[PTH]] em excesso, independentemente do nível de cálcio.
-- **Ações do [[PTH]] elevado:**
+- A homeostase do cálcio é regulada pelo [[PTH (Paratormônio)|PTH]], que normalmente é suprimido quando o cálcio está alto.
+- No HPP, as glândulas paratireoides (geralmente uma) perdem essa regulação e produzem [[PTH (Paratormônio)|PTH]] em excesso, independentemente do nível de cálcio.
+- **Ações do [[PTH (Paratormônio)|PTH]] elevado:**
   1.  **Ossos:** Aumenta a reabsorção óssea pelos osteoclastos, liberando [[Cálcio]] e [[Fósforo]] no sangue.
   2.  **Rins:** Aumenta a reabsorção de [[Cálcio]] e **aumenta a excreção de [[Fósforo]]** ([[Fosfatúria]]).
   3.  **Rins:** Estimula a enzima 1-alfa-hidroxilase, convertendo [[Vitamina D]] em sua forma ativa ([[Calcitriol]]).
@@ -53,9 +53,9 @@ aliases:
 ---
 ## 🔍 Diagnósticos Diferenciais
 - Hipercalcemia Hipocalciúrica Familiar (HHF) ([[Calciúria de 24h muito baixa]]).
-- Hipercalcemia da Malignidade (o [[PTH]] estará suprimido).
-- Intoxicação por Vitamina D (o [[PTH]] estará suprimido).
-- Sarcoidose (o [[PTH]] estará suprimido).
+- Hipercalcemia da Malignidade (o [[PTH (Paratormônio)|PTH]] estará suprimido).
+- Intoxicação por Vitamina D (o [[PTH (Paratormônio)|PTH]] estará suprimido).
+- Sarcoidose (o [[PTH (Paratormônio)|PTH]] estará suprimido).
 
 ---
 ## 🔬 Investigação (Exames Relevantes)
@@ -98,7 +98,7 @@ aliases:
   - Evitar [[Diuréticos Tiazídicos]], [[Lítio]] e imobilização.
   - Manter ingesta moderada de cálcio e reposição de [[Vitamina D]] (se deficiente).
 - **Medicamentos:**
-  - **[[Cinacalcete]]**: [[Calcimimético]] que reduz o [[PTH]] e o [[Cálcio]]. É o tratamento farmacológico de escolha para o HPP.
+  - **[[Cinacalcete]]**: [[Calcimimético]] que reduz o [[PTH (Paratormônio)|PTH]] e o [[Cálcio]]. É o tratamento farmacológico de escolha para o HPP.
   - **[[Bisfosfonatos (Alendronato, etc.)]]**: Não tratam o HPP, mas são usados para tratar a [[Osteoporose]] causada por ele.
 
 ---

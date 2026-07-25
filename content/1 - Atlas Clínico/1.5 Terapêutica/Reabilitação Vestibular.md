@@ -26,7 +26,7 @@ card:
     - **Hipofunção Vestibular Unilateral (Aguda ou Crônica):** Causa mais comum de indicação. Pacientes que se recuperam de [[Neurite Vestibular]] ou [[Labirintite]] e mantêm tontura residual ou [[Desequilíbrio]].
     - **Hipofunção Vestibular Bilateral:**
     - **Tontura Crônica e [[VPPB]] Recorrente:** Após o tratamento das crises agudas.
-    - **Disfunção Vestibular Central:** Pós-[[AVC]] ou em doenças neurodegenerativas.
+    - **Disfunção Vestibular Central:** Pós-[[Acidente Vascular Encefálico|AVC]] ou em doenças neurodegenerativas.
 
 ## ⛔ Contraindicações
 *Quando NÃO fazer ou ter cuidado.*

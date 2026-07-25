@@ -35,9 +35,9 @@ aliases:
 - Exemplo (Giardíase): 250 mg, 3 vezes ao dia, por 5 a 7 dias.
 
 ## ⚠️ Efeitos Adversos Importantes
-- **Gastrointestinais (comuns):** [[Náuseas]], [[Vômitos]], [[Gosto metálico na boca]], dor abdominal.
+- **Gastrointestinais (comuns):** [[Náusea|Náuseas]], [[Vômitos]], [[Gosto metálico na boca]], dor abdominal.
 - **Neurológicos (raros, mas graves):** Neuropatia periférica, convulsões, ataxia (com uso prolongado ou altas doses).
-- **[[Efeito Dissulfiram (Antabuse)]]**: **Interação crucial.** O [[Metronidazol]] inibe o metabolismo do álcool, causando uma reação muito desagradável ([[Náuseas]], [[Vômitos]], [[Rubor facial]], [[Palpitações]]) se o paciente consumir **[[Bebidas alcoólicas]]** durante ou até 3 dias após o tratamento. **A abstinência alcoólica é mandatória.**
+- **[[Efeito Dissulfiram (Antabuse)]]**: **Interação crucial.** O [[Metronidazol]] inibe o metabolismo do álcool, causando uma reação muito desagradável ([[Náusea|Náuseas]], [[Vômitos]], [[Rubor facial]], [[Palpitações]]) se o paciente consumir **[[Bebidas alcoólicas]]** durante ou até 3 dias após o tratamento. **A abstinência alcoólica é mandatória.**
 - Urina escura (sem significado clínico).
 
 ## Contraindicações e Precauções

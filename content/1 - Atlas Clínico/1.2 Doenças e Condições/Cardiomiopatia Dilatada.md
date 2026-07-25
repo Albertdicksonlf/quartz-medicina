@@ -129,7 +129,7 @@ card:
 
 ### **2. Tratamento da ICFEr (Quadrupla Terapia)**
 Conforme [[Insuficiência Cardíaca com Fração de Ejeção Reduzida]]:
-- **[[IECA]]** ou **[[BRA]]** ou **[[Sacubitril-Valsartana]]**
+- **[[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]** ou **[[BRA]]** ou **[[Sacubitril-Valsartana]]**
 - **[[Betabloqueadores]]** ([[Carvedilol]], [[Bisoprolol]], [[Metoprolol Succinato]])
 - **[[Espironolactona]]** (antagonista mineralocorticoide)
 - **[[Inibidores de SGLT2]]** ([[Dapagliflozina]], [[Empagliflozina]])

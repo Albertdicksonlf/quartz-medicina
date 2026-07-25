@@ -98,7 +98,7 @@ card:
 
 ### **2. Tratamento da ICFEr**
 Conforme [[Insuficiência Cardíaca com Fração de Ejeção Reduzida]]:
-- [[IECA]]/[[BRA]] ou [[Sacubitril-Valsartana]]
+- [[IECA (Inibidores da Enzima Conversora de Angiotensina)|IECA]]/[[BRA]] ou [[Sacubitril-Valsartana]]
 - [[Betabloqueadores]]
 - [[Espironolactona]]
 - [[Inibidores de SGLT2]]
