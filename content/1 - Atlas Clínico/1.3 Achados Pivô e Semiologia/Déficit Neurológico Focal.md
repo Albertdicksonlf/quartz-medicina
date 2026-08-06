@@ -35,7 +35,7 @@ tipo de exame: ''
 ---
 
 ## 🎯 PODER DIAGNÓSTICO (O PIVÔ)
-- **Déficit focal agudo** → [[AVE Isquêmico]] ou [[Hemorragia Intracerebral]] até prova em contrário → **ativar protocolo de AVC imediatamente**
+- **Déficit focal agudo** → [[AVC Isquêmico]] ou [[Hemorragia Intracerebral]] até prova em contrário → **ativar protocolo de AVC imediatamente**
 - **Déficit focal + PA muito elevada** → [[Crises Hipertensivas|emergência hipertensiva]] — **não baixar PA agressivamente** (hipertensão permissiva no AVC isquêmico)
 - **Critério FAST:** Face (assimetria), Arm (fraqueza), Speech (alteração de fala), Time (tempo é cérebro)
 

@@ -18,25 +18,25 @@ aliases:
 ---
 ## 🎯 Escore de Wells para Trombose Venosa Profunda (TVP)
 
-| Critério Clínico | Pontos |
-| :--- | :--- |
-| Câncer ativo (em tratamento ou nos últimos 6 meses) | +1 |
-| Paralisia, paresia ou imobilização gessada de membro inferior | +1 |
-| [[Imobilidade prolongada]] (> 3 dias) ou cirurgia de grande porte (< 12 sem) | +1 |
-| [[Dor à palpação ao longo do trajeto venoso profundo]] | +1 |
-| [[Edema de todo o membro inferior]] | +1 |
-| **[[Edema de panturrilha > 3 cm em relação ao membro contralateral]]** | **+1** |
-| [[Edema depressível (cacifo) no membro sintomático]] | +1 |
-| [[Circulação colateral superficial]] (não varicosa) | +1 |
-| História prévia de TVP documentada | +1 |
-| Diagnóstico alternativo tão ou mais provável que TVP | -2 |
+| Critério Clínico                                                             | Pontos |
+| :--------------------------------------------------------------------------- | :----- |
+| Câncer ativo (em tratamento ou nos últimos 6 meses)                          | +1     |
+| Paralisia, paresia ou imobilização gessada de membro inferior                | +1     |
+| Imobilidade prolongada (> 3 dias) ou cirurgia de grande porte (< 12 sem) | +1     |
+| Dor à palpação ao longo do trajeto venoso profundo                       | +1     |
+| Edema de todo o membro inferior                                          | +1     |
+| **Edema de panturrilha > 3 cm em relação ao membro contralateral**       | **+1** |
+| Edema depressível (cacifo) no membro sintomático                         | +1     |
+| Circulação colateral superficial (não varicosa)                              | +1     |
+| História prévia de TVP documentada                                           | +1     |
+| Diagnóstico alternativo tão ou mais provável que TVP                         | -2     |
 
 ### **Interpretação da Pontuação (TVP)**
 - **Score ≥ 3:** **Alta Probabilidade**
 - **Score 1-2:** **Probabilidade Moderada**
 - **Score ≤ 0:** **Baixa Probabilidade**
 - **Simplificado:**
-  - **Score ≥ 2:** **TVP Provável.** (Não pedir D-dímero, ir direto para o [[Ultrassom com Doppler]]).
+  - **Score ≥ 2:** **TVP Provável.** (Não pedir D-dímero, ir direto para o [[Doppler]]).
   - **Score < 2:** **TVP Improvável.** (Pedir [[D-dímero]] para excluir).
 
 ---
@@ -46,10 +46,10 @@ aliases:
 | :--- | :--- |
 | Sinais e sintomas clínicos de TVP | +3 |
 | Diagnóstico alternativo menos provável que TEP | +3 |
-| Frequência cardíaca > 100 bpm ([[Taquicardia]]) | +1.5 |
-| [[Imobilidade prolongada]] (≥ 3 dias) ou cirurgia (< 4 sem) | +1.5 |
+| Frequência cardíaca > 100 bpm (Taquicardia) | +1.5 |
+| Imobilidade prolongada (≥ 3 dias) ou cirurgia (< 4 sem) | +1.5 |
 | História prévia de TVP ou TEP | +1.5 |
-| [[Hemoptise]] | +1 |
+| Hemoptise | +1 |
 | Câncer ativo | +1 |
 
 ### **Interpretação da Pontuação (TEP)**

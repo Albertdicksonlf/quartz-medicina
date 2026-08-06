@@ -85,7 +85,7 @@ card:
 
 ## 🤒 Apresentação Clínica
 
-### Quadro Clássico
+### Quadro Clássico = Cefaleia + Meningismos 
 - **Cefaleia em trovoada (thunderclap headache)** — início súbito, pior da vida, pico em segundos a minutos
 - Muitas vezes descrita como **"a pior dor de cabeça da minha vida"**
 - **1/3 dos pacientes morre antes de chegar ao hospital**

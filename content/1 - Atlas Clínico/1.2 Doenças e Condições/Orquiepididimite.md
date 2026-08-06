@@ -62,6 +62,7 @@ card:
 - **Antibióticos:**
     - **Suspeita de IST:** Ceftriaxona (dose única IM) + Doxiciclina (10-14 dias).
     - **Suspeita de Entéricos:** Fluoroquinolonas (ex: Levofloxacino).
+    - **Em pacientes com antecedente de infecção urinária ou sexo anal insertivo, o tratamento consiste n**a associação de ceftriaxona e levofloxacino.​‌‌‌‍‌‍‍‌‌‍‌‌‌‍‌‍‍‌‍‌‌‌‌‌‌‌‌‍‍‌‍‌‌‍‌‌‍‌‍‌‍‍‌‌​‌‌‌‍‌‍‍‌‌‍‌‌‌‍‌‍‍‌‍‌‌‌‌‌‌‌‌‍‍‌‍‌‌‍‌‌‍‌‍‌‍‍‌‌​
 
 ---
 

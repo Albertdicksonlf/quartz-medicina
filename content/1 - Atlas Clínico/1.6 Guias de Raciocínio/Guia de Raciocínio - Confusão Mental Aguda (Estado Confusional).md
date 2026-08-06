@@ -83,7 +83,7 @@ card: null
 - *Pista:* medicação **nova/suspensa**, contexto de uso, sinais adrenérgicos. Rastrear etilismo ([[Questionário CAGE]]).
 
 ### **Grupo D: Neurológicas Estruturais ("must not miss")**
-- [[AVE Isquêmico]] / [[AVE Hemorrágico]] / [[Hemorragia Intracerebral]] (lesões estratégicas: talâmica, frontal/parietal direita)
+- [[AVC Isquêmico]] / [[AVE Hemorrágico]] / [[Hemorragia Intracerebral]] (lesões estratégicas: talâmica, frontal/parietal direita)
 - [[Hemorragia Subaracnóidea|HSA]] (cefaleia súbita)
 - [[Hematoma Subdural Crônico]] (idoso, queda, anticoagulado — confusão **insidiosa**)
 - [[Status Epiléptico]] não convulsivo (flutuação inexplicada → [[EEG]])

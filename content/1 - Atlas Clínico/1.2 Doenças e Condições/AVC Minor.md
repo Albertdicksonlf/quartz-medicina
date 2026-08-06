@@ -24,7 +24,7 @@ card:
 
 - AVC isquêmico estabelecido em região clinicamente menos eloquente ou de volume pequeno
 - Há lesão tecidual confirmada (RM com DWI positiva ou TC com hipodensidade), diferente do [[Ataque Isquêmico Transitório (AIT)]] que **não tem lesão**
-- Mecanismo subjacente igual ao do [[AVE Isquêmico]] — TOAST aplicável
+- Mecanismo subjacente igual ao do [[AVC Isquêmico]] — TOAST aplicável
 
 ## 🤒 Apresentação Clínica
 
@@ -70,7 +70,7 @@ card:
 ## 🔍 Diagnósticos Diferenciais
 
 - [[Ataque Isquêmico Transitório (AIT)]] (sem lesão tecidual na RM)
-- [[AVE Isquêmico]] moderado/grave (NIHSS ≥ 5)
+- [[AVC Isquêmico]] moderado/grave (NIHSS ≥ 5)
 - Enxaqueca com aura
 - [[Crise Epiléptica]] com paralisia de Todd
 - Conversão psicogênica
@@ -97,7 +97,7 @@ card:
 
 ### **3. Tratamento Específico por Etiologia (TOAST)**
 
-Igual ao [[AVE Isquêmico]] estabelecido:
+Igual ao [[AVC Isquêmico]] estabelecido:
 - **[[Fibrilação Atrial]]** → anticoagulação (DOAC ou varfarina, **NÃO** DAPT)
 - **Estenose carotídea ≥ 70% sintomática** → [[Endarterectomia Carotídea]] em < 2 semanas
 - **Aterosclerose intracraniana** → DAPT 90 dias (SAMMPRIS)
@@ -125,7 +125,7 @@ Igual ao [[AVE Isquêmico]] estabelecido:
 - **Erro Comum:** "Não trombolisar porque o NIHSS é baixo" sem avaliar se o déficit é **incapacitante para aquele paciente** (importância da história ocupacional).
 - **Pérola da Investigação:** Mesmo com déficit leve, investigar etiologia agressivamente — paciente teve um evento, pode ter outro.
 - **Comparação:**
-	- [[AVE Isquêmico]] padrão: NIHSS ≥ 5 → trombólise se < 4,5h
+	- [[AVC Isquêmico]] padrão: NIHSS ≥ 5 → trombólise se < 4,5h
 	- AVC Minor: NIHSS < 5, geralmente sem trombólise + DAPT 21 dias
 	- [[Ataque Isquêmico Transitório (AIT)]]: sem lesão na RM, ABCD2 estratifica risco, DAPT se ABCD2 ≥ 4
 

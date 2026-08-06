@@ -20,7 +20,7 @@ card:
 # Trombectomia Mecânica
 
 > [!abstract] Resumo de Uma Linha
-> Procedimento neurointervencionista de remoção física do trombo arterial cerebral por cateterismo, usando stent retriever ou aspiração — indicado em [[AVE Isquêmico]] por **oclusão de grande vaso proximal**, com janela clássica < 6h e estendida até 24h em casos selecionados com mismatch favorável.
+> Procedimento neurointervencionista de remoção física do trombo arterial cerebral por cateterismo, usando stent retriever ou aspiração — indicado em [[AVC Isquêmico]] por **oclusão de grande vaso proximal**, com janela clássica < 6h e estendida até 24h em casos selecionados com mismatch favorável.
 
 ## 📋 Indicações e Seleção de Paciente
 

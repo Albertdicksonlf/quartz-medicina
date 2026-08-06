@@ -22,7 +22,7 @@ tipo de exame: null
 # Tabagismo
 
 > [!abstract] Resumo de Uma Linha
-> Padrão de uso de **nicotina** (substância **estimulante** altamente viciante) — uma das principais causas evitáveis de morte no mundo, fator de risco para **[[Doença Coronariana]]**, **[[DPOC]]**, **[[Câncer de Pulmão]]** e dezenas de outras neoplasias, com dependência classificada pelo **[[Teste de Fagerström]]** e tratamento estruturado em **TCC + Terapia de Reposição de Nicotina (TRN) ± [[Bupropiona]]/[[Vareniclina]]**.
+> Padrão de uso de **nicotina** (substância **estimulante** altamente viciante) — uma das principais causas evitáveis de morte no mundo, fator de risco para **[[Síndromes Coronarianas]]**, **[[DPOC]]**,  e dezenas de outras neoplasias, com dependência classificada pelo **[[Teste de Fagerström]]** e tratamento estruturado em **TCC + Terapia de Reposição de Nicotina (TRN) ± [[Bupropiona]]/[[Vareniclina]]**.
 
 ## 🌪️ Fisiopatologia
 
@@ -114,7 +114,7 @@ Os 11 critérios padronizados (≥ 2 em 12 meses) — ver [[Transtorno por Uso d
 
 ### **Pulmonares**
 - [[DPOC]] (causa #1)
-- [[Câncer de Pulmão]] (>85% atribuível ao tabaco)
+- Câncer de Pulmão (>85% atribuível ao tabaco)
 - Asma agravada
 - Fibrose pulmonar acelerada
 - Infecções respiratórias (gripe, pneumonia)
@@ -126,7 +126,7 @@ Os 11 critérios padronizados (≥ 2 em 12 meses) — ver [[Transtorno por Uso d
 - Leucemia mieloide aguda
 
 ### **Outros**
-- [[Doença Periodontal]], perda dentária
+- Doença Periodontal, perda dentária
 - Úlcera péptica
 - Osteoporose, fraturas
 - Disfunção erétil, infertilidade

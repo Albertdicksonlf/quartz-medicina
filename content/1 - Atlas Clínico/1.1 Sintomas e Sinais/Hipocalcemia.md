@@ -26,7 +26,7 @@ tipo de exame: null
 - **Neuromuscular (o núcleo):**
 	- [[Parestesia|Parestesias]] peribucais e de extremidades (sintoma mais precoce)
 	- **Tetania**, espasmo carpopedal, cãibras
-	- **Sinal de Trousseau** (espasmo carpal ao insuflar o manguito) e **Sinal de Chvostek** (contração facial à percussão do nervo facial) — os dois sinais clássicos de cabeceira *(ainda sem nota em 1.3 — ver rodapé)*
+	- **[[Sinal de Trousseau]]** (espasmo carpal ao insuflar o manguito) e **[[Sinal de Chvostek]]** (contração facial à percussão do nervo facial) — os dois sinais clássicos de cabeceira. **Trousseau é o de escolha** (sens. ~94%, esp. ~99%); Chvostek é positivo em até 25% dos normais.
 	- Laringoespasmo, broncoespasmo (risco de via aérea)
 	- [[Convulsão|Convulsões]] (a hipocalcemia é causa reversível de crise)
 - **Cardiovascular:** **prolongamento do intervalo QT** no [[Eletrocardiograma (ECG)|ECG]] → risco de arritmia; hipotensão, IC descompensada.

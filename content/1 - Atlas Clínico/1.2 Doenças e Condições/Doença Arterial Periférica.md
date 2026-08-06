@@ -81,7 +81,7 @@ A DAOP compartilha fatores com a aterosclerose em geral:
 - Detectada por ITB de rastreio em paciente de risco
 - **Não significa benigno** — mortalidade cardiovascular **elevada** mesmo assintomático
 
-#### **2. [[Claudicação Intermitente]]** (sintoma cardinal)
+#### **2. Claudicação Intermitente** (sintoma cardinal)
 - **Dor muscular durante o exercício**, aliviada com **repouso** (em geral, em < 5-10 minutos)
 - **Localização** previsível (panturrilha mais comum)
 - **Distância de marcha decrescente** progressivamente (sinal de progressão)

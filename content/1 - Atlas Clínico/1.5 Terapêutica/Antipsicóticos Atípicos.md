@@ -67,6 +67,6 @@ Se os Típicos causavam problemas motores, os Atípicos causam problemas **Metab
 
 ---
 ## 🎯 PIVÔ FARMACOLÓGICO
-- **Olanzapina:** [[Funciona muito, mas engorda muito. Cuidado com diabéticos]].`
-- **Quetiapina:** [[Ótimo para o "velhinho" com Parkinson que alucina, pois não piora o motor]].`
-- **Clozapina:** [[A "última bala na agulha". Se nada funcionar, ela funciona. Mas monitore o hemograma]].`
+- **Olanzapina:** Funciona muito, mas engorda muito. Cuidado com diabéticos.`
+- **Quetiapina:** Ótimo para o "velhinho" com Parkinson que alucina, pois não piora o motor.`
+- **Clozapina:** A "última bala na agulha". Se nada funcionar, ela funciona. Mas monitore o hemograma.`

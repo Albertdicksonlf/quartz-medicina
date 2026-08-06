@@ -42,8 +42,8 @@ card: null
 
 ### **3. Quantas articulações? (o eixo numérico)**
 - **Monoartrite (1):** 🚨 séptica, por cristais (gota, pseudogota), hemartrose, trauma
-- **Oligoartrite (2–4):** espondiloartrites, artrite reativa, doenças inflamatórias intestinais
-- **Poliartrite (≥5):** artrite reumatoide, lúpus, viral ([[Chikungunya]], [[Dengue]], [[Zika]], parvovírus), [[Febre Reumática]]
+- **Oligoartrite (2–4):** espondiloartrites ([[Espondilite Anquilosante (EA)|espondilite anquilosante]]), artrite reativa, doenças inflamatórias intestinais
+- **Poliartrite (≥5):** artrite reumatoide, [[Lúpus Eritematoso Sistêmico|lúpus]], viral ([[Chikungunya]], [[Dengue]], [[Zika]], parvovírus), [[Febre Reumática]]
 
 ### **4. Inflamatório ou mecânico? (o eixo do padrão)**
 | | **Inflamatório** | **Mecânico/degenerativo** |
@@ -66,7 +66,7 @@ card: null
 > [!danger] 🚨 Red Flags — a artralgia que é emergência
 > - **Monoartrite aguda + [[Febre|febre]]** → **artrite séptica até prova em contrário** → **artrocentese imediata** (a articulação é destruída em dias). Não trate como gota sem excluir infecção.
 > - **Artralgia + rash purpúrico/petequial** → vasculite, meningococcemia → ver [[Exantema]]
-> - **Poliartrite + sintomas sistêmicos** (febre, perda de peso, serosite) → doença sistêmica (lúpus, vasculite)
+> - **Poliartrite + sintomas sistêmicos** (febre, perda de peso, serosite) → doença sistêmica ([[Lúpus Eritematoso Sistêmico|lúpus]], vasculite)
 > - **> 50 anos + cintura escapular/pélvica + [[Velocidade de Hemossedimentação (VHS)|VHS]] muito alta** → polimialgia reumática + rastrear [[Arterite Temporal de Células Gigantes|arterite de células gigantes]]
 > - **Dor noturna localizada + massa óssea** → neoplasia óssea
 

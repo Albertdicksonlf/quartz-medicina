@@ -82,7 +82,7 @@ A epilepsia é definida pela presença de **qualquer** dos seguintes critérios:
 ### Tipos de Crises (semiologia)
 
 **Focais com manifestações observáveis:**
-- [[Crise Tônico-Clônica]]: fase tônica (rigidez, grito epiléptico — contração da musculatura torácica) → fase clônica (abalos rítmicos) → período pós-ictal
+- Crise Tônico-Clônica: fase tônica (rigidez, grito epiléptico — contração da musculatura torácica) → fase clônica (abalos rítmicos) → período pós-ictal
 - Crise tônica isolada
 - Crise clônica isolada
 - [[Crise Atônica]]: perda súbita do tônus postural ("drop attacks")
@@ -95,7 +95,7 @@ A epilepsia é definida pela presença de **qualquer** dos seguintes critérios:
 - Psíquicas (medo, déjà vu, jamais vu)
 
 **Generalizadas:**
-- [[Crise de Ausência]]: "desligamento" por segundos, olhar fixo, sem pós-ictal; induzida por hiperventilação
+- Crise de Ausência: "desligamento" por segundos, olhar fixo, sem pós-ictal; induzida por hiperventilação
 - Tônico-clônica generalizada (grande mal)
 - Mioclônica generalizada
 - Espasmos epilépticos (ex: [[Síndrome de West]])
@@ -163,15 +163,15 @@ Progressão somatotópica da crise focal motora pelo giro pré-central (ex: face
 
 ### Passo 3: Investigar etiologia / definir se provocada
 **Exames básicos (toda primeira crise):**
-- [[Glicemia]] (hipoglicemia), [[Sódio]], [[Potássio]], [[Ureia]], [[Creatinina]], [[Cálcio]], [[Magnésio]]
+- Glicemia (hipoglicemia), Sódio, Potássio, Ureia, [[Creatinina]], [[Cálcio]], [[Magnésio]]
 - [[Hemograma]] (infecção, leucemia)
 - [[TC de Crânio]] (urgência — regra out lesão aguda, hemorragia)
 - [[RM de Crânio]] (protocolo epilepsia) — superior à TC para lesões estruturais
 
 **Conforme contexto clínico:**
 - [[Punção Lombar]]: suspeita de meningoencefalite
-- [[Toxicológico]] / dosagem de drogas: suspeita de intoxicação ou abstinência alcoólica
-- [[EEG]] / [[Video-EEG]]: após estabilização; pode induzir crise de ausência (hiperventilação) ou mioclônica juvenil (fotoestimulação)
+- Toxicológico / dosagem de drogas: suspeita de intoxicação ou abstinência alcoólica
+- [[EEG]] / Video-EEG: após estabilização; pode induzir crise de ausência (hiperventilação) ou mioclônica juvenil (fotoestimulação)
 
 ### Passo 4: Definir se é epilepsia
 Aplicar critérios operacionais ILAE → se for epilepsia: classificar por síndrome (ILAE 2022)
@@ -279,7 +279,7 @@ A classificação de síndromes epilépticas de 2022 sistematizou eletroclinicam
 
 ## 💊 Tratamento e Manejo
 
-### Quando Iniciar Tratamento?
+### Quando Iniciar Tratamento? [[Anticonvulsivantes|Antiepilépticos]]
 - **2 crises não provocadas** → indicação estabelecida
 - **1 crise com risco ≥ 60%** → indicação estabelecida
 - **1 crise isolada com baixo risco** → pode aguardar (decisão compartilhada)

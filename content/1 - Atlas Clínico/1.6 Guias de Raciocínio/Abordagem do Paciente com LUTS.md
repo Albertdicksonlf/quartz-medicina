@@ -24,7 +24,7 @@ card:
 ### **Grupo A: Sintomas de Armazenamento (Irritativos)**
 *Refletem falha da bexiga em reter urina.*
 - [[Polaciúria]] (Frequência)
-- [[Nictúria]]
+- [[Noctúria|Nictúria]]
 - [[Urgência Miccional]]
 - [[Incontinência Urinária]] de urgência
 

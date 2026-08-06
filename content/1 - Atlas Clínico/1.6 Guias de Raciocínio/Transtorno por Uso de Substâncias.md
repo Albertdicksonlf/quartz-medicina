@@ -100,7 +100,7 @@ Pacientes com TUS chegam ao serviço de saúde por:
 #### **Padrão de intoxicação (= efeito simpático intenso):**
 - Taquicardia, hipertensão, midríase, sudorese
 - Agitação, insônia, euforia, ideias paranoides
-- **Risco cardiovascular agudo** ([[Síndrome Coronariana Aguda]] por cocaína), [[AVE Isquêmico]], convulsões
+- **Risco cardiovascular agudo** ([[Síndrome Coronariana Aguda]] por cocaína), [[AVC Isquêmico]], convulsões
 
 #### **Padrão de abstinência (= efeito contrário, rebaixamento):**
 - Sonolência, **fadiga**, "fissura" (craving)

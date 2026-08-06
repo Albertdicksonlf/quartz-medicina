@@ -22,7 +22,7 @@ tipo de exame: ""
 ## 🌪️ Fisiopatologia
 - **Mecanismo mais comum:** **compressão** da raiz.
 	- **Esquelética:** [[Hérnia de Disco|hérnia discal]], osteofitose, espondilose.
-	- **Não esquelética:** neoplasias, trauma, infecção, doença vascular.
+	- **Não esquelética:** neoplasias, trauma, infecção, doença vascular., abcessos.
 - A dor radicular é **neuropática** ([[Dor Neuropática|dor neuropática]]) — em queimação/choque, seguindo o trajeto da raiz.
 
 ## 🤒 Apresentação Clínica

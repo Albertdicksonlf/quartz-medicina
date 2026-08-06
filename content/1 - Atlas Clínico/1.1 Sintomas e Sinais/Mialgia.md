@@ -28,7 +28,7 @@ tipo de exame: null
 
 > [!important] 🔑 A CK reclassifica a mialgia
 > - **CK normal** → viral, [[Hipotireoidismo|hipotireoidismo]], polimialgia reumática, fibromialgia (funcional)
-> - **CK muito elevada (milhares)** → [[Rabdomiólise]]
+> - **[[Elevação de CPK|CK muito elevada]]** (milhares) → [[Rabdomiólise]]
 > - **CK moderadamente elevada + fraqueza proximal** → miosite inflamatória (ver [[Miopatias]])
 
 ## 🕵️ Roteiro de Anamnese (O Script)
@@ -49,7 +49,7 @@ tipo de exame: null
 
 ## 🩺 Semiologia e Investigação
 - Exame: dor à palpação (localizada?), força proximal × distal, sinais cutâneos (heliótropo/pápulas de Gottron → dermatomiosite), pulsos e temporal (arterite).
-- **Investigação orientada pela CK:** **CK** (o exame central — sem nota no vault ainda), [[Velocidade de Hemossedimentação (VHS)|VHS]]/PCR (polimialgia, inflamação), [[TSH]] (hipotireoidismo), função renal e potássio (se rabdomiólise), mioglobinúria no EAS.
+- **Investigação orientada pela CK:** **[[Elevação de CPK|CK (creatinofosfoquinase)]]** (o exame central), [[Velocidade de Hemossedimentação (VHS)|VHS]]/PCR (polimialgia, inflamação), [[TSH]] (hipotireoidismo), função renal e potássio (se rabdomiólise), mioglobinúria no EAS.
 
 ---
 

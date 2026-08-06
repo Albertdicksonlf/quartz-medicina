@@ -107,6 +107,7 @@ card: null
 4.  **Se alta probabilidade (ou "TEP provável" no Wells modificado > 4):** **[[Angiotomografia Computadorizada]]** direto (não pedir D-dímero).
 5.  **Confirmação:** angio-TC (falha de enchimento). Se contraindicada (alergia a contraste, gravidez, IRC) → **Cintilografia de ventilação-perfusão (V/Q)** (procura *mismatch*).
 
+Scores do TEP (PE - Pulmonary Embolism -> PERC, PESI )
 ### **C. Estratificação de Risco (após confirmar/tratar)**
 - Estabilidade hemodinâmica + escore prognóstico **PESI / sPESI** + disfunção de VD (ECO/TC) + biomarcadores ([[Troponina]], [[Peptídeos Natriuréticos (BNP ou NT-proBNP)|BNP]]).
 
@@ -147,4 +148,6 @@ card: null
 
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
--
+
+**COMPLICAÇÕES DO TEP**
+A complicação mais grave do pós-TEP é a evolução para hipertensão pulmonar de etiologia tromboembólica (i.e., TEP crônico) — que será mais discutida no deck específico.​‌‌‌‍‌‍‍‌‌‍‌‌‌‍‌‍‍‌‍‌‌‌‌‌‌‌‌‍‍‌‍‌‌‍‌‌‍‌‍‌‍‍‌‌​‌‌‌‍‌‍‍‌‌‍‌‌‌‍‌‍‍‌‍‌‌‌‌‌‌‌‌‍‍‌‍‌‌‍‌‌‍‌‍‌‍‍‌‌​

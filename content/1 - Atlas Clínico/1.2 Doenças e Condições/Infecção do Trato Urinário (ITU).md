@@ -41,6 +41,7 @@ Duas situações particulares são detalhadas **aqui mesmo** (não têm nota ded
 **2. Eixo de complexidade — não complicada vs complicada:**
 - **Não complicada:** mulher pré-menopausa, **hígida, não gestante e com trato urinário anatômica e funcionalmente normal**.
 - **Complicada:** presença de **fator que aumenta o risco de falha terapêutica** — homem, gestante, criança, idoso, diabético/imunossuprimido, anormalidade anatômica/funcional (obstrução, refluxo, bexiga neurogênica), corpo estranho (cateter, duplo-J, cálculo), ou contexto hospitalar.
+- Hoje: Febre ou sintomas sistemicos; Giordano positivo; Dor em flanco ou em dorso 
 
 > [!warning] Correção de conceito (atualização)
 > O conceito **moderno** de "complicada" é baseado em **fatores do hospedeiro** (risco de falha), e **não** simplesmente em "extensão além da bexiga". A definição antiga ("todo homem com cistite é complicada / tudo que não é mulher hígida") está ultrapassada como definição formal, embora o sexo masculino continue, na prática, sendo tratado como fator de complicação.
@@ -89,6 +90,7 @@ Corrobora, mas **isoladamente não confirma nem exclui** ITU. Útil principalmen
 	- **Bacteriúria assintomática:** ≥ **10⁵** (idealmente 2 amostras consecutivas na mulher).
 	- **Cateterizado (com sintomas):** ≥ **10³**.
 - **Quando solicitar:** sempre na **pielonefrite**, gestante, homem, ITU complicada/recorrente, falha terapêutica, uso recente de ATB, internação, ou germe resistente prévio. Na **cistite não complicada da mulher, é dispensável**.
+	- Na cistite -> risco de resistencia 
 - **Coleta:** jato médio com antissepsia (descartar 1º jato, afastar prepúcio/grandes lábios); **padrão-ouro = aspiração suprapúbica**; no cateterizado, coletar de cateter recém-trocado, não da bolsa.
 
 ### **Imagem — apenas em casos selecionados**

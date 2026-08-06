@@ -24,10 +24,11 @@ card:
 
 - **Ação:** Entram no tecido na forma **não-ionizada** (lipossolúvel) → atravessam a membrana celular → ionizam-se no interior → **ligam-se à face interna do canal de sódio** → bloqueiam a despolarização e a propagação do potencial de ação.
 - **Sequência de bloqueio (ordem de sensibilidade):**
-	1. Dor (fibras C e Aδ — pequeno diâmetro, pouca mielina)
-	2. Temperatura
-	3. Tato e pressão
-	4. Motricidade (fibras Aα — grandes e mielinizadas, mais resistentes)
+	1. Simpática
+	2. Dor (fibras C e Aδ — pequeno diâmetro, pouca mielina)
+	3. Temperatura
+	4. Tato e pressão
+	5. Motricidade (fibras Aα — grandes e mielinizadas, mais resistentes)
 
 ### **Determinantes da Potência e Duração**
 
@@ -46,7 +47,7 @@ card:
 
 ### **Efeito Vasodilatador Intrínseco**
 - A maioria dos AL causa **vasodilatação** local (aumenta absorção sistêmica).
-- **Exceção:** [[Ropivacaína]] e [[Cocaína]] têm vasoconstrição intrínseca.
+- **Exceção:** Ropivacaína e Cocaína têm vasoconstrição intrínseca.
 
 ---
 

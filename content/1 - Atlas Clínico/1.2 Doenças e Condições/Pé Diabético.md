@@ -272,7 +272,13 @@ Avalia 3 eixos: **W**ound, **I**schemia, foot **I**nfection (cada um graduado 0�
 - Ressecção de osso infectado (osteomielite refratária a ATB)
 - [[Amputação de Membro Inferior]] — **último recurso**: indicada em sepse intratável, isquemia crítica irreversível, ou destruição tecidual não salvável
 
-### **5. Prevenção (a melhor intervenção)**
+### **5. Terapia Adjuvante — Oxigenoterapia Hiperbárica**
+- **[[Oxigenoterapia Hiperbárica (OHB)|OHB]]** é terapia **adjuvante** (nunca substitui off-loading, revascularização, debridamento e antibiótico) para úlceras **Wagner ≥ 3** que não respondem ao tratamento otimizado.
+- **Racional:** eleva a pO₂ tecidual na ferida hipóxica → favorece atividade de neutrófilos, angiogênese e fibroblastos; potencializa antibióticos e é bactericida para anaeróbios.
+- **Objetivo:** reduzir risco de amputação maior em ferida isquêmica refratária.
+- ⚠️ **Pré-requisito:** avaliar e corrigir o fluxo arterial antes — **OHB não substitui [[Revascularização de Membro Inferior|revascularização]]**.
+
+### **6. Prevenção (a melhor intervenção)**
 - Rastreio anual da PSP e DAP em todo diabético
 - Educação: inspeção diária dos pés, hidratação com emolientes (evitar entre dedos), corte reto das unhas, **nunca andar descalço**, sapato adequado, observar pontos de pressão
 - Calçados terapêuticos para alto risco

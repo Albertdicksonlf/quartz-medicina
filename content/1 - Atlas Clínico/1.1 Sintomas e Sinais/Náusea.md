@@ -32,7 +32,7 @@ card:
 1.  **Cronologia:** Início agudo ou crônico? Relação com alimentação?
 2.  **Qualidade/Caráter:** A náusea leva ao vômito? O vômito alivia a náusea?
 3.  **Fatores de Piora/Melhora:** Piora com movimento (cinetose)? Melhora após vomitar? Piora com certos alimentos?
-4.  **Sintomas Associados:** [[Vômitos]]? [[Diarreia]]? [[Dor Abdominal]]? [[Vertigem]]? [[Cefaleia]]? [[Dor Torácica]]? Febre?
+4.  **Sintomas Associados:** [[Vômitos]]? [[Diarreia]]? [[Dor abdominal]]? [[Vertigem]]? [[Cefaleia]]? [[Dor torácica]]? Febre?
 5.  **Contexto:** Uso de novos medicamentos? Viagem recente? Possibilidade de gravidez? Histórico de enxaqueca?
 
 ## 🩺 Semiologia no Exame Físico
@@ -45,8 +45,9 @@ card:
 ---
 
 ## 🔗 Conexões com Guias de Raciocínio
-- [[Síndrome Coronariana Aguda]]
-- [[Gastroenterite Aguda]]
+- [[Abordagem de Náuseas e Vômitos]] — **o algoritmo completo** (triagem, buckets, antiemético por receptor)
+- [[Vômitos]] — o ato e a semiologia do conteúdo
+- [[Síndrome Coronariana Aguda]] — náusea como equivalente anginoso
 - [[Enxaqueca (Migrânea)]]
 - [[Hipertensão Intracraniana]]
 - [[Obstrução Intestinal]]

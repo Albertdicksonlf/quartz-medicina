@@ -65,7 +65,7 @@ card:
 
 | TC mostra | Diagnóstico |
 |---|---|
-| **Normal ou sinais sutis** (perda diferenciação cinza-branca, artéria hiperdensa, apagamento sulcos) | **[[AVE Isquêmico]]** |
+| **Normal ou sinais sutis** (perda diferenciação cinza-branca, artéria hiperdensa, apagamento sulcos) | **[[AVC Isquêmico]]** |
 | **Hiperdensidade aguda** (sangue) | **[[AVE Hemorrágico]]** |
 | Cisternas basais hiperdensas | [[Hemorragia Subaracnóidea]] |
 | Hipodensidade > 1/3 do hemisfério | Infarto extenso (contraindica trombólise) |
@@ -118,7 +118,7 @@ card:
 - Classificação TOAST (em isquêmico)
 
 ### **Passo 4 — Profilaxia Secundária + Reabilitação**
-- Conforme etiologia (ver [[AVE Isquêmico]] para TOAST)
+- Conforme etiologia (ver [[AVC Isquêmico]] para TOAST)
 - Reabilitação precoce
 - Controle de fatores de risco
 
@@ -174,5 +174,5 @@ Wake-up stroke  → RM com mismatch DWI-FLAIR define elegibilidade
 
 ### ➕ Updates de Casos Reais
 *- Guia criado em 20/05/2026 com base em processamento das notas de Doença Cerebrovascular (Aula + Anotações)*
-- Diferencia claramente as 3 entidades principais: [[AVE Isquêmico]], [[AVE Hemorrágico]], [[Ataque Isquêmico Transitório (AIT)]] + AVC Minor.
+- Diferencia claramente as 3 entidades principais: [[AVC Isquêmico]], [[AVE Hemorrágico]], [[Ataque Isquêmico Transitório (AIT)]] + AVC Minor.
 -

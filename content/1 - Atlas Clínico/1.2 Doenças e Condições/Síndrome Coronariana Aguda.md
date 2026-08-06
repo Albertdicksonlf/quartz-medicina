@@ -59,7 +59,7 @@ O manejo inicial visa aliviar a isquemia, prevenir a progressão do trombo e est
     - **V**eia: Obter acesso venoso periférico.
 
 - **Terapia Anti-isquêmica:**
-    - **[[Nitratos]]:** [[Nitrato|Isossorbida]] ou [[Nitroglicerina]] sublingual para alívio da dor anginosa. Cuidado em pacientes hipotensos, com suspeita de infarto de VD ou que usaram inibidores da fosfodiesterase-5 (ex: Sildenafil).
+    - **[[Nitratos]]:** Isossorbida ou [[Nitroglicerina]] sublingual para alívio da dor anginosa. Cuidado em pacientes hipotensos, com suspeita de infarto de VD ou que usaram inibidores da fosfodiesterase-5 (ex: Sildenafil).
     - **[[Morfina]]:** Reservada para dor refratária aos nitratos. Usar com cautela, pois pode mascarar a piora da isquemia e interagir com antiplaquetários.
     - **[[Betabloqueadores]]:** Podem ser administrados oralmente nas primeiras 24h em pacientes estáveis, sem sinais de insuficiência cardíaca, baixo débito ou risco de choque cardiogênico.
 

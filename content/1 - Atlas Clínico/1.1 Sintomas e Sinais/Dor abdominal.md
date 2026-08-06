@@ -98,4 +98,5 @@ tipo de exame: null
 
 ### ➕ Novas Anotações / Insights
 *- Nota preenchida em 2026-07-11 durante a auditoria do vault (o arquivo tinha **21 bytes** — praticamente vazio — apesar de ser a principal porta de entrada da clínica cirúrgica e da emergência).*
+*- **2026-07-29:** nota RESTAURADA na íntegra após incidente na Trilha B — o assistente sobrescreveu e deletou este arquivo por assumir que `Dor Abdominal` (maiúscula) era uma duplicata; o sistema de arquivos do macOS é case-insensitive, então era o mesmo arquivo. Conteúdo recuperado sem perdas.*
 -

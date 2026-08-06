@@ -142,13 +142,13 @@ card:
 
 ### **Classificação Etiológica TOAST**
 
-| Categoria | Mecanismo | Profilaxia Secundária |
-|---|---|---|
-| **1. Aterosclerose de grandes vasos** | Placas em carótidas, vertebrais, basilares, polígono de Willis | **DAPT** ([[Aspirina]] + [[Clopidogrel]] 21 dias → AAS) + estatina + endarterectomia se estenose ≥70% sintomática |
-| **2. Cardioembolismo** | FA, valvopatias, IC com FE reduzida, trombo intracardíaco | **Anticoagulação** (DOAC ou varfarina) |
-| **3. Oclusão de pequenos vasos (lacunar)** | Microangiopatia hipertensiva (lipohialinose), aterosclerose de pequenos vasos | **Antiagregante** + controle rigoroso de fatores de risco (HAS, DM) |
-| **4. Outras etiologias determinadas** | Vasculites, doenças hematológicas (trombofilias), [[Dissecção Arterial]], [[Drepanocitose]] | Tratamento específico da causa |
-| **5. Indeterminada / Criptogênico** | Sem causa identificada após investigação completa | Antiagregante; investigação adicional (FA subclínica, FOP, ASOS) |
+| Categoria                                  | Mecanismo                                                                                   | Profilaxia Secundária                                                                                             |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **1. Aterosclerose de grandes vasos**      | Placas em carótidas, vertebrais, basilares, polígono de Willis                              | **DAPT** ([[Aspirina]] + [[Clopidogrel]] 21 dias → AAS) + estatina + endarterectomia se estenose ≥70% sintomática |
+| **2. Cardioembolismo**                     | FA, valvopatias, IC com FE reduzida, trombo intracardíaco                                   | **Anticoagulação** (DOAC ou varfarina)                                                                            |
+| **3. Oclusão de pequenos vasos (lacunar)** | Microangiopatia hipertensiva (lipohialinose), aterosclerose de pequenos vasos               | **Antiagregante** + controle rigoroso de fatores de risco (HAS, DM)                                               |
+| **4. Outras etiologias determinadas**      | Vasculites, doenças hematológicas (trombofilias), [[Dissecção Arterial]], [[Drepanocitose]] | Tratamento específico da causa                                                                                    |
+| **5. Indeterminada / Criptogênico**        | Sem causa identificada após investigação completa                                           | Antiagregante; investigação adicional (FA subclínica, FOP, ASOS)                                                  |
 
 ---
 

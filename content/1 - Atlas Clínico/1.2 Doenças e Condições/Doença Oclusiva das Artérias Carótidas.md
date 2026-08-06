@@ -113,7 +113,7 @@ Suspeita clínica
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **[[Doppler de Artérias Carótidas e Vertebrais]]** | Não invasivo, barato, sem contraste, boa acurácia para grau de estenose (VSP), avalia morfologia da placa | Operador-dependente, não avalia segmento intracraniano, calcificações extensas limitam |
 | **[[Angiotomografia Computadorizada]]**            | Excelente definição anatômica, avalia intracraniano, rápido                                               | Contraste iodado (risco renal), radiação, artefato de calcificação                     |
-| **[[Angio-RM]]]**                                  | Sem radiação, avalia intracraniano, boa para placa                                                        | Menos acessível, cara, superestima grau de estenose, contraindicada em metálicos       |
+| AngioRessonância                                   | Sem radiação, avalia intracraniano, boa para placa                                                        | Menos acessível, cara, superestima grau de estenose, contraindicada em metálicos       |
 | **[[Arteriografia]]**                              | Padrão-ouro, excelente avaliação intraluminal e intracraniana                                             | Invasiva, risco de AVC periprocedimento (~1%), reservada para discordâncias            |
 
 ---

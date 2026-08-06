@@ -44,7 +44,7 @@ card:
 - **Higiene:** Lavagem cuidadosa com água e sabão neutro, secagem adequada.
 - **Candidíase:** Antifúngicos tópicos (ex: Clotrimazol, Nistatina) por 7-14 dias. Casos graves: Fluconazol oral.
 - **Bacteriana:** Antibióticos tópicos ou orais (ex: Cefalexina).
-- **Profilaxia:** Postectomia (circuncisão) se houver recorrência ou fimose associada.
+- **Profilaxia:** Postectomia (circuncisão) se houver recorrência ou [[Fimose|fimose]] associada.
 
 ---
 

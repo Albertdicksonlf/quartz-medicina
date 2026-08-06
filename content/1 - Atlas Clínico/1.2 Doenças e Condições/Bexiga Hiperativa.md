@@ -16,7 +16,7 @@ card:
 # Bexiga Hiperativa
 
 > [!abstract] Resumo de Uma Linha
-> (Definição sucinta. Ex: "Síndrome clínica caracterizada por [[Urgência Miccional]], geralmente acompanhada de [[Polaciúria]] e [[Nictúria]], com ou sem incontinência, na ausência de infecção ou outra patologia óbvia.")
+> (Definição sucinta. Ex: "Síndrome clínica caracterizada por [[Urgência Miccional]], geralmente acompanhada de [[Polaciúria]] e [[Noctúria|Nictúria]], com ou sem incontinência, na ausência de infecção ou outra patologia óbvia.")
 
 ## 🌪️ Fisiopatologia
 - **Mecanismo Basal:** Hiperatividade do músculo detrusor.

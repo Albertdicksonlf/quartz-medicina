@@ -39,12 +39,12 @@ card:
 - [[Zumbido]], acufenos
 - Diplopia, visão borrada
 - Agitação, confusão, vertigem
-- [[Tremores]] musculares
-- **[[Convulsões]] tônico-clônicas** ← sinal grave
+- [[Tremor]] musculares
+- **[[1 - Atlas Clínico/1.1 Sintomas e Sinais/Crise Epiléptica|Convulsão]] tônico-clônicas** ← sinal grave
 - Coma, parada respiratória
 
 **Fase Cardiovascular (tardia):**
-- [[Bradicardia]]
+- Bradicardia
 - Alargamento de QRS
 - Bloqueio AV
 - [[Hipotensão]]

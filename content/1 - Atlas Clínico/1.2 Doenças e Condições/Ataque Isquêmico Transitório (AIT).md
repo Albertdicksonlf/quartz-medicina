@@ -29,7 +29,7 @@ card:
 - Podem existir lesões teciduais permanentes mesmo após "AIT clínico" (50% têm restrição à difusão na RM)
 
 ### **Mecanismos**
-- Iguais aos do [[AVE Isquêmico]] — trombose, embolismo, hipoperfusão
+- Iguais aos do [[AVC Isquêmico]] — trombose, embolismo, hipoperfusão
 - Geralmente, o trombo/êmbolo é **dissolvido espontaneamente** antes do estabelecimento da lesão tecidual
 
 ## 🤒 Apresentação Clínica
@@ -75,7 +75,7 @@ card:
 
 ## 🔍 Diagnósticos Diferenciais
 
-- [[AVE Isquêmico]] (estabelecido — sintomas persistentes + lesão na RM)
+- [[AVC Isquêmico]] (estabelecido — sintomas persistentes + lesão na RM)
 - AVC Minor (NIHSS < 5, mas com lesão na RM)
 - [[Crise Epiléptica]] focal sensitiva ou paralisia de Todd
 - Enxaqueca com aura

@@ -2,18 +2,19 @@
 aliases:
   - Dor no peito
   - Chest pain
-card: ''
-classe de medicamentos: ''
-date: '2026-04-11T10:00:00'
+card: ""
+classe de medicamentos: ""
+date: 2026-04-11T10:00:00
 prevalência: Comum
 tipo: Sinal/Sintoma
-tipo de doença: ''
-tipo de exame: ''
+tipo de doença: ""
+tipo de exame: ""
 área:
   - Cardiologia
   - Medicina de Emergência
   - Clínica Médica
 ---
+
 # Dor Torácica
 
 > [!abstract] Definição
@@ -41,9 +42,11 @@ tipo de exame: ''
 ## 🔗 Conexões com Guias de Raciocínio
 - [[Abordagem da Dor Torácica]] — guia principal: os "6 matadores" e a estratificação de risco imediata.
 - Causas que abrem este sintoma: [[Dissecção de Aorta]], [[Síndrome Coronariana Aguda]], [[Tromboembolismo Pulmonar (TEP)|TEP]], [[Pericardite]], [[Tamponamento Cardíaco]].
+- Qualidade pleurítica da dor: [[Dor torácica pleurítica]].
 
 ---
 
 ### ➕ Novas Anotações / Insights
 *- Nota criada em modo esqueleto — completar depois*
+*- **2026-07-29:** nota RESTAURADA após incidente na Trilha B (ver `Dor abdominal`). Conteúdo recuperado sem perdas.*
 -

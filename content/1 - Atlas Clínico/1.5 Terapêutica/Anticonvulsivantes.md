@@ -119,7 +119,7 @@ Atuam em Sódio, Cálcio e/ou GABA ao mesmo tempo. "Servem para tudo".
 
 ---
 ## 🎯 PIVÔ FARMACOLÓGICO
-- **Gestante?** [[Lamotrigina ou Levetiracetam]].`
-- **Mulher jovem?** [[Evite Valproato (ovário policístico e feto) e Fenitoína (estética)]].`
-- **Idoso?** [[Evite Carbamazepina e Fenitoína (interações). Prefira Lamotrigina ou Levetiracetam]].`
-- **Emergência:** [[Diazepam IV para parar. Fenitoína IV para não voltar]].`
+- **Gestante?** Lamotrigina ou Levetiracetam.`
+- **Mulher jovem?** Evite Valproato (ovário policístico e feto) e Fenitoína (estética).`
+- **Idoso?** Evite Carbamazepina e Fenitoína (interações). Prefira Lamotrigina ou Levetiracetam.`
+- **Emergência:** Diazepam IV para parar. Fenitoína IV para não voltar.`

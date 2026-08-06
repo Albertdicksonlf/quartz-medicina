@@ -66,10 +66,10 @@ tipo de exame: null
 ## 🔬 Investigação e Diagnóstico
 - **Diagnóstico clínico** (não atrasar tratamento por exames).
 	Antigo 
-	- Quadro cutaneo (de alérgeno) + quadro respiratório ou Cardiovascular; Independente de Exposição de alérgeno 
-	- Após exposição a alérgeno provável -> dois ou mais de 
+	- Quadro cutaneo (de alérgeno) + quadro respiratório ou Cardiovascular; **Independente de Exposição de alérgeno** 
+	- Após exposição a alérgeno **provável** -> dois ou mais de 
 		- Cutaneo/mucoso; Cardiovascular; respiratório; TGI (sem nenhum obrigatório)
-	- Após alérgeno conhecido -> tiver hipotensão
+	- Após alérgeno **conhecido** -> tiver hipotensão
 	Novos 
 		Diagnóstico **altamente provável** se: 
 			1.Quadro de inicío súbito = cutâneo/mucoso  + respiratório ou Cardiovascualr ou Gastrointestinal
@@ -88,6 +88,7 @@ tipo de exame: null
 ## 💊 Tratamento e Manejo
 **Remoção da Causa**
 - **PRIMEIRA LINHA — [[Adrenalina]] 0,3-0,5 mg IM** na face anterolateral da coxa (vasto lateral). Repetir a cada 5-15 min se necessário.
+	- Em refratariedade pode fazer em BIC 0,1mcg/kg
 - **NUNCA atrasar adrenalina** para fazer corticoide ou anti-histamínico.
 - **Suporte:** O₂, decúbito dorsal com MMII elevados, volume IV.
 - **Adjuvantes (NUNCA substituem adrenalina):**

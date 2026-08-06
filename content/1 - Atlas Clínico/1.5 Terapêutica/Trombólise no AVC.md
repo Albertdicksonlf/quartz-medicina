@@ -21,12 +21,12 @@ card:
 # Trombólise no AVC
 
 > [!abstract] Resumo de Uma Linha
-> Administração intravenosa de fibrinolítico ([[Alteplase]] ou [[Tenecteplase]]) para dissolver o trombo arterial cerebral e restaurar a perfusão em [[AVE Isquêmico]] — janela clássica de 4,5h, estendida até 9h em casos selecionados, com objetivo de salvar a penumbra antes que se converta em infarto irreversível.
+> Administração intravenosa de fibrinolítico ([[Alteplase]] ou [[Tenecteplase]]) para dissolver o trombo arterial cerebral e restaurar a perfusão em [[AVC Isquêmico]] — janela clássica de 4,5h, estendida até 9h em casos selecionados, com objetivo de salvar a penumbra antes que se converta em infarto irreversível.
 
 ## 📋 Indicações e Seleção de Paciente
 
 ### **Indicações Principais**
-- **[[AVE Isquêmico]]** com [[Escala NIHSS]] ≥ 5 **OU** déficit incapacitante
+- **[[AVC Isquêmico]]** com [[Escala NIHSS]] ≥ 5 **OU** déficit incapacitante
 - **ICTUS < 4,5 horas** do "último visto bem"
 - **AVC Minor** geralmente NÃO indicado (a menos que déficit incapacitante)
 

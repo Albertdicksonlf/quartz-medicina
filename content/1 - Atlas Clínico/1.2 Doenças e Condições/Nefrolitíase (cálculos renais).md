@@ -24,6 +24,7 @@ tipo de exame: null
 > Formação de cálculos no trato urinário a partir da supersaturação da urina. A queixa clássica é a **[[Cólica Renal|cólica nefrética]]** — dor lombar intensa que irradia para a virilha. A maioria dos cálculos pequenos é eliminada espontaneamente; o perigo está no cálculo **obstrutivo + infectado** (emergência urológica).
 
 ## 🌪️ Fisiopatologia
+
 - **Mecanismo basal:** supersaturação urinária → nucleação → crescimento e agregação de cristais. Depende do equilíbrio entre promotores (cálcio, oxalato, ácido úrico) e **inibidores** (sobretudo **citrato**, que quela o cálcio livre).
 - **Localização:** nefrolitíase (rim) → **ureterolitíase** quando o cálculo desce ao ureter (onde tipicamente dói).
 

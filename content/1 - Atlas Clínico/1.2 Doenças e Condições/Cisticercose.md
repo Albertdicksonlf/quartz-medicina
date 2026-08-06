@@ -35,7 +35,7 @@ card: https://uploads-girodoboi.canalrural.com.br/sites/4/2025/06/Cisticercose_b
 ## 2. Quadro Clínico: Neurocisticercose (NCC)
 Depende da localização e fase do cisto.
 1.  **Forma Parenquimatosa (Cisto no cérebro):**
-    - **[[Crises Convulsivas]]**: Principal causa de epilepsia adquirida em adultos em países endêmicos.
+    - **[[Crise Epiléptica|Crises Convulsivas]]**: Principal causa de epilepsia adquirida em adultos em países endêmicos.
     - [[Cefaleia]].
 2.  **Forma Extraparenquimatosa (Ventrículos/Meninges):**
     - **[[1 - Atlas Clínico/1.1 Sintomas e Sinais/Hipertensão Intracraniana]]**: Hidrocefalia obstrutiva (cisto entope o ventrículo).

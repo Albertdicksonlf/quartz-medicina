@@ -30,7 +30,7 @@ card:
 
 | Tipo | Frequência | Mecanismo |
 |---|---|---|
-| **[[AVE Isquêmico]]** | ~85% | Oclusão arterial (trombose, embolia) ou hipoperfusão sistêmica |
+| **[[AVC Isquêmico]]** | ~85% | Oclusão arterial (trombose, embolia) ou hipoperfusão sistêmica |
 | **[[AVE Hemorrágico]]** | ~15% | Ruptura vascular ([[Hemorragia Intraparenquimatosa]] ou [[Hemorragia Subaracnóidea]]) |
 
 ### **Conceito-Chave: Penumbra Isquêmica**
@@ -71,7 +71,7 @@ card:
 
 ### **Síndromes Vasculares (resumo)**
 
-Veja detalhamento em [[AVE Isquêmico]].
+Veja detalhamento em [[AVC Isquêmico]].
 
 | Território | Síndrome característica |
 |---|---|
@@ -122,7 +122,7 @@ Veja detalhamento em [[AVE Isquêmico]].
 ## 🔬 Investigação e Diagnóstico
 
 Ver protocolos detalhados:
-- [[AVE Isquêmico]] — investigação completa e classificação TOAST
+- [[AVC Isquêmico]] — investigação completa e classificação TOAST
 - [[AVE Hemorrágico]] — escore ICH, indicações cirúrgicas
 - [[Ataque Isquêmico Transitório (AIT)]] — ABCD2 e investigação acelerada
 
@@ -151,7 +151,7 @@ Ver protocolos detalhados:
 - Profilaxia de TVP
 
 ### **2. AVC Isquêmico**
-Ver [[AVE Isquêmico]] para detalhes.
+Ver [[AVC Isquêmico]] para detalhes.
 - **Reperfusão** ([[Trombólise no AVC]] até 4,5h, estendido até 9h com mismatch)
 - **[[Trombectomia Mecânica]]** (até 6h, estendido até 24h com critérios)
 - **Profilaxia secundária** conforme TOAST

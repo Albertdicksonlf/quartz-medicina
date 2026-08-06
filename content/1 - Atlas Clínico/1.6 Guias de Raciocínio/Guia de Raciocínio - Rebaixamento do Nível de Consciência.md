@@ -53,7 +53,7 @@ tipo de exame: null
 
 ### **Grupo A: Focais Supratentoriais (20-25%)**
 *Exigem lesão extensa/multifocal OU bilateral do diencéfalo para rebaixar.*
-- [[AVE Isquêmico]] extenso (rebaixa tipicamente só após ~72h, com o pico do [[Edema Citotóxico|edema]])
+- [[AVC Isquêmico]] extenso (rebaixa tipicamente só após ~72h, com o pico do [[Edema Citotóxico|edema]])
 - [[AVE Hemorrágico]] / [[Hemorragia Intracerebral]]
 - AVC bitalâmico (artéria de Percheron — vaso único que irriga os dois tálamos)
 - [[Hematoma Subdural Agudo]] / [[Hematoma Subdural Crônico|HSDC]] / [[Hematoma Extradural (HED)|HED]]
@@ -113,7 +113,7 @@ tipo de exame: null
 
 - **"Assimetria = estrutura":** anisocoria ou déficit motor focal devem desviar a atenção para uma lesão estrutural (e antecipar a [[TC de Crânio]]); o coma tóxico-metabólico produz comprometimento **global e simétrico**.
 - **Tiamina antes da glicose:** a glicose IV consome a tiamina pela via glicolítica e pode **precipitar** [[Encefalopatia de Wernicke]] no paciente de risco. Reverter hipoglicemia sem repor B1 é erro clássico de prova e de plantão.
-- **O SARA mora no tronco alto:** lesão da **ponte inferior ou bulbo** isolada **não** rebaixa a consciência; rebaixamento por lesão hemisférica exige lesão extensa/multifocal ou bilateral (explica o atraso de ~72h no [[AVE Isquêmico]] extenso).
+- **O SARA mora no tronco alto:** lesão da **ponte inferior ou bulbo** isolada **não** rebaixa a consciência; rebaixamento por lesão hemisférica exige lesão extensa/multifocal ou bilateral (explica o atraso de ~72h no [[AVC Isquêmico]] extenso).
 - **A causa mais comum é difusa:** comece por glicemia + laboratório; neuroimagem dirigida por sinal focal ou por laboratório não esclarecedor.
 - **HIC é dinâmica:** PPC = PAM − PIC; alvo de PPC > 60 mmHg. Manejo segue a [[Doutrina de Monro-Kellie]] (cabeceira 30°, [[Manitol]]/[[Solução Hipertônica]], hiperventilação **transitória**) — detalhado em [[Hipertensão Intracraniana]].
 - **Não confunda nível com conteúdo:** flutuação + inatenção em idoso = [[Delirium]] (rebaixamento do **conteúdo**), nem sempre rebaixamento do nível.

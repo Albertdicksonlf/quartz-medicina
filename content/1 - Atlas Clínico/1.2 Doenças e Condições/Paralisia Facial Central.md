@@ -43,7 +43,7 @@ card:
 
 ## 💡 Pontos de Aprendizado e Heurísticas
 - **Heurística:** "Testa poupada = Lesão Central (AVC)".
-- **Crítico:** Diante de uma paralisia facial central, a investigação deve ser voltada para causas intracranianas, principalmente [[AVE Isquêmico]] ou hemorrágico.
+- **Crítico:** Diante de uma paralisia facial central, a investigação deve ser voltada para causas intracranianas, principalmente [[AVC Isquêmico]] ou hemorrágico.
 
 ---
 

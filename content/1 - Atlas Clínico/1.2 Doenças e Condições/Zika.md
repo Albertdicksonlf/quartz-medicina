@@ -25,7 +25,7 @@ card: https://static.todamateria.com.br/upload/zi/ka/zikamicrocefalia.jpg
 ## 1. Quadro Clínico (A Doença Exantemática)
 *Diferente da Dengue, a febre aqui é secundária.*
 
-- **Sintoma Cardeal:** **[[Exantema Maculopapular]]** (manchas vermelhas) que surge precocemente (muitas vezes é o 1º sintoma) e apresenta **[[Prurido]] Intenso**.
+- **Sintoma Cardeal:** **[[Exantema|Exantema Maculopapular]]** (manchas vermelhas) que surge precocemente (muitas vezes é o 1º sintoma) e apresenta **[[Prurido]] Intenso**.
 - **Febre:** Baixa (< 38ºC) ou ausente.
 - **Olhos:** **[[Conjuntivite Não-Purulenta]]** (Hiperemia conjuntival sem pus/secreção). Sintoma muito sugestivo.
 - **Articulação:** Artralgia leve a moderada, mas com importante **Edema de Extremidades** (mãos e pés inchados) e edema periarticular.

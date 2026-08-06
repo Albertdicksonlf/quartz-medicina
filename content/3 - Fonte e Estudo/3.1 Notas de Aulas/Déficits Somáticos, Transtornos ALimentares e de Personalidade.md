@@ -8,7 +8,26 @@ prevalência:
 aliases:
 card:
 ---
-Status: v**Transtornos Somatoformes e Alimentares**
+Status: #processado-1
+
+> [!success]- Notas geradas a partir desta aula
+> **Transtornos Alimentares** (processado em 2026-07-30 — bloco que estava pendente):
+> - [[Anorexia Nervosa]]
+> - [[Bulimia Nervosa]]
+> - [[Transtorno de Compulsão Alimentar]]
+>
+> **Transtornos Somatoformes e correlatos** (já processados anteriormente):
+> - [[Transtorno de Sintomas Somáticos (TSS)]]
+> - [[Transtorno Conversivo]]
+> - [[Transtorno Factício]]
+> - [[Transtorno de Ansiedade de Doença (TAD)]]
+>
+> **Transtornos de Personalidade** (já processados anteriormente):
+> - [[Transtornos de Personalidade]]
+> - [[Transtorno de Personalidade Antissocial (TPAS)]]
+> - [[Transtorno de Personalidade Borderline (TPB)]]
+
+**Transtornos Somatoformes e Alimentares**
 
   
 

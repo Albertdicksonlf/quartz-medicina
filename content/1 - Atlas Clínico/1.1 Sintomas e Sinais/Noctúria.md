@@ -1,56 +1,71 @@
 ---
+aliases:
+  - Nocturia
+  - Urinar à noite
+  - Nictúria (grafia alternativa)
+card: null
+classe de medicamentos: null
 date: 2026-03-07T23:50:00
+prevalência: Comum
+tipo: Sinal/Sintoma
+tipo de doença: null
+tipo de exame: null
 área:
   - Urologia
   - Nefrologia
   - Cardiologia
-tipo: Sinal/Sintoma
-tipo de exame: 
-tipo de doença: 
-classe de medicamentos:
-prevalência: 
-aliases:
-  - Nocturia
-card: 
 ---
+
 # Noctúria
 
 > [!abstract] Definição
-> Queixa de acordar uma ou mais vezes durante a noite para urinar. Cada micção é precedida e seguida por sono.
+> Queixa de **acordar uma ou mais vezes durante a noite para urinar**, sendo cada micção precedida e seguida por sono. Clinicamente significativa a partir de **≥ 2 episódios por noite**. Não é "parte de envelhecer": é sintoma com causas identificáveis e consequências sérias.
 
 ## 🌪️ Fisiopatologia Básica
-- **Mecanismo:** A noctúria é multifatorial. Pode ser causada por uma superprodução de urina durante a noite (poliúria noturna), uma capacidade reduzida da bexiga de armazenar urina, ou uma combinação de ambos. Distúrbios do sono também podem contribuir.
-- **Tipos/Classificação (Causas Principais):**
-    - **Poliúria Noturna:** Produção excessiva de urina à noite. Ocorre por uma alteração no ritmo circadiano do hormônio antidiurético (ADH) ou pela reabsorção de edema dos membros inferiores ao deitar. Causas incluem [[Insuficiência Cardíaca]], apneia obstrutiva do sono, e insuficiência venosa.
-    - **Capacidade Vesical Reduzida:** A bexiga não consegue armazenar um volume normal de urina. Causas incluem [[Hiperplasia Prostática Benigna]] (obstrução e bexiga hiperativa secundária), bexiga hiperativa idiopática, e cistite.
-    - **Poliúria Global:** Produção aumentada de urina durante as 24h (ex: [[Diabetes Mellitus]] descompensado, polidipsia primária).
+Multifatorial — três mecanismos, que podem coexistir:
+
+- **1. Poliúria noturna** (produção excessiva de urina à noite)
+	- Alteração do ritmo circadiano do **ADH** (comum no idoso)
+	- **Reabsorção do edema** de membros inferiores ao deitar → [[Insuficiência Cardíaca]], insuficiência venosa
+	- Apneia obstrutiva do sono (libera peptídeo natriurético atrial) *(sem nota no vault)*
+	- Diurético tomado à noite
+- **2. Capacidade vesical noturna reduzida** (a bexiga não tolera volume normal)
+	- [[Hiperplasia Prostática Benigna]] (obstrução + bexiga hiperativa secundária), [[Bexiga Hiperativa]] idiopática, [[Cistite Aguda|cistite]]
+- **3. Poliúria global** (24 h)
+	- [[Diabetes Mellitus]] descompensado ([[Poliúria]] + [[Polidipsia]]), diabetes insipidus, polidipsia primária
+
+> [!tip] 🔑 Pseudonoctúria — a armadilha
+> O paciente **acorda por outro motivo** (insônia, dor, apneia) e aproveita para urinar. Aqui o problema é do **sono**, não do trato urinário — e tratar a bexiga não resolve. A pergunta que separa: *"é a vontade de urinar que te acorda, ou você já estava acordado?"*
 
 ## 🕵️ Roteiro de Anamnese (O Script)
-*O que perguntar obrigatoriamente para caracterizar este sintoma?*
-
-1.  **Número de Episódios:** Quantas vezes por noite você acorda para urinar? (Noctúria clinicamente significativa é geralmente ≥ 2 episódios/noite).
-2.  **Volume:** Você urina um grande volume a cada vez? (Sugere poliúria noturna).
-3.  **Sintomas Diurnos:** Você também tem [[LUTS]] durante o dia, como urgência ou [[Polaciúria]]? (Sugere causa urológica).
-4.  **Ingestão Hídrica:** Você bebe muitos líquidos antes de dormir?
-5.  **Sono:** Você já está acordado por outro motivo (dor, insônia) e então decide urinar? Ou é a vontade de urinar que te acorda?
-6.  **Sintomas Sistêmicos:** Roncos e sonolência diurna (apneia do sono)? Edema de membros inferiores ([[Insuficiência Cardíaca]])?
+1. **Número de episódios:** quantas vezes por noite? (≥ 2 é significativo)
+2. **Volume:** urina grande volume a cada vez? → sugere **poliúria noturna**; pequenos volumes → **capacidade reduzida**
+3. **Sintomas diurnos:** há [[LUTS]] durante o dia ([[Urgência Miccional|urgência]], [[Polaciúria]])? → sugere causa urológica
+4. **Ingestão hídrica e diuréticos:** líquidos à noite? horário do diurético?
+5. **Sono:** ronco e sonolência diurna (apneia)? É a vontade que acorda, ou já estava acordado? (**pseudonoctúria**)
+6. **Sistêmicos:** edema de MMII ([[Insuficiência Cardíaca|IC]]), [[Polidipsia]] e perda de peso ([[Diabetes Mellitus|diabetes]])
 
 ## 🩺 Semiologia no Exame Físico
-- **Cardiovascular:** Avaliar sinais de [[Insuficiência Cardíaca]] (edema de MMII, estase jugular).
-- **Abdominal:** Palpar bexiga para avaliar retenção urinária.
-- **Toque Retal (em homens):** Avaliar próstata.
+- **Cardiovascular:** edema de MMII, estase jugular ([[Insuficiência Cardíaca|IC]]).
+- **Abdominal:** palpar/percutir bexiga (globo vesical, retenção → ver [[Dor Suprapúbica]]).
+- **[[Toque retal]]** em homens: avaliar próstata.
+
+> [!danger] 🚨 Por que a noctúria importa mais do que parece
+> É causa importante de **fragmentação do sono** e, no idoso, de **quedas e fraturas** ao levantar no escuro. Tratar noctúria no idoso é medida de **prevenção de queda** — não conforto.
+
+## 🔬 Investigação
+- **[[EAS]]** e glicemia (excluir infecção e diabetes).
+- **Diário miccional de 2–3 dias** (horários e volumes ingeridos e urinados) — ferramenta simples e **extremamente útil**: separa poliúria noturna de capacidade reduzida objetivamente.
+- Conforme suspeita: função renal, PSA/próstata, avaliação de apneia do sono, ecocardiograma.
 
 ---
 
 ## 🔗 Conexões com Guias de Raciocínio
-*Este sintoma é a porta de entrada para quais fluxogramas?*
-
-- [[Guia de Raciocínio: LUTS]]
-- [[Guia de Raciocínio: Distúrbios do Sono]]
-- [[Guia de Raciocínio: Insuficiência Cardíaca]]
+- [[Abordagem do Paciente com LUTS]] — quando há sintomas urinários diurnos associados
+- [[LUTS]] · [[Poliúria]] · [[Urgência Miccional]]
 
 ---
 
 ### ➕ Novas Anotações / Insights
-*- A noctúria é uma das principais causas de distúrbio do sono e quedas em idosos (ao levantar à noite no escuro).*
-*- Um diário miccional, onde o paciente anota os horários e volumes de líquido ingerido e urinado por 2-3 dias, é uma ferramenta extremamente útil na investigação da noctúria.*
+*- **Consolidação (2026-08-01):** esta é a nota **canônica** do sintoma. A duplicata `Nictúria` (mesma definição, 1,2 kb) teve seu conteúdo único absorvido aqui — o conceito de **pseudonoctúria** e o alerta de quedas em idosos. Ghost links corrigidos: `[[Guia de Raciocínio: LUTS]]` → [[Abordagem do Paciente com LUTS]]; removidos `[[Guia de Raciocínio: Distúrbios do Sono]]` e `[[Guia de Raciocínio: Insuficiência Cardíaca]]` (inexistentes); `Hiperplasia Prostática Benigna` é o filename real (sem sigla). Apneia obstrutiva do sono não tem nota — texto puro.*
+-
