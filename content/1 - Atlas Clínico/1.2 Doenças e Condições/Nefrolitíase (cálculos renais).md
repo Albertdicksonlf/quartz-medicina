@@ -104,7 +104,7 @@ tipo de exame: null
 ### **4. Remoção eletiva**
 - **Litotripsia extracorpórea por ondas de choque (LECO)** — cálculos < 2 cm, proximais.
 - **Nefrolitotomia percutânea (NLP)** — cálculos > 2 cm / coraliformes.
-- **Ureteroscopia** — cálculos distais. *(Antibioticoprofilaxia após URS/NLP.)*
+- **Ureteroscopia** — cálculos distais, ou proximais e Médios com mais de 1 cm. *(Antibioticoprofilaxia após URS/NLP.)*
 - **Estruvita:** antibiótico + **remoção cirúrgica de todos** os cálculos (são infectados) ± inibidores de urease.
 
 ### **5. Prevenção da recorrência**

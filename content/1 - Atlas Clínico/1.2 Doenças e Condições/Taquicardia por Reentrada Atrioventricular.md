@@ -87,11 +87,11 @@ card:
 
 ## 🔬 Investigação e Diagnóstico
 
-- [[ECG de 12 Derivações]] em ritmo sinusal (onda delta + PR curto)
+- ECG de 12 Derivações em ritmo sinusal (onda delta + PR curto)
 - **Teste Ergométrico:** avalia a via acessória sob estímulo simpático (nó AV acelerado)
 	- Perde a pré-excitação com o exercício → via acessória "perde" para o nó AV → **via benigna**
 	- Mantém a pré-excitação → via acessória mais rápida que o nó AV → **via maligna**, risco de FV
-- [[Holter 24 horas]]
+- Holter 24 horas
 - Estudo eletrofisiológico invasivo (localiza a via, avalia período refratário, orienta ablação)
 
 ---
@@ -113,7 +113,7 @@ card:
 - [[Cardioversão Elétrica]] imediata se instável
 
 ### **Crônico — Tratamento Definitivo**
-- **[[Ablação por Cateter]]** por radiofrequência — cura >95%, indicada em qualquer paciente sintomático (ortodrômica ou antidrômica), independente do tipo
+- **[[Ablação]]** por radiofrequência — cura >95%, indicada em qualquer paciente sintomático (ortodrômica ou antidrômica), independente do tipo
 - Não há preferência por um tipo de via — qualquer via acessória sintomática = ablação
 
 ---

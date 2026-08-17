@@ -1,0 +1,110 @@
+---
+aliases:
+  - Guia de Raciocínio - Dispneia
+  - Investigação da falta de ar
+card: null
+classe de medicamentos: null
+date: 2026-08-15T11:30:00
+prevalência: null
+tipo: Guia de Raciocínio
+tipo de doença: null
+tipo de exame: null
+área:
+  - Pneumologia
+  - Cardiologia
+  - Medicina de Emergência
+---
+
+# Abordagem da Dispneia
+
+> [!abstract] O Problema
+> "Estou com falta de ar." É uma das queixas mais frequentes e mais traiçoeiras da clínica: atravessa aparelhos (pulmão, coração, sangue, metabolismo, músculo, psiquismo) e a intensidade relatada **não** se correlaciona bem com a gravidade fisiológica. Este guia organiza a entrada pela queixa, não pelo diagnóstico.
+
+## 🚦 1. Triage Inicial (Vieses e Riscos)
+
+- **Sinais de Instabilidade (Red Flags):**
+	- Incapacidade de completar frases · uso de musculatura acessória · respiração paradoxal (fadiga diafragmática)
+	- [[Taquipneia]] > 30 irpm ou bradipneia (exaustão)
+	- [[Cianose Central]] · [[Hipotensão]] · [[Rebaixamento do nível de consciência]]
+	- [[Hipoxemia]] refratária ao O₂
+	- Estridor (obstrução de via aérea alta — ameaça em minutos)
+- **Ação Imediata:** monitorização, O₂ titulado, acesso venoso, [[Oximetria de Pulso]], ECG e [[Raio-X de Tórax]] à beira do leito. Em instabilidade, tratar antes de classificar.
+
+> [!danger] Viés mais perigoso deste guia
+> **SpO₂ normal não descarta a queixa.** Crise asmática moderada, [[Anemia]] grave, [[Acidose Metabólica]] e [[Tromboembolismo Pulmonar (TEP)|TEP]] pequeno cursam com saturação normal. Ancorar em "saturando bem" é o erro que mais mata neste cenário.
+
+## 🧠 2. Estrutura de Pensamento (Os "Buckets")
+
+**O primeiro corte é temporal — aguda (minutos a horas) vs. crônica (semanas a meses) — porque muda completamente o conjunto de hipóteses.**
+
+### **Grupo A: Vias aéreas e parênquima**
+- [[Asma]]
+- [[DPOC]]
+- [[Pneumonia]]
+- [[Pneumotórax]]
+- [[Derrame pleural]]
+- [[Bronquiolite]]
+- *Pista:* [[Sibilância]], [[Tosse]], alteração no [[Raio-X de Tórax]], expansibilidade e frêmito assimétricos.
+
+### **Grupo B: Cardiovascular**
+- [[Insuficiência Cardíaca]]
+- [[Edema Agudo de Pulmão]]
+- [[Síndrome Coronariana Aguda]] (equivalente anginoso)
+- [[Tamponamento Cardíaco]]
+- [[Valvopatias]]
+- [[Hipertensão Pulmonar]]
+- *Pista:* [[Ortopneia]], [[Dispneia Paroxística Noturna]], [[B3 (Galope)]], [[Turgência Jugular Patológica]], [[Edema de membros inferiores]].
+
+### **Grupo C: "Must not miss" (mata rápido)**
+- [[Tromboembolismo Pulmonar (TEP)]]
+- [[Pneumotórax]] hipertensivo
+- [[Anafilaxia]]
+- [[Síndrome Coronariana Aguda]]
+- [[Tamponamento Cardíaco]]
+- Obstrução de via aérea alta / [[Via Aérea Difícil]]
+- *Pista:* início súbito, instabilidade hemodinâmica, assimetria ao exame, dispneia desproporcional ao exame físico.
+
+### **Grupo D: Não-cardiopulmonar (o bucket mais esquecido)**
+- [[Anemia]] · [[Acidose Metabólica]] (respiração de Kussmaul) · [[Cetoacidose Diabética]]
+- [[Hipertireoidismo]] · [[Obesidade]] · [[Apneia Obstrutiva do Sono (SAOS)]]
+- [[Miastenia Gravis]] · [[Síndrome de Guillain-Barré]] (fraqueza muscular respiratória)
+- [[Transtorno de Pânico]] · descondicionamento
+- *Pista:* exame pulmonar e cardíaco normais, [[Raio-X de Tórax]] normal, SpO₂ normal.
+
+## 🔎 3. Algoritmo de Investigação
+
+1. **Bifurcação inicial (o filtro que economiza tempo):** meça [[Oximetria de Pulso]] em repouso **e ao esforço**.
+	- **Com hipoxemia** → entre em [[Abordagem da Hipoxemia]]. O mecanismo definirá a síndrome estrutural.
+	- **Sem hipoxemia** → o algoritmo V/Q não se aplica; siga pelo Grupo D e pela via funcional.
+2. **Passo 1 (screening):** [[Raio-X de Tórax]], ECG, [[Hemograma]], [[Gasometria arterial]] se houver repercussão.
+3. **Passo 2 (refinamento conforme o bucket):**
+	- Suspeita cardíaca → [[Peptídeos Natriuréticos (BNP ou NT-proBNP)]], [[Ecocardiograma transtorácico]]
+	- Suspeita de TEP → [[Escore de Wells]], [[D-dímero]], [[Angiotomografia Computadorizada]]
+	- RX normal com dispneia crônica → [[Espirometria]] (e [[Pletismografia]] se CVF baixa com relação normal)
+	- Suspeita intersticial → [[TC de Tórax]] e saturação ao esforço
+4. **Passo 3:** definida a síndrome estrutural ou funcional, buscar a **etiologia** dentro dela com clínica, tempo de evolução e epidemiologia.
+
+---
+
+## 🎯 4. Achados-Pivô Decisivos
+
+- [[Ortopneia]] + [[Dispneia Paroxística Noturna]] + [[B3 (Galope)]] = [[Insuficiência Cardíaca]]
+- [[Sibilância]] difusa com resposta a broncodilatador = [[Asma]]
+- Dispneia súbita + assimetria de murmúrio + hipertimpanismo = [[Pneumotórax]]
+- Dispneia desproporcional ao exame físico e ao RX + [[Gradiente Alvéolo-Arterial (A-a)]] alargado = [[Tromboembolismo Pulmonar (TEP)|TEP]]
+- Dessaturação **ao esforço** com SpO₂ normal em repouso = doença intersticial ou [[Pneumocistose]]
+- [[Respiração de Kussmaul]] = [[Acidose Metabólica]]
+
+---
+
+### 💡 Heurísticas e Dicas Práticas
+
+- **Peça o descritor antes de sugerir.** *Aperto* aponta broncoconstrição; *fome de ar* aponta aumento de drive; *cansaço/peso* aponta carga mecânica ou fraqueza.
+- **Quantifique a evolução em distância, não em adjetivos.** "Antes subia dois lances, hoje um" é dado objetivo; "piorou muito" não é.
+- **Dispneia + RX normal + SpO₂ normal** não é diagnóstico de ansiedade. É indicação de espirometria, hemograma e gasometria antes de rotular.
+- **Dispneia isolada em diabético, idoso ou mulher** pode ser infarto. ECG é barato.
+
+---
+
+### ➕ Updates de Casos Reais
+-

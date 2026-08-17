@@ -37,14 +37,14 @@ A inflamação intersticial:
 
 #### **1. Fármacos (~70-75% dos casos)**
 **Antibióticos:**
-- **[[Beta-lactâmicos]]** (penicilinas, cefalosporinas) — clássico
-- [[Sulfas]], [[Rifampicina]], [[Vancomicina]], [[Ciprofloxacino]]
+- **** BETA LACTAMICOS (penicilinas, cefalosporinas) — clássico
+- , [[Rifampicina]], [[Vancomicina]], [[Ciprofloxacino]]
 
 **[[AINEs]]** (mecanismo único — pode também causar **síndrome nefrótica** associada por doença de lesões mínimas; manifestação tardia, semanas a meses)
 
-**[[Inibidores da Bomba de Prótons (IBPs)]]** ([[Omeprazol]], [[Pantoprazol]]) — causa cada vez mais reconhecida
+**[[Inibidores da Bomba de Prótons (IBPs)]]** (Omeprazol, Pantoprazol) — causa cada vez mais reconhecida
 
-**[[Diuréticos]]** ([[Furosemida]], [[Tiazídicos]])
+**Diuréticos** ([[Furosemida]], Tiazídicos)
 
 **[[Alopurinol]]** — DRESS pode incluir NIA
 
@@ -52,14 +52,14 @@ A inflamação intersticial:
 
 #### **2. Infecções**
 - **[[Leptospirose]]** (clássica em prova brasileira)
-- **[[Pielonefrite]]** (causa NIA bacteriana direta)
-- Vírus: **[[CMV]]**, **[[Toxoplasmose]]**, EBV, HIV
-- [[Hantavirose]], legionelose
+- **Pielonefrite** (causa NIA bacteriana direta)
+- Vírus: **CMV**, **[[Toxoplasmose]]**, EBV, HIV
+- Hantavirose, legionelose
 
 #### **3. Doenças Sistêmicas / Autoimunes**
-- **[[Lúpus Eritematoso Sistêmico (LES)]]**
-- **[[Síndrome de Sjögren]]**
-- **[[Sarcoidose]]**
+- **Lúpus Eritematoso Sistêmico (LES)**
+- **Síndrome de Sjögren**
+- **Sarcoidose**
 - IgG4-related disease
 - Vasculites
 
@@ -87,7 +87,7 @@ A inflamação intersticial:
 > NIA por **AINEs** e por **IBPs** raramente cursa com a tríade completa.
 
 ### **Sintomas Inespecíficos**
-- [[Mal-Estar]], [[Mialgia]], [[Artralgia]]
+- Mal-Estar, [[Mialgia]], [[Artralgia]]
 - Dor lombar (raramente)
 - Sintomas de IRA: oligúria, edema, hipertensão (variáveis)
 
@@ -104,7 +104,7 @@ A inflamação intersticial:
 - **[[Eosinofilia]]** periférica — sensibilidade variável (~80% em NIA por β-lactâmicos; menor em AINEs/IBPs)
 - [[Velocidade de Hemossedimentação (VHS)|VHS]] e [[PCR (Proteína C Reativa)]] elevados
 - IgE pode estar elevada
-- [[Creatinina Sérica]] elevada
+- Creatinina Sérica elevada
 
 ### **Urina (Os Pivôs Decisivos)**
 - **[[Piúria Estéril]]** — leucocitúria com **urocultura negativa** (achado clássico)
@@ -120,8 +120,8 @@ A inflamação intersticial:
 - Padrão "tubular doente"
 
 ### **Imagem**
-- **[[USG de Rins e Vias Urinárias]]:** geralmente rins de tamanho normal ou levemente aumentados; ecogenicidade aumentada
-- **[[Cintilografia Renal com Gálio-67]]:** captação difusa pelos rins (alta sensibilidade, baixa especificidade) — pouco usada na prática
+- **USG de Rins e Vias Urinárias:** geralmente rins de tamanho normal ou levemente aumentados; ecogenicidade aumentada
+- **Cintilografia Renal com Gálio-67:** captação difusa pelos rins (alta sensibilidade, baixa especificidade) — pouco usada na prática
 
 ### **Padrão-Ouro: [[Biópsia Renal]]**
 - Indicada em casos:
@@ -151,13 +151,13 @@ A inflamação intersticial:
 
 ### **Algoritmo de Investigação**
 1. **História medicamentosa detalhada:** todos os fármacos iniciados nos últimos 2 meses (incluindo OTC, fitoterápicos)
-2. **[[Hemograma]]** com diferencial — buscar eosinofilia
-3. **[[Sumário de Urina]]** — piúria estéril, eosinofilúria, proteinúria
-4. **[[Urocultura]]** — afastar ITU
+2. **Hemograma** com diferencial — buscar eosinofilia
+3. **Sumário de Urina** — piúria estéril, eosinofilúria, proteinúria
+4. **Urocultura** — afastar ITU
 5. **Sorologias** se contexto sugestivo (HIV, leptospirose, CMV)
 6. **Marcadores de autoimunidade** se suspeita: FAN, anti-dsDNA, anti-Ro/La, ECA (sarcoidose)
-7. **[[USG de Rins e Vias Urinárias]]**
-8. **[[Biópsia Renal]]** se diagnóstico duvidoso ou falha de resposta
+7. **USG de Rins e Vias Urinárias**
+8. **Biópsia Renal** se diagnóstico duvidoso ou falha de resposta
 
 ### **Critérios Diagnósticos**
 NIA é **diagnóstico de probabilidade** em ausência de biópsia, baseado em:

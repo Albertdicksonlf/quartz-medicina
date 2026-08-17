@@ -51,8 +51,8 @@ A caracterização da vertigem segue a abordagem temporal (TiTrATE).
 ## 🔗 Conexões com Guias de Raciocínio
 *Este sintoma é a porta de entrada para quais fluxogramas?*
 
-- [[Guia de Raciocínio: Tontura Aguda]]
-- [[Guia de Raciocínio: Vertigem Posicional]]
+- Guia de Raciocínio: Tontura Aguda
+- Guia de Raciocínio: Vertigem Posicional
 
 ---
 

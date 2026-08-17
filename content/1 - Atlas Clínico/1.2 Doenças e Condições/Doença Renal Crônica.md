@@ -108,6 +108,7 @@ Sinais mais tardios:
 
 > [!warning] Uremia é diagnóstico CLÍNICO
 > Não existe limiar sérico de ureia ou creatinina que define uremia — o diagnóstico é pelo quadro clínico.
+> Niveis elevados de Ureia, por si só, não indicam diálise 
 
 ---
 

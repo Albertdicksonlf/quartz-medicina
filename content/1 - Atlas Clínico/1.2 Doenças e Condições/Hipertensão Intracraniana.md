@@ -31,10 +31,10 @@ card:
 	- **Distúrbios do Líquor:** [[Hidrocefalia]] (obstrutiva ou comunicante), ou aumento da produção.
 
 ## 🤒 Apresentação Clínica
-- **Quadro Típico:** A tríade clássica inclui [[Cefaleia]] (tipicamente holocraniana, piora ao deitar, tossir ou fazer Valsalva), [[Vômitos em jato]] (geralmente sem náuseas) e alteração do nível de consciência.
+- **Quadro Típico:** A tríade clássica inclui [[Cefaleia]] (tipicamente holocraniana, piora ao deitar, tossir ou fazer Valsalva), [[Vômitos|vômitos em jato]] (geralmente sem náuseas) e alteração do nível de consciência.
 - **Sintomas Principais:**
 	- [[Cefaleia]]
-	- [[Vômitos em jato]]
+	- [[Vômitos|Vômitos em jato]]
 	- [[Rebaixamento do Nível de Consciência]] (de sonolência a coma)
 	- [[Diplopia]] (por paralisia do VI nervo craniano, um sinal localizatório falso devido ao seu longo trajeto)
 - **Sinais de Alerta (Red Flags) / Sinais Tardios:**

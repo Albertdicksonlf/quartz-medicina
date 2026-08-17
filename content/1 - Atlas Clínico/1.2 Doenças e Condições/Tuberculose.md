@@ -52,7 +52,7 @@ card:
 2.  **TB Pós-Primária (Secundária):** Reativação (queda da imunidade) ou Reinfecção exógena.
 3.  **TB Miliar:** Disseminação hematogênica grave (comum em [[AIDS]]
 
-[[Febre Vespertina]], [[Sudorese Noturna]], [[Perda de peso]], [[Tosse]]
+[[Febre|Febre Vespertina]], [[Sudorese Noturna]], [[Perda de peso]], [[Tosse]]
 
 ### **A. Tuberculose Primária (Crianças)**
 - **Clínica:** Frequentemente **sem tosse**. Sintomas inespecíficos: Febre vespertina, sudorese noturna, inapetência/irritabilidade.

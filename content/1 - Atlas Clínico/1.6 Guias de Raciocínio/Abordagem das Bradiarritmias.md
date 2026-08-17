@@ -55,6 +55,7 @@ card:
 - Responde bem à [[Atropina]] se sintomático
 - Associado a IAM **inferior** (isquemia do nó AV, ramo da CD)
 
+--- AQUI BIFURCA, SUPRA HISSIANO E INFRA HISSIANO 
 ### **BAV de 2º Grau — Mobitz II**
 - PR **fixo** → de repente uma P não conduz sem aviso prévio
 - Classificação: **infra-hissiano** (feixe de His ou ramos)
@@ -132,7 +133,7 @@ card:
 
 ---
 
-## 🔍 Causas Reversíveis de BAV — Sempre Investigar
+## 🔍 Causas Reversíveis de BAV — **Sempre Investigar**
 
 **Fármacos (mais comuns):** [[Betabloqueadores]], [[Bloqueadores dos Canais de Cálcio (BCC)]] não-DHP, [[Digoxina]], [[Amiodarona]]
 

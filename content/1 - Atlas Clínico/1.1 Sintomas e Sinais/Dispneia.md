@@ -1,58 +1,100 @@
 ---
 date: 2026-03-28T19:15:00
 área:
-  - Cardiologia
   - Pneumologia
+  - Cardiologia
 tipo: Sinal/Sintoma
-tipo de exame: 
-tipo de doença: 
-classe de medicamentos:
-prevalência: Muito Comum
+tipo de exame: null
+tipo de doença: null
+classe de medicamentos: null
+prevalência: Comum
 aliases:
   - Falta de ar
   - Canseira
-card: 
+  - Fome de ar
+  - Desconforto respiratório
+card: null
 ---
 
 # Dispneia
 
 > [!abstract] Definição
-> Experiência subjetiva de desconforto respiratório que consiste em sensações qualitativamente distintas que variam em intensidade. É um sintoma, não um sinal.
+> Experiência subjetiva de desconforto respiratório, composta por sensações qualitativamente distintas que variam em intensidade. É um **sintoma**, não um sinal — só existe se o paciente relatar. Não confundir com [[Taquipneia]] (sinal, frequência respiratória elevada) nem com [[Hipoxemia]] (achado, PaO₂ baixa): os três são independentes e podem ocorrer isoladamente.
 
 ## 🌪️ Fisiopatologia Básica
-- **Mecanismo:** A dispneia é um fenômeno complexo que envolve a ativação de múltiplos mecanismos. O cérebro recebe sinais de vários receptores (quimiorreceptores, mecanorreceptores no pulmão e parede torácica) e, quando há uma dissociação entre o esforço esperado para respirar e a ventilação que é de fato alcançada, surge a sensação de "falta de ar".
-- **Tipos/Classificação (baseada na duração):**
-    - **Aguda:** Início em minutos a horas. Geralmente causada por condições de risco à vida (ex: [[TEP]], [[Pneumotórax]], [[Edema Agudo de Pulmão]]).
-    - **Crônica:** Duração de semanas a meses. Geralmente associada a doenças crônicas (ex: [[DPOC]], [[Insuficiência Cardíaca]], [[Anemia]]).
+
+- **Mecanismo (dissociação neuromecânica):** o córtex compara o **comando motor** enviado à musculatura respiratória (percebido por descarga corolária) com o **retorno aferente** de mecanorreceptores da via aérea, pulmão e parede torácica. Quando a resposta mecânica obtida não corresponde ao comando emitido, emerge a sensação de desconforto. Ou seja: dispneia é um erro de predição, não uma medida de oxigênio.
+- **Três aferências que alimentam o sistema:**
+	- **Quimiorreceptores:** centrais (bulbo, sensíveis a **CO₂/pH** — estímulo mais potente) e periféricos (corpo carotídeo, sensíveis a **O₂**). Por isso hipercapnia gera mais fome de ar que hipoxemia de mesma magnitude.
+	- **Mecanorreceptores:** parede torácica, músculos respiratórios, receptores de estiramento pulmonar e receptores J (justacapilares, ativados por congestão intersticial — mecanismo da dispneia na [[Insuficiência Cardíaca]]).
+	- **Metaborreceptores musculares:** implicados na dispneia da IC sistólica e do descondicionamento.
+- **Descritores de qualidade (têm valor diagnóstico):**
+	- *Aperto no peito* → broncoconstrição ([[Asma]])
+	- *Fome de ar / inspiração insatisfeita* → aumento de drive ([[Tromboembolismo Pulmonar (TEP)|TEP]], [[Acidose Metabólica]], IC)
+	- *Trabalho/esforço aumentado* → carga mecânica ou fraqueza muscular ([[DPOC]], [[Miastenia Gravis]])
+- **Classificação por duração:**
+	- **Aguda** (minutos a horas): condições de risco à vida — [[Tromboembolismo Pulmonar (TEP)|TEP]], [[Pneumotórax]], [[Edema Agudo de Pulmão]], [[Anafilaxia]], crise de [[Asma]].
+	- **Crônica** (semanas a meses): [[DPOC]], [[Insuficiência Cardíaca]], [[Anemia]], [[Obesidade]], doença intersticial, descondicionamento.
+
+> [!warning] Erro conceitual frequente
+> Dispneia **não é** sinônimo de hipoxemia. Crise asmática moderada cursa com dispneia intensa e SpO₂ normal (o problema é carga mecânica). Hipoxemia crônica compensada pode cursar com pouca dispneia em repouso. A saturação normal **não** autoriza descartar a queixa.
 
 ## 🕵️ Roteiro de Anamnese (O Script)
-1.  **Cronologia:** Início súbito ou gradual? Duração? Frequência?
-2.  **Qualidade/Caráter:** É uma sensação de aperto no peito? Fome de ar? Incapacidade de respirar fundo?
-3.  **Fatores de Piora:** Piora com o esforço (dispneia aos esforços)? Piora ao deitar (ortopneia)? Ocorre à noite (dispneia paroxística noturna)?
-4.  **Sintomas Associados:** [[Tosse]]? [[Sibilância (chiado)]]? [[Dor Torácica]]? [[Febre]]? [[Edema de membros inferiores]]?
-5.  **Contexto:** Histórico de tabagismo? Exposição ocupacional? Doenças cardíacas ou pulmonares conhecidas?
+
+1. **Cronologia:** súbita (segundos a minutos → [[Pneumotórax]], [[Tromboembolismo Pulmonar (TEP)|TEP]]) ou gradual? Contínua ou episódica? Progressão ao longo de quanto tempo?
+2. **Qualidade/Caráter:** peça o descritor espontâneo do paciente antes de sugerir opções — aperto, fome de ar, cansaço, peso.
+3. **Fatores de piora/melhora:**
+	- Esforço → quantificar em **classe funcional NYHA** ou distância percorrida (mudança na distância é o melhor marcador de progressão).
+	- Decúbito → [[Ortopneia]] (IC, paralisia diafragmática, obesidade grave).
+	- Noturna, acorda o paciente → [[Dispneia Paroxística Noturna]].
+	- **Platipneia** (piora sentado/em pé, melhora deitado) → shunt intracardíaco ou síndrome hepatopulmonar. Sinal raro e muito específico.
+	- Gatilhos ambientais/alergênicos → [[Asma]].
+4. **Sintomas associados:** [[Tosse]]? [[Sibilância|chiado]]? [[Dor torácica]]? [[Febre]]? [[Edema de membros inferiores]]? [[Palpitações]]?
+5. **Contexto:** tabagismo (maços-ano), exposição ocupacional, medicamentos, imobilização recente, cardiopatia ou pneumopatia conhecida, ansiedade.
 
 ## 🩺 Semiologia no Exame Físico
-- **Sinais Vitais:** Avaliar frequência respiratória, saturação de oxigênio, frequência cardíaca.
-- **Inspeção:** Uso de musculatura acessória, tiragem intercostal, cianose, ingurgitamento jugular.
-- **Ausculta Pulmonar:** Presença de sibilos (asma, DPOC), crepitações (pneumonia, IC), ou murmúrio vesicular diminuído (derrame pleural, pneumotórax).
-- **Ausculta Cardíaca:** Presença de B3, B4 ou sopros.
-- **Extremidades:** Edema, baqueteamento digital.
+
+- **Sinais vitais:** frequência respiratória (contar 60s), SpO₂ em repouso **e ao esforço**, FC, PA, temperatura.
+- **Inspeção:** uso de musculatura acessória, tiragem, respiração paradoxal (fadiga diafragmática), incapacidade de completar frases, [[Cianose Central]], turgência jugular, baqueteamento digital.
+- **Palpação/percussão:** expansibilidade, frêmito tóraco-vocal, percussão (macicez → [[Derrame pleural]]; hipertimpanismo → [[Pneumotórax]]).
+- **Ausculta pulmonar:** [[Sibilância]] (obstrução), [[Crepitações (Estertores)]] (preenchimento alveolar ou fibrose), murmúrio abolido (derrame, pneumotórax, atelectasia).
+- **Ausculta cardíaca:** [[B3 (Galope)]], sopros, hiperfonese de P2 ([[Hipertensão Pulmonar]]).
+- **Extremidades:** edema, assimetria de panturrilha, perfusão.
+
+---
+
+## 🎯 Bifurcação Inicial (o primeiro filtro)
+
+*Medir a saturação divide o diferencial em dois ramos com investigações diferentes.*
+
+- **Dispneia COM hipoxemia** → entra no algoritmo de [[Hipoxemia]] (gradiente A-a e resposta ao O₂) para definir o mecanismo e, a partir dele, a síndrome estrutural.
+- **Dispneia SEM hipoxemia** → o algoritmo V/Q não se aplica. Considerar carga mecânica ([[Asma]], obstrução de via aérea alta), [[Acidose Metabólica]], [[Anemia]], [[Hipertireoidismo]], fraqueza muscular respiratória ([[Miastenia Gravis]], [[Síndrome de Guillain-Barré]]), descondicionamento, [[Obesidade]], [[Transtorno de Pânico]].
 
 ---
 
 ## 🔗 Conexões com Guias de Raciocínio
-- Guia de Raciocínio: [[Dispneia Aguda]]
-- Guia de Raciocínio: [[Dispneia Crônica]]
-- [[Síndrome Coronariana Aguda]] (como equivalente anginoso)
-- [[Insuficiência Cardíaca]]
-- [[DPOC]]
-- [[Asma]]
-- [[Tromboembolismo Pulmonar (TEP)]]
+
+- [[Síndromes Respiratórias]]
+- [[Sintomático Respiratório]]
+- [[Abordagem da Dor Torácica]] (sobreposição frequente de queixa)
+- [[Abordagem do Choque]]
+- [[Distúrbios Ácido-Básicos]]
 
 ---
 
 ### ➕ Novas Anotações / Insights
-- **Ortopneia** (dispneia ao deitar) é um sintoma muito específico para Insuficiência Cardíaca.
-- A dispneia pode ser o único sintoma de um evento isquêmico cardíaco, especialmente em pacientes diabéticos.
+
+- **Ortopneia** é sintoma de alta especificidade para [[Insuficiência Cardíaca]].
+- A dispneia pode ser o **único** sintoma de evento isquêmico ("equivalente anginoso"), sobretudo em diabéticos, idosos e mulheres — ver [[Síndrome Coronariana Aguda]].
+- **Dessaturação ao esforço com SpO₂ normal em repouso** é achado precoce de doença intersticial e de [[Pneumocistose]]. Se a suspeita é intersticial, medir a saturação caminhando, não só sentado.
+- A intensidade da dispneia **não** se correlaciona bem com a gravidade fisiológica. Paciente que não consegue completar uma frase é grave independentemente da SpO₂.
+
+### 🔗 Relação Ventilação/Perfusão e Dispneia
+**Data:** 2026-08-15
+**Contexto:** [[Hipoxemia]], [[Hipóxia]]
+
+A árvore V/Q é o algoritmo da **hipoxemia**, não o da dispneia. Ela entra na avaliação do dispneico apenas como primeiro filtro (ver seção "Bifurcação Inicial"). A hipóxia é só um dos estímulos de drive inspiratório, e mais fraco que a hipercapnia.
+
+**Fonte:** ATS Statement — *Update on the Mechanisms, Assessment, and Management of Dyspnea* (Am J Respir Crit Care Med, 2012)
+
 -

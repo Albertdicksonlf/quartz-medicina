@@ -91,7 +91,7 @@ card:
 ## 🔬 Investigação e Diagnóstico
 
 **Durante a TV:**
-- [[ECG de 12 Derivações]] (não fazer derivação única — perde informação)
+- ECG de 12 Derivações (não fazer derivação única — perde informação)
 
 **Após estabilização — investigar o SUBSTRATO:**
 - [[Ecocardiograma Transtorácico]] — função e estrutura ventricular
@@ -115,7 +115,7 @@ card:
 - Iniciar RCP + ACLS
 
 ### **TV Monomórfica Sustentada — INSTÁVEL**
-- [[Cardioversão Elétrica]] sincronizada imediata 100J (protocolo [[OSASCO]])
+- [[Cardioversão Elétrica]] sincronizada imediata 100J (protocolo OSASCO)
 
 ### **TV Monomórfica Sustentada — ESTÁVEL**
 1. **Antiarrítmicos (PAS):**

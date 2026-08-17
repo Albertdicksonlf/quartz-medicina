@@ -29,7 +29,7 @@ card:
 - **Público:** Crianças e Adultos Jovens (< 30 anos), ambos os sexos (antes da proteção hormonal plena).
 - **Gravidade:** Alta. Evolução rápida.
 - **Clínica:** Sistema Retículo-Endotelial.
-    - **[[Linfadenopatia generalizada]]** (semelhante a linfoma).
+    - **[[Linfonodomegalia|Linfadenopatia generalizada]]** (semelhante a linfoma).
     - [[Hepatoesplenomegalia]].
     - Lesões de pele/mucosa são raras.
 

@@ -12,7 +12,7 @@ aliases:
 
 ## Indicações Principais
 - **`Diarreia Aguda Inflamatória MOC`** (disenteria), especialmente se grave ou persistente.
-- Diarreia aguda com [[Sinais de Alarme]] ([[Febre alta]], [[Desidratação grave]], [[Dor abdominal intensa]]).
+- Diarreia aguda com [[Sinais de Alarme]] ([[Febre alta]], [[Desidratação grave]], [[Dor abdominal|Dor abdominal intensa]]).
 - Investigação de surtos de diarreia.
 - Diarreia em pacientes imunocomprometidos.
 

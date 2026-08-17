@@ -17,7 +17,7 @@ card:
 # Síndromes Mono-like
 
 > [!abstract] Definição
-> Quadro clínico compatível com Mononucleose (Febre + [[Adenomegalia]] + Astenia + Linfocitose Atípica), porém com sorologia para **EBV negativa**. [[Propedêutica de Massas Cervicais|Massas Cervicais]]
+> Quadro clínico compatível com Mononucleose (Febre + [[Linfonodomegalia|Adenomegalia]] + Astenia + Linfocitose Atípica), porém com sorologia para **EBV negativa**. [[Propedêutica de Massas Cervicais|Massas Cervicais]]
 
 ## Principais Etiologias
 1.  **[[Citomegalovírus]] (Citomegalovírus):** A causa mais comum de "Mono com Monoteste negativo".

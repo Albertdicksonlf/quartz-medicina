@@ -9,6 +9,8 @@ prevalência:
 aliases:
 card:
 ---
+Status: #processado-1
+
 2025-11-17 09:12
 
 Status: #Processado 

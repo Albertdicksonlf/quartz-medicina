@@ -17,8 +17,8 @@ aliases:
 ## Fatores de Risco
 - **Exposição solar crônica e cumulativa (radiação UV)**: É o fator de risco mais importante para todos os tipos.
 - **Fototipos baixos (pele clara, olhos claros, cabelos claros)**: Pessoas que se queimam facilmente e raramente se bronzeiam (Fitzpatrick I e II).
-- **[[Imunossupressão]]**: Pacientes transplantados ou com HIV têm um risco muito aumentado, especialmente para o CEC.
-- [[História pessoal ou familiar de câncer de pele]].
+- **Imunossupressão**: Pacientes transplantados ou com HIV têm um risco muito aumentado, especialmente para o CEC.
+- História pessoal ou familiar de câncer de pele.
 - Exposição a arsênico ou radiação ionizante.
 
 ---
@@ -37,13 +37,13 @@ aliases:
 - **Epidemiologia:** O segundo tipo mais comum (~20% dos cânceres de pele).
 - **Comportamento:** Crescimento mais rápido que o CBC. Possui **potencial de metástase**, embora o risco seja baixo na maioria dos casos.
 - **Lesões Precursoras:** Frequentemente surge a partir de lesões pré-existentes.
-  - **[[Ceratose actínica]]**: Lesão áspera, descamativa, em área exposta ao sol. É a precursora mais comum.
+  - **Ceratose actínica**: Lesão áspera, descamativa, em área exposta ao sol. É a precursora mais comum.
   - **Queilite actínica:** No lábio inferior.
   - Cicatrizes de queimaduras ou úlceras crônicas (úlcera de Marjolin).
 - **Apresentação Clínica e Achados-Pivô:**
-  - **[[Placa eritematosa, infiltrada e descamativa que não cicatriza]]**.
-  - **[[Nódulo endurecido, eritematoso, que pode ulcerar e apresentar crosta central]]**.
-  - [[Lesão vegetante ou verrucosa]].
+  - **Placa eritematosa, infiltrada e descamativa que não cicatriza**.
+  - **Nódulo endurecido, eritematoso, que pode ulcerar e apresentar crosta central**.
+  - Lesão vegetante ou verrucosa.
 
 ---
 ## 🔍 Diagnósticos Diferenciais

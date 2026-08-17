@@ -55,5 +55,14 @@ tipo de exame: ""
 ---
 
 ### ➕ Novas Anotações / Insights
-*- (Espaço livre para updates futuros)*
+### 🔗 Processamento da aula "Algias de Coluna" (15/08/2026)
+**Contexto:** [[Abordagem da Lombalgia]]
+
+**Semiologia acrescentada:**
+- [[Teste de Schober]] — objetiva a restrição de mobilidade lombar; entra no exame de toda lombalgia crônica no jovem com suspeita inflamatória.
+- Medida da **expansibilidade torácica** (< 2,5 cm é sugestivo de acometimento costovertebral).
+
+**Bloco Sintoma ↔ Doença fechado com:** [[Lombalgia Inespecífica]] · [[Espondiloartrose]] · [[Hérnia de Disco]] · [[Estenose de Canal Lombar]] · [[Espondilite Anquilosante (EA)]]
+
+---
 -

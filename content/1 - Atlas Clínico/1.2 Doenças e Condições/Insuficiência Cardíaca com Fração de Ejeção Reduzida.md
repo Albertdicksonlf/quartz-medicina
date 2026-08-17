@@ -52,7 +52,7 @@ Hipertensão pulmonar → falência do VD → congestão sistêmica
 - Cardiomiopatia dilatada idiopática
 - Miocardiopatia alcoólica
 - Miocardite viral
-- Cardiotoxicidade por [[Antraciclinas]]
+- Cardiotoxicidade por Antraciclinas
 - Taquicardiomiopatia (taquiarritmias crônicas)
 - Cardiomiopatia periparto
 
@@ -215,11 +215,11 @@ Paciente com **dispneia progressiva** aos esforços, **ortopneia**, **DPN**, ede
 
 > Reavaliação clínica em **3–6 meses** após otimização. Se ainda sintomático (NYHA II): considerar adição.
 
-| Droga | Indicação |
-|---|---|
+| Droga                         | Indicação                                                             |
+| ----------------------------- | --------------------------------------------------------------------- |
 | **[[Hidralazina + Nitrato]]** | Afrodescendentes; intolerância a IECA/BRA/INRA; **reduz mortalidade** |
-| **[[Ivabradina]]** | Ritmo sinusal + FC > 70 com BB em dose máxima |
-| **[[Digoxina]]** | FEVE ≤ 45% + FA, ou sintomas refratários (cuidado com intoxicação) |
+| **[[Ivabradina]]**            | Ritmo sinusal + FC > 70 com BB em dose máxima                         |
+| **[[Digoxina]]**              | FEVE ≤ 45% + FA, ou sintomas refratários (cuidado com intoxicação)    |
 
 ### **5. Tratamentos Avançados (NYHA III/IV)**
 

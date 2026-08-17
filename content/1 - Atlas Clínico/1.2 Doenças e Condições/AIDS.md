@@ -118,6 +118,6 @@ Comprimido único ou esquema simplificado.
 
 ---
 ## 🎯 PIVÔS DE CONHECIMENTO
-- **Sintomas da SRA:**[[Exantema]] + [[Adenomegalia]] + [[Febre]] após sexo desprotegido recente.
+- **Sintomas da SRA:**[[Exantema]] + [[Linfonodomegalia|Adenomegalia]] + [[Febre]] após sexo desprotegido recente.
 - **Critério AIDS:** [[CD4 < 200]].
 - **Prevenção:** PEP até 72h

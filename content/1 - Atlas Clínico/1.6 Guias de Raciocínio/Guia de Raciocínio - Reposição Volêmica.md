@@ -27,12 +27,12 @@ tipo de exame: null
 
 A fluidoterapia moderna segue o modelo **ROSE** (ou "4 Fases"):
 
-| Fase | Objetivo | Balanço Hídrico | Clínica |
-|---|---|---|---|
-| **Rescue (Resgate)** | Reverter choque imediato | Positivo obrigatório | Hipotensão, choque |
-| **Optimization (Otimização)** | Manter perfusão, evitar subperfusão | Neutro a levemente positivo | Estável, pós-ressuscitação |
-| **Stabilization (Estabilização)** | Manter euvolemia | Neutro | Internado, controlado |
-| **Evacuation (Evacuação/Desressuscitação)** | Remover excesso de fluidos | **Negativo ativo** | Paciente na UTI há dias com edema |
+| Fase                                        | Objetivo                            | Balanço Hídrico             | Clínica                           |
+| ------------------------------------------- | ----------------------------------- | --------------------------- | --------------------------------- |
+| **Rescue (Resgate)**                        | Reverter choque imediato            | Positivo obrigatório        | Hipotensão, choque                |
+| **Optimization (Otimização)**               | Manter perfusão, evitar subperfusão | Neutro a levemente positivo | Estável, pós-ressuscitação        |
+| **Stabilization (Estabilização)**           | Manter euvolemia                    | Neutro                      | Internado, controlado             |
+| **Evacuation (Evacuação/Desressuscitação)** | Remover excesso de fluidos          | **Negativo ativo**          | Paciente na UTI há dias com edema |
 
 > [!warning] Armadilha Clínica
 > A maioria dos estudos de mortalidade em UTI mostra que o **balanço hídrico positivo acumulado** é preditor independente de mortalidade. Fluido que salvou na fase Rescue pode matar na fase Stabilization.
@@ -59,11 +59,11 @@ Soluções de eletrólitos em água estéril. **Permanecem pouco tempo no intrav
 
 #### Cristaloides Isotônicos (osmolaridade ~ plasma)
 
-| Fluido | Na⁺ | Cl⁻ | K⁺ | Características | Escolha preferencial |
-|---|---|---|---|---|---|
-| [[Solução Salina 0,9%\|SF 0,9%]] | 154 | 154 | — | Acidogênico (↑Cl → ↓SID → acidose) | Neurotrauma, hipocloremia |
-| [[Ringer Lactato]] | 130 | 109 | 4 | Levemente hipotônico (273 mOsm), tamponante | **Padrão para ressuscitação** |
-| [[Plasma-Lyte]] | 140 | 98 | 5 | Mais balanceado, pH 7,4 | Alternativa ideal ao RL |
+| Fluido                           | Na⁺ | Cl⁻ | K⁺  | Características                             | Escolha preferencial          |
+| -------------------------------- | --- | --- | --- | ------------------------------------------- | ----------------------------- |
+| [[Solução Salina 0,9%\|SF 0,9%]] | 154 | 154 | —   | Acidogênico (↑Cl → ↓SID → acidose)          | Neurotrauma, hipocloremia     |
+| [[Ringer Lactato]]               | 130 | 109 | 4   | Levemente hipotônico (273 mOsm), tamponante | **Padrão para ressuscitação** |
+| [[Plasma-Lyte]]                  | 140 | 98  | 5   | Mais balanceado, pH 7,4                     | Alternativa ideal ao RL       |
 
 > [!tip] Pérola: Solução Salina 0,9% x Ringer Lactato
 > - SF 0,9%: cada litro entrega **154 mEq de Cl** → quebra o SID → **acidose hiperclorêmica**. Em volumes grandes: mais IRA, mais acidose, pior desfecho.

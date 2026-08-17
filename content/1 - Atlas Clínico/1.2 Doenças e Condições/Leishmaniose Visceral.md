@@ -26,7 +26,7 @@ card: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5D5bQWPnVfziR6uJ_x
 *Evolução crônica e insidiosa.*
 
 1.  **Tríade Clássica:**
-    - **[[Febre Irregular]]** (longa duração, semanas/meses).
+    - **[[Febre|Febre Irregular]]** (longa duração, semanas/meses).
     - **[[Hepatoesplenomegalia]]** (Esplenomegalia maciça, o abdome cresce muito).
     - **[[Pancitopenia]]** (Palidez/Anemia, Infecções/Leucopenia, Sangramentos/Plaquetopenia).
 2.  **Consumpção:** Emagrecimento severo (caquexia), perda de massa muscular, cabelo quebradiço. - [[Síndrome Consuptiva]]

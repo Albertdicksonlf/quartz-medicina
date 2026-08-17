@@ -12,6 +12,8 @@ card: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUTExIVFhU
 ---
 Status: #processado-1
 
+Status: #processado-1
+
 # Insuficiência Cardíaca 
 
 **Definição:**

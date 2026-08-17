@@ -53,7 +53,7 @@ tipo de exame: ''
 	- [[Retinopatia Hipertensiva]] graus III-IV na fundoscopia → emergência confirmada
 	- [[Crepitações Pulmonares Bibasais]] → EAP hipertensivo
 - **Laboratoriais:**
-	- [[Creatinina Sérica]] em ascensão → IRA hipertensiva
+	- Creatinina Sérica em ascensão → IRA hipertensiva
 	- [[Troponina]] elevada → SCA
 	- Proteinúria + hiperreflexia + PA grave em gestante → eclâmpsia
 - **Imagem:**

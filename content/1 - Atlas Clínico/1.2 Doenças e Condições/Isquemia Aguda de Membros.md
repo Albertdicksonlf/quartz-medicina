@@ -164,7 +164,7 @@ A **presença ou ausência de sinais Doppler** é parte da classificação de Ru
 - Rutherford **IIb**: imagem **se rapidamente disponível**, senão direto para revascularização
 
 #### **Modalidades**
-- **[[Doppler Vascular]]** — bedside, primeira escolha quando disponível
+- **Doppler Vascular** — bedside, primeira escolha quando disponível
 - **[[Angiotomografia Computadorizada]] (Angio-TC)** — rápida, define anatomia
 - **[[Arteriografia]]** — **padrão-ouro**, geralmente combinada com tratamento endovascular (diagnóstico + terapêutico)
 
@@ -178,12 +178,12 @@ A **presença ou ausência de sinais Doppler** é parte da classificação de Ru
 > [!important] Nota Conceitual
 > **Diferente** da Rutherford crônica (0-6 da DAOP). A versão **Aguda** tem 4 categorias (I, IIa, IIb, III) e orienta diretamente a urgência e modalidade de tratamento.
 
-| Categoria | Definição | Perda Sensorial | Fraqueza Motora | Doppler Arterial | Doppler Venoso | Conduta |
-|-----------|-----------|------------------|------------------|--------------------|------------------|---------|
-| **I** | **Viável** — sem ameaça imediata | Ausente | Ausente | **Audível** | Audível | Anticoagulação + investigação imagiológica eletiva |
-| **IIa** | **Marginalmente ameaçada** — recuperável com tratamento oportuno | Mínima (dedos) | Ausente | Inaudível | Audível | Anticoagulação + arteriografia + **trombólise ou cirurgia** (não tão urgente) |
-| **IIb** | **Imediatamente ameaçada** — recuperável com tratamento **imediato** | **Maior que dedos** | Leve a moderada | Inaudível | Audível | **EMERGÊNCIA** — revascularização imediata (cirúrgica preferida) |
-| **III** | **Irreversível** — perda tecidual maior, lesão neurológica permanente | **Anestesia profunda** | **Paralisia / Rigidez** | Inaudível | **Inaudível** | **AMPUTAÇÃO** |
+| Categoria | Definição                                                             | Perda Sensorial        | Fraqueza Motora         | Doppler Arterial | Doppler Venoso | Conduta                                                                       |
+| --------- | --------------------------------------------------------------------- | ---------------------- | ----------------------- | ---------------- | -------------- | ----------------------------------------------------------------------------- |
+| **I**     | **Viável** — sem ameaça imediata                                      | Ausente                | Ausente                 | **Audível**      | Audível        | Anticoagulação + investigação imagiológica eletiva                            |
+| **IIa**   | **Marginalmente ameaçada** — recuperável com tratamento oportuno      | Mínima (dedos)         | Ausente                 | Inaudível        | Audível        | Anticoagulação + arteriografia + **trombólise ou cirurgia** (não tão urgente) |
+| **IIb**   | **Imediatamente ameaçada** — recuperável com tratamento **imediato**  | **Maior que dedos**    | Leve a moderada         | Inaudível        | Audível        | **EMERGÊNCIA** — revascularização imediata (cirúrgica preferida)              |
+| **III**   | **Irreversível** — perda tecidual maior, lesão neurológica permanente | **Anestesia profunda** | **Paralisia / Rigidez** | Inaudível        | **Inaudível**  | **AMPUTAÇÃO**                                                                 |
 
 ### **Decisão Terapêutica Baseada em Rutherford + Etiologia**
 
