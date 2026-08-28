@@ -58,7 +58,7 @@ FC > 100?
 **Com onda P:**
 - [[Taquicardia Sinusal]]: onda P positiva em DII, morfologia sinusal, resposta fisiológica/adaptativa
 - [[Taquicardia Atrial]] unifocal: onda P não sinusal, morfologia única ≠ sinusal
-- Taquicardia Atrial multifocal: ≥3 morfologias de P — clássica do [[DPOC]]
+- Taquicardia Atrial multifocal: ≥3 morfologias de P — clássica do [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]]
 
 **Sem onda P, com onda F:**
 - [[Flutter Atrial]]: macro-reentrada no istmo cavo-tricúspide, FC atrial ~300 bpm, ventricular em divisores (150, 100, 75)

@@ -41,7 +41,7 @@ DAOP infrapatelar (artérias tibiais e fibular) é particularmente prevalente em
 - Pode tornar o pulso pedioso falsamente palpável apesar de isquemia grave (ITB > 1,3 = não confiável)
 
 ### **3. Imunidade comprometida → Infecção**
-[[Hiperglicemia]] crônica reduz quimiotaxia, fagocitose e função de neutrófilos. Qualquer porta de entrada (úlcera, micose interdigital, rachadura) pode evoluir rapidamente para infecção profunda.
+Hiperglicemia crônica reduz quimiotaxia, fagocitose e função de neutrófilos. Qualquer porta de entrada (úlcera, micose interdigital, rachadura) pode evoluir rapidamente para infecção profunda.
 
 ### **A Convergência (a "úlcera diabética")**
 - **Neuropatia** → trauma indolor + pé deformado

@@ -39,12 +39,17 @@ tipo de exame: null
 
 ### **Grupo A: Vias aéreas e parênquima**
 - [[Asma]]
-- [[DPOC]]
+- [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] / [[Exacerbação de DPOC|exacerbação de DPOC]]
 - [[Pneumonia]]
 - [[Pneumotórax]]
 - [[Derrame pleural]]
 - [[Bronquiolite]]
 - *Pista:* [[Sibilância]], [[Tosse]], alteração no [[Raio-X de Tórax]], expansibilidade e frêmito assimétricos.
+
+> [!tip] Dentro do bucket obstrutivo, o corte é REVERSIBILIDADE
+> **Variável e reversível** (prova broncodilatadora positiva, início precoce, atopia) → [[Asma]].
+> **Fixa e persistente** (VEF₁/CVF < 0,70 pós-BD, exposição de risco, > 40 anos) → [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]].
+> E na DPOC descompensada, **exacerbação é diagnóstico de exclusão**: antes de aceitá-lo, descarte [[Pneumonia]], [[Tromboembolismo Pulmonar (TEP)|TEP]], [[Insuficiência Cardíaca]] e [[Pneumotórax]].
 
 ### **Grupo B: Cardiovascular**
 - [[Insuficiência Cardíaca]]
@@ -94,6 +99,8 @@ tipo de exame: null
 - Dispneia desproporcional ao exame físico e ao RX + [[Gradiente Alvéolo-Arterial (A-a)]] alargado = [[Tromboembolismo Pulmonar (TEP)|TEP]]
 - Dessaturação **ao esforço** com SpO₂ normal em repouso = doença intersticial ou [[Pneumocistose]]
 - [[Respiração de Kussmaul]] = [[Acidose Metabólica]]
+- Dispneia crônica + [[Tórax em Barril]] + respiração freno-labial + baixo IMC = [[Enfisema Pulmonar|enfisema]] ("pink puffer")
+- Dispneia crônica + [[Tosse produtiva]] + [[Cianose Central]] + edema = [[Bronquite Crônica|bronquite crônica]] ("blue bloater") com [[Cor Pulmonale]]
 
 ---
 

@@ -15,7 +15,7 @@ aliases:
   - Epilepsia Centrotemporal
 card: 
 ---
-
+x
 # Epilepsia Benigna da Infância com Descargas Centrotemporais (SeLECTS)
 
 > [!abstract] Resumo de Uma Linha

@@ -17,11 +17,11 @@ tipo de exame: Procedimento
 # Espirometria
 
 > [!abstract] O que é e para que serve?
-> Exame funcional não invasivo que mede **fluxos e volumes mobilizáveis** durante manobras respiratórias forçadas. Responde a uma pergunta que a imagem não responde: o ar **entra e sai** normalmente? É o exame que enxerga [[Asma]] e [[DPOC]], doenças em que o [[Raio-X de Tórax]] costuma ser normal ou inespecífico.
+> Exame funcional não invasivo que mede **fluxos e volumes mobilizáveis** durante manobras respiratórias forçadas. Responde a uma pergunta que a imagem não responde: o ar **entra e sai** normalmente? É o exame que enxerga [[Asma]] e [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]], doenças em que o [[Raio-X de Tórax]] costuma ser normal ou inespecífico.
 
 ## 📋 Indicações Principais
 
-- **Diagnóstico e classificação de obstrução:** [[Asma]], [[DPOC]], [[Fibrose Cística]], bronquiectasias.
+- **Diagnóstico e classificação de obstrução:** [[Asma]], [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]], [[Fibrose Cística]], bronquiectasias.
 - **Investigação de [[Dispneia]] crônica ou [[Tosse]] crônica** sem explicação estrutural.
 - **Seguimento** de doença conhecida e resposta terapêutica.
 - **Avaliação pré-operatória** em ressecção pulmonar e cirurgia de grande porte em pneumopata.
@@ -50,7 +50,21 @@ tipo de exame: Procedimento
 
 **Passo 2 — Prova broncodilatadora:**
 
-- Resposta significativa favorece [[Asma]]; ausência de resposta não exclui asma nem confirma [[DPOC]] (obstrução parcialmente reversível é comum na DPOC).
+- Resposta significativa favorece [[Asma]]; ausência de resposta não exclui asma nem confirma [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] (obstrução parcialmente reversível é comum na DPOC).
+
+**Passo 3 — Se confirmada obstrução por DPOC, estadie pelo VEF₁ pós-BD (GOLD 1–4):**
+
+| Estágio | VEF₁ pós-BD (% previsto) |
+|---|---|
+| GOLD 1 — Leve | ≥ 80% |
+| GOLD 2 — Moderado | 50–79% |
+| GOLD 3 — Grave | 30–49% |
+| GOLD 4 — Muito grave | < 30% |
+
+> [!important] Duas classificações, dois papéis
+> **GOLD 1–4** (espirométrica) serve para **prognóstico**. Quem escolhe o **tratamento** é a classificação **GOLD A/B/E**, que combina sintomas ([[Escala mMRC]] ou [[COPD Assessment Test (CAT)|CAT]]) com histórico de exacerbações — e **não depende do VEF₁**. Ver [[Doença Pulmonar Obstrutiva Crônica (DPOC)]].
+>
+> Corolário clínico: **VEF₁ é mau preditor de sintoma**. Quem explica a dispneia é a [[Hiperinsuflação Pulmonar]] — daí um GOLD 2 poder estar mais sintomático que um GOLD 3.
 
 > [!danger] Armadilha central: espirometria NÃO diagnostica restrição
 > Padrão técnico ERS/ATS 2022: restrição é definida por **CPT abaixo do limite inferior da normalidade**, e volumes estáticos são necessários para estabelecê-la. O que a espirometria faz é o inverso — **CVF acima do LIN exclui restrição**. Se a CVF está baixa com relação normal, o laudo correto é "padrão sugestivo de restrição, a confirmar por medida de volumes pulmonares", e o exame que falta é a [[Pletismografia]] — não uma tomografia.

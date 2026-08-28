@@ -18,7 +18,7 @@ card:
 ## 🌪️ Fisiopatologia
 - **Mecanismo Basal:** Ocorre uma hiperestimulação dos receptores de serotonina, principalmente o receptor **5-HT2A**.
 - **Causas Principais:**
-    - Uso concomitante de duas ou mais drogas serotoninérgicas (ex: [[ISRS]] + IMAO, [[IRSN]] + Tramadol).
+    - Uso concomitante de duas ou mais drogas serotoninérgicas (ex: [[ISRS]] + IMAO, [[Duais (ISRSN)|Duloxetina]] + Tramadol).
     - Sobredosagem de antidepressivos.
     - Interação com drogas ilícitas (Ecstasy/MDMA, cocaína).
     - Início ou aumento rápido de dose.
@@ -27,7 +27,7 @@ card:
 A síndrome é caracterizada por uma tríade clássica:
 
 1.  **Alteração do Status Mental:** Ansiedade, agitação, confusão, hipomania, coma.
-2.  **Hiperatividade Autonômica:** Febre (pode ser muito alta), [[Sudorese]], taquicardia, hipertensão, midríase, diarreia.
+2.  **Hiperatividade Autonômica:** Febre (pode ser muito alta), [[Sudorese]], taquicardia, **hipertensão,** midríase, diarreia.
 3.  **Anormalidades Neuromusculares:** Tremor, rigidez muscular, hiperreflexia e **clônus** (espontâneo, induzível ou ocular).
 
 ---

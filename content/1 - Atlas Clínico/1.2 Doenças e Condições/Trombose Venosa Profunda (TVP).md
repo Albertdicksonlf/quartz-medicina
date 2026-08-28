@@ -109,6 +109,7 @@ tipo de doença:
 - **Filtro de veia cava:** **contraindicação à anticoagulação** ou recorrência/complicação apesar de anticoagulação adequada.
 - **Trombólise** -> Se há algum risco de isquemia 
 	Ou seja, o membro que já está apresentando phlegmasia cerulea dolens, ou que está em risco de evoluir para (edema extremo ou phlegmasia alba dolens — afinal a única diferença entre ambos é se a pele está pálida ou não)._
+	Se alto risco de sangramento -> Trombectomia Mecânica 
 
 Durante a trombólise, a anticoagulação é mantida, mas com Heparina não fracionada, com possibilidade de reversão 
 

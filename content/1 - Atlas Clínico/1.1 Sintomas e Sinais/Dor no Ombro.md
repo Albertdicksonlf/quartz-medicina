@@ -43,8 +43,7 @@ card:
 - **Inspeção:** atrofia das fossas supra e infraespinhal, deformidade de Popeye, escápula alada, discinesia escapular.
 - **Amplitude ativa e passiva (discriminador central):** o movimento ativo testa toda a cadeia (nervo → músculo → tendão → articulação); o passivo, com o paciente relaxado, isola articulação e cápsula. A diferença entre os dois localiza o defeito. Ver [[Dissociação entre Amplitude Ativa e Passiva]].
 - **Palpação:** goteira bicipital, articulação acromioclavicular, trapézio.
-- **Testes de provocação:** [[Teste de Neer]], [[Arco Doloroso]].
-- **Testes de força por tendão:** [[Teste de Jobe]], [[Teste de Patte]].
+- **Testes de provocação:** [[Teste de Neer]], [[Arco Doloroso]].- **Testes de força por tendão:** [[Teste de Jobe]], [[Teste de Patte]].
 - **Exame cervical obrigatório:** mobilidade, Spurling, força e reflexos de C5–C7. Sem ele, metade do diferencial fica sem avaliação.
 
 > [!danger] Sinais de Alerta
@@ -64,6 +63,7 @@ card:
 ## 🔀 Sintomas e Sinais Relacionados
 
 - [[Cervicalgia]]
+- [[Dor no Cotovelo]]
 - [[Fraqueza Muscular]]
 - [[Artralgia]]
 - [[Parestesia]]

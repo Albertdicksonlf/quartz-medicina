@@ -45,10 +45,10 @@ tipo de exame: null
 
 **É este achado que roteia todo o diferencial da hipoxemia:**
 
-- **Gradiente NORMAL + PaCO₂ alta** → **hipoventilação alveolar**. O pulmão está íntegro; o problema é comando ou fole: [[Intoxicação Aguda por Opioides]], [[Síndrome de Guillain-Barré]], [[Miastenia Gravis]], obesidade-hipoventilação, [[DPOC]] avançada.
+- **Gradiente NORMAL + PaCO₂ alta** → **hipoventilação alveolar**. O pulmão está íntegro; o problema é comando ou fole: [[Intoxicação Aguda por Opioides]], [[Síndrome de Guillain-Barré]], [[Miastenia Gravis]], obesidade-hipoventilação, [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] avançada.
 - **Gradiente NORMAL + PaCO₂ normal ou baixa** → **baixa PO₂ inspirada** (altitude).
 - **Gradiente ALARGADO** → doença da unidade de troca. Refine com O₂ a 100%:
-	- **Corrige** → alteração V/Q (efeito shunt) ou distúrbio de difusão. Ex.: [[Asma]], [[DPOC]], [[Pneumonia]], doença intersticial.
+	- **Corrige** → alteração V/Q (efeito shunt) ou distúrbio de difusão. Ex.: [[Asma]], [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]], [[Pneumonia]], doença intersticial.
 	- **NÃO corrige** → **shunt verdadeiro**. Ex.: [[Consolidação Lobar]] preenchida, atelectasia obstrutiva, [[Edema Agudo de Pulmão]], [[Síndrome de Eisenmenger]].
 
 - **Associação clássica:** [[Dispneia]] súbita + [[Dor torácica pleurítica]] + gradiente alargado + [[Raio-X de Tórax]] pouco alterado = suspeitar [[Tromboembolismo Pulmonar (TEP)|TEP]]. É o cenário em que o gradiente vale mais que a imagem inicial.

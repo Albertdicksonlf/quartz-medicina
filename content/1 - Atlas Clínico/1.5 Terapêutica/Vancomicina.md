@@ -14,6 +14,9 @@ aliases:
 - Inibe a síntese da parede celular bacteriana, ligando-se às porções D-alanil-D-alanina dos precursores do peptidoglicano.
 - Ativo principalmente contra **bactérias Gram-positivas**.
 
+> [!note] Nota de classe
+> Mecanismo detalhado, comparação com [[Betalactâmicos]], resistência (VRE, VISA) e alternativas em [[Glicopeptídeos]].
+
 ## 💊 Indicações Clínicas Principais
 
 ### **Vancomicina ORAL**

@@ -44,7 +44,7 @@ card:
 - **Doenças Neuromusculares:** Miastenia Gravis, Síndrome de Guillain-Barré, Esclerose Lateral Amiotrófica (ELA), lesão medular alta.
 - **Obstrução de Vias Aéreas:**
     - **Aguda:** Corpo estranho, laringoespasmo, crise de asma grave.
-    - **Crônica:** **[[DPOC]]** é a causa mais comum de acidose respiratória crônica, Obesidade (pickwick)
+    - **Crônica:** **[[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]]** é a causa mais comum de acidose respiratória crônica, Obesidade (pickwick)
 - **Doenças da Parede Torácica/Pleura:** Tórax instável (trauma), cifoescoliose grave, derrame pleural massivo.
 
 ---

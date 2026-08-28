@@ -42,7 +42,7 @@ card:
 - FC geralmente 100-200 bpm
 
 **Pivô clínico:**
-- Taquicardia atrial multifocal + [[DPOC]] = associação clássica
+- Taquicardia atrial multifocal + [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] = associação clássica
 - Fisiopatologia: hipóxia → instabilidade elétrica atrial → múltiplos focos ectópicos
 
 ---
@@ -65,7 +65,7 @@ card:
 
 ### 🔗 Conexões com Guias de Raciocínio
 - [[Abordagem das Taquiarritmias]]
-- [[DPOC]]
+- [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]]
 
 ---
 

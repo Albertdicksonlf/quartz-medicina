@@ -10,7 +10,30 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado
+Status: #processado-1
+
+> [!success] Processado em 2026-08-23
+> **Notas criadas/preenchidas:**
+> - `1.2` — [[Hipercalemia]] (nova) · [[Hipocalemia]] (existia **vazia** desde jan/2026, 143 bytes — preenchida)
+> - `1.4` — [[Potássio Sérico]] **enriquecida** e promovida a *hub* do par (deixou de ser esqueleto): tabela de faixas, potássio urinário como pivô, e a advertência de que o sérico não reflete o estoque corporal
+>
+> **Links corrigidos:** [[Salbutamol]], [[Formoterol]] e [[Salmeterol]] apontavam para `Potássio Sérico` com pipe "hipocalemia", porque a nota estava vazia. Agora apontam para [[Hipocalemia]].
+
+> [!warning] Correções aplicadas
+> 1. **"Beta-2-Agonistas (dobutamina)"** — a **dobutamina é β1-seletiva**, não β2. Os β2-agonistas que causam hipocalemia são [[Salbutamol|salbutamol]], [[Fenoterol|fenoterol]], terbutalina e [[Formoterol|formoterol]].
+> 2. **"Aumentam o potássio intracelular: ... Aldosterona"** — a lista mistura dois mecanismos distintos. **Insulina, catecolaminas (β2) e alcalose** deslocam potássio para dentro da célula (*shift*). A **aldosterona NÃO faz shift** — ela aumenta a **excreção renal** de potássio no túbulo coletor. Confundir isso leva a errar a fisiopatologia da ATR tipo 4 e do hiperaldosteronismo.
+> 3. **Faixa de gravidade da hipocalemia** — as anotações trazem "leve 3–3,5 / moderada 2,5–2,9", deixando um vão entre 2,9 e 3,0. Padronizado para **leve 3,0–3,5 · moderada 2,5–3,0 · grave < 2,5**.
+> 4. **Bicarbonato de sódio como agente de *shift*** — listado sem ressalva. A evidência atual **não sustenta** eficácia como agente isolado de deslocamento; seu papel se restringe à hipercalemia **com acidose metabólica significativa**.
+>
+> **Acertos que merecem destaque e viraram espinha das notas:**
+> - **Pseudo-hipercalemia** e os critérios de suspeita (assintomático, sem comorbidade, ECG normal)
+> - **"ECG não é sensível para hipercalemia; é sinal de gravidade e não serve para monitorizar terapia"** — excelente, virou callout de destaque
+> - **Diluir KCl em salina e não em glicosada** (glicose → insulina → piora da hipocalemia) — raciocínio mecanístico ótimo
+> - Todos os **parâmetros de segurança da reposição EV** (2,5 mEq/mL, 10 mEq/100 mL periférico, 10–20 mEq/h, nunca bolus)
+> - **"Se refratariedade → corrigir hipomagnesemia"** — promovido a callout de abertura da nota de hipocalemia, com o mecanismo dos canais ROMK
+
+> [!note] Acréscimos não presentes nas fontes
+> Potássio urinário como pivô topográfico da perda; estimativa do déficit corporal (200–400 mEq por mEq/L); paradoxo da excitabilidade (músculo hipo × miocárdio hiper); hipocalemia + digoxina como combinação de alto risco; monitorização de glicemia por 4–6 h após glicoinsulina; 20–40% de não respondedores ao β2; quelantes modernos (patiromer, ciclossilicato de zircônio); e a armadilha do potássio na cetoacidose diabética.
 
 ## Potássio
 

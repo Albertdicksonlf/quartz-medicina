@@ -75,9 +75,9 @@ A intoxicação alcoólica progride **lenta e previsivelmente**, "desligando" á
 
 **Sinais de Suspeita Clínica:**
 - Hálito etílico em consultas
-- [[Hepatomegalia]], elevação de [[Transaminases]] (especialmente AST > ALT, razão > 2)
-- [[GGT]] elevada
-- [[Macrocitose]] (VCM elevado) sem anemia franca
+- Hepatomegalia, elevação de Transaminases (especialmente AST > ALT, razão > 2)
+- GGT elevada
+- Macrocitose (VCM elevado) sem anemia franca
 - Hipertensão refratária
 - Múltiplos acidentes/traumas
 - Dificuldades laborais e relacionais
@@ -106,11 +106,11 @@ Ver nota dedicada: [[Síndrome de Abstinência Alcoólica]]
 
 ### **Pivôs Laboratoriais**
 - **AST/ALT > 2** (razão De Ritis) — sugere etiologia alcoólica
-- **[[GGT]]** elevada — marcador sensível mas inespecífico
+- **GGT** elevada — marcador sensível mas inespecífico
 - **VCM aumentado** — sem anemia ou com anemia macrocítica
 - **CDT (transferrina deficiente em carboidrato)** — marcador específico mas pouco disponível
 - **Etilemia** — útil em emergências, não em ambulatório
-- [[Plaquetas]] reduzidas, [[TAP ou INR (Índice Normalizado Internacional)|INR]] elevado em casos avançados ([[Cirrose Hepática]])
+- Plaquetas reduzidas, INR elevado em casos avançados (Cirrose Hepática)
 
 ### **Critérios Diagnósticos DSM-5-TR**
 Os 11 critérios (≥ 2 em 12 meses) — ver [[Transtorno por Uso de Substâncias]]:
@@ -139,8 +139,8 @@ Os 11 critérios (≥ 2 em 12 meses) — ver [[Transtorno por Uso de Substância
 3. **Critérios DSM-5-TR** — quantificar gravidade
 4. **Avaliar comorbidades** psiquiátricas
 5. **Avaliação de complicações orgânicas:**
-	- [[Hemograma]], função hepática, [[GGT]], [[TAP ou INR (Índice Normalizado Internacional)|INR]], albumina
-	- [[USG de Abdome]] (esteatose, cirrose)
+	- [[Hemograma]], função hepática, GGT, INR, albumina
+	- USG de Abdome (esteatose, cirrose)
 	- [[Eletrocardiograma]] (cardiomiopatia)
 	- [[Endoscopia Digestiva Alta]] se suspeita de varizes
 6. **Avaliação de risco social** — direção, trabalho, família
@@ -154,7 +154,7 @@ Os 11 critérios (≥ 2 em 12 meses) — ver [[Transtorno por Uso de Substância
 - **Apoio familiar** e psicoeducação
 - **Grupos de ajuda** (Alcoólicos Anônimos — AA — evidência sólida em manutenção)
 - **Intervenção breve** em uso de risco (5-15 min de aconselhamento estruturado em consulta de rotina) — evidência ótima em primária
-- **Psicoterapia** estruturada ([[Terapia Cognitivo-Comportamental]], terapia motivacional, abordagem de 12 passos)
+- **Psicoterapia** estruturada (Terapia Cognitivo-Comportamental, terapia motivacional, abordagem de 12 passos)
 
 ### **2. Tratamento Farmacológico**
 

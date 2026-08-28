@@ -24,7 +24,7 @@ tipo de exame: Laboratorial
 ## 📋 Indicações Principais
 
 - **[[Dispneia]] com repercussão** ou SpO₂ baixa na [[Oximetria de Pulso]].
-- **Suspeita de hipoventilação / retenção de CO₂:** [[DPOC]] exacerbada, [[Intoxicação Aguda por Opioides]], doença neuromuscular, rebaixamento de consciência.
+- **Suspeita de hipoventilação / retenção de CO₂:** [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] exacerbada, [[Intoxicação Aguda por Opioides]], doença neuromuscular, rebaixamento de consciência.
 - **Distúrbios ácido-básicos:** [[Cetoacidose Diabética]], [[Acidose Metabólica]], [[Sepse]], insuficiência renal.
 - **[[Intoxicação por Monóxido de Carbono]] e metemoglobinemia** — exige co-oximetria (a gasometria comum calcula a saturação, não a mede).
 - Monitorização de paciente crítico e ajuste de ventilação mecânica.
@@ -53,7 +53,7 @@ tipo de exame: Laboratorial
 - Gradiente normal com PaCO₂ alta → hipoventilação. Gradiente alargado → doença de troca (V/Q, shunt ou difusão).
 
 **Trilha 2 — Ventilação e equilíbrio ácido-básico:**
-- **PaCO₂** é a medida direta da ventilação alveolar. Alta = hipoventilação ([[Acidose Respiratória]]); baixa = hiperventilação ([[Alcalose Respiratória]]).
+- **PaCO₂** é a medida direta da ventilação alveolar. Alta = [[Hipercapnia]] por hipoventilação ([[Acidose Respiratória]]); baixa = hiperventilação ([[Alcalose Respiratória]]).
 - pH → distúrbio primário → compensação esperada → distúrbio associado. Ver [[Distúrbios Ácido-Básicos]].
 
 **Pivôs de alto valor:**

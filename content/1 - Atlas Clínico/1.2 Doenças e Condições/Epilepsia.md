@@ -128,7 +128,7 @@ Progressão somatotópica da crise focal motora pelo giro pré-central (ex: face
 - **EEG:**
 	- [[EEG]] ictal: descarga epileptiforme correspondente
 	- [[EEG]] interictal: ponta, ponta-onda, ponta-onda 3 Hz (ausência), ponta-onda lenta 2,5 Hz (Lennox-Gastaut), hipsarritmia (West)
-	- [[Video-EEG]]: padrão-ouro para classificar tipo de crise e diferenciar de CNEP
+	- Video-EEG: padrão-ouro para classificar tipo de crise e diferenciar de CNEP
 - **Imagem:**
 	- [[RM de Crânio]] (protocolo epilepsia): FLAIR, T1 volumétrico; avalia [[Esclerose Mesial Temporal]], displasias, tumores
 
@@ -237,7 +237,7 @@ A classificação de síndromes epilépticas de 2022 sistematizou eletroclinicam
 #### [[Epilepsia Benigna da Infância com Descargas Centrotemporais (SeLECTS)]]
 - **Nomenclatura ILAE 2022:** SeLECTS (Self-Limited Epilepsy with Centrotemporal Spikes)
 - **Idade:** 7–12 anos (pico 8–9 anos); predomínio masculino
-- **Crises:** Focais centrotemporais, **noturnas** (despertar ou logo antes de adormecer), espasmos hemifaciais, sialorreia, disartria — com consciência preservada
+- **Crises:** **Focais centrotemporais**, **noturnas** (despertar ou logo antes de adormecer), espasmos hemifaciais, sialorreia, disartria — com consciência preservada
 - **[[Marcha Jacksoniana]]:** progressão face → MMSS → MMII
 - **EEG:** Ponta-onda centrotemporal (rolandica), ativada pelo sono
 - **Prognóstico:** Excelente — autolimitada, resolve em 2–4 anos; muitos autores não medicam
@@ -375,7 +375,7 @@ A classificação de síndromes epilépticas de 2022 sistematizou eletroclinicam
 - **[[Midazolam]] 10 mg IM** (preferido se sem acesso venoso — absorção rápida)
 - **ou [[Diazepam]] 10 mg IV** (lento, < 5 mg/min; risco de depressão respiratória)
 - Pode repetir 1x se sem resposta em 5 min
-- **Em neonatos:** [[Fenobarbital]] é 1ª linha
+- **Em neonatos:** Fenobarbital é 1ª linha
 
 #### Fase 2 — Antiepiléptico de 2ª linha (5–20 min após Fase 1 sem resposta):
 - **[[Fenitoína]] 20 mg/kg IV** em 250 mL de SF 0,9% (máx 50 mg/min)

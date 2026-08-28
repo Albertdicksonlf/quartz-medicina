@@ -24,7 +24,7 @@ card:
 
 ## 📋 Indicações Principais
 1. **Doenças Autoimunes:** [[Esclerose Múltipla - Anotações]] (surtos), [[Lúpus]], Artrite Reumatóide.
-2. **Pneumologia:** Exacerbação de [[Asma]] e [[DPOC]].
+2. **Pneumologia:** Exacerbação de [[Asma]] e [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]].
 3. **Reações Alérgicas Graves.**
 
 ## 💊 Posologia e Apresentação

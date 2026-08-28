@@ -32,7 +32,7 @@ tipo de exame: null
 ## 🎯 Dicotomia central (o roteamento)
 
 ### **1. Prurido COM lesão primária → dermatológico**
-*A pele mostra a doença.* Escabiose (prurido **noturno**, interdigital, contactantes coçando junto), urticária, dermatite atópica, dermatite de contato, psoríase, líquen plano, dermatofitoses ([[Tinea Pedis (Frieira)|tinea]]), pediculose, [[Varicela-Zoster|varicela]]. *(A maioria dessas doenças ainda não tem nota no vault — ver rodapé.)*
+*A pele mostra a doença.* **[[Escabiose]]** (prurido **noturno**, interdigital, contactantes coçando junto), **[[Pediculose]]**, **[[Estrófulo]]** (seropápulas em áreas expostas, criança), **[[Larva Migrans Cutânea]]** (trajeto serpiginoso migratório), **[[Tungíase]]**, **[[Miíase]]**, urticária, dermatite atópica, dermatite de contato, psoríase, líquen plano, dermatofitoses ([[Tinea Pedis (Frieira)|tinea]]), [[Varicela-Zoster|varicela]]. *(O cluster das zoodermatoses foi processado em 2026-08-23; as demais ainda sem nota.)*
 
 ### **2. Prurido SEM lesão primária → investigar SISTÊMICO 🚨**
 *Só escoriações secundárias; a pele "está normal" fora do que a unha fez.*
@@ -46,7 +46,7 @@ tipo de exame: null
 ## 🕵️ Roteiro de Anamnese (O Script)
 1. **Tem lesão primária ou só marcas de coçar?** — a bifurcação acima.
 2. **Distribuição:** generalizado (favorece sistêmico) × localizado (contato, dermatofitose, picada).
-3. **Cronologia/gatilhos:** **noturno** → escabiose; **após contato com água/banho quente** → aquagênico ([[Policitemia Vera]]); relação com fármaco novo.
+3. **Cronologia/gatilhos:** **noturno** → [[Escabiose|escabiose]]; **após contato com água/banho quente** → aquagênico ([[Policitemia Vera]]); relação com fármaco novo; **contato com areia/solo** → [[Larva Migrans Cutânea|larva migrans]] ou [[Tungíase|tungíase]]; **surtos em criança com animal em casa** → [[Estrófulo|estrófulo]].
 4. **Sintomas B associados:** perda de peso, [[Sudorese Noturna|sudorese noturna]], febre → [[Linfoma de Hodgkin (LH)|linfoma]].
 5. **Sinais de colestase:** [[Icterícia|icterícia]], colúria, acolia.
 6. **Contexto:** gravidez, DRC conhecida, tireoidopatia, contactantes com prurido.
@@ -65,6 +65,7 @@ tipo de exame: null
 ---
 
 ## 🔗 Conexões com Guias de Raciocínio
+- [[Abordagem do Prurido]] — algoritmo de investigação e tratamento por mecanismo
 - [[Icterícia]] — eixo colestático compartilhado (prurido + icterícia)
 
 ---

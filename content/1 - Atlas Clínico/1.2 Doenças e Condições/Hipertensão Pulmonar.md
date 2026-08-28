@@ -26,7 +26,7 @@ tipo de exame: ""
 ## 🗂️ Classificação (5 Grupos da OMS)
 1. **Grupo 1 — Hipertensão arterial pulmonar:** idiopática, hereditária, associada a [[Esclerodermia|colagenoses]], HIV, [[Síndrome de Eisenmenger|cardiopatias congênitas]].
 2. **Grupo 2 — Doença do coração esquerdo (mais comum):** [[Estenose Mitral|estenose mitral]], [[Insuficiência Mitral|insuficiência mitral]], [[Insuficiência Cardíaca|insuficiência cardíaca]] (pós-capilar).
-3. **Grupo 3 — Doença pulmonar/hipóxia:** [[DPOC|DPOC]], fibrose pulmonar, apneia do sono.
+3. **Grupo 3 — Doença pulmonar/hipóxia:** [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]], fibrose pulmonar, apneia do sono.
 4. **Grupo 4 — Tromboembólica crônica:** sequela de [[Tromboembolismo Pulmonar (TEP)|TEP]] (hipertensão pulmonar tromboembólica crônica).
 5. **Grupo 5 — Multifatorial/inexplicada.**
 

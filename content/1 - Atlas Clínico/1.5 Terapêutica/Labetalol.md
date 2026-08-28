@@ -64,7 +64,7 @@ card:
 - **Monitoramento:** FC, PA contínua, ausculta pulmonar
 
 ## Contraindicações
-- [[Asma]] / [[DPOC]] grave
+- [[Asma]] / [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] grave
 - Bloqueio AV de 2º/3º grau sem marcapasso
 - [[Insuficiência Cardíaca]] aguda descompensada com FE reduzida
 - Bradicardia sintomática

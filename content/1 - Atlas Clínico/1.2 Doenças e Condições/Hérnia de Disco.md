@@ -29,7 +29,14 @@ card: null
 
 > [!tip] Nível do disco × raiz comprimida
 > A hérnia **posterolateral** (a mais comum) poupa a raiz que sai naquele nível e comprime a **raiz que desce para o nível seguinte**. Por isso a hérnia L4–L5 costuma dar síndrome de **L5**, e a hérnia L5–S1 dá **S1**. Já a hérnia **foraminal/extraforaminal**, mais rara, pega a raiz do próprio nível.
+Só depois de L2 (cone medular)
+Revisando -> EX: Vertebra L4 - Disco - Vertebra L5
+Raiz emergente (Sai da mesma vértebra)
+Raizes transeuntes (passam ao nível do disco intervertebral superior)
 
+Hérnias (rompe o anulofibroso e extravasa o núcleo pulposo)
+	postero Central -> Pega as transeuntes 
+	Foraminal -> acomete a raiz emergente 
 ## 🌪️ Fisiopatologia
 
 > [!info]- 🔄 Base Fisiológica Relembrada

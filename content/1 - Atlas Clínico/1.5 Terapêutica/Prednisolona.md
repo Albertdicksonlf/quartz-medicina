@@ -21,7 +21,7 @@ aliases:
 *Devido ao seu potente efeito, é usado em quase todas as especialidades médicas.*
 
 - **Reumatologia:** Doenças autoimunes como [[Lúpus Eritematoso Sistêmico]], [[Artrite Reumatoide]], Vasculites, Polimialgia Reumática.
-- **Pneumologia:** Crises agudas e controle de [[Asma]] grave, exacerbações de [[DPOC]].
+- **Pneumologia:** Crises agudas e controle de [[Asma]] grave, exacerbações de [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]].
 - **Gastroenterologia/Hepatologia:** [[Doença Inflamatória Intestinal]] (Crohn e RCU), [[Hepatite Autoimune]], [[Doença Hepática alcoólica]] grave.
 - **Nefrologia:** Síndromes nefróticas (ex: Doença de Lesões Mínimas), glomerulonefrites.
 - **Dermatologia:** Pênfigo vulgar, dermatites graves, urticária crônica.

@@ -28,12 +28,12 @@ aliases:
 ## 2. Diagnóstico Diferencial: Primária vs Secundária
 Toda vez que o Hematócrito for alto (> 49% Homem / > 48% Mulher), dosar **Eritropoetina (EPO)**.
 
-| Característica | **Policitemia Vera (Primária)** | **Policitemia Secundária** |
-| :--- | :--- | :--- |
-| **Causa** | Mutação na Medula (JAK2). | Hipóxia (DPOC, Altitude, Tabagismo) ou Tumor produtor de EPO. |
-| **Nível de EPO** | **BAIXO (Suprimido)** | **ALTO** (O corpo pede mais O2). |
-| **Outras séries** | Leucocitose e Trombocitose (Panmielose). | Geralmente normais. |
-| **Esplenomegalia** | Presente. | Ausente. |
+| Característica     | **Policitemia Vera (Primária)**          | **Policitemia Secundária**                                    |
+| :----------------- | :--------------------------------------- | :------------------------------------------------------------ |
+| **Causa**          | Mutação na Medula (JAK2).                | Hipóxia (DPOC, Altitude, Tabagismo) ou Tumor produtor de EPO. |
+| **Nível de EPO**   | **BAIXO (Suprimido)**                    | **ALTO** (O corpo pede mais O2).                              |
+| **Outras séries**  | Leucocitose e Trombocitose (Panmielose). | Geralmente normais.                                           |
+| **Esplenomegalia** | Presente.                                | Ausente.                                                      |
 
 ## 3. Critérios Diagnósticos
 1.  Hb > 16.5 (M) ou > 16.0 (F) OU Hematócrito > 49%/48%.

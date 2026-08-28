@@ -31,10 +31,10 @@ card: null
 - **Descritores de qualidade (têm valor diagnóstico):**
 	- *Aperto no peito* → broncoconstrição ([[Asma]])
 	- *Fome de ar / inspiração insatisfeita* → aumento de drive ([[Tromboembolismo Pulmonar (TEP)|TEP]], [[Acidose Metabólica]], IC)
-	- *Trabalho/esforço aumentado* → carga mecânica ou fraqueza muscular ([[DPOC]], [[Miastenia Gravis]])
+	- *Trabalho/esforço aumentado* → carga mecânica ou fraqueza muscular ([[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]], [[Miastenia Gravis]])
 - **Classificação por duração:**
 	- **Aguda** (minutos a horas): condições de risco à vida — [[Tromboembolismo Pulmonar (TEP)|TEP]], [[Pneumotórax]], [[Edema Agudo de Pulmão]], [[Anafilaxia]], crise de [[Asma]].
-	- **Crônica** (semanas a meses): [[DPOC]], [[Insuficiência Cardíaca]], [[Anemia]], [[Obesidade]], doença intersticial, descondicionamento.
+	- **Crônica** (semanas a meses): [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]], [[Insuficiência Cardíaca]], [[Anemia]], [[Obesidade]], doença intersticial, descondicionamento.
 
 > [!warning] Erro conceitual frequente
 > Dispneia **não é** sinônimo de hipoxemia. Crise asmática moderada cursa com dispneia intensa e SpO₂ normal (o problema é carga mecânica). Hipoxemia crônica compensada pode cursar com pouca dispneia em repouso. A saturação normal **não** autoriza descartar a queixa.

@@ -42,7 +42,7 @@ tipo de exame: null
 
 ### **Tétrade Clássica (ocorre na maioria):**
 1. **Alteração do estado mental** ([[Alteração do Nível de Consciência]]) — frequentemente a **primeira** manifestação.
-2. **Rigidez muscular** — "em cano de chumbo" (rigidez uniforme, sem o componente denteado), generalizada; pode chegar à catatonia. Frequentemente com **tremor de repouso** associado.
+2. **Rigidez muscular** — "em cano de chumbo" (rigidez uniforme, sem o componente denteado), generalizada; pode chegar à catatonia. Frequentemente com **tremor de repouso** associado. = 
 3. **Hipertermia** (> 38 °C, frequentemente alta).
 4. **Disautonomia** — taquicardia, taquipneia, hipertensão (ou PA lábil), sudorese profusa.
 

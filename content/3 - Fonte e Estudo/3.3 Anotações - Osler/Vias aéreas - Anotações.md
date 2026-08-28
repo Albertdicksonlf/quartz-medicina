@@ -10,7 +10,7 @@ prevalência:
 aliases:
 card:
 ---
-Status: #Processado-1
+Status: #processado-1
 
 Primeiro, quando vamos pensar em manejar vias aéreas? 
 	De forma eletiva: em uma cirurgia que o paciente for fazer alguma anestesia geral, por exemplo, que vamos acabar tirando o Drive respiratório desse paciente

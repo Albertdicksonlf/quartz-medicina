@@ -49,6 +49,7 @@ card:
 1.  **Suspeita de Infecção?** (Pneumonia, ITU, Foco Abdominal, Cateter).
 2.  **Tem Disfunção Orgânica?** (qSOFA positivo ou Lactato alto).
 3.  **Ação Imediata:** Acionar o **[[Bundle da Primeira Hora (Sepse)]]**.
+4.  **Escolha do antimicrobiano empírico:** ver [[Abordagem da Escolha do Antimicrobiano]] — roteamento por sítio, cobertura e descalonamento em 48-72h.
 
 ---
 ### **➕ Novas Anotações / Insights**

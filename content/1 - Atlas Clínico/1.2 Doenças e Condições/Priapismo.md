@@ -68,7 +68,7 @@ card:
     - Anestesia/bloqueio do nervo peniano.
     - Aspiração do sangue estagnado dos corpos cavernosos com uma agulha.
 - **2ª Linha (Injeção Intracavenosa de Simpaticomiméticos):**
-    - Se a aspiração falhar, injeta-se um agente alfa-agonista como a **[[Fenilefrina]]** diretamente no corpo cavernoso. Isso causa contração da musculatura lisa e facilita a drenagem venosa.
+    - Se a aspiração falhar, injeta-se um agente alfa-agonista como a **Fenilefrina** diretamente no corpo cavernoso. Isso causa contração da musculatura lisa e facilita a drenagem venosa.
 - **3ª Linha (Tratamento Cirúrgico):**
     - Se as medidas anteriores falharem, um shunt (derivação) cirúrgico é criado para desviar o sangue e forçar a detumescência.
 

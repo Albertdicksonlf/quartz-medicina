@@ -39,7 +39,20 @@ tipo de exame: null
 ## 🧠 2. Estrutura de Pensamento (Os "Buckets")
 
 ### **🅐 Com lesão primária → dermatológico**
-Escabiose (prurido **noturno** + contactantes coçando), urticária, dermatite atópica/contato, psoríase, líquen plano, dermatofitoses ([[Tinea Pedis (Frieira)|tinea]]). *(Cluster derm ainda sem notas — disciplina não cursada.)*
+
+**Zoodermatoses (ectoparasitoses) — processadas em 2026-08-23:**
+- **[[Escabiose]]** — prurido **noturno**, dobras e espaços interdigitais, **[[Túnel Escabiótico (Sulco Acarino)|túnel]]**, **família inteira coçando**
+- **[[Estrófulo]]** — **seropápulas** em áreas **expostas**, criança 2–7 anos, **contactantes assintomáticos**
+- **[[Pediculose]]** — [[Lêndeas|lêndeas]] no fio, prurido occipital
+- **[[Larva Migrans Cutânea]]** — **[[Lesão Linear Serpiginosa|trajeto serpiginoso migratório]]**, pé ou nádega, história de areia
+- **[[Tungíase]]** — nódulo amarelado com ponto escuro central, periungueal
+- **[[Miíase]]** — nódulo furunculoide com orifício central e sensação de movimento
+
+> [!tip] O discriminante topográfico que mais rende
+> **Áreas COBERTAS e de dobra → [[Escabiose]].** **Áreas EXPOSTAS → [[Estrófulo]].**
+> E a pergunta decisiva: **"tem mais alguém coçando em casa?"** — sim aponta escabiose, não aponta estrófulo.
+
+**Demais dermatoses:** urticária, dermatite atópica/contato, psoríase, líquen plano, dermatofitoses ([[Tinea Pedis (Frieira)|tinea]]). *(Ainda sem notas — disciplina em curso.)*
 
 ### **🅑 Sem lesão primária → sistêmico**
 - **Hepatobiliar (colestático):** [[Cirrose]], obstrução biliar, colestase da gestação
@@ -82,7 +95,7 @@ Opioides (histamina + ação central), IECA, estatinas, antibióticos; hidroxicl
 
 ### 💡 Heurísticas e Dicas Práticas
 - **Prurido sem rash é sinal sistêmico até prova em contrário** — não prescreva anti-histamínico e libere.
-- **Escabiose:** pergunte se **alguém em casa também coça** — prurido noturno + contactantes é quase diagnóstico.
+- **[[Escabiose]]:** pergunte se **alguém em casa também coça** — prurido noturno + contactantes é quase diagnóstico. E lembre que o **prurido persiste 2–4 semanas após a cura** (prurido pós-escabiótico) — não é falha, não retrate.
 - **O ciclo coçar-prurido se autoalimenta:** a escoriação libera mediadores e piora o prurido; interrompê-lo é parte do tratamento.
 - **Prurido pode preceder o linfoma** em meses — se o workup inicial é normal mas o sintoma persiste, reavalie.
 

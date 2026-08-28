@@ -36,7 +36,7 @@ card: null
 
 1. **Hipoventilação alveolar** — o alvéolo não é ventilado o suficiente. PaCO₂ **alta**, gradiente A-a **normal**. Ex.: [[Intoxicação Aguda por Opioides]], [[Síndrome de Guillain-Barré]], [[Miastenia Gravis]], obesidade-hipoventilação.
 2. **Baixa PO₂ inspirada** — altitude. PaCO₂ normal ou baixa, gradiente A-a **normal**.
-3. **Alteração V/Q (efeito shunt)** — V/Q **baixo mas > 0**: o ar chega pouco para o sangue que passa. Gradiente **alargado**, **corrige com O₂**. É o mecanismo mais comum na prática. Ex.: [[Asma]], [[DPOC]], [[Pneumonia]].
+3. **Alteração V/Q (efeito shunt)** — V/Q **baixo mas > 0**: o ar chega pouco para o sangue que passa. Gradiente **alargado**, **corrige com O₂**. É o mecanismo mais comum na prática. Ex.: [[Asma]], [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]], [[Pneumonia]].
 4. **Shunt verdadeiro** — V/Q **= 0**: alvéolo perfundido e absolutamente não ventilado. Gradiente **alargado**, **NÃO corrige com O₂ a 100%**. Ex.: [[Consolidação Lobar]] preenchida, atelectasia obstrutiva, [[Edema Agudo de Pulmão]], shunt anatômico ([[Síndrome de Eisenmenger]], [[Comunicação Interatrial (CIA)|CIA]]).
 5. **Distúrbio de difusão** — membrana espessada. Gradiente **alargado**, **corrige com O₂**. Manifesta-se sobretudo **ao esforço**, quando o tempo de trânsito capilar encurta.
 
@@ -63,7 +63,7 @@ card: null
 - **SpO₂ normal não exclui hipoxemia tecidual.** Na [[Intoxicação por Monóxido de Carbono]] o oxímetro lê carboxi-hemoglobina como saturada e marca valores falsamente altos.
 - **Metemoglobinemia** trava a leitura do oxímetro em torno de 85%, independentemente da PaO₂ real.
 - **Anemia grave não causa hipoxemia.** PaO₂ e SaO₂ ficam normais; o que cai é o conteúdo (CaO₂). Isso é [[Hipóxia]] sem hipoxemia — eixo diferente.
-- **O₂ em retentor crônico de CO₂** ([[DPOC]]) pode piorar a hipercapnia por reversão da vasoconstrição hipóxica e efeito Haldane. Alvo de SpO₂ 88–92%.
+- **O₂ em retentor crônico de CO₂** ([[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]]) pode piorar a hipercapnia por reversão da vasoconstrição hipóxica e efeito Haldane. Alvo de SpO₂ 88–92%.
 - **Hipoxemia leve em jovem com dor torácica pleurítica** é frequentemente subvalorizada — em [[Tromboembolismo Pulmonar (TEP)|TEP]] a PaO₂ pode estar quase normal.
 - **Gasometria sem PaCO₂ é inútil aqui:** sem ela não há como separar hipoventilação de doença de troca.
 

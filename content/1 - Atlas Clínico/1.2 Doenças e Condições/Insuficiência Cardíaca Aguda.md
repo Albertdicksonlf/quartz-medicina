@@ -129,7 +129,7 @@ A classificação por **2 perguntas-chave** define o manejo:
 - [[Ortopneia]], DPN
 - [[Crepitações Pulmonares Bibasais]]
 - [[Estase jugular patológica]]
-- [[Refluxo hepatojugular positivo]]
+- Refluxo hepatojugular positivo
 - B3
 - Edema, [[Ascite]]
 - Linhas B no USG pulmonar
@@ -167,7 +167,7 @@ A classificação por **2 perguntas-chave** define o manejo:
 2. Sinais vitais (PA, FC, FR, SatO₂, Tax)
 3. Exame físico focado (perfil hemodinâmico)
 4. **[[Eletrocardiograma]]** — buscar SCA, arritmia (gatilho)
-5. **[[Ultrassom Pulmonar]] bedside** — linhas B (congestão)
+5. **Ultrassom Pulmonar bedside** — linhas B (congestão)
 6. **Acesso venoso** + coleta de exames
 
 ### **Exames Laboratoriais**
@@ -181,7 +181,7 @@ A classificação por **2 perguntas-chave** define o manejo:
 - Procalcitonina se suspeita infecciosa
 
 ### **Imagem**
-- **[[Radiografia de Tórax]]** — congestão pulmonar (sequência: cefalização → linhas B de Kerley → infiltrado alveolar → derrame pleural)
+- **Radiografia de Tórax** — congestão pulmonar (sequência: cefalização → linhas B de Kerley → infiltrado alveolar → derrame pleural)
 - **[[Ecocardiograma]] precoce** — função sistólica, valvopatias, complicações mecânicas
 - TC de tórax se suspeita de TEP
 

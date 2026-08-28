@@ -48,7 +48,7 @@ tipo de exame: null
 
 ## 🎯 ACHADOS-CHAVE (PIVÔS)
 - **Dois eixos de classificação INDEPENDENTES:**
-	- **Completude** → [[Escala ASIA (AIS)]] — a **preservação sacral (S4-S5)** separa completa de incompleta.
+	- **Completude** → [[Escala ASIA (AIS)]] — a **preservação sacral (S4-S5)** separa completa de incompleta. -> tem que ver os reflexos bulbo cavernosos e anorretais 
 	- **Padrão geométrico** → transversa / Brown-Séquard / anterior / central.
 - **Choque medular (eixo dos reflexos) ≠ choque neurogênico (eixo hemodinâmico).**
 - **Nível neurológico** (mais caudal normal) = pivô prognóstico.

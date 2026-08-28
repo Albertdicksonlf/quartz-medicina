@@ -30,7 +30,7 @@ tipo de exame: null
 - **Quadro típico:** síndrome miccional **+ sinais sistêmicos**.
 - **Sintomas principais:**
 	- [[Febre]] e calafrios (marcador de envolvimento parenquimatoso/bacteremia).
-	- [[Dor lombar]] / [[Dor em Flanco]].
+	- [[Lombalgia|Dor Lombar]] / [[Dor em Flanco]].
 	- Náuseas e vômitos.
 	- [[Disúria]] e [[Polaciúria]] podem preceder ou acompanhar.
 - **Sinais de alerta (red flags):** hipotensão/sepse, oligúria, dor com obstrução (cálculo), gestante, imunossuprimido.

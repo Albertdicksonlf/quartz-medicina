@@ -60,17 +60,21 @@ card: null
 > A convenção mais difundida (e a usada em aula) é oligo = 2–4 e poli = **≥5**. Parte da literatura de referência define poliarticular como **≥3 articulações**. Não há uniformidade. Use o corte do professor na prova; saiba que o número isolado carrega pouca informação — o que discrimina é **distribuição × ritmo × tempo**.
 
 ### **4. Inflamatório ou mecânico? (o eixo do padrão)**
-| | **Inflamatório** | **Mecânico/degenerativo** |
-|---|---|---|
-| Rigidez matinal | **Prolongada (1–3 h)** | Breve (< 30 min) |
-| Efeito do repouso | **Piora** ("gel") | Melhora |
-| Efeito do uso | Melhora | **Piora** |
-| Dor noturna | Comum | Menos comum |
-| Natureza do edema | Sinovite / derrame / partes moles | Tumefação **óssea** (osteófitos) |
-| Provas de atividade | [[Velocidade de Hemossedimentação (VHS)|VHS]]/PCR ↑ | Normais |
+|                     | **Inflamatório**                                                                                                                                                                                                                                         | **Mecânico/degenerativo**                                                                                                                                      |         |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Rigidez matinal     | **Prolongada (1–3 h)**                                                                                                                                                                                                                                   | Breve (< 30 min)                                                                                                                                               |         |
+| Efeito do repouso   | **Piora** ("gel")                                                                                                                                                                                                                                        | Melhora                                                                                                                                                        |         |
+| Efeito do uso       | Melhora                                                                                                                                                                                                                                                  | **Piora**                                                                                                                                                      |         |
+| Dor noturna         | Comum                                                                                                                                                                                                                                                    | Menos comum                                                                                                                                                    |         |
+| Natureza do edema   | Sinovite / derrame / partes moles                                                                                                                                                                                                                        | Tumefação **óssea** (osteófitos)                                                                                                                               |         |
+| Provas de atividade | [[Velocidade de Hemossedimentação (VHS)                                                                                                                                                                                                                  | VHS]]/PCR ↑                                                                                                                                                    | Normais |
+| Fisiopatologia      | a dor é independente da carga porque é dirigida por citocinas. Na imobilidade noturna há acúmulo de exsudato e edema capsular, somado ao pico circadiano de IL-6 no fim da madrugada com nadir de cortisol. Mover bombeia o líquido para fora e melhora. | a dor é proporcional à carga porque os nociceptores estão no osso subcondral, cápsula, sinóvia e periósteo. Carga sobe, dor sobe; repouso descarrega, dor cai. |         |
 
 > [!info]- ⚠️ O limiar da rigidez matinal não é consenso
 > Fontes de referência descrevem 1–3 h para o padrão inflamatório; outras usam 30 min ou 60 min como ponto de corte. Trate "30 vs 60 min" como **convenção didática**, não critério duro. Cortes rígidos só existem dentro de escores específicos (ex.: ACR/EULAR 2010 para artrite reumatoide).
+
+
+
 
 ### **5. Há envolvimento axial? (eixo frequentemente esquecido)**
 Perguntar por coluna e sacroilíacas **não é opcional** — sem isso a caixa das espondiloartrites desaparece do diferencial.

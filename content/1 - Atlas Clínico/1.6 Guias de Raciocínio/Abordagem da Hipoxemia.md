@@ -38,23 +38,32 @@ tipo de exame: null
 
 *Os cinco mecanismos, agrupados pelo que o [[Gradiente Alvéolo-Arterial (A-a)]] mostra.*
 
+### A ideia central
+
+O gradiente compara **quanto oxigênio há dentro do alvéolo** com **quanto chegou ao sangue arterial**. É uma medida de eficiência da travessia.
+
+Gradiente A-a = PAO₂ − PaO₂
+
+O "A" maiúsculo é alveolar, o "a" minúsculo é arterial. A PaO₂ você mede na gasometria. A PAO₂ você não mede — ninguém coleta gás de dentro do alvéolo — então ela é **calculada**.
+
 ### **Grupo A: Gradiente A-a NORMAL — o pulmão está íntegro**
 - **Hipoventilação alveolar** (PaCO₂ alta): [[Intoxicação Aguda por Opioides]], [[Síndrome de Guillain-Barré]], [[Miastenia Gravis]], [[Obesidade]]-hipoventilação, [[Traumatismo Cranioencefálico (TCE)|TCE]] com depressão de drive
 - **Baixa PO₂ inspirada** (PaCO₂ normal ou baixa): altitude
 - *Pista:* o problema é o **fole ou o comando**, não o parênquima. RX costuma ser normal.
+- *Se houver PaCO₂ elevada, o raciocínio continua em [[Abordagem da Hipercapnia]] — este bucket é a porta de entrada daquele guia.*
 
-### **Grupo B: Gradiente ALARGADO que CORRIGE com O₂**
-- **Alteração V/Q (efeito shunt, V/Q baixo mas > 0)** — mecanismo mais comum na prática: [[Asma]], [[DPOC]], [[Pneumonia]], [[Bronquiolite]]
+### **Grupo B: Gradiente  que CORRIGE com O₂**
+- **Alteração V/Q (efeito shunt, V/Q baixo mas > 0)** — mecanismo mais comum na prática: [[Asma]], [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]], [[Pneumonia]], [[Bronquiolite]]
 - **Distúrbio de difusão** — manifesta-se sobretudo ao esforço: doença intersticial, [[Hipertensão Pulmonar]]
 - *Pista:* subir a FiO₂ resolve. A oxigenação melhora proporcionalmente.
 
-### **Grupo C: Gradiente ALARGADO que NÃO corrige — "must not miss"**
+### **Grupo C: Gradiente  que NÃO corrige — "must not miss"**
 - **Shunt verdadeiro (V/Q = 0):** [[Consolidação Lobar]] preenchida, atelectasia obstrutiva, [[Edema Agudo de Pulmão]]
 - **Shunt anatômico:** [[Síndrome de Eisenmenger]], [[Comunicação Interatrial (CIA)|CIA]], [[Tetralogia de Fallot (T4F)|T4F]], síndrome hepatopulmonar na [[Cirrose]]
 - *Pista:* refratariedade ao O₂ é o próprio pivô. Muda a conduta de "aumentar o cateter" para "recrutar alvéolo".
 
 ### **Grupo D: Espaço morto (o espelho do shunt)**
-- Ventilação preservada, perfusão ausente: [[Tromboembolismo Pulmonar (TEP)]], enfisema, [[Choque Hipovolêmico]]
+- Ventilação preservada, perfusão ausente: [[Tromboembolismo Pulmonar (TEP)]], **enfisema,** [[Choque Hipovolêmico]]
 - *Pista:* hipoxemia costuma ser **leve**; o achado dominante é ineficiência ventilatória e dissociação clínico-radiológica.
 
 ## 🔎 3. Algoritmo de Investigação
@@ -89,6 +98,7 @@ tipo de exame: null
 - **Contraintuitivo e cobrado:** distúrbio de **difusão corrige** com O₂ (a FiO₂ alta aumenta o gradiente que empurra o gás pela membrana). O que não corrige é shunt.
 - **O₂ em retentor crônico** pode piorar a hipercapnia (reversão da vasoconstrição hipóxica + efeito Haldane). Titule, não inunde.
 - **PaO₂ quase normal não exclui TEP.** Use o gradiente, não o valor absoluto.
+- Primeiro o termo: na DPOC o que se instala é **hipoxemia**, não hipóxia. Hipóxia tecidual só aparece quando a hipoxemia é grave o bastante para derrubar a oferta, ou quando entra policitemia, cor pulmonale e baixo débito. Você acabou de construir essa separação — não a deixe colapsar de volta.
 
 ---
 

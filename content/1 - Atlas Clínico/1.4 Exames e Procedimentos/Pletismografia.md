@@ -22,7 +22,7 @@ tipo de exame: Procedimento
 ## 📋 Indicações Principais
 
 - **Confirmar restrição** quando a [[Espirometria]] mostra CVF reduzida com relação VEF₁/CVF normal.
-- **Quantificar hiperinsuflação e aprisionamento aéreo** na [[DPOC]] (VR e VR/CPT elevados).
+- **Quantificar hiperinsuflação e aprisionamento aéreo** na [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] (VR e VR/CPT elevados).
 - **Distinguir distúrbio misto** (obstrução + restrição coexistentes) de obstrução isolada com CVF baixa por aprisionamento.
 - **Avaliação pré-operatória** de ressecção pulmonar.
 - Investigação de [[Dispneia]] com espirometria inconclusiva.

@@ -120,7 +120,7 @@ Biópsia guiada pelo achado (linfonodo, medula óssea, fígado, artéria tempora
 ### 💡 Heurísticas e Dicas Práticas
 - **FOI é, na maioria das vezes, apresentação ATÍPICA de doença COMUM — não doença rara.** Antes de caçar zebra, reconsidere TB, endocardite, abscesso e linfoma.
 - **No Brasil, tuberculose extrapulmonar é a primeira hipótese** de FOI infecciosa.
-- **Não trate febre sem foco com antibiótico empírico** no paciente estável — mascara hemoculturas e atrasa o diagnóstico. Exceções: instabilidade, neutropenia, imunossupressão.
+- **Não trate febre sem foco com antibiótico empírico** no paciente estável — mascara hemoculturas e atrasa o diagnóstico. Exceções: instabilidade, neutropenia, imunossupressão. Quando o empírico é indicado, a escolha segue [[Abordagem da Escolha do Antimicrobiano]].
 - **O antitérmico é para conforto**, não para "curar a febre"; a curva tem valor diagnóstico e apagá-la cega a evolução.
 - **No idoso, ausência de febre não exclui infecção grave** — hipotermia também é sinal de sepse.
 - **Reveja a história epidemiológica mais de uma vez**: viagem, animais, contatos, ocupação e sexualidade costumam aparecer só na segunda conversa.

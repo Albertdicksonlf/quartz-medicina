@@ -288,7 +288,7 @@ Utilizado quando há sintomas + FEVE preservada para estimar probabilidade de IC
 ### **4. Dispositivos e Terapias Avançadas (NYHA III/IV refratários)**
 - [[Cardiodesfibrilador Implantável (CDI)]] — prevenção de morte súbita (FEVE ≤ 35% otimizada)
 - [[Terapia de Ressincronização Cardíaca (TRC)]] — BRE + QRS ≥ 150 ms + ritmo sinusal + FEVE ≤ 35%
-- [[Transplante Cardíaco]] / **Dispositivo de Assistência Ventricular (LVAD)** — IC refratária terminal
+- Transplante Cardíaco / **Dispositivo de Assistência Ventricular (LVAD)** — IC refratária terminal
 
 ### **5. Tratamento da Descompensação Aguda**
 

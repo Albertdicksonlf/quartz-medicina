@@ -91,7 +91,7 @@ A topografia organiza o raciocínio diagnóstico **e** o manejo:
 *Pista:* **[[Cilindros Granulares Pigmentados]], FENa > 2%, FEUreia > 50%**
 
 #### **B2. Intersticial ([[Nefrite Intersticial Aguda]])**
-- **Fármacos** (70-75%): **[[Penicilinas|beta-lactâmicos]]**, **[[AINEs]]**, **[[Inibidores da bomba de prótons (IBPs)|IBPs]]**, sulfas, alopurinol
+- **Fármacos** (70-75%): **[[Betalactâmicos|beta-lactâmicos]]**, **[[AINEs]]**, **[[Inibidores da bomba de prótons (IBPs)|IBPs]]**, sulfas, alopurinol
 - **Infecções:** [[Leptospirose]], [[Citomegalovírus|CMV]], [[Toxoplasmose]]
 - **Doenças sistêmicas:** [[Lúpus Eritematoso Sistêmico|LES]], Síndrome de Sjögren, sarcoidose
 

@@ -10,7 +10,26 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
+
+> [!success] Processado em 2026-08-25
+> **Nota criada:** [[Anatomia e Fisiologia da Pele]] (1.3 — Achado-Pivô)
+>
+> Processada em conjunto com `Lesões Elementares - Aula`, formando o par fundacional da dermatologia no vault.
+
+> [!note] Acréscimos — a aula estava correta; o trabalho foi conectar estrutura a doença
+> A anatomia foi mantida integralmente. O que se acrescentou foi a **ponte para a clínica**, seguindo a própria orientação da aula ("a descrição das lesões é universal, foco nisso"):
+> - **Turnover de 28 dias → psoríase**: por que o encurtamento do ciclo gera a escama micácea, e por que tratamento dermatológico leva semanas
+> - **Desmogleína 1 × 3 → pênfigo foliáceo × vulgar**: a aula cita as duas proteínas; explicitado que *qual* delas é atacada define o nível da bolha e o acometimento de mucosa
+> - **Melanócitos**: a aula acerta que o número é igual entre pessoas; acrescentada a distinção vitiligo (destruição) × albinismo (defeito enzimático)
+> - **Epiderme avascular** → lesão epidérmica pura não sangra nem deixa cicatriz (conecta com erosão × úlcera)
+> - **Bulge** → reservatório de células-tronco; explica reepitelização de queimaduras e alopecia cicatricial × não cicatricial
+> - **Ciclo do pelo** → mecanismo do eflúvio telógeno (queda 3 meses após o estresse) e do anágeno (quimioterapia, dias a semanas)
+> - **Écrina = simpático COLINÉRGICO** — promovido a callout: é a exceção clássica do SNA, e explica anidrose por anticolinérgicos e o uso de toxina botulínica na hiperidrose
+> - **Filagrina** → conectada ao defeito de barreira da dermatite atópica
+
+> [!note] Imagens
+> A aula contém 5 capturas de tela com esquemas anatômicos que não foram acessíveis no processamento.
 # Anatomia 
 3 camadas -> doenças podem acometer todas essas regiões
 

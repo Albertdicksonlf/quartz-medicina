@@ -63,13 +63,13 @@ card:
 ## ⚠️ Efeitos Adversos
 - **Comuns:** Bradicardia, fadiga, extremidades frias, disfunção erétil, sonhos vívidos (lipossolúveis como propranolol)
 - **Graves:**
-	- Broncoespasmo — não-seletivos em [[Asma]] / [[DPOC]] grave
+	- Broncoespasmo — não-seletivos em [[Asma]] / [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] grave
 	- Bloqueio AV — em pacientes com distúrbios de condução preexistentes
 	- Descompensação de IC — se introduzido em fase aguda descompensada
 - **Monitoramento:** FC (manter >50 bpm), PA, sintomas de broncoespasmo, glicemia em DM1
 
 ## Contraindicações
-- [[Asma]] / [[DPOC]] grave (não-seletivos — absoluta; cardiosseletivos — relativa)
+- [[Asma]] / [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] grave (não-seletivos — absoluta; cardiosseletivos — relativa)
 - Bloqueio AV de 2º/3º grau sem marcapasso
 - IC aguda descompensada (iniciar só após estabilização)
 - [[Feocromocitoma]] sem alfa-bloqueio prévio

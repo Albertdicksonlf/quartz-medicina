@@ -47,6 +47,9 @@ card: >-
 ## 🎯 ACHADOS-CHAVE (PIVÔS)
 *Dados que mudam a probabilidade pré-teste.*
 
+- **Ferramenta de Rastreio:** GAD-7
+![[Pasted image 20260826142909.png]]
+
 - **Clínico (Critérios DSM-5-TR — necessário ≥3 dos seguintes ≥6 meses):**
 	- [[Irritabilidade]]
 	- [[Insônia]] (dificuldade em adormecer ou manter o sono)
@@ -95,6 +98,7 @@ card: >-
 	- Atenção: pode haver *worsening* inicial da ansiedade na 1ª semana de [[ISRS]] — orientar o paciente
 - **Segunda Linha:** [[Buspirona]] (agonista parcial 5-HT1A — sem dependência, latência de 2–4 semanas), [[Duloxetina]], [[Pregabalina]]
 - **Adjuvante (curto prazo / SOS):** [[Benzodiazepínicos]] — apenas enquanto aguarda efeito do antidepressivo; **evitar uso prolongado** (dependência, tolerância, piora cognitiva)
+- **Absolutamente Refratários**: Antipsicóticos ou Benzodiazepínicos 
 
 ### **3. Psicoterapia**
 - [[Terapia Cognitivo-Comportamental (TCC)]] — padrão-ouro; mais eficaz que farmacoterapia isolada a longo prazo

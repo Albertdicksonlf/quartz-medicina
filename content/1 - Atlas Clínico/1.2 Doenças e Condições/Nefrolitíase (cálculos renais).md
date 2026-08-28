@@ -6,19 +6,19 @@ aliases:
   - Cálculo Renal
   - Cálculo Urinário
   - Litíase Renal
-card: null
-classe de medicamentos: null
-date: '2026-06-22T13:50:00'
+card:
+classe de medicamentos:
+date: 2026-06-22T13:50:00
 prevalência: Comum
 tipo: Doença
 tipo de doença: Metabólica
-tipo de exame: null
+tipo de exame:
 área:
   - Urologia
   - Nefrologia
 ---
 
-# wNefrolitíase (cálculos renais)
+# Nefrolitíase (cálculos renais)
 
 > [!abstract] Resumo de Uma Linha
 > Formação de cálculos no trato urinário a partir da supersaturação da urina. A queixa clássica é a **[[Cólica Renal|cólica nefrética]]** — dor lombar intensa que irradia para a virilha. A maioria dos cálculos pequenos é eliminada espontaneamente; o perigo está no cálculo **obstrutivo + infectado** (emergência urológica).

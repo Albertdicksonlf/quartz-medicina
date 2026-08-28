@@ -11,7 +11,29 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
+
+> [!success] Processado em 2026-08-25
+> **Nota criada:** [[Abordagem do Trauma de Membro]] (Guia de Raciocínio, 1.6)
+>
+> Esta aula já continha, anexado, um **resumo de sessão analítica prévia** com reorganização por mecanismo e uma lista de correções. Esse material foi incorporado integralmente ao guia — ele era mais valioso que o conteúdo bruto da aula.
+>
+> **Eixo adotado:** mecanismo (compressão direta · torque · tração axial), não tecido. As seis entidades (contusão, fratura, entorse, luxação, lesão condral, estiramento) são o **conteúdo** da caixa, não o eixo.
+
+> [!warning] Correções aplicadas (as quatro da sessão prévia, preservadas)
+> 1. **Antibiótico profilático na contusão fechada — SAI.** Sem solução de continuidade não há inóculo. O que existe é profilaxia perioperatória em fratura operada, e ATB terapêutico precoce na fratura exposta.
+> 2. **Gelo é analgesia e controle de edema, não tratamento.** Evidência sobre RICE é divergente; os **"30 minutos"** anotados não têm ancoragem em fonte.
+> 3. **"6 semanas para imagem na entorse"** — sem fonte que sustente, e provavelmente tarde demais. ⚠️ **Confirmar com o professor.**
+> 4. **Fratura exposta não foi coberta pela aula** — registrado o essencial (Gustilo-Anderson, ATB o mais precoce possível, desbridamento), com a ressalva de que os esquemas concretos divergem entre protocolos.
+>
+> **Correções conceituais reforçadas no guia:** luxação define-se pela **perda de congruência articular**, não pelo ligamento; fratura é **falha mecânica por carga excedendo resistência**, e o traço é assinatura do vetor; o discriminante entorse × fratura é **descarga de peso + dor óssea**, não capacidade de movimentar.
+
+> [!note] Pendências herdadas — NÃO resolvidas
+> - As **cinco perguntas de recuperação** da sessão anterior seguem sem resposta.
+> - O **ponto de corte do índice tornozelo-braquial** na suspeita de lesão vascular foi deixado explicitamente em aberto. Registrado no guia como pendência — **buscar em fonte primária, não assumir**.
+
+> [!note] Conteúdo congelado (aula futura)
+> A seção "Urgências em Ortopedia" da aula tem apenas cabeçalhos vazios. Ficaram em texto puro: fratura exposta, síndrome compartimental, fraturas de bacia, luxações, fratura supracondiliana, artrite séptica (esta já tem nota própria), Gustilo-Anderson, Ottawa Ankle Rules, teste de Thompson.
 
 # Noções Básicas de Traumatologia 
 
