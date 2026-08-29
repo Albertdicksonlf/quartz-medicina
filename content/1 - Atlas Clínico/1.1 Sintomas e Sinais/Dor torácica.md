@@ -41,6 +41,7 @@ tipo de exame: ""
 
 ## 🔗 Conexões com Guias de Raciocínio
 - [[Abordagem da Dor Torácica]] — guia principal: os "6 matadores" e a estratificação de risco imediata.
+- [[Abordagem do Trauma Torácico]] — quando a dor tem contexto traumático, o raciocínio muda de eixo: a pergunta deixa de ser "qual das causas clínicas?" e passa a ser "o que está sob tensão ou sangrando agora?".
 - Causas que abrem este sintoma: [[Dissecção de Aorta]], [[Síndrome Coronariana Aguda]], [[Tromboembolismo Pulmonar (TEP)|TEP]], [[Pericardite]], [[Tamponamento Cardíaco]].
 - Qualidade pleurítica da dor: [[Dor torácica pleurítica]].
 

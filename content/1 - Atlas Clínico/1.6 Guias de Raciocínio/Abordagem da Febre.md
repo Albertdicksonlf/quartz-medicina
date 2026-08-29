@@ -49,7 +49,7 @@ tipo de exame: null
 - **Urinário:** [[Cistite Aguda]] · [[Pielonefrite Aguda]] ([[Sinal de Giordano Presente|Giordano]] +)
 - **Abdominal:** [[Colecistite aguda|Colecistite]] · [[Colangite Aguda]] · [[Apendicite Aguda]] · [[Diverticulite Aguda]] → [[Abordagem da Dor Abdominal]]
 - **SNC:** [[Meningite Aguda]] · encefalite
-- **Pele/partes moles:** [[Erisipela]] · [[Fascite Necrosante|celulite e fasciíte necrosante]] · [[Osteomielite]]
+- **Pele/partes moles:** [[Erisipela]] · [[Celulite Infecciosa]] · [[Fasciíte Necrosante]] · [[Osteomielite]] → [[Abordagem das Infecções de Pele e Partes Moles]]
 - **Arboviroses/virais:** [[Dengue]] · [[Chikungunya]] · [[Zika]] → ver [[Exantema]] e [[Mialgia]]
 - **Relacionada a dispositivo:** cateter, prótese, sonda
 

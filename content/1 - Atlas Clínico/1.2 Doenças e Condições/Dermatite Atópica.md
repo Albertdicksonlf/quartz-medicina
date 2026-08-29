@@ -93,7 +93,7 @@ Coçar alivia por segundos, rompe barreira, libera mediadores e alimenta o pruri
 
 - **Sinais de Alerta (Red Flags):**
   - **Vesículas monomorfas em "saca-bocado" + febre + dor desproporcional** → eczema herpético → emergência
-  - **Crostas melicéricas, pústulas, piora abrupta** → impetiginização ([[Impetigo e Foliculite]])
+  - **[[Crostas Melicéricas|Crostas melicéricas]], pústulas, piora abrupta** → impetiginização ([[Impetigo e Foliculite]])
   - **Eritrodermia (≥ 90% da superfície)** → risco de perda hidroeletrolítica e térmica; internação
   - **Eczema grave desde o nascimento + abscessos frios + pneumonias/pneumatoceles + dentes decíduos retidos** → suspeitar de [[Síndrome de Hiper-IgE]] ou outra [[Imunodeficiências Combinadas|imunodeficiência primária]]
   - **Déficit de crescimento associado** → repensar o diagnóstico

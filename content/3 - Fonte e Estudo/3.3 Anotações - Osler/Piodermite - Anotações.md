@@ -10,7 +10,7 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
 
 # Infecções de Pele e Partes Moles
 

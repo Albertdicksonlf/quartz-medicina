@@ -27,15 +27,15 @@ Fixar dois dedos de uma mão nas bordas da lesão; com a outra mão, comprimir o
 > - **Celulite** (inflamação difusa, sem coleção) → **antibiótico**
 > - **Abscesso** (coleção, flutuação +) → **drenagem** (antibiótico isolado não resolve)
 >
-> É o pivô que separa tratar de drenar. Ver [[Fascite Necrosante|celulite e fasciíte necrosante]].
+> É o pivô que separa tratar de drenar. Ver [[Abordagem das Infecções de Pele e Partes Moles]].
 
 ## 🎯 Onde aparece
-- Abscessos de partes moles, [[Erisipela|infecções cutâneas]] complicadas, abscesso perianal, mamário, hematoma organizado, bursite séptica.
+- Abscessos de partes moles, [[Erisipela|infecções cutâneas]] complicadas, abscesso perianal, mamário, hematoma organizado, bursite séptica. Ver [[Furunculo, Carbunculo e Abcessos]].
 
 ## ⚠️ Pitfalls
-- **Falso-negativo:** coleção **profunda** ou sob tensão (parede espessa) pode não flutuar → se a suspeita é alta, pedir **ultrassom** (o US é mais sensível que a mão).
+- **Falso-negativo:** coleção **profunda** ou sob tensão (parede espessa) pode não flutuar → se a suspeita é alta, pedir [[USG de Partes Moles]] (o US é mais sensível que a mão).
 - **Falso-positivo:** lipoma, tecido adiposo frouxo.
-- 🚨 Dor **desproporcional**, toxemia, crepitação → suspeitar de [[Fascite Necrosante|fasciíte necrosante]]: emergência cirúrgica, não espere flutuação para agir.
+- 🚨 Dor **desproporcional**, toxemia, crepitação → suspeitar de [[Fasciíte Necrosante]]: emergência cirúrgica, não espere flutuação para agir.
 
 ---
 

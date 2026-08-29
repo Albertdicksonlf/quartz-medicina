@@ -39,8 +39,6 @@ Uma vez que ocorre o dano a cartilagem.(primário ou secundário); mas com o imp
 Ainda tem um componente de dor cronica, modulando mecanismos nociplásticos centrais de dor. 
 
 
-
-
 **ETIOLOGIAS**
 **Causa degenerativa**
 	Componente genético, principalmetne nas mulheres

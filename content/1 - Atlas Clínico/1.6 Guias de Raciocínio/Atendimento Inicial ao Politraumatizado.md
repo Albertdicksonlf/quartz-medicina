@@ -112,14 +112,17 @@ Inspeção → palpação → percussão → ausculta, mais [[Oximetria de Pulso
 
 | Lesão | Pista | Conduta imediata |
 |---|---|---|
-| **Pneumotórax hipertensivo** | Hipotensão + turgência jugular + timpanismo + desvio de traqueia; **diagnóstico CLÍNICO** | **Descompressão imediata** por agulha, seguida de drenagem |
-| **Pneumotórax aberto** | Ferida soprante ("traumatopneia") | **Curativo de três pontas** (valve unidirecional), depois drenagem |
-| **Hemotórax maciço** | Macicez + hipotensão + murmúrio abolido | Drenagem; **toracotomia** se > 1.500 mL imediatos ou > 200 mL/h |
-| **Tórax instável** (retalho costal) | Movimento **paradoxal** da parede | Analgesia eficaz, suporte ventilatório; a contusão pulmonar subjacente é o real problema |
+| **[[Pneumotórax\|Pneumotórax hipertensivo]]** | Hipotensão + turgência jugular + timpanismo + desvio de traqueia; **diagnóstico CLÍNICO** | **Descompressão imediata** por agulha, seguida de drenagem |
+| **[[Pneumotórax\|Pneumotórax aberto]]** | Ferida soprante ("traumatopneia") | **Curativo de três pontas** (valve unidirecional), depois drenagem |
+| **[[Hemotórax\|Hemotórax maciço]]** | Macicez + hipotensão + murmúrio abolido | Drenagem; **toracotomia** se > 1.500 mL imediatos ou > 200 mL/h |
+| **[[Fratura de Costelas e Tórax Instável\|Tórax instável]]** (retalho costal) | Movimento **paradoxal** da parede | Analgesia eficaz, suporte ventilatório; a contusão pulmonar subjacente é o real problema |
 | **[[Tamponamento Cardíaco]]** | **Tríade de Beck**: hipotensão + turgência jugular + hipofonese de bulhas | Pericardiocentese / toracotomia; a drenagem é ponte para a cirurgia |
 
+> [!tip] 👉 Aprofundamento
+> Este bloco é desdobrado em **[[Abordagem do Trauma Torácico]]**, que cobre também as lesões da avaliação **secundária** ([[Contusão Pulmonar]], [[Contusão Miocárdica]], [[Lesão Traumática da Aorta]], [[Lesão Traqueobrônquica]], [[Lesão Esofágica Traumática]], [[Hérnia Diafragmática Traumática]]) e os procedimentos ([[Drenagem Torácica]], [[Toracocentese]], [[Toracotomia no Trauma]]).
+
 > [!danger] Pneumotórax hipertensivo NÃO espera radiografia
-> É diagnóstico **clínico**. Pedir [[Raio-X de Tórax|raio-X]] para confirmar antes de descomprimir é erro que mata.
+> É diagnóstico **clínico**. Pedir [[Raio-X de Tórax|raio-X]] para confirmar antes de descomprimir é erro que mata. Ver [[Pneumotórax]] e [[Toracocentese|toracocentese de alívio]].
 
 ### **C — Circulação com controle da hemorragia**
 *O ponto central de toda a reanimação do trauma.*
@@ -171,7 +174,7 @@ Inspeção → palpação → percussão → ausculta, mais [[Oximetria de Pulso
 - **Vesical** — a diurese é excelente parâmetro de perfusão. *Contraindicada* se houver suspeita de lesão uretral (sangue no meato, hematoma perineal, próstata alta)
 - **Gástrica** — reduz risco de broncoaspiração e detecta hemorragia digestiva. **Contraindicada por via NASAL na suspeita de fratura de base de crânio** → usar via **oral**
 
-**Exames adjuntos:** [[Gasometria arterial|gasometria]], [[Raio-X de Tórax|radiografia de tórax]] e de pelve em AP, **FAST/eFAST**, lavado peritoneal diagnóstico.
+**Exames adjuntos:** [[Gasometria arterial|gasometria]], [[Raio-X de Tórax|radiografia de tórax]] e de pelve em AP, **[[FAST e eFAST|FAST/eFAST]]**, lavado peritoneal diagnóstico.
 
 > [!important] O critério que governa todo exame no trauma
 > **Só se justifica se mudar a conduta imediata — e NUNCA se atrasar o tratamento.** O papel dos adjuntos é estabilização, não curiosidade diagnóstica.
@@ -226,4 +229,14 @@ Processo cíclico. **Descompensou → volta ao X.** Deterioração súbita quase
 ### ➕ Updates de Casos Reais
 *- Guia criado em 2026-08-23 a partir de `Atendimento ao Politraumatizado - Aula` + `Atendimento Inicial ao Politraumatizado - Anotações` (Osler).*
 *- Deixados em **texto puro de propósito** (conceitos ainda sem nota, para não gerar links órfãos): Escala de Coma de Glasgow, FAST/eFAST, critérios NEXUS, torniquete, cinto pélvico, descompressão torácica por agulha, pneumotórax hipertensivo, pneumotórax aberto, hemotórax maciço, tórax instável, protocolo START, matriz de Haddon, solução salina hipertônica, cesárea perimortem.*
+
+### 🔗 Bloco torácico — débito quitado
+**Data:** 2026-08-29
+**Contexto:** [[Abordagem do Trauma Torácico]]
+
+- **Quitados** do débito acima: **FAST/eFAST** ([[FAST e eFAST]]), **descompressão torácica por agulha** ([[Toracocentese]]), **pneumotórax hipertensivo e aberto** ([[Pneumotórax]]), **hemotórax maciço** ([[Hemotórax]]) e **tórax instável** ([[Fratura de Costelas e Tórax Instável]]). A tabela das cinco lesões da avaliação primária deixou de ser texto puro e agora roteia para as notas.
+- **Permanecem em texto puro:** Escala de Coma de Glasgow, critérios NEXUS, torniquete, cinto pélvico, protocolo START, matriz de Haddon, solução salina hipertônica, cesárea perimortem. `Manejo de Vias Aéreas` continua como link sem arquivo — pendência antiga, fora do escopo desta sessão.
+- **Aprofundamento das letras B e C** agora vive em [[Abordagem do Trauma Torácico]], que cobre também a avaliação secundária e os procedimentos.
+
+---
 -

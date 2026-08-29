@@ -184,7 +184,7 @@ Efeito **citotóxico direto** sobre queratinócitos → remoção dos lipídeos 
 - **Segunda Linha:** inibidores tópicos da calcineurina (tacrolimo, pimecrolimo) para face e pálpebras, evitando atrofia no uso prolongado. *(Sem nota no vault.)*
 - **Corticoide sistêmico:** reservado à **DCA extensa, grave ou incapacitante** (> 20% da superfície, edema facial importante). Curso curto com redução gradual — a retirada abrupta produz rebote.
 - **Sintomáticos:** anti-histamínico de 1ª geração à noite pelo efeito **sedativo**; o efeito antipruriginoso é limitado. Ver [[Abordagem do Prurido]].
-- **Infecção secundária:** antibiótico antiestafilocócico se crostas melicéricas ou pústulas ([[Impetigo e Foliculite]]).
+- **Infecção secundária:** antibiótico antiestafilocócico se [[Crostas Melicéricas|crostas melicéricas]] ou pústulas ([[Impetigo e Foliculite]]).
 
 ---
 

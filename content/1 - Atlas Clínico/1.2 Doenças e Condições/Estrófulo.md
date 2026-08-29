@@ -73,7 +73,7 @@ tipo de exame: null
 	- Nas formas crônicas: **prurigo nodular** por coçadura persistente
 - **Distribuição — o pivô topográfico:** **áreas EXPOSTAS e desprotegidas pela roupa** — face extensora de membros inferiores e superiores, dorso das mãos, face, pescoço. **Poupa áreas cobertas** (região das fraldas, axilas, couro cabeludo, região genital)
 - **Sinais de Alerta (Red Flags):**
-	- Crostas melicéricas, pústulas, dor, eritema perilesional, febre → **impetiginização**
+	- [[Crostas Melicéricas|Crostas melicéricas]], pústulas, dor, eritema perilesional, febre → **impetiginização** ([[Impetigo e Foliculite]])
 	- Lesões em áreas **cobertas** e prurido noturno com contactantes coçando → reconsiderar **[[Escabiose]]**
 	- Lesões bolhosas extensas, acometimento mucoso, sintomas sistêmicos → reavaliar diagnóstico
 

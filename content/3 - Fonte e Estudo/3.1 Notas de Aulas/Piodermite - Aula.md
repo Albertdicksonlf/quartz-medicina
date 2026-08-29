@@ -10,7 +10,7 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
 
 **Na dermato ->** LEsões elementares já bota o bloco; pela história diagnostica 
 

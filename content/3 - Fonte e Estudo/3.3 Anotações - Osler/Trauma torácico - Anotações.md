@@ -10,7 +10,38 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
+
+> [!success] Processado em 2026-08-29 — Modo Completo
+> **Notas criadas (em conjunto com `Trauma Torácico - Aulas`):**
+> - `1.2` — [[Hemotórax]] · [[Fratura de Costelas e Tórax Instável]] · [[Contusão Pulmonar]] · [[Contusão Miocárdica]] · [[Lesão Traumática da Aorta]] · [[Lesão Traqueobrônquica]] · [[Lesão Esofágica Traumática]] · [[Hérnia Diafragmática Traumática]]
+> - `1.3` — [[Enfisema Subcutâneo]] · [[Zona de Ziedler]]
+> - `1.4` — [[FAST e eFAST]] · [[Toracocentese]] *(preenchida — existia com 0 byte)*
+> - `1.5` — [[Drenagem Torácica]] · [[Toracotomia no Trauma]]
+> - `1.6` — [[Abordagem do Trauma Torácico]]
+> - **Modo 4** — [[Pneumotórax]] *(existia como esqueleto com todas as seções vazias)*
+>
+> **Notas enriquecidas:** [[Atendimento Inicial ao Politraumatizado]] · [[Tamponamento Cardíaco]] · [[Dor torácica]]
+>
+> **Dívida quitada:** a tabela das cinco lesões torácicas da avaliação primária, em [[Atendimento Inicial ao Politraumatizado]], estava em **texto puro proposital** desde 2026-08-23. Agora roteia para as notas.
+
+> [!warning] Correções aplicadas
+> 1. **Pneumotórax oculto invertido.** A anotação diz *"só na radiografia"*. É o contrário: oculto é o que aparece **só na TC** e **não** no raio-X — daí o nome. A inversão altera todo o raciocínio de conduta.
+> 2. **Hemodinâmica do hemotórax maciço.** A anotação registra *"redução do retorno venoso, **aumento da pós-carga**, devido o aumento da pressão torácica"*. O aumento da pressão intratorácica **REDUZ** a pós-carga do VE (é o princípio pelo qual a pressão positiva beneficia o edema agudo de pulmão). A hipotensão é por **hipovolemia** somada a queda de **pré-carga**.
+> 3. **Ausculta do hemotórax.** A anotação registra *"estertores (a esponja chupou o sangue)"*. Hemotórax = **MV abolido + macicez** (sangue **no espaço pleural**). **Estertores são de [[Contusão Pulmonar|contusão pulmonar]]** — ali o sangue está **dentro do parênquima**, e aí sim a analogia da esponja se aplica. As duas coexistem, mas os achados pertencem a compartimentos diferentes.
+> 4. **Sensibilidade × especificidade do exame físico.** A anotação afirma que enfisema subcutâneo + MV reduzido + dispneia teriam *"sensibilidade quase de 100%"*. A propriedade correta é **especificidade** — o pneumotórax hipertensivo frequentemente **não tem** os sinais clássicos (desvio de traqueia é tardio e incomum). A combinação **autoriza drenar quando presente**, mas sua ausência não exclui.
+> 5. **Terapia anti-impulso — falta a ordem.** As fontes listam "betabloqueador e vasodilatador". **Betabloqueador PRIMEIRO**: o vasodilatador isolado causa taquicardia reflexa e **aumenta o dP/dt**, exatamente a força que rompe o pseudoaneurisma aórtico. É o ponto clássico de prova.
+> 6. **Rastreio da contusão miocárdica.** A anotação posiciona a troponina como condicional (*"se suspeição de isquemia"*). A abordagem atual pede **ECG + troponina juntos na admissão** — é a normalidade **simultânea** dos dois que permite liberar o paciente. Pedir troponina só quando já se suspeita desperdiça a principal utilidade do exame, que é **excluir**.
+> 7. **Terminologia:** "transecção" = **secção transversa**, não "atravessa de um lado a outro".
+>
+> **Acertos que merecem destaque:** o **sítio da descompressão por agulha** (5º EIC entre axilar anterior e média, com o 2º EIC hemiclavicular reservado a crianças) está correto — é a atualização do ATLS 10ª ed. que a maioria erra, e a razão é a espessura da parede torácica do adulto. Também corretos e promovidos a pérola: ***"se choque hemorrágico, não apresenta distensão jugular"*** (a turgência exige volume — e por isso a tríade de Beck só informa quando presente); os limiares de toracotomia (1.500 mL / 200 mL/h / 20 mL/kg); a pegadinha da fixação costal; e a contraindicação de fixação na contusão pulmonar grave.
+>
+> **Sobre a Zona de Ziedler:** os limites que você anotou (paraesternal direita, axilar média esquerda, rebordo costal esquerdo, fúrcula) estão corretos para a **área de Ziedler**. Registrei também a ***cardiac box* do ATLS** (clavículas, hemiclaviculares, rebordos costais), que é uma **construção diferente**, não uma correção da sua.
+>
+> **Ausente nas fontes e acrescentado:** perigo de ocluir o pneumotórax aberto nos quatro lados (converte em hipertensivo); triângulo de segurança e feixe VAN na drenagem; leitura das três câmaras do selo d'água; janela temporal da contusão pulmonar (4–6 h para aparecer, pico em 24–48 h); mecanismo eletrofisiológico do *commotio cordis*; tabela de sobrevida da toracotomia de reanimação por cenário; *fallen lung sign*; complementaridade entre esofagografia e endoscopia; regra "hérnia aguda → via abdominal, tardia → via torácica".
+
+> [!note] Imagens não processadas
+> As anotações contêm dezenas de marcadores de imagem (`￼`) sem arquivo legível nesta sessão — incluindo o que parece ser o fluxograma de conduta por mecanismo/estabilidade. Se esses esquemas trouxerem conteúdo além do texto, vale reprocessar.
 
 # Trauma Torácico
 

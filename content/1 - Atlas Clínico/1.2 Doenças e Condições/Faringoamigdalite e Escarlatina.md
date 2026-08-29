@@ -33,6 +33,9 @@ card: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtdyNCGX3uQDDoLC12F
 - **Complicações Supurativas:** Abscesso Periamigdaliano (Desvio da úvula, trismo).
 
 ## 2. Escarlatina (A Toxina)
+> [!info] Nota dedicada
+> O detalhamento completo (etiologia, fisiopatologia do superantígeno, diferenciais e tratamento) vive em [[Escarlatina]]. Aqui fica apenas o essencial da ligação com a faringite.
+
 - **Fisiopatologia:** O *S. pyogenes* libera toxinas eritrogênicas que causam hipersensibilidade na pele. Não é uma doença "diferente", é uma faringite "com toxina".
 - **Sinais Clássicos:**
   1.  **Fácies de Filatov:** Palidez ao redor da boca (perioral) com bochechas vermelhas.
@@ -44,7 +47,7 @@ card: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtdyNCGX3uQDDoLC12F
 ---
 ## 🎯 ACHADOS-CHAVE (PIVÔS)
 - **Faringite:** [[Dor de garganta SEM tosse]], [[Petéquias no palato]], [[Exsudato purulento nas amigdalas]], [[Linfadenopatia Dolorosa Cervical]]
-- **Escarlatina:** [[Pele em Lixa]], [[Sinal de Filatov (palidez perioral)]], [[Língua em Framboesa]], [[Sinal de Pastia (dobras vermelhas)]].
+- **Escarlatina:** [[Pele em Lixa]], [[Sinal de Filatov (palidez perioral)]], [[Língua em Framboesa]], [[Sinal de Pastia]].
 
 ---
 ## 💊 Tratamento

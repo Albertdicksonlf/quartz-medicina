@@ -32,7 +32,10 @@ tipo de exame: null
 	- Prurido
 	- Descamação e maceração interdigital
 	- Odor
-- **Sinais de Alerta (Red Flags):** Em diabéticos, fissuras servem de porta de entrada para celulite/[[Erisipela]]
+- **Sinais de Alerta (Red Flags):** Em diabéticos, fissuras servem de porta de entrada para [[Celulite Infecciosa|celulite]] e [[Erisipela]]
+
+> [!important] A frieira como fator de recorrência
+> A fissura interdigital é a **porta de entrada mais frequente e mais negligenciada** da erisipela e da celulite de membro inferior. Tratar o episódio infeccioso agudo sem tratar a tinea garante o próximo episódio — e cada episódio agrava o linfedema, que por sua vez aumenta o risco do seguinte. Ver [[Abordagem das Infecções de Pele e Partes Moles]].
 
 ---
 

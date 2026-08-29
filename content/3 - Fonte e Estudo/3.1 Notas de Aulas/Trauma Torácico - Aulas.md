@@ -10,7 +10,23 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
+
+> [!success] Processado em 2026-08-29 — Modo Completo
+> Processada **em conjunto com** `Trauma torácico - Anotações` (3.3), onde está o registro completo das notas criadas e das correções aplicadas.
+>
+> **Notas criadas:** [[Pneumotórax]] *(preenchida)* · [[Hemotórax]] · [[Fratura de Costelas e Tórax Instável]] · [[Contusão Pulmonar]] · [[Contusão Miocárdica]] · [[Lesão Traumática da Aorta]] · [[Lesão Traqueobrônquica]] · [[Lesão Esofágica Traumática]] · [[Hérnia Diafragmática Traumática]] · [[Enfisema Subcutâneo]] · [[Zona de Ziedler]] · [[FAST e eFAST]] · [[Toracocentese]] *(preenchida)* · [[Drenagem Torácica]] · [[Toracotomia no Trauma]] · [[Abordagem do Trauma Torácico]]
+>
+> **Correções que incidem especificamente sobre esta aula:**
+> - **Sequência do curativo no pneumotórax aberto.** A aula registra *"primeiro momento → oclusão da ferida; depois o curativo de 3 pontas"*. **Ocluir os quatro lados converte pneumotórax aberto em HIPERTENSIVO.** O curativo de **três pontas é o passo imediato**, funcionando como válvula unidirecional; o dreno vem depois, em **sítio distante da ferida**.
+> - **"1500 mL de sangue pelo dreno, instabilidade torácica"** → é **instabilidade hemodinâmica**. "Tórax instável" é outra entidade do mesmo tema, e o deslize troca o sentido da frase.
+> - **"Hipercarbose"** → **hipercapnia**.
+> - **Origem do ar no pneumotórax hipertensivo:** a aula lista *"vias aerodigestivas altas"*. As portas reais são **parênquima, árvore traqueobrônquica, esôfago e parede torácica** — e é justamente por isso que pneumotórax refratário obriga a pensar em lesão traqueobrônquica ou esofágica.
+> - **Hérnia diafragmática, etiopatogenia** (a aula deixa a pergunta em aberto): predomina o **mecanismo de pressão** (barotrauma abdominal), não a laceração direta pela costela fraturada.
+>
+> **Acertos preservados:** a posição do professor de **drenar sempre** o pneumotórax traumático foi registrada em [[Pneumotórax]] junto com o contraponto da literatura (conduta conservadora no oculto assintomático sem pressão positiva). A preferência pela **descompressão digital** sobre a agulha também foi registrada, com o racional a favor — não depende do comprimento do cateter e falha menos.
+
+# Trauma Torácico - Aulas
 
 **Valorizar trauma torácico, dando a certa importância a ele**; muito mórbido
 TORAX é uma área crítica -> Essencial para a Circulação e Respiração
@@ -23,7 +39,7 @@ Mortalidade normalmente decorre de Hipóxia, Hipercarbose ou Acidose
 
 # Pneumotórax Hipertensivo 
 **Entrada de ar na cavidade pleural**
--> Origem: parenquima pulmonar ,viar aéras menores, **vias aerodigestivas altas**; parede torácica aberta (aberto)
+-> Origem: parenquima pulmonar ,vias aéras menores, **vias aerodigestivas altas**; parede torácica aberta (aberto)
 
 O ar no espaço pleulra -> camara de tensão sobre as estruturas torácicas (principalmente de alta compressão- Venosas, atriais)
 

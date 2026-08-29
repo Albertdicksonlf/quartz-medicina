@@ -72,7 +72,7 @@ tipo de exame: null
 	- Sensação de "algo se movendo" sob a pele
 	- **Migração visível** — o paciente frequentemente relata ter marcado a lesão e visto que ela mudou
 - **Sinais de Alerta (Red Flags):**
-	- Sinais de infecção bacteriana secundária — pústulas, crostas melicéricas, dor, eritema perilesional, febre *(complicação mais comum, por escoriação)*
+	- Sinais de infecção bacteriana secundária — pústulas, [[Crostas Melicéricas|crostas melicéricas]], dor, eritema perilesional, febre *(complicação mais comum, por escoriação)*
 	- Sintomas respiratórios com eosinofilia → considerar síndrome de Loeffler
 	- Lesões muito numerosas ou quadro atípico → considerar imunossupressão ou outro diagnóstico
 

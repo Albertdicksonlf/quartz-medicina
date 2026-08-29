@@ -42,7 +42,7 @@ tipo de exame: null
 
 > [!danger] 🚨 Red Flags
 > - **Mialgia + urina escura + fraqueza** → [[Rabdomiólise]] (dosar **CK**, potássio, função renal — risco de IRA e hipercalemia)
-> - **Dor desproporcional ao exame + toxemia/febre** → [[Fascite Necrosante|fasciíte necrosante]] / piomiosite (emergência cirúrgica)
+> - **Dor desproporcional ao exame + toxemia/febre** → [[Fasciíte Necrosante]] / piomiosite (emergência cirúrgica)
 > - **Mialgia + fraqueza proximal simétrica + CK alta** → miosite inflamatória
 > - **> 50 anos + cintura + VHS muito alta** → polimialgia reumática + rastreio de [[Arterite Temporal de Células Gigantes|arterite de células gigantes]]
 > - **Mialgia difusa em quadro séptico** → [[Sepse]]

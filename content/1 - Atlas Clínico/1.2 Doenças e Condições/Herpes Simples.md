@@ -35,7 +35,7 @@ Geralmente mais grave e sintomática que as recorrências.
 
 ### **B. Latência e Reativação (Recorrência)**
 O vírus "dorme" no gânglio sensitivo e desce pelo axônio até a pele quando há gatilhos (sol, estresse, trauma, menstruação).
-* **Herpes Labial:** Pródromo (formigamento/queimação) $\to$ Vesículas agrupadas em "cacho de uva" $\to$ Crostas melicéricas.
+* **Herpes Labial:** Pródromo (formigamento/queimação) $\to$ Vesículas agrupadas em "cacho de uva" $\to$ [[Crostas Melicéricas|Crostas melicéricas]] (armadilha: mimetizam impetigo — o que diferencia é o leito, com erosões arredondadas agrupadas "em saca-bocado").
 * **Herpes Genital Recorrente:** Lesões unilaterais, menos dolorosas e sem sintomas sistêmicos.
 
 ## 2. Diagnóstico

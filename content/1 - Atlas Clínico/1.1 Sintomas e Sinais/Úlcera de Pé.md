@@ -96,6 +96,7 @@ A úlcera é o ponto de convergência de **trauma + falha de cicatrização**. O
 
 ## 🔗 Conexões com Guias de Raciocínio
 
+- [[Lesões cutâneas Ulceradas]] — sintoma-guia geral; use quando a úlcera **não** for de extremidade inferior ou quando os mecanismos vasculares/neuropáticos não explicarem o quadro
 - [[Pé Diabético]]
 - [[Doença Arterial Periférica]]
 - [[Insuficiência Venosa Crônica]]

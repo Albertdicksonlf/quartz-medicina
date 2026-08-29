@@ -92,7 +92,7 @@ card: null
 
 - **Sinais de Alerta (Red Flags):**
   - **Eritema perianal vivo, bem delimitado, doloroso, com fissuras** → **dermatite perianal estreptocócica** — exige antibiótico sistêmico, não tópico
-  - **Bolhas, crostas melicéricas, pústulas** → [[Impetigo e Foliculite|impetigo]]
+  - **Bolhas, [[Crostas Melicéricas|crostas melicéricas]], pústulas** → [[Impetigo e Foliculite|impetigo]]
   - **Púrpura, petéquias ou lesões erosivas refratárias** → **histiocitose de células de Langerhans**
   - **Lesões periorificiais + acrais + diarreia + alopecia** → **acrodermatite enteropática** (zinco)
   - **Febre, toxemia, celulite perineal** → avaliação urgente

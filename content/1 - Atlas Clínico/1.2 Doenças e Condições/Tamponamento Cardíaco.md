@@ -49,6 +49,20 @@ card:
 
 ---
 
+### 🔗 Tamponamento no contexto do trauma
+**Data:** 2026-08-29
+**Contexto:** [[Abordagem do Trauma Torácico]]
+
+- **Mecanismo predominante no trauma: ferimento PENETRANTE**, embora o contuso também possa causar. A câmara mais atingida é o **ventrículo direito**, por ser a mais anterior.
+- **A [[Zona de Ziedler|zona de Ziedler]] é o achado-pivô de suspeição:** ferimento penetrante nessa área = lesão cardíaca até prova em contrário, o que dispara [[FAST e eFAST|FAST]] com janela pericárdica **independentemente do estado hemodinâmico**.
+- **Armadilha essencial no politraumatizado:** a **turgência jugular desaparece se houver hemorragia associada** — as jugulares precisam de volume para se distender. A **tríade de Beck é útil quando presente; sua ausência não afasta tamponamento** no paciente que sangrou em outro foco. Isso é diferente do tamponamento não traumático, em que a estase costuma estar presente.
+- **Diagnóstico no trauma: [[FAST e eFAST|FAST]]**, não ecocardiograma formal — é o exame que está ao lado do paciente.
+- **Terapêutica no trauma:** [[Pericardiocentese|pericardiocentese]] (de Marfan, subxifoide) é **medida provisória** quando não há cirurgião; o tratamento definitivo é a **janela pericárdica subxifoide** ou a **[[Toracotomia no Trauma|toracotomia]]**. No tamponamento traumático, a drenagem percutânea isolada raramente basta — há coágulo, e a fonte precisa ser reparada.
+- **Volume ajuda enquanto não se drena**, mas é ponte curta: no trauma, a prioridade é chegar ao controle cirúrgico.
+**Fonte:** ATLS 10ª ed. — Trauma Torácico
+
+---
+
 ## 🤒 Apresentação Clínica
 - **Quadro Típico:** Paciente com sinais de **choque obstrutivo** + sinais de IC direita aguda.
 - **Sintomas Principais:**

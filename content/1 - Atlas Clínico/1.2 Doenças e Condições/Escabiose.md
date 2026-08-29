@@ -80,8 +80,8 @@ O prurido **não é causado pela escavação** — é uma **reação de hipersen
 
 - **Sinais de Alerta (Red Flags):**
 	- Lesões **crostosas, hiperqueratóticas e difusas** com prurido **desproporcionalmente leve ou ausente** → **sarna crostosa** (ver abaixo) → investigar imunodeficiência
-	- Pústulas, crostas melicéricas, dor e eritema perilesional → **impetiginização** (complicação mais comum)
-	- Edema, febre, linfangite → celulite/[[Erisipela]]
+	- Pústulas, [[Crostas Melicéricas|crostas melicéricas]], dor e eritema perilesional → **impetiginização** ([[Impetigo e Foliculite]] — complicação mais comum)
+	- Edema, febre, linfangite → [[Celulite Infecciosa|celulite]] / [[Erisipela]]
 
 ---
 

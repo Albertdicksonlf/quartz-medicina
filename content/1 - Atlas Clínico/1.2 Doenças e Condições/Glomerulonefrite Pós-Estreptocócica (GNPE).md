@@ -27,7 +27,7 @@ tipo de exame: null
 
 ## 🌪️ Fisiopatologia
 
-1. **Infecção Estreptocócica:** infecção de mucosa ([[Faringoamigdalite e Escarlatina|faringoamigdalite]]) ou pele (impetigo/piodermite) por cepa nefritogênica de *S. pyogenes*.
+1. **Infecção Estreptocócica:** infecção de mucosa ([[Faringoamigdalite e Escarlatina|faringoamigdalite]], [[Escarlatina]]) ou pele ([[Impetigo e Foliculite|impetigo]], [[Ectima]] — ver [[Abordagem das Infecções de Pele e Partes Moles]]) por cepa nefritogênica de *S. pyogenes*.
 2. **Período de Latência:**
 	- **1-3 semanas após faringite**
 	- **3-6 semanas após piodermite** (período maior porque a pele é "barreira mais robusta")

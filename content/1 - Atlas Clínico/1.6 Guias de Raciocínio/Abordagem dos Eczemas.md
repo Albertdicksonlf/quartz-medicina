@@ -32,7 +32,7 @@ card: null
 - **Sinais de Instabilidade (Red Flags):**
   - **Vesículas/erosões monomorfas "em saca-bocado" sobre eczema prévio + febre + dor desproporcional** → **eczema herpético** ([[Herpes Simples]]) → **[[Aciclovir|aciclovir sistêmico]] imediato**, suspender inibidor de calcineurina, avaliar olho
   - **Eritrodermia (≥ 90% da superfície)** → perda hidroeletrolítica e térmica, risco de sepse → internação
-  - **Crostas melicéricas, pústulas, piora abrupta, febre** → impetiginização ([[Impetigo e Foliculite]]) ou celulite
+  - **[[Crostas Melicéricas|Crostas melicéricas]], pústulas, piora abrupta, febre** → impetiginização ([[Impetigo e Foliculite]]) ou celulite ([[Celulite Infecciosa]])
   - **Lactente com eritrodermia + diarreia + déficit de crescimento + infecções de repetição** → **síndrome de Leiner** → investigar imunodeficiência ([[Síndrome de Hiper-IgE]], [[Imunodeficiências Combinadas]])
   - **Bolhas extensas, necrose, dor intensa após contato químico** → queimadura química
 - **Ação Imediata:** avaliar extensão (regra dos 9), temperatura, estado geral e sinais de infecção antes de qualquer prescrição tópica.
