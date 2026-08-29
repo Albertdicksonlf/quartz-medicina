@@ -79,6 +79,8 @@ Nem toda vítima precisa. A decisão combina **mecanismo + sinais vitais + lesõ
 
 **Protocolo START** (*Simple Triage And Rapid Treatment*): consegue **andar**? → respiração espontânea (reposicionar via aérea se ausente) → **frequência respiratória, perfusão e nível de consciência**. As únicas medidas permitidas durante a triagem são **abertura de via aérea e controle de hemorragia externa**.
 
+![[Pasted image 20260828201326.png]]
+
 ---
 
 ## 🧠 2. Avaliação Primária — XABCDE

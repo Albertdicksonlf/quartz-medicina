@@ -9,8 +9,9 @@ classe de medicamentos:
   - Anti-inflamatório esteroidal
   - Imunossupressor
 aliases:
-  - Glicocorticoides
   - Esteroides
+  - Corticosteroides
+  - Corticoterapia sistêmica
 card: 
 ---
 
@@ -52,6 +53,7 @@ card:
 ---
 
 ### 💡 Pontos de Aprendizado e Heurísticas
+- **Via tópica:** esta nota cobre a **via sistêmica**. Para potência × sítio, escolha de veículo, unidade ponta-de-dedo e atrofia cutânea, ver **[[Corticoides Tópicos]]**.
 - **Heurística:** Sempre use a menor dose eficaz pelo menor tempo possível.
 - Os corticoides são "faca de dois gumes": resolvem a inflamação rapidamente, mas cobram um preço alto no uso crônico.
 - Prefira a administração matinal para mimetizar o ciclo circadiano fisiológico do cortisol.

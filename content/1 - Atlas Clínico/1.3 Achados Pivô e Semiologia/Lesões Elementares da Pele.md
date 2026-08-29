@@ -104,7 +104,7 @@ Vasodilatação — **desaparece à vitropressão**.
 > **Pápula é superficial** — você a vê bem. **Nódulo é dérmico profundo ou hipodérmico** — você o **sente melhor do que vê**. *Nódulo se diagnostica com o dedo, não com o olho.*
 
 > [!tip] Liquenificação é a assinatura do prurido crônico
-> Ao encontrá-la, você já sabe duas coisas antes de qualquer exame: a lesão é **crônica** e o paciente **coça**. Ver [[Prurido]].
+> Ao encontrá-la, você já sabe duas coisas antes de qualquer exame: a lesão é **crônica** e o paciente **coça**. Ver [[Prurido]] e [[Eczema]] (corresponde à **acantose** da fase crônica).
 
 ---
 
@@ -188,7 +188,8 @@ Vasodilatação — **desaparece à vitropressão**.
 
 ## 🔗 Navegação
 - [[Anatomia e Fisiologia da Pele]] — a base estrutural que explica onde cada lesão se forma
-- [[Exantema]] · [[Prurido]] · [[Abordagem do Prurido]]
+- [[Eczema]] — o padrão de reação mais frequente e suas três fases; [[Abordagem dos Eczemas]]
+- [[Exantema]] · [[Prurido]] · [[Abordagem do Prurido]] · [[Xerose]]
 - [[Biópsia de pele]] · [[Dermatoscopia]]
 
 ---

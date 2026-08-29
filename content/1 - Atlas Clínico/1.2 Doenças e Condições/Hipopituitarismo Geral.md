@@ -40,12 +40,12 @@ Quando o Macroadenoma cresce, ele aperta as estruturas vizinhas:
 3.  **Haste Hipofisária (Crescimento Superior):**
     - Interrupção da Dopamina $\to$ **[[Hiperprolactinemia]] por Desconexão** (prolactina sobe moderadamente, < 100).
 4.  **Seio Esfenoidal (Crescimento Inferior):**
-    - **[[Rinorreia Liquórica]]**: Tumor corrói o assoalho da sela e vaza líquor pelo nariz.
+    - **Rinorreia Liquórica**: Tumor corrói o assoalho da sela e vaza líquor pelo nariz.
 
 ---
 ## 🎯 ACHADOS PIVÔ
-- **Visual:** [[Hemianopsia Bitemporal (clássico)]].
-- **Hormonal:** [[Prolactina é o único que sobe com a compressão da haste (pois perde a inibição)]].
+- **Visual:** Hemianopsia Bitemporal (clássico).
+- **Hormonal:** Prolactina é o único que sobe com a compressão da haste (pois perde a inibição).
 
 ## 4. Tratamento Geral
 O manejo se baseia em três pilares:

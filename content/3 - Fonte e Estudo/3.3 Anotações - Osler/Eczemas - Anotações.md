@@ -10,7 +10,38 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
+
+> [!success] Processado em 2026-08-28 — Modo Completo
+> **Notas criadas (em conjunto com `Eczemas - Aula`):**
+> - `1.1` — [[Xerose]]
+> - `1.2` — [[Dermatite Atópica]] · [[Dermatite Seborreica]] · [[Dermatite de Contato]] · [[Dermatite das Fraldas]]
+> - `1.3` — [[Eczema]] · [[Estigmas Atópicos]]
+> - `1.4` — [[Teste de Contato (Patch Test)]]
+> - `1.5` — [[Corticoides Tópicos]] · [[Cetoconazol]] *(preenchida — existia com 0 byte)*
+> - `1.6` — [[Abordagem dos Eczemas]]
+>
+> **Notas enriquecidas:** [[Prurido]] · [[Abordagem do Prurido]] · [[Lesões Elementares da Pele]] · [[Corticoides]] · [[Síndrome de Hiper-IgE]]
+>
+> **Limpeza:** `Eczema Grave.md` (0 byte, fantasma) removida para a lixeira do vault; o link em [[Síndrome de Hiper-IgE]] foi redirecionado para [[Dermatite Atópica]] com pipe.
+
+> [!warning] Correções aplicadas
+> 1. **Inversão extrínseca × intrínseca (a mais grave).** A aula afirma "sensibilização mediada por IgE (intrínseca) → níveis normais de IgE" — internamente contraditório. O correto: **extrínseca (~80%)** = IgE **alto** com sensibilização específica, associada a filagrina; **intrínseca (~20%)** = IgE **normal**, sem sensibilização. Além disso, a fonte funde esse eixo com o debate **outside-in × inside-out** (barreira primeiro × inflamação primeiro), que é uma pergunta **diferente**. Os dois eixos foram separados na nota.
+> 2. **Eritrodermia é ≥ 90% da superfície corporal, não 70%** (afirmado na aula ao descrever a síndrome de Leiner).
+> 3. **Síndrome de Leiner ≠ "deficiência de C5".** A atribuição é **histórica e hoje contestada** — Leiner é um **fenótipo** que pode expressar várias imunodeficiências primárias.
+> 4. **Alérgeno do esmalte não é o tolueno**, e sim a **resina toluenossulfonamida-formaldeído**. Também: "bocalto" → **cobalto**.
+> 5. **Anti-histamínico na dermatite atópica.** As fontes o listam como tratamento do prurido. O prurido do eczema é predominantemente **não-histaminérgico** (IL-31, proteases, substância P) — o benefício real é a **sedação noturna**. Isso foi propagado para [[Abordagem do Prurido]], corrigindo a dicotomia "com lesão primária → responde a anti-H1".
+> 6. **Dermatite seborreica do lactente não vai "até 3 meses"** — 3 meses é o **pico**; a resolução ocorre por volta dos **8–12 meses**.
+> 7. **"Th2 → mais probabilidade de dermatite de contato"** (aula) está mal formulado. O atópico é mais suscetível à forma **irritativa**, por defeito de **barreira**. A forma **alérgica** é hipersensibilidade **tipo IV (Th1/linfócito T)** — não Th2.
+> 8. **Dupilumabe não é "anti-IL-4/IL-13"**: o alvo é a **subunidade α do receptor de IL-4 (IL-4Rα)**, o que bloqueia a sinalização das duas citocinas.
+> 9. **Conflito interno entre as fontes** na topografia da DA por idade (aula: flexuras dos 2–12 anos; anotações: extensoras dos 3–5). Adotada a divisão clássica em três fases.
+>
+> **Acertos que merecem destaque:** o registro de que **"as duas formas de dermatite de contato não podem ser diferenciadas apenas pela aparência"** e de que **"as dobras normalmente são poupadas, a depender da etiologia"** na dermatite das fraldas são exatamente os dois pivôs do tema — ambos foram promovidos a tabela discriminativa nas notas. A distinção **fototóxica × fotoalérgica** também está correta na fonte.
+>
+> **Ausente nas duas fontes e acrescentado:** prega de Dennie-Morgan; critérios de Hanifin-Rajka e UK Working Party; terapia proativa (corticoide 2×/semana); mecanismo da urease/amônia na dermatite das fraldas; alerta de que **a fralda é curativo oclusivo** (nunca corticoide de média/alta potência sob ela); dermatite perianal estreptocócica; **micose fungoide** como o "não pode passar" do eczema crônico refratário do adulto; **HIV** na seborreica extensa; unidade ponta-de-dedo (FTU).
+
+> [!note] Imagens não processadas
+> As anotações contêm múltiplos marcadores de imagem (`￼`) sem arquivo anexado legível nesta sessão. Se houver esquemas com conteúdo além do texto, vale reprocessar.
 
 # Dermatite das Fraldas
 

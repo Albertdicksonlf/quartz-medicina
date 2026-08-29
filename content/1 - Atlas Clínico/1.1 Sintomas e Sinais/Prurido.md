@@ -32,7 +32,7 @@ tipo de exame: null
 ## 🎯 Dicotomia central (o roteamento)
 
 ### **1. Prurido COM lesão primária → dermatológico**
-*A pele mostra a doença.* **[[Escabiose]]** (prurido **noturno**, interdigital, contactantes coçando junto), **[[Pediculose]]**, **[[Estrófulo]]** (seropápulas em áreas expostas, criança), **[[Larva Migrans Cutânea]]** (trajeto serpiginoso migratório), **[[Tungíase]]**, **[[Miíase]]**, urticária, dermatite atópica, dermatite de contato, psoríase, líquen plano, dermatofitoses ([[Tinea Pedis (Frieira)|tinea]]), [[Varicela-Zoster|varicela]]. *(O cluster das zoodermatoses foi processado em 2026-08-23; as demais ainda sem nota.)*
+*A pele mostra a doença.* **[[Escabiose]]** (prurido **noturno**, interdigital, contactantes coçando junto), **[[Pediculose]]**, **[[Estrófulo]]** (seropápulas em áreas expostas, criança), **[[Larva Migrans Cutânea]]** (trajeto serpiginoso migratório), **[[Tungíase]]**, **[[Miíase]]**, **[[Dermatite Atópica]]** (flexuras, xerose, estigmas atópicos), **[[Dermatite de Contato]]** (desenha o contato), **[[Dermatite Seborreica]]** (áreas seborreicas, coça pouco), **[[Dermatite das Fraldas]]**, urticária, psoríase, líquen plano, dermatofitoses ([[Tinea Pedis (Frieira)|tinea]]), [[Varicela-Zoster|varicela]]. *(Zoodermatoses processadas em 2026-08-23; eczemas em 2026-08-28 — ver [[Abordagem dos Eczemas]]. Urticária, psoríase e líquen plano ainda sem nota.)*
 
 ### **2. Prurido SEM lesão primária → investigar SISTÊMICO 🚨**
 *Só escoriações secundárias; a pele "está normal" fora do que a unha fez.*
@@ -66,10 +66,21 @@ tipo de exame: null
 
 ## 🔗 Conexões com Guias de Raciocínio
 - [[Abordagem do Prurido]] — algoritmo de investigação e tratamento por mecanismo
+- [[Abordagem dos Eczemas]] — quando há lesão primária eczematosa, o roteamento continua aqui
 - [[Icterícia]] — eixo colestático compartilhado (prurido + icterícia)
 
 ---
 
 ### ➕ Novas Anotações / Insights
 *- Nota canônica criada em 2026-07-21 (Trilha A do recorte). Achado estrutural: o **cluster dermatológico do prurido está ausente do vault** — Escabiose, Psoríase, Urticária, Dermatite Atópica, Dermatite de Contato e Líquen Plano não têm nota (links deixados em texto puro de propósito, para não criar ghost links). Candidatos a Trilha C. Lacuna adicional: não existe Guia de Raciocínio dedicado ao Prurido.*
+
+### 🔗 Cluster dos eczemas — débito quitado
+**Data:** 2026-08-28
+**Contexto:** [[Abordagem dos Eczemas]]
+
+- O débito registrado acima foi **parcialmente quitado**: [[Dermatite Atópica]], [[Dermatite de Contato]], [[Dermatite Seborreica]] e [[Dermatite das Fraldas]] agora têm nota, e o roteamento vive em [[Abordagem dos Eczemas]]. **Permanecem sem nota:** urticária, psoríase e líquen plano.
+- **Refinamento mecanístico relevante para esta nota:** o prurido do **eczema** é predominantemente **não-histaminérgico** — mediado por **IL-31**, proteases e substância P, não por histamina. Isso o coloca no mesmo grupo do prurido colestático e urêmico quanto à (não) resposta ao anti-H1, ainda que a lesão primária esteja presente. O benefício do anti-histamínico de 1ª geração na dermatite atópica é **sedativo**, não antipruriginoso.
+- **[[Xerose]]** ganhou nota canônica: é o substrato do prurido do atópico e do idoso, e a primeira coisa a corrigir antes de escalonar investigação.
+
+---
 -

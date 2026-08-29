@@ -52,7 +52,14 @@ tipo de exame: null
 > **Áreas COBERTAS e de dobra → [[Escabiose]].** **Áreas EXPOSTAS → [[Estrófulo]].**
 > E a pergunta decisiva: **"tem mais alguém coçando em casa?"** — sim aponta escabiose, não aponta estrófulo.
 
-**Demais dermatoses:** urticária, dermatite atópica/contato, psoríase, líquen plano, dermatofitoses ([[Tinea Pedis (Frieira)|tinea]]). *(Ainda sem notas — disciplina em curso.)*
+**Eczemas (dermatoses eczematosas) — processados em 2026-08-28:**
+- **[[Dermatite Atópica]]** — prurido **intenso**, flexuras (extensoras no lactente), [[Xerose|xerose]] entre surtos, [[Estigmas Atópicos|estigmas atópicos]]
+- **[[Dermatite de Contato]]** — a lesão **desenha o contato**; ardor (irritativa) × prurido com latência de 24–72 h (alérgica)
+- **[[Dermatite Seborreica]]** — escama **gordurosa** em áreas seborreicas, **coça pouco ou nada**
+- **[[Dermatite das Fraldas]]** — convexidades poupando dobras (irritativa) × dobras com satélites ([[Candidíase Mucocutânea|candidíase]])
+- 👉 Roteamento completo em **[[Abordagem dos Eczemas]]**
+
+**Demais dermatoses:** urticária, psoríase, líquen plano, dermatofitoses ([[Tinea Pedis (Frieira)|tinea]]). *(Ainda sem notas — disciplina em curso.)*
 
 ### **🅑 Sem lesão primária → sistêmico**
 - **Hepatobiliar (colestático):** [[Cirrose]], obstrução biliar, colestase da gestação
@@ -89,7 +96,10 @@ Opioides (histamina + ação central), IECA, estatinas, antibióticos; hidroxicl
 | **Neuropático** | **[[Gabapentina]]**/pregabalina, capsaicina tópica |
 | **Psicogênico** | ISRS (**[[Sertralina]]**), abordagem psicológica |
 
-**Medidas gerais (valem para todos):** emolientes, banho morno e curto, evitar sabonete agressivo/lã, unhas curtas (quebrar o ciclo coçar-prurido), tratar a xerose — especialmente no **idoso** (prurido senil).
+**Medidas gerais (valem para todos):** emolientes, banho morno e curto, evitar sabonete agressivo/lã, unhas curtas (quebrar o ciclo coçar-prurido), tratar a **[[Xerose|xerose]]** — especialmente no **idoso** (prurido senil).
+
+> [!important] 🔑 O eczema também é prurido não-histaminérgico
+> A dicotomia "com lesão primária → responde a anti-H1" é **falsa para os eczemas**. O prurido da [[Dermatite Atópica|dermatite atópica]] é mediado por **IL-31**, proteases e substância P — não por histamina. O anti-H1 de 1ª geração ajuda pela **sedação noturna**, não por ação antipruriginosa. O que de fato reduz o prurido do eczema é **restaurar a barreira** (emoliente) e **controlar a inflamação** ([[Corticoides Tópicos]]).
 
 ---
 

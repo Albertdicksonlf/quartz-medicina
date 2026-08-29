@@ -22,7 +22,7 @@ card: https://www.alergiaeimunologia.com.br/wp-content/uploads/2020/05/WhatsApp-
 > **Nome:** "Job" (Jó) bíblico, devido às feridas na pele.
 
 ## 1. A Tríade Clássica
-1.  **[[Eczema Grave]]:** Dermatite atópica intensa desde o nascimento.
+1.  **[[Dermatite Atópica|Eczema Grave]]:** dermatite atópica intensa desde as primeiras semanas de vida e **refratária ao tratamento habitual** — é o eczema que não se comporta como eczema comum. Ver [[Abordagem dos Eczemas]] (bucket "must not miss" do lactente).
 2.  **Abscessos Frios Recorrentes:** Infecções de pele (furúnculos) por *Staphylococcus aureus* que são "frios" (pouca inflamação/calor, pois a quimiotaxia é defeituosa).
 3.  **Pneumonias Recorrentes:** Formação de **Pneumatoceles** (bolhas/cavidades no pulmão) gigantes após infecções.
 

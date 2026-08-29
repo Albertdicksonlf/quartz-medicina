@@ -56,7 +56,7 @@ card: ""
 | Queixa na porta | Sintoma (1.1) | Guia (1.6) | Não pode passar |
 | :--- | :--- | :--- | :--- |
 | Falta de ar | [[Dispneia]] | [[Abordagem da Dispneia]] | TEP, edema agudo de pulmão, crise asmática grave, pneumotórax hipertensivo |
-| Chiado no peito | — *(lacuna: Sibilância)* | [[Abordagem da Dispneia]] · [[Asma]] | asma quase-fatal, exacerbação de DPOC, anafilaxia |
+| Chiado no peito | [[Sibilância]] *(achado, 1.3)* | [[Abordagem da Dispneia]] · [[Asma]] | asma quase-fatal, exacerbação de DPOC, anafilaxia |
 | Tosse | [[Tosse]] · [[Tosse produtiva]] · [[Tosse Seca]] | [[Sintomático Respiratório]] · [[Abordagem da Tosse Crônica]] | tuberculose (tosse > 3 semanas = investigar), pneumonia |
 | Escarro com sangue | [[Hemoptise]] | [[Sintomático Respiratório]] | tuberculose, neoplasia, hemoptise maciça |
 | Dessaturação no oxímetro | — | [[Abordagem da Hipoxemia]] · [[Abordagem da Hipercapnia]] · [[Abordagem da Hipóxia Tecidual]] | retenção de CO₂ no DPOC, intoxicação por monóxido |
@@ -126,7 +126,7 @@ card: ""
 | :--- | :--- | :--- | :--- |
 | Febre | [[Febre]] | [[Abordagem da Febre]] · [[Abordagem da Sepse]] | sepse, meningite, neutropenia febril, endocardite |
 | Febre + manchas na pele | [[Exantema]] | [[Abordagem da Febre]] | dengue com sinais de alarme, meningococcemia, farmacodermia grave |
-| Dor de garganta | [[Dor de Garganta]] · [[Faringite]] | — *(lacuna)* | abscesso periamigdaliano, epiglotite, angina de Ludwig |
+| Dor de garganta | [[Dor de Garganta]] · [[Faringite]] | [[Abordagem da Dor de Garganta]] | abscesso periamigdaliano, epiglotite, angina de Ludwig |
 | Dor de ouvido | [[Otalgia]] | — *(lacuna)* | mastoidite, otite externa maligna no diabético |
 | Íngua / caroço | [[Linfonodomegalia]] | — | linfoma, abscesso profundo |
 | "Que antibiótico eu dou?" | — | [[Abordagem da Escolha do Antimicrobiano]] | — |
@@ -154,16 +154,15 @@ card: ""
 ## 🚧 2. Lacunas deste mapa
 
 *Texto puro por decisão — nada aqui vira link até o arquivo existir (política anti-órfão).*
+*Lista re-auditada em 2026-08-28 contra as listagens reais de `1.1`, `1.3`, `1.4`, `1.5` e `1.6`.*
 
 **Sintomas-guia a criar em `1.1`:**
-- Sibilância — prioridade: já é link órfão em Asma, Bronquiolite, Tosse, Dispneia, Bronquite Crônica e Abordagem da Dispneia
 - Retenção Urinária Aguda
 - Ferimento / laceração; Queimadura; Mordedura de animal
 
 **Guias a criar em `1.6`:**
 - Abordagem da Intoxicação Exógena (toxíndromes, descontaminação, antídotos)
 - Abordagem da Crise Convulsiva no Pronto-Socorro (incluindo estado de mal)
-- Abordagem da Dor de Garganta (Centor/McIsaac e decisão de antibiótico)
 - Abordagem da Febre com Exantema (arboviroses)
 - Abordagem do Escroto Agudo
 - Abordagem da Epistaxe

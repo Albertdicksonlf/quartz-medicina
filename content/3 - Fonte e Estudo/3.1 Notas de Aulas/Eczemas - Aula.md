@@ -8,7 +8,14 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
+
+> [!success] Processado em 2026-08-28 — Modo Completo
+> Processada **em conjunto com** `Eczemas - Anotações` (3.3), onde está o registro completo das notas criadas e das correções aplicadas.
+>
+> **Notas criadas:** [[Eczema]] · [[Estigmas Atópicos]] · [[Xerose]] · [[Dermatite Atópica]] · [[Dermatite Seborreica]] · [[Dermatite de Contato]] · [[Dermatite das Fraldas]] · [[Teste de Contato (Patch Test)]] · [[Corticoides Tópicos]] · [[Cetoconazol]] · [[Abordagem dos Eczemas]]
+>
+> **Correções que incidem especificamente sobre esta aula:** inversão extrínseca/intrínseca da dermatite atópica; eritrodermia ≥ 90% (não 70%); síndrome de Leiner não é "deficiência de C5"; alérgeno do esmalte é a resina toluenossulfonamida-formaldeído (não tolueno); "bocalto" → cobalto; a suscetibilidade do atópico é à dermatite de contato **irritativa** (barreira), não à alérgica; seborreica do lactente resolve aos 8–12 meses, não "até 3 meses".
 
 # Eczemas - Dermatites Eczematosas 
 

@@ -144,6 +144,7 @@ Drenagem do sangue em selo dágua
 		coagulação, infecções ou até hemotórax calcificado 
 
 **Hernias diafragmáticas traumáticas**
+
 1/3 dos traumas torácicos são da transição toracoabdominal 
 **Qualquer grande trauma contuso na região de transição ou traumas penetrantes** devem ser investigados 
 
