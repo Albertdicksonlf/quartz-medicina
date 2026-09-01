@@ -1,0 +1,153 @@
+---
+aliases:
+  - Abordagem da Dor Articular
+  - Dor Articular
+  - Abordagem das Artropatias
+card: null
+classe de medicamentos: null
+date: 2026-08-30T11:10:00
+prevalência: null
+tipo: Guia de Raciocínio
+tipo de doença: null
+tipo de exame: null
+área:
+  - Reumatologia
+  - Ortopedia
+  - Clínica Médica
+---
+# Guia de Raciocínio: Abordagem da Artralgia
+
+> [!abstract] O Problema
+> Dor articular é uma das queixas mais frequentes do ambulatório e uma das mais mal sistematizadas. O erro clássico é pular direto para "é artrose" (porque é o mais prevalente) ou pedir uma bateria de autoanticorpos sem hipótese. O raciocínio correto tem **quatro perguntas em sequência** — e a primeira delas resolve metade dos casos.
+
+> [!danger] A pergunta que não pode esperar
+> **É monoartrite aguda quente?** Se sim, é [[Artrite Séptica]] até prova em contrário → artrocentese **imediata**. Articulação séptica destrói cartilagem em dias.
+
+---
+
+## 🚦 1. Triage Inicial (Vieses e Riscos)
+
+- **Sinais de Instabilidade (Red Flags):**
+	- **Monoartrite aguda, quente, com [[Febre]]** → séptica até prova em contrário
+	- Trauma significativo com incapacidade de sustentar carga
+	- Dor noturna em repouso + [[Perda de peso]] + [[Sudorese Noturna]] → neoplasia
+	- Déficit neurológico associado
+	- Paciente imunossuprimido ou com prótese articular
+	- Púrpura, úlceras, [[Exantema]] → doença sistêmica
+
+- **Ação Imediata:** monoartrite aguda quente → **[[Análise do Líquido Sinovial]]** antes de qualquer antibiótico ou corticoide. É o exame que mais decide conduta em reumatologia de urgência.
+
+> [!danger] Os dois vieses desta queixa
+> 1. **Ancoragem na prevalência.** [[Osteoartrite]] é a artrite mais comum do mundo — e por isso vira rótulo automático. Mulher de 32 anos com poliartralgia de mãos **não** é OA só porque OA é prevalente.
+> 2. **Fishing expedition sorológica.** FAN e fator reumatoide têm baixo valor preditivo positivo em população de baixa probabilidade pré-teste. Pedir sem hipótese gera cascata diagnóstica e ansiedade.
+
+---
+
+## 🧠 2. Estrutura de Pensamento (Os "Buckets")
+
+*As quatro perguntas, em ordem:*
+
+### **Pergunta 1 — É articular ou periarticular?**
+- **Articular:** dor difusa, piora à mobilização **ativa e passiva**, limitação em todos os planos, derrame.
+- **Periarticular:** dor localizada em ponto, piora à mobilização **ativa** e à manobra específica, amplitude passiva preservada. Ver [[Dissociação entre Amplitude Ativa e Passiva]].
+- Bucket periarticular: bursites, tendinopatias, [[Capsulite Adesiva]], [[Artropatia do Manguito Rotador]], fibromialgia.
+
+### **Pergunta 2 — É mecânica ou inflamatória?**
+*Este é o pivô central. Ver [[Padrão de Dor Mecânico vs. Inflamatório]].*
+
+| | **Mecânica** | **Inflamatória** |
+| :--- | :--- | :--- |
+| Dor | Piora com uso, melhora com repouso | Melhora com uso, pior em repouso |
+| Rigidez matinal | **< 30 min** | **> 60 min** |
+| Despertar noturno | Raro | Comum (madrugada) |
+| Sinais flogísticos | Discretos, flutuantes | Exuberantes |
+| Provas inflamatórias | Normais | Elevadas |
+
+### **Grupo A: Mecânico / Degenerativo**
+- [[Osteoartrite]]
+- [[Espondiloartrose]] · [[Estenose de Canal Lombar]]
+- Lesões meniscais e ligamentares
+- *Pista:* idade, [[Obesidade]], padrão de uso, [[Nódulos de Heberden]], [[Crepitação Articular]]
+
+### **Grupo B: Inflamatório — poliarticular simétrico**
+- [[Artrite Reumatoide]]
+- [[Lúpus Eritematoso Sistêmico]]
+- *Pista:* pequenas articulações das mãos (**MCF e punho**, poupando IFD), rigidez matinal prolongada, sintomas sistêmicos
+
+### **Grupo C: Inflamatório — mono/oligoarticular ou axial**
+- [[Gota]] e pseudogota
+- [[Espondilite Anquilosante (EA)]] e espondiloartrites
+- Artrite psoriásica
+- Artrite reativa
+- *Pista:* podagra, [[Sausage Toe (Dedo em Salsicha)]], dor lombar inflamatória em jovem, psoríase, [[Sacroileíte]]
+
+### **Grupo D: ("Must not miss")**
+- [[Artrite Séptica]] — a emergência
+- Neoplasia óssea primária ou metastática
+- Osteonecrose avascular
+- Hemartrose (trauma, anticoagulação, coagulopatia)
+- Artropatia neuropática (Charcot)
+
+### **Pergunta 3 — Quantas articulações?**
+- **Mono:** séptica, cristais, trauma, osteonecrose, hemartrose
+- **Oligo (2–4):** espondiloartrites, reativa, psoriásica
+- **Poli (≥ 5):** AR, LES, viral, OA de mãos
+
+### **Pergunta 4 — Qual o padrão de distribuição?**
+- **IFD + IFP + 1ª CMC, poupando MCF e punho** → [[Osteoartrite]]
+- **MCF + punho + IFP, poupando IFD** → [[Artrite Reumatoide]]
+- **1ª metatarsofalângica (podagra)** → [[Gota]]
+- **Axial + sacroilíacas em jovem** → espondiloartrite
+
+---
+
+## 🔎 3. Algoritmo de Investigação
+
+1. **Passo 1:** monoartrite aguda quente? → **[[Análise do Líquido Sinovial]]** (celularidade, Gram, cultura, cristais). Não espere exame de imagem.
+2. **Passo 2:** classificar mecânico × inflamatório pela **anamnese** — é gratuito e decide mais que qualquer exame.
+3. **Passo 3 (se mecânico e típico):** diagnóstico **clínico**. Imagem só se houver dúvida, necessidade de documentar ou programação cirúrgica.
+4. **Passo 4 (se inflamatório):** [[Hemograma]], [[Velocidade de Hemossedimentação (VHS)|VHS]], [[PCR (Proteína C Reativa)|PCR]], [[Ácido Úrico Sérico]] (fora da crise), função renal e hepática.
+5. **Passo 5 (sorologias, só com hipótese definida):** [[FAN (Fator Antinuclear)]], fator reumatoide, anti-CCP, [[HLA-B27]].
+6. **Passo 6 (imagem dirigida):** radiografia do sítio acometido; [[Ressonância Magnética]] para partes moles e sacroilíacas precoces.
+
+---
+
+## 🎯 4. Achados-Pivô Decisivos
+
+- [[Padrão de Dor Mecânico vs. Inflamatório]] — o divisor de águas de toda a árvore
+- Rigidez matinal **< 30 min** = mecânico · **> 60 min** = inflamatório
+- [[Nódulos de Heberden]] + [[Nódulos de Bouchard]] + [[Rizartrose]] = [[Osteoartrite]] de mãos
+- **IFD poupada + MCF acometida** = [[Artrite Reumatoide]]
+- [[Crepitação Articular]] grosseira = degenerativo
+- Líquido sinovial **< 2.000 leucócitos/mm³** = não inflamatório · **> 50.000** = séptica até prova em contrário
+- Cristais birrefringentes negativos = urato monossódico = [[Gota]]
+- [[Sausage Toe (Dedo em Salsicha)]] = dactilite = espondiloartrite
+
+---
+
+### 💡 Heurísticas e Dicas Práticas
+
+- **A anamnese decide mais que o laboratório.** Mecânico × inflamatório se define conversando, não pedindo exame.
+- **Prevalência não é diagnóstico.** OA é o mais comum, mas idade jovem, rigidez prolongada e acometimento de MCF tiram do trilho.
+- **Não peça FAN sem hipótese.** Positivo em baixa probabilidade pré-teste gera mais dano que benefício.
+- **Não infiltre corticoide antes de excluir séptica.** Se há dúvida, punciona primeiro.
+- **Dor de quadril irradia para o joelho.** Paciente com "dor no joelho" e exame de joelho normal: examine o quadril.
+- **Artralgia sem artrite existe** e é frequente — [[Artralgia]] é sintoma, [[Artrite]] é achado de exame. Não são o mesmo eixo.
+
+---
+
+## 📚 Referências
+
+*Consultado em 2026-08-30*
+
+1. **[ACR/Arthritis Foundation 2019]** Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee. Arthritis Care Res (Hoboken). 2020;72(2):149–162. PMID 31908149 — https://doi.org/10.1002/acr.24131
+2. **[Conley B et al., 2023]** Core Recommendations for Osteoarthritis Care: A Systematic Review of Clinical Practice Guidelines. Arthritis Care Res (Hoboken). 2023;75(9):1897–1907. PMID 36762545 — https://doi.org/10.1002/acr.25101
+3. **Sociedade Brasileira de Reumatologia** — recomendações para abordagem do paciente com queixa articular.
+
+*Referências 1–2 obtidas via PubMed.*
+
+---
+
+### ➕ Updates de Casos Reais
+*- (Anote aqui aprendizados de casos)*
+-

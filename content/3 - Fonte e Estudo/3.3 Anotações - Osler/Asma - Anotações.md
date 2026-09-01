@@ -1,5 +1,5 @@
 ---
-data: 2026-08-25T16:44:00
+data: 2026-08-31T16:44:00
 área:
   - Pneumologia
 tipo:

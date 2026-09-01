@@ -50,6 +50,7 @@ tipo de exame: ""
 ---
 
 ## 🔗 Conexões com Guias de Raciocínio
+
 - [[Abordagem da Lombalgia]]
 
 ---

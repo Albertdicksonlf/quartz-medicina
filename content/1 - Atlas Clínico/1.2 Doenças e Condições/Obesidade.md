@@ -40,7 +40,7 @@ O excesso de gordura atua por dois mecanismos principais:
     - **Infertilidade/Hipogonadismo:** Conversão periférica de hormônios sexuais.
 2.  **Dano Mecânico (Peso/Volume):**
     - **[[Apneia Obstrutiva do Sono (SAOS)]]] (SAHOS):** Gordura cervical comprime a via aérea.
-    - **[[Osteoartrose]]:** Sobrecarga articular (joelhos, quadril, coluna).
+    - **[[Osteoartrite|Osteoartrose]]:** Sobrecarga articular (joelhos, quadril, coluna).
     - **[[Doença do Refluxo Gastroesofágico (DRGE)]].**
 
 ---

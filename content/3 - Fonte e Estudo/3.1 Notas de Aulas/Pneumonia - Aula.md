@@ -10,7 +10,30 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1
+
+> [!success] Processado em 2026-08-30
+> **Notas reescritas (Modo Completo):**
+> - [[Pneumonia]] · [[Estratificação da PAC]]
+>
+> **Notas criadas (Modo Completo):**
+> - [[Abordagem da Tosse Aguda]] · [[Expansibilidade Torácica Assimétrica]] · [[Egofonia]] · [[Broncograma Aéreo]] · [[Sopro Tubário]] · [[Pneumonia Necrotizante]] · [[Abscesso Pulmonar]] · [[Derrame Pleural Parapneumônico e Empiema]]
+>
+> **Notas criadas (Modo Esqueleto):**
+> - [[Pneumonia Nosocomial]] · [[Pneumonia Aspirativa]] · [[Hemocultura]] · [[Cultura de Escarro]] · [[Procalcitonina]] · [[Ultrassonografia Pulmonar]] · [[Antígeno Urinário (Pneumococo e Legionella)]] · [[Moxifloxacino]]
+>
+> **Correções aplicadas ao material desta aula:**
+> 1. **Derrame pleural** — "sempre que tem derrame é pneumonia complicada / não precisa toracocentese" estava errado. Derrame parapneumônico **simples** é comum e resolve com o antibiótico; "complicado" é o estágio com invasão bacteriana (pH < 7,20). Derrame > 10 mm em decúbito lateral **tem** indicação de toracocentese diagnóstica.
+> 2. **CRB-65 3–4** não significa UTI — significa alto risco e **internação urgente**. UTI se define pelos critérios maiores/menores IDSA/ATS.
+> 3. ***Acinetobacter*** foi retirado da PAC de UTI — é patógeno essencialmente **nosocomial**.
+> 4. **Duração do ATB** — "7 a 10 dias" desatualizado. Padrão atual: **mínimo 5 dias + estabilidade clínica**; ATS 2025 reforça cursos mais curtos.
+> 5. **"Diagnóstico é clínico, não precisa radiologia"** — no adulto o padrão de referência é **clínica + opacidade em imagem**. Tratar sem imagem é exceção, não definição.
+> 6. ***Chlamydia pneumoniae*** — grafia corrigida.
+> 7. **AINE tópico / corticoide** — ver atualização ATS 2025 abaixo.
+>
+> **Atualização que a aula não tinha:** a ATS/IDSA 2019 recomendava **contra** corticoide na PAC grave; a **ATS 2025 inverteu** e sugere usá-lo na PAC grave, **exceto** por influenza. A ultrassonografia pulmonar passou a ser aceita como alternativa diagnóstica à radiografia.
+>
+> **Fontes:** ATS 2025 (PMID 40679934) · Lim WS et al., Thorax 2003 · CAPE COD (NEJM 2023) · SIREVA/OPAS 2023
 
 # Pneumonia 
 **Blocos** -> AGUDO (Pneumonia não dura tanto assim)

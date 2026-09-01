@@ -10,7 +10,27 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1
+
+> [!success] Processado em 2026-08-30
+> **Nota principal (Modo Completo):** [[Osteoartrite]]
+>
+> **Notas criadas (Modo Completo):**
+> - [[Abordagem da Artralgia]] · [[Padrão de Dor Mecânico vs. Inflamatório]] · [[Nódulos de Heberden]] · [[Nódulos de Bouchard]] · [[Crepitação Articular]] · [[Rizartrose]]
+>
+> **Notas criadas (Modo Esqueleto):**
+> - [[Artrite Reumatoide]] · [[Gota]] · [[Artrite Séptica]] · [[Análise do Líquido Sinovial]] · [[Radiografia de Joelho]] · [[AINEs Tópicos]] · [[Infiltração Intra-articular com Corticoide]] · [[Artroplastia]] · [[Artroscopia]]
+>
+> **Decisão de nomenclatura:** o arquivo `Osteoartrose.md` (0 bytes, fantasma) foi deletado e substituído por `Osteoartrite.md`, conforme o argumento do próprio deck do Osler — a patogênese tem componente inflamatório significativo, e "osteoartrose" reflete a visão superada de puro desgaste. O único backlink existente ([[Obesidade]]) foi repontado com pipe.
+>
+> **Correções aplicadas ao material desta aula:**
+> 1. **AINE tópico** — a aula registrava "melhor para joelho e dedos (coluna e joelho não)", afirmação **internamente contraditória**. A regra correta é articulação **superficial** (joelho, mão) **sim**; **profunda (quadril) e coluna, não**. AINE tópico para joelho é recomendação **forte** do ACR/AF 2019.
+> 2. **Corticoide intra-articular** estava **ausente** da aula e é recomendação **forte** para OA de joelho.
+> 3. **Duloxetina** estava ausente e é opção condicional — útil no componente nociplástico ou com depressão associada.
+> 4. **Condroitina e ácido hialurônico** — "poucas evidências" é simplificação. Condroitina é condicionalmente recomendada **para OA de mão** e desaconselhada para joelho/quadril; ácido hialurônico intra-articular é desaconselhado para joelho e quadril.
+> 5. **Rizartrose, Heberden e Bouchard** — explicitados: 1ª carpometacarpiana → mão quadrada; IFD → Heberden; IFP → Bouchard.
+>
+> **Fontes:** ACR/Arthritis Foundation 2019 (PMID 31908149) · Conley et al. 2023 (PMID 36762545) · EULAR 2009 (PMID 18250111) · EULAR imagem 2017 (PMID 28389554) · Kjeken et al. 2025 (PMID 39793978)
 
 # Osteoartrite 
 Bloco de dor articular; entender que é uma doença extremamente prevalente - doença articular mais comum do mundo; 7,5% dos afastamentos do trabalho; precisamos entender a doença para tratar

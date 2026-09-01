@@ -22,7 +22,7 @@ aliases:
   - [[Diarreia do Viajante]] moderada a grave.
 - **Infecções Respiratórias:**
   - Exacerbações de bronquiectasias ou fibrose cística (cobertura de *Pseudomonas*).
-  - **Não é uma boa escolha** para [[Pneumonia Comunitária]] típica (cobertura ruim para *Streptococcus pneumoniae*).
+  - **Não é uma boa escolha** para [[Pneumonia|pneumonia comunitária]] típica (cobertura ruim para *Streptococcus pneumoniae*).
 - **Infecções Ósseas e Articulares:** [[Osteomielite]] por Gram-negativos.
 - **Outras:** Antraz, algumas [[Prostatites]].
 

@@ -41,6 +41,7 @@ tipo de exame: null
 - **Axial/mecânica:** muda com postura/movimento, sem trajeto de nervo (estruturas paravertebrais); bem localizada
 - **Radicular:** segue dermátomo/miótomo (lombociatalgia L5/S1, lombocruralgia L4) → [[Radiculopatia]].
 - **Claudicante (postural):** dor em MMII ao caminhar, que **alivia ao sentar ou fletir o tronco** → [[Estenose de Canal Lombar]].
+	- Abre o espaço entre as vértebras 
 - **Inflamatória:** piora no repouso, melhora com exercício, rigidez matinal > 30 min → [[Espondilite Anquilosante (EA)|espondiloartrite]].
 - **Não-mecânica/referida:** não muda com o movimento.
 
