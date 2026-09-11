@@ -40,7 +40,7 @@ tipo de exame: ""
 *Etiologias: herniação discal (jovens) e espondilose (idosos).*
 - **L4:** dor face anterior da coxa; **reflexo patelar reduzido**; fraqueza de extensão do joelho/quadríceps (estiramento femoral/Lasègue invertido).
 - **L5:** **não anda no calcanhar** (fraqueza de dorsiflexão/extensor do hálux); déficit no dorso do pé.
-- **S1:** **perde o reflexo aquileu**; fraqueza de flexão plantar (**não anda na ponta do pé**).
+- **S1:** **perde o reflexo aquileu**; fraqueza de flexão plantar (**não anda na ponta do pé**). - S do Senna 
 - **Pivô:** [[Sinal de Lasègue|sinal de Lasègue]] positivo (sofrimento de L5/S1).
 
 ### **Cervical (C6–C7)**

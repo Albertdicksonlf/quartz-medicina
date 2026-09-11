@@ -33,7 +33,7 @@ card: null
 
 ## 📋 Indicações Principais
 1. **[[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]]**: manutenção, sempre em dupla **LABA + LAMA** ([[Tiotrópio]]) nos grupos **B** e **E**
-2. **[[Asma]]**: **nunca isolado** — sempre combinado a corticoide inalatório; base do esquema MART
+2. **[[Asma]]**: **nunca isolado** — sempre combinado a [[Corticoide Inalatório (CI)|corticoide inalatório]]; base do esquema MART. Combinação fixa: [[Budesonida + Formoterol]]
 3. Broncoespasmo induzido por exercício
 
 ## 💊 Posologia e Apresentação

@@ -10,7 +10,20 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1
+
+> [!success] Processado em 2026-08-30
+> Processado em bloco com [[Semiologia Radiológica das Afecções Pulmonares - Aula]], para evitar duplicata entre os dois temas.
+>
+> **Notas criadas (Modo Esqueleto):**
+> - [[Ultrassonografia]] · [[Reforço Acústico Posterior]] · [[Sombra Acústica]] · [[Opacidade Pulmonar]]
+>
+> **Correções aplicadas:**
+> 1. **Reforço acústico posterior.** A aula descrevia como "queda de velocidade do eco, ou seja, uma região menos densa". **O mecanismo é a atenuação, não a velocidade** — a estrutura à frente atenua *menos* que o tecido vizinho, o feixe chega com mais energia aos tecidos posteriores, que devolvem ecos mais fortes. Verificado contra fontes de física do ultrassom (SDMS 2025; ESR/ECR 2022).
+> 2. **"Áreas vasculares não fazem reforço."** Precisa de ressalva: **vasos também podem exibir reforço posterior.** O que separa vaso de cisto com segurança é o **Doppler** e a morfologia tubular em dois planos, não a ausência do artefato.
+> 3. **"Parte das Ondas é absorvida, parte das ondas são absorvidas"** — repetição por lapso de digitação; o par correto é **absorvida / refletida**.
+>
+> **Conteúdo preservado e ampliado:** o princípio de que **o eco nasce da diferença de impedância acústica** foi mantido como âncora da nota [[Ultrassonografia]], junto com as duas consequências práticas que a aula já trazia — ar e osso são inimigos do USG, e o gel existe para eliminar a lâmina de ar. Os três componentes da radiodensidade (composição, espessura, sobreposição) ancoraram [[Opacidade Pulmonar]], com a lista de sinônimos que a aula reuniu.
 
 # Raio-x
 **Termos**

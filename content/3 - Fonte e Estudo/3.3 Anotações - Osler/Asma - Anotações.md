@@ -10,7 +10,38 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
+
+> [!success]- ✅ Processado em 2026-09-08 — GINA 2026
+> **Notas de destino:**
+> - [[Asma]] — expandida (já existia desde a auditoria de fantasmas de 09/07/2026)
+> - [[Exacerbação de Asma]] — **nova**, separada seguindo o precedente de [[Exacerbação de DPOC]]
+> - [[Budesonida + Formoterol]] · [[Corticoide Inalatório (CI)]] · [[Beclometasona]] · [[Montelucaste]] · [[Imunobiológicos na Asma]] — **novas**
+> - [[Pico de Fluxo Expiratório (PFE)]] · [[Fração Exalada de Óxido Nítrico (FeNO)]] — **novas**
+>
+> **Correções aplicadas nesta anotação:**
+> 1. **Grau de controle** — estava "parcialmente controlada = menos de 2 sim; descontrolada = mais de 2". Correto: **0 = bem controlada · 1–2 = parcialmente · 3–4 = não controlada**.
+> 2. **Step down** — estava 4–6 meses. GINA: **2–3 meses** de bom controle.
+> 3. **"Não altera expectativa de vida"** — impreciso e perigoso. O GINA 2026 traz lista explícita de red flags para asma fatal/quase-fatal.
+> 4. **"Dermatite atópica → 80% tem asma"** — número invertido. A cifra é "até 80% desenvolvem asma **ou** rinite alérgica".
+> 5. **Castro-Rodriguez** — faltava que a sibilância menor deve ser **não relacionada a resfriado** e que a eosinofilia tem corte de **≥ 4%**.
+> 6. **Tezepelumabe** — não é "o biológico da asma não alérgica"; age **independentemente do fenótipo**.
+> 7. **Risco × proteção por alérgeno** — não é contradição: o eixo é **timing** de exposição, não presença.
+>
+> **Confirmado como correto (não mexer):**
+> - Reversibilidade **≥ 12% e ≥ 200 mL** — o GINA 2026 **manteve** esse critério e **rejeitou** o de >10% do predito (subdiagnostica, sobretudo homem jovem)
+> - Variabilidade de PFE > 10% adultos / > 13% crianças · Metacolina com queda ≥ 20% do VEF1
+> - Faixas de budesonida (200–400 / 400–800 / >800) e "metade em crianças"
+> - Cortes de STEP inicial (≤2×/sem → 1; 3–5×/sem → 2)
+>
+> **Desatualizado pelo GINA 2026 (publicado 05/05/2026):**
+> - **SpO₂:** oxigênio **só se < 92%**; teto do alvo em 95%
+> - **Doses de SABA rebaixadas** — risco de acidose láctica com hiperventilação que simula piora
+> - **Anafilaxia + asma → adrenalina PRIMEIRO**
+> - **Track 2 ganhou AIR com CI-SABA no Step 1** (estudo BATURA)
+> - **LAMA no Step 5 rende bem menos que biológico** — tripla é para quem não é elegível
+> - Agitar pMDI antes de cada jato · fim do conceito de "dose máxima"
+> - Novos biológicos: depemokimabe e anti-IgE biossimilar
 
 # Asma
 

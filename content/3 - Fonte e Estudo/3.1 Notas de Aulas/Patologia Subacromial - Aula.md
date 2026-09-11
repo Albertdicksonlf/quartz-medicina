@@ -27,7 +27,7 @@ Espaço subacromial
 
 O teto do espaço subacromial é formado pelo arco coracoacromial (acrômio e ligamento coracoacromial), enquanto o assoalho é composto pela cabeça do úmero e pelo tubérculo maior (tuberosidade maior), onde se fixam os tendões do manguito rotador
 
-![[Pasted image 20260812192454.png|300]]
+![[Pasted image 20260812192454.png|625]]
 
 Oque fica nesse espaço Subacromial? 
 - **Tendões:** os músculos do manguito rotador, que seguram o ombro no lugar.
@@ -76,9 +76,10 @@ A grande queixa é a **Dor** no Ombro
 
 ![[Captura de Tela 2026-08-12 às 20.07.02.png|250]]
 
-Subacromial -> Dermatomo de C5 (porção lateral - semelhante ao músculo)
+Subacromial -> Dermatomo de C5 (porção lateral - semealhante ao músculo)
 	Dx diferencial com Hernia de disco cervical -> mesmo Dermatomo
-		Como diferenciar? -> Se melhora com o movimento deve ser herniação, por diminuir a tensão do plexo, se piorar ,aproxima o teto e assoalho e 
+		Como diferenciar? -> Se melhora com o movimento deve ser herniação, por diminuir a tensão do plexo, se piorar ,aproxima o teto e assoalho 
+		Spurling
 
 Na região superior -> Ligamento acromioclavicular 
 
@@ -158,6 +159,7 @@ o tendão está roto e qual a extensão? A aula cita 91% de sensibilidade e 98% 
 
 **RNM** -> para partes moles 
 Responde: extensão da ruptura, retração, grau de infiltração gordurosa do músculo, patologia intra-articular associada. Reserve para planejamento cirúrgico ou dúvida diagnóstica real. A infiltração gordurosa importa porque é irreversível e prediz mau resultado do reparo — músculo substituído por gordura não recupera força mesmo com o tendão reinserido.
+
 ## Tratamento 
 
 Depende do que for a causa da dor do Ombro 

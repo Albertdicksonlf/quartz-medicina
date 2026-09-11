@@ -19,7 +19,7 @@ card:
 > [!abstract] O Problema
 > Paciente chega com dor no ombro. A pergunta não é "qual tendão está doente", é "a fonte é o ombro?". Só depois de responder isso é que se pergunta qual estrutura, e só depois disso é que a imagem entra.
 
-## 🚦 1. Triage Inicial (Vieses e Riscos)
+## 🚦 1. Triagem Inicial (Vieses e Riscos)
 
 - **Sinais de Instabilidade (Red Flags):**
 	- Febre com bloqueio ativo **e** passivo → artrite séptica. Descarta-se por punção, não por exame físico.
@@ -27,6 +27,7 @@ card:
 	- Dor noturna com [[Síndrome de Horner]] em tabagista → tumor de Pancoast. Radiografia de tórax.
 	- Trauma com incapacidade funcional imediata → fratura ou luxação.
 	- Pseudoparalisia após redução de luxação em idoso → ruptura aguda do manguito.
+	- Dor muito intensa 
 - **Ação Imediata:** no bloco traumático, [[Radiografia de Ombro]] em **duas incidências ortogonais**. AP isolada perde luxação posterior.
 
 > [!warning] Viés de ancoragem mais comum

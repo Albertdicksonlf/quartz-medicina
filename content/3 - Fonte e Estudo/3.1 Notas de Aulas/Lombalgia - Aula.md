@@ -36,9 +36,13 @@ Palpação
 
 
 **EXAME NEUROLOGICO ESPECIFICO**
+
 Só depois de L2 (cone medular)
+
 Revisando -> EX: Vertebra L4 - Disco - Vertebra L5
+
 Raiz emergente (Sai da mesma vértebra)
+
 Raizes transeuntes (passam ao nível do disco intervertebral superior)
 
 Hérnias (rompe o anulofibroso e extravasa o núcleo pulposo)

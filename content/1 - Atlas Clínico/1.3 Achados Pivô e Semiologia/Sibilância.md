@@ -68,7 +68,7 @@ Essa única regra de pressões explica os dois achados e é o que impede o erro 
 ### Significado clínico — a primeira bifurcação é distribuição, não doença
 
 **A) Sibilância DIFUSA e bilateral** → doença difusa de vias aéreas inferiores:
-- [[Asma]] — episódica, noturna/madrugada, gatilhos, atopia, **reversível**.
+- [[Asma]] — episódica, noturna/madrugada, gatilhos, atopia, **reversível**. Na crise: [[Exacerbação de Asma]].
 - [[Doença Pulmonar Obstrutiva Crônica (DPOC)]] e [[Exacerbação de DPOC]] — tabagista, expiração prolongada, [[Tórax em Barril]], [[Hiperinsuflação Pulmonar]].
 - [[Bronquiolite]] — lactente < 2 anos, **primeiro episódio**, pródromo viral.
 - [[Anafilaxia]] — instalação em minutos após exposição, com urticária e [[Hipotensão]].
@@ -101,7 +101,7 @@ Essa única regra de pressões explica os dois achados e é o que impede o erro 
 
 ### Investigação dirigida
 
-1. **Beira-leito:** [[Oximetria de Pulso]] e pico de fluxo expiratório (quando disponível).
+1. **Beira-leito:** [[Oximetria de Pulso]] e [[Pico de Fluxo Expiratório (PFE)|pico de fluxo expiratório]] (quando disponível).
 2. **Se dúvida sobre gravidade ou retenção de CO₂:** [[Gasometria arterial]] — ver [[Abordagem da Hipoxemia]] e [[Abordagem da Hipercapnia]].
 3. **Imagem:** [[Raio-X de Tórax]] (obrigatório se sibilância localizada, febre ou primeiro episódio no adulto).
 4. **Confirmação funcional (ambulatorial):** [[Espirometria]] com prova broncodilatadora; se normal e a suspeita de asma persistir, [[Teste de Broncoprovocação com Metacolina]].

@@ -90,7 +90,7 @@ tipo de exame: null
 
 ---
 
-### 💡 Heurísticas e Dicas Práticas
+### 💡 Heurísticas e Dicas Práticas/TRATAMENTOS 
 - **Não indicar repouso no leito** — manter o nível habitual de atividade física acelera a recuperação. É a orientação de maior impacto da consulta.
 - **A primeira linha na fase aguda é não farmacológica** (calor superficial, massagem, terapia manual, acupuntura); o fármaco entra em seguida.
 - **Lombalgia aguda sem red flag:** manejo clínico por **4–6 semanas** → [[AINEs]] → relaxante muscular ([[Ciclobenzaprina|ciclobenzaprina]]) → [[Opioides|opioide]] fraco ([[Tramadol|tramadol]]) por curto período se refratário. **Não usar [[Paracetamol|paracetamol]] isolado.**

@@ -10,7 +10,19 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
+
+> [!success]- Processado em 2026-09-09 — junto com [[Acne - Anotações]]
+> **Contribuição específica desta aula ao Atlas:**
+> - A **síndrome da oclusão folicular** e sua **tétrade** (acne conglobata, [[Hidradenite Supurativa]], celulite dissecante do couro cabeludo, cisto pilonidal) — ausente dos flashcards, incorporada à fisiopatologia de [[Acne]].
+> - A **classificação em graus I–V**, que os cards do Osler não trazem.
+> - A organização da terapia **por mecanismo de ação** (anti-inflamatório / anti-*C. acnes* / antiqueratinização / redução de sebo), que virou a tabela dos quatro pilares em [[Acne]] — é o esqueleto conceitual que torna o tratamento dedutível em vez de decorado.
+> - **[[Clascoterona]]** e **[[Metformina]]** como agentes do pilar hormonal.
+> - O detalhe de que a **tretinoína se degrada com [[Peróxido de Benzoíla]]**, que gerou a nuance de estabilidade registrada em [[Adapaleno]].
+> - O **manejo na gestação** completo (primeira linha e contraindicações absolutas), incorporado a [[Acne]] e a [[Ácido Azelaico]].
+> - As **medidas comportamentais** — sabonete de pH 5,5–7, hidratante para pele oleosa, evitar oclusivos.
+>
+> **Observação preservada da aula:** "terapias combinadas com múltiplos mecanismos de ação são preferíveis a monoterapias" — que coincide com uma das declarações de boa prática da **AAD 2024** e virou o princípio organizador da seção de tratamento.
 
 
 # ACNE Vulgar (primária)

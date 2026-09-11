@@ -53,17 +53,17 @@ tipo de exame: null
 *Caixa à parte — o esqueleto imaturo se comporta de outro jeito.*
 - **Fratura supracondiliana** — domina o cenário (**~60%** das fraturas de cotovelo na criança). **O medo é neurovascular**: artéria braquial e nervo interósseo anterior
 - **Pronação dolorosa** ("cotovelo de babá") — tração axial no pré-escolar; a criança não usa o braço, mantém-no pronado e junto ao corpo. Redução simples e imediata
-- *Pista:* nunca aceite "torceu o braço" em criança sem examinar pulso, perfusão e a pinça polegar-indicador
+- *Pista:* nunca aceite "torceu o braço" em criança sem examinar pulso, perfusão e a pinça polegar-indicador.
 
 ### **Bloco C: Dor SEM trauma — dividida por topografia**
 *O bucket mais rentável no ambulatório.*
 
-| Onde dói | Hipótese principal | Diferencial que engana |
-|---|---|---|
-| **Lateral** | **[[Epicondilite Lateral]]** (tendinose angiofibroblástica) | **Síndrome do supinador** (compressão do interósseo posterior) · fratura oculta da cabeça do rádio |
-| **Medial** | **[[Epicondilite Medial]]** | **Síndrome do pronador** (nervo mediano) · **neuropatia ulnar** no túnel cubital |
-| **Posterior** | **Bursite olecraniana** | Bursite **séptica** · gota · lesão do tríceps |
-| **Anterior** | **Tendinopatia ou ruptura do bíceps distal** | Dor referida de ombro ou cervical |
+| Onde dói      | Hipótese principal                                          | Diferencial que engana                                                                             |
+| ------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Lateral**   | **[[Epicondilite Lateral]]** (tendinose angiofibroblástica) | **Síndrome do supinador** (compressão do interósseo posterior) · fratura oculta da cabeça do rádio |
+| **Medial**    | **[[Epicondilite Medial]]**                                 | **Síndrome do pronador** (nervo mediano) · **neuropatia ulnar** no túnel cubital                   |
+| **Posterior** | **Bursite olecraniana**                                     | Bursite **séptica** · gota · lesão do tríceps                                                      |
+| **Anterior**  | **Tendinopatia ou ruptura do bíceps distal**                | Dor referida de ombro ou cervical                                                                  |
 
 > [!tip] O par que mais confunde na prática — lateral
 > **[[Epicondilite Lateral|Epicondilite lateral]]** dói **na ponta óssea do epicôndilo** e tem **[[Teste de Cozen|Cozen]] positivo**.
@@ -98,7 +98,7 @@ tipo de exame: null
 
 - **[[Teste de Cozen]] positivo** = [[Epicondilite Lateral]]
 - **[[Teste de Mill]] positivo** = [[Epicondilite Lateral]] *(confirma por estiramento passivo)*
-- **[[Teste de Cozen]] NEGATIVO + dor 4–5 cm distal ao epicôndilo** = síndrome do supinador
+- **[[Teste de Cozen]] NEGATIVO + dor 4–5 cm distal ao epicôndilo** = síndrome do supinador (DX clínico, independente de Déficit neuronais)
 - **Flexão resistida do punho dolorosa no epicôndilo medial** = [[Epicondilite Medial]]
 - **Dormência nos 4º e 5º dedos + Tinel no túnel cubital** = neuropatia ulnar *(pode coexistir com epicondilite medial)*
 - **Perda de prono-supinação após queda sobre a mão espalmada** = fratura da cabeça do rádio

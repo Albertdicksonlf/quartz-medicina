@@ -27,10 +27,10 @@ card:
 - **Fator de Risco:**
 	- Traumas penianos repetidos
 	- [[Diabetes Mellitus]]
-	- [[Hipertensão Arterial Sistêmica (HAS)]]
+	- Hipertensão Arterial Sistêmica (HAS)
 	- Dislipidemia
 	- Tabagismo
-	- Associação com [[Doença de Dupuytren]] (fibrose palmar) — paralelismo fibroproliferativo
+	- Associação com Doença de Dupuytren (fibrose palmar) — paralelismo fibroproliferativo
 
 ## 🤒 Apresentação Clínica
 
@@ -82,8 +82,8 @@ card:
 - **Exame físico:** Palpação de placa em haste peniana (com e sem ereção)
 - **Documentação da curvatura:** Foto durante ereção autoinduzida (ângulo de desvio)
 - **USG peniano:** caracteriza placa (tamanho, localização, calcificação)
-- **[[USG Doppler peniano]]:** avalia função erétil concomitante
-- **Avaliação de [[Disfunção Erétil]]** ([[IIEF-5]]) — frequentemente coexiste
+- **USG Doppler peniano:** avalia função erétil concomitante
+- **Avaliação de Disfunção Erétil** (IIEF-5) — frequentemente coexiste
 
 ---
 
