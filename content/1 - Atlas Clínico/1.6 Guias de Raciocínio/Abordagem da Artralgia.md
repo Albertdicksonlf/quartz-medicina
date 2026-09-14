@@ -107,7 +107,7 @@ tipo de exame: null
 2. **Passo 2:** classificar mecânico × inflamatório pela **anamnese** — é gratuito e decide mais que qualquer exame.
 3. **Passo 3 (se mecânico e típico):** diagnóstico **clínico**. Imagem só se houver dúvida, necessidade de documentar ou programação cirúrgica.
 4. **Passo 4 (se inflamatório):** [[Hemograma]], [[Velocidade de Hemossedimentação (VHS)|VHS]], [[PCR (Proteína C Reativa)|PCR]], [[Ácido Úrico Sérico]] (fora da crise), função renal e hepática.
-5. **Passo 5 (sorologias, só com hipótese definida):** [[FAN (Fator Antinuclear)]], fator reumatoide, anti-CCP, [[HLA-B27]].
+5. **Passo 5 (sorologias, só com hipótese definida):** [[FAN (Fator Antinuclear)]], [[Fator Reumatoide (FR)]], [[Anticorpo Antipeptídeo Citrulinado Cíclico (Anti-CCP)|anti-CCP]], [[HLA-B27]].
 6. **Passo 6 (imagem dirigida):** radiografia do sítio acometido; [[Ressonância Magnética]] para partes moles e sacroilíacas precoces.
 
 ---
@@ -149,5 +149,20 @@ tipo de exame: null
 ---
 
 ### ➕ Updates de Casos Reais
+
+### 🔗 Quanto cada sorologia realmente move a probabilidade
+**Data:** 2026-09-12
+**Contexto:** [[Artrite Reumatoide]]
+
+**Características específicas:**
+- **[[Anticorpo Antipeptídeo Citrulinado Cíclico (Anti-CCP)|Anti-CCP]]:** sensibilidade 67%, especificidade 95% — **LR+ 12,5** e **LR− 0,36**.
+- **[[Fator Reumatoide (FR)|Fator reumatoide (IgM)]]:** sensibilidade 69%, especificidade 85% — **LR+ 4,9** e **LR− 0,38**.
+- Leitura prática: o **anti-CCP positivo confirma** (LR+ > 10); o **FR positivo apenas sugere** (LR+ ~5). E, crucialmente, **nenhum dos dois exclui** — os LR− de ~0,36 são fracos demais para derrubar uma hipótese clínica bem construída. A AR soronegativa é cerca de 20% dos casos.
+
+**Relevância clínica:** dá número ao aviso do Passo 5 deste guia. Pedir sorologia em baixa probabilidade pré-teste, especialmente o FR — cuja especificidade despenca em idosos, hepatite C, Sjögren e endocardite — produz falso-positivo que o médico terá de justificar. Já com sinovite documentada de MCF e IFP, um anti-CCP positivo praticamente fecha o raciocínio.
+**Fonte:** Nishimura K, Sugiyama D, Kogata Y, et al. Meta-analysis: diagnostic accuracy of anti-cyclic citrullinated peptide antibody and rheumatoid factor for rheumatoid arthritis. Ann Intern Med. 2007;146(11):797-808. PMID 17548411 — https://doi.org/10.7326/0003-4819-146-11-200706050-00008
+
+---
+
 *- (Anote aqui aprendizados de casos)*
 -

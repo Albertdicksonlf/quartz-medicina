@@ -29,14 +29,19 @@ card: null
 
 > [!tip] Nível do disco × raiz comprimida
 > A hérnia **posterolateral** (a mais comum) poupa a raiz que sai naquele nível e comprime a **raiz que desce para o nível seguinte**. Por isso a hérnia L4–L5 costuma dar síndrome de **L5**, e a hérnia L5–S1 dá **S1**. Já a hérnia **foraminal/extraforaminal**, mais rara, pega a raiz do próprio nível.
-Só depois de L2 (cone medular)
-Revisando -> EX: Vertebra L4 - Disco - Vertebra L5
-Raiz emergente (Sai da mesma vértebra)
-Raizes transeuntes (passam ao nível do disco intervertebral superior)
+> **Por que isso acontece — as duas raízes que passam por cada nível:**
+> Em cada nível lombar convivem duas raízes com destinos diferentes:
+> - **Raiz emergente:** a que **sai pelo forame daquele nível**, já lateralizada e alta, logo abaixo do pedículo da vértebra superior. No nível L4–L5, a emergente é **L4**.
+> - **Raiz transeunte (descendente):** a que apenas **atravessa** o nível, ainda medial, a caminho do forame do nível seguinte. No nível L4–L5, a transeunte é **L5**.
+>
+> A hérnia **póstero-central/posterolateral** ocupa o recesso lateral, onde trafega a **transeunte** → L4–L5 dá **L5**; L5–S1 dá **S1**.
+> A hérnia **foraminal/extraforaminal** ocupa o forame, onde já está a **emergente** → L4–L5 dá **L4**.
+> É a mesma hérnia, no mesmo disco, com síndromes radiculares diferentes conforme a posição no plano axial.
 
-Hérnias (rompe o anulofibroso e extravasa o núcleo pulposo)
-	postero Central -> Pega as transeuntes 
-	Foraminal -> acomete a raiz emergente 
+> [!info]- 🔄 Base anatômica: por que a semiologia radicular lombar é diferente
+> A **medula termina no cone medular**, em geral entre **T12 e L2** no adulto. Abaixo disso não há medula, apenas as raízes da **cauda equina** descendo no saco dural. Duas consequências práticas:
+> - A compressão abaixo de L2 produz sinais de **neurônio motor inferior** (flacidez, arreflexia), não de neurônio motor superior.
+> - Uma hérnia central alta (L1–L2) pode comprimir o **cone medular** e dar uma síndrome mista, que se confunde com [[Síndrome da Cauda Equina|cauda equina]] — e ambas são urgência.
 
 ## 🌪️ Fisiopatologia
 
@@ -145,6 +150,22 @@ Hérnias (rompe o anulofibroso e extravasa o núcleo pulposo)
 - Nota saiu do modo esqueleto para conteúdo completo.
 - Acrescentados: mecanismo inflamatório do núcleo pulposo, regra nível-do-disco × raiz, tabela topográfica L4/L5/S1, história natural de reabsorção.
 - Registrada divergência sobre corticoide sistêmico na radiculopatia (ver callout no tratamento).
+
+---
+
+### 🔗 Limpeza de trecho cru + anatomia raiz emergente × transeunte
+**Data:** 2026-09-13
+**Contexto:** [[Abordagem da Lombalgia]]
+
+**O que foi feito:** havia um bloco de texto **cru da anotação de aula** colado dentro do corpo da nota, logo após o callout "Nível do disco × raiz comprimida" (linhas soltas sobre cone medular, raiz emergente/transeunte e tipos de hérnia, com erros de digitação). O trecho foi **reescrito como conteúdo estruturado** e incorporado ao callout.
+
+**Conteúdo incorporado:**
+- Definição de **raiz emergente** (sai pelo forame daquele nível) × **raiz transeunte/descendente** (atravessa o nível a caminho do forame seguinte).
+- Regra axial: hérnia **póstero-central/posterolateral** → comprime a **transeunte** (L4–L5 dá L5); hérnia **foraminal/extraforaminal** → comprime a **emergente** (L4–L5 dá L4).
+- Base anatômica: cone medular termina entre **T12 e L2**; abaixo é cauda equina, daí o padrão de neurônio motor inferior e a confusão possível entre hérnia central alta e cauda equina.
+
+**Relevância clínica:** é o que explica por que a mesma hérnia, no mesmo disco, produz síndromes radiculares diferentes conforme a posição no plano axial — e por que a discordância entre o nível da imagem e o dermátomo do paciente costuma apontar hérnia foraminal, não erro de exame.
+**Fonte:** Shawky Abdelgawaad A, et al. Extraforaminal microscopic assisted percutaneous nucleotomy for foraminal and extraforaminal lumbar disc herniations. Spine J. 2017;18(4):620-625. PMID 28882526 — https://doi.org/10.1016/j.spinee.2017.08.258 · Epstein NE. Case presentation and short perspective on management of foraminal/far lateral discs and stenosis. Surg Neurol Int. 2018;9:87. PMID 29740508 — https://doi.org/10.4103/sni.sni_66_18 *(localizadas via PubMed)*
 
 ---
 -

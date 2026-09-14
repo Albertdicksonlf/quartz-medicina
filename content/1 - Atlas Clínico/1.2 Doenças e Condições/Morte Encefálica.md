@@ -111,5 +111,20 @@ Comprova ausência de atividade encefálica por uma das vias:
 ---
 
 ### ➕ Novas Anotações / Insights
+
+### 🔗 Declaração de Óbito na Morte Encefálica — data, hora e quem assina
+**Data:** 2026-09-13
+**Contexto:** [[Guia de Raciocínio - Declaração de Óbito]]
+
+**Características específicas:**
+- A **data e a hora do óbito registradas na DO são as do último procedimento de determinação da ME** — não as da assistolia posterior, nem as da retirada do suporte. É o que fecha o protocolo que marca a morte legal.
+- **Quem preenche a DO:** os médicos que determinaram o diagnóstico de ME, ou o médico assistente / seu substituto.
+- **Exceção decisiva:** havendo **causa externa** envolvida (trauma, intoxicação, acidente), a DO passa a ser **responsabilidade do médico legista**, que deve receber o relatório de encaminhamento e **cópia do Termo de Declaração de Morte Encefálica**. O protocolo de ME não "naturaliza" uma morte de causa básica externa.
+
+**Relevância clínica:** o politraumatizado que evolui para ME é o caso mais comum na prática — e é exatamente aquele em que a equipe, tendo conduzido todo o protocolo, tende a assinar a DO indevidamente. Protocolo de ME concluído e DO assinada pela equipe são coisas diferentes quando há trauma na origem.
+**Fonte:** Resolução CFM nº 2.173/2017, art. 9º e parágrafo único — https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2017/2173_2017.pdf
+
+---
+
 *- (Espaço livre para updates futuros)*
 -

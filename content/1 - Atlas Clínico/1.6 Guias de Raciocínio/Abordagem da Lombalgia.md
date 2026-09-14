@@ -35,6 +35,20 @@ tipo de exame: null
 > [!tip] Red flag isolada tem baixa especificidade
 > Dor noturna sozinha, ou idade > 50 anos sozinha, gera muitos falsos-positivos. As de maior rendimento para malignidade são **história prévia de câncer, perda de peso inexplicada e dor persistente sem melhora**, e **combinações** de red flags discriminam muito melhor do que qualquer item isolado. Pese o conjunto, não o item.
 
+## 🟡 1b. Triagem de Prognóstico — SINAIS AMARELOS (apontam para cronificação)
+
+Terminada a pergunta "tem doença grave aqui?", vem a segunda, que muda o manejo e é sistematicamente pulada: **"esse paciente vai cronificar?"**. Os [[Sinais Amarelos|sinais amarelos]] são fatores **psicossociais** de prognóstico — não indicam doença estrutural e **não geram exame de imagem**.
+
+- **Relacionados ao paciente:** dor desproporcional ao achado, **catastrofização**, medo-evitação do movimento, humor alterado / comorbidade psiquiátrica, incapacidade funcional basal elevada, dificuldades no relacionamento familiar.
+- **Relacionados ao trabalho:** ergonomia inadequada, insatisfação com o trabalho, litígio ou questão trabalhista em curso.
+- **O que fazer com o achado:** encurtar o intervalo de retorno, priorizar **exercício e educação** sobre escalonamento farmacológico e acionar abordagem cognitivo-comportamental cedo ([[Terapia Cognitivo-Comportamental (TCC)]], [[Atividade Física]]). O **NICE NG59** (rec. 1.1.2, atualização de 2020) recomenda considerar **estratificação de risco** — por exemplo, o STarT Back — já no primeiro contato.
+
+> [!tip] Nem todo sinal amarelo pesa igual — os números surpreendem
+> Na revisão sistemática de referência (20 estudos, 10.842 pacientes), o que mais prediz lombalgia persistente e incapacitante em 1 ano é o **enfrentamento mal adaptativo da dor** (LR 2,5) e a **comorbidade psiquiátrica** (LR 2,2), com os **sinais não-orgânicos** no topo (LR 3,0). Já as **variáveis do ambiente de trabalho** rendem apenas **LR ~1,5**, e **episódios prévios de lombalgia e dados demográficos têm LR ~1,0 — não predizem nada.** A queixa trabalhista chama atenção, mas não é onde está o prognóstico.
+
+> [!success] Estratificar por prognóstico funciona
+> No ECR STarT Back (1.573 pacientes na atenção primária), o manejo estratificado pelo risco superou a melhor prática não estratificada em incapacidade aos 4 e aos 12 meses, **com menor custo** (£240,01 vs £274,40) e ganho de 0,039 QALY. É a rara intervenção que melhora desfecho e economiza.
+
 ## 🧠 2. Estrutura de Pensamento (Os "Buckets")
 
 ### **Passo 1 — Qual o padrão da dor?**
@@ -87,6 +101,8 @@ tipo de exame: null
 - **Alívio ao fletir o tronco / sinal do carrinho de supermercado** = [[Estenose de Canal Lombar|estenose de canal]].
 - **Osteófitos ao RX em idoso com dor mecânica** = [[Espondiloartrose]] — desde que haja correlação clínica.
 - Não anda no **calcanhar** = L5 · não anda na **ponta do pé** = S1 · **patelar** reduzido = L4.
+- [[Teste de Patrick|Patrick/FABER]] com dor **posterior (glútea)** = articulação **sacroilíaca** → no contexto inflamatório, seleciona quem merece [[Ressonância Magnética|RM]] de sacroilíacas. Com dor **anterior (inguinal)** = **quadril**, não coluna.
+- [[Sinais Amarelos|Sinais amarelos]] presentes = o prognóstico mudou, não o diagnóstico. Muda o plano, não o exame.
 
 ---
 
@@ -102,6 +118,19 @@ tipo de exame: null
 > - **Corticoide sistêmico na radiculopatia:** a revisão Cochrane encontrou ensaios inconsistentes com benefício nulo ou pequeno, e o ACP **não recomendou** corticoide sistêmico. O que tem evidência modesta e de curto prazo é a infiltração **epidural**. Prática difundida no Brasil — base de evidência fraca.
 > - **Antidepressivos na lombalgia crônica:** ACP admite duloxetina como 2ª linha; o **NICE recomenda NÃO oferecer** ISRS, IRSN ou tricíclicos para lombalgia.
 > - **Opioides na crônica:** ACP admite como última opção; o **NICE recomenda não oferecer**. Gabapentinoides: NICE também recomenda não oferecer.
+
+---
+
+## 📚 Referências
+*Consultado em 2026-09-13*
+
+1. **NICE — Low back pain and sciatica in over 16s: assessment and management. NICE guideline NG59**, rec. 1.1.2 e 1.1.3 (estratificação de risco e manejo estratificado); última atualização em dezembro de 2020 — https://www.nice.org.uk/guidance/ng59
+2. **Chou R, Shekelle P.** Will this patient develop persistent disabling low back pain? JAMA. 2010;303(13):1295-302. PMID 20371789. DOI: https://doi.org/10.1001/jama.2010.344
+3. **Hill JC, Whitehurst DGT, Lewis M, et al.** Comparison of stratified primary care management for low back pain with current best practice (STarT Back): a randomised controlled trial. Lancet. 2011;378(9802):1560-71. PMID 21963002. DOI: https://doi.org/10.1016/S0140-6736(11)60937-9
+4. **Tasso M, et al.** Role of Patrick-FABER test in detecting sacroiliitis and diagnosing spondyloarthritis in subjects with low back pain. Clin Exp Rheumatol. 2023;41(11):2298-2300. PMID 37650318. DOI: https://doi.org/10.55563/clinexprheumatol/kgje8k
+5. **UpToDate** — "Evaluation of low back pain in adults" — *(pendente: consultar e anotar)*
+
+*Referências 2 a 4 localizadas via PubMed. Esta seção foi criada em 2026-09-13; as afirmações anteriores da nota (ACP 2017, Cochrane sobre corticoide, recomendações NICE de tratamento) vieram de rodadas anteriores e ainda não estão referenciadas linha a linha.*
 
 ---
 

@@ -129,11 +129,11 @@ card: null
 
 ### **2. Alternativa: 4R**
 - **Droga:** [[Rifampicina]] 600 mg/dia — **120 doses em 4 meses**.
-- **Indicações preferenciais:** > 50 anos, hepatopatas, intolerância à isoniazida, contraindicação ao 3HP.
+- **Indicações preferenciais:** > 50 anos, hepatopatas, intolerância à isoniazida, contraindicação ao 3HP. (ALGUMAS CONTRAINDICACOES )
 
 ### **3. Alternativa antiga: 6H ou 9H**
 - **Droga:** [[Isoniazida]] 300 mg/dia — **180 doses (6 meses) ou 270 doses (9 meses)**; o esquema de 9 meses é o de maior eficácia.
-- **Problema:** longo, com alta taxa de abandono e maior hepatotoxicidade — hoje é linha de trás. Segue sendo opção relevante em PVHIV, conforme disponibilidade.
+- **Problema:** longo, com alta taxa de abandono e maior hepatotoxicidade — hoje é linha de trás. Segue sendo opção relevante em PVHIV, conforme disponibilidade. - QUASE NAO USADO 
 - **Principal efeito colateral:** hepatotoxicidade.
 
 ### **4. Crianças**

@@ -60,5 +60,20 @@ tipo de exame: null
 ---
 
 ### ➕ Novas Anotações / Insights
+
+### 🔗 Mialgia no paciente com Artrite Reumatoide
+**Data:** 2026-09-12
+**Contexto:** [[Artrite Reumatoide]]
+
+**Características específicas:**
+- Queixa **frequente e multifatorial** na AR: atividade inflamatória sistêmica, descondicionamento e perda de massa muscular (caquexia reumatoide), sono fragmentado pela dor e **fibromialgia concomitante** — uma parcela importante desses pacientes preenche critérios de fibromialgia por dor difusa e fadiga persistente.
+- **Miopatia induzida por fármaco** é causa que precisa ser lembrada ativamente: **glicocorticoides** ([[Prednisona]]) causam miopatia proximal **com CK normal**; **antimaláricos** ([[Cloroquina]], [[Hidroxicloroquina]]) causam miopatia vacuolar, em geral com CK elevada e após uso prolongado.
+- **Miosite inflamatória verdadeira é incomum** na AR — quando há fraqueza proximal objetiva com CK elevada, pensar em síndrome de sobreposição ou em miopatia medicamentosa antes de atribuir à própria AR.
+
+**Relevância clínica:** em paciente com AR que passa a referir mialgia, a pergunta não é "é a artrite?", e sim **"é atividade de doença, é a droga, ou é dor nociplástica?"** — as três exigem condutas opostas (intensificar DMARD, suspender o fármaco, ou tratar dor crônica sem escalonar imunossupressão).
+**Fonte:** Ministério da Saúde / Conitec — PCDT da Artrite Reumatoide, Portaria Conjunta SAES/SCTIE nº 33, de 19 de janeiro de 2026 (monitoramento de toxicidade de DMARDs) — https://www.gov.br/saude/pt-br/assuntos/pcdt/a/artrite-reumatoide. Perfil das miopatias por corticoide e antimalárico: conhecimento consolidado, sem diretriz aberta localizada.
+
+---
+
 *- Nota canônica criada em 2026-07-21 (Trilha A do recorte). Lacunas descobertas na checagem por path: **CK / CPK não tem nota em 1.4** (exame central da mialgia — deixado em texto puro; alta prioridade de criação) e **Polimialgia Reumática / Fibromialgia** não têm nota em 1.2. Duplicata notada: `Fascite Necrosante` e `Fasciíte Necrosante` coexistem em 1.2 → Trilha B.*
 -

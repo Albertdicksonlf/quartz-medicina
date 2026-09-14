@@ -28,7 +28,7 @@ aliases:
   - **[[Reduz a sobrevida das hemácias]]**.
 
 ## Causas Principais (Qualquer Estado Inflamatório Crônico)
-- **Doenças Autoimunes:** `Artrite Reumatoide`, `Lúpus Eritematoso Sistêmico`, [[Doença Inflamatória Intestinal (DII)]]
+- **Doenças Autoimunes:** [[Artrite Reumatoide]], `Lúpus Eritematoso Sistêmico`, [[Doença Inflamatória Intestinal (DII)]]
 - **Infecções Crônicas:** [[Tuberculose]], `HIV`, `Osteomielite crônica`, `Endocardite`.
 - **Neoplasias Malignas:** Cânceres sólidos e hematológicos.
 - [[Insuficiência Renal Crônica|Doença Renal Crônica]](a inflamação contribui, além da deficiência de EPO).
@@ -90,5 +90,21 @@ aliases:
 
 ---
 ### **➕ Novas Anotações / Insights**
+
+### 🔗 Anemia reumatoide — o protótipo da ADC
+**Data:** 2026-09-12
+**Contexto:** [[Artrite Reumatoide]]
+
+**Características específicas:**
+- É a **alteração hematológica mais comum da AR** e o exemplo típico de anemia de doença crônica: **normocrômica e normocítica** (menos frequentemente microcítica), **arregenerativa** e acompanhada de **trombocitose**.
+- Padrão da cinética do ferro: transferrina normal ou baixa, **saturação de transferrina reduzida**, ferritina normal ou alta e **receptor solúvel de transferrina NÃO elevado** — este último é o achado que a separa da anemia ferropriva, com razão sTfR/log ferritina **< 1**.
+- O eixo causal é **IL-6 → hepcidina**: a IL-6 estimula transcrição hepática de hepcidina (TNF-α e IL-1 não fazem isso isoladamente), reduz a fração de precursores eritroides na medula e baixa o ferro sérico.
+- Corolário terapêutico: a anemia melhora com o **controle da atividade da AR**; antagonistas de IL-6 ([[Tocilizumabe]]) corrigem a anemia por interromper esse eixo.
+
+**Relevância clínica:** corrige o rótulo frequente de "anemia normocítica e **hipocrômica**" — a hipocromia não é a regra na AR. Também explica por que repor ferro oral em paciente com AR ativa e ferritina alta não funciona: a hepcidina bloqueia a absorção duodenal.
+**Fonte:** Masson C. Rheumatoid anemia. Joint Bone Spine. 2010;78(2):131-7. PMID 20851655 — https://doi.org/10.1016/j.jbspin.2010.05.017
+
+---
+
 *- (Espaço para suas anotações pessoais, insights de aulas, artigos ou da prática clínica)*
 -
