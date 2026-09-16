@@ -187,6 +187,8 @@ OBS -> Couro cabeludo -> obrgait'riamente antif'ngico sistemico -> Griseofulvina
 	Amorolfina (em esmalte )
 	Terbinafina oral é a primeira linha 
 	Ou em caso que não de certo -> Terbinefina 
+
+
 ## Candidíase 
 
 Micose superficial nem Ceratofisoes nem Dermatofitoses 
