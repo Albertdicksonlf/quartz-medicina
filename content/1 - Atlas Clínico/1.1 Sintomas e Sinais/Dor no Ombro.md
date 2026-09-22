@@ -4,15 +4,15 @@ date: 2026-08-16T14:00:00
   - Ortopedia
   - Reumatologia
 tipo: Sinal/Sintoma
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - Omalgia
   - Ombro Doloroso
   - Dor no ombro
-card: 
+card:
 ---
 
 # Dor no Ombro
@@ -73,3 +73,18 @@ card:
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+---
+
+### 🔗 Dor no ombro como pivô abdominal no trauma
+**Data:** 2026-09-19
+**Contexto:** [[Abordagem do Trauma Abdominal]]
+
+Esta nota já registra a base neuroanatômica (convergência do nervo frênico, C3–C5). O bloco abdominal do trauma dá a aplicação prática, e o achado agora tem nota própria: **[[Sinal de Kehr]]**.
+
+- **Ombro esquerdo** após trauma abdominal → sangue no espaço subfrênico esquerdo → **lesão esplênica**. É o sinal de Kehr propriamente dito
+- **Ombro direito** pelo mesmo mecanismo → **lesão hepática**. Algumas escolas o chamam de *sinal de Laffont*; a nomenclatura não é universal e não muda conduta
+- **Regra de triagem:** em vítima de trauma, dor no ombro **sem lesão local que a explique** (trauma direto, fratura de clavícula, lesão de plexo) é dor abdominal até prova em contrário
+- **Valor bayesiano:** específico, não sensível — a ausência não afasta lesão de víscera sólida
+
+**Fonte deste bloco:** processamento de `Trauma Abdominal - Anotações` (Osler), 2026-09-19. Não foi localizado estudo de acurácia que quantifique o sinal — ver a ressalva registrada em [[Sinal de Kehr]].

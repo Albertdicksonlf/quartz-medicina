@@ -137,3 +137,24 @@ Terminada a pergunta "tem doença grave aqui?", vem a segunda, que muda o manejo
 ### ➕ Updates de Casos Reais
 *- (Anote aqui aprendizados de casos)*
 -
+
+### 🔗 Rota para a família das espondiloartrites
+**Data:** 2026-09-20
+**Contexto:** [[Espondiloartrites]]
+
+**O que este guia ganha:** a lombalgia inflamatória deixou de apontar para uma doença só. Quando o [[Padrão de Dor Mecânico vs. Inflamatório|padrão inflamatório]] se confirma em paciente com início antes dos 45 anos, a rota correta é a **família inteira** — [[Espondiloartrites]] — e não direto à espondilite anquilosante.
+
+**As cinco perguntas que nomeiam o membro da família** (a partir daqui o guia se ramifica):
+- **Olho vermelho doloroso recorrente?** → uveíte anterior aguda
+- **Psoríase, inclusive couro cabeludo e unhas?** → [[Artrite Psoriásica]]
+- **Diarreia crônica ou sangue nas fezes?** → artrite associada à [[Doença Inflamatória Intestinal (DII)|DII]]
+- **Diarreia aguda ou uretrite nas últimas 2–4 semanas?** → [[Artrite Reativa]]
+- **Dor em inserção de tendão, sobretudo calcâneo?** → [[Entesite]], a característica mais específica do grupo
+
+**Mudança de conduta de imagem (EULAR 2025):** a atualização das recomendações EULAR de imagem em espondiloartrite **substituiu a radiografia pela [[Ressonância Magnética|RM de sacroilíacas]] como primeira modalidade diagnóstica** da espondiloartrite axial. A [[Radiografia de Coluna Lombossacra|radiografia]] — ou, preferencialmente, TC de baixa dose — tornou-se a alternativa para quando a RM é indisponível ou contraindicada. Na rede brasileira o RX segue sendo o primeiro exame factível; o que muda é a leitura: **radiografia normal não encerra a investigação.**
+
+**Relevância clínica:** este é o ponto exato do atraso diagnóstico. O paciente que carrega "lombalgia mecânica" por cinco anos é quase sempre alguém em quem ninguém cronometrou a rigidez matinal nem perguntou por olho vermelho.
+
+**Fonte:** Ramiro S et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. Ann Rheum Dis. 2023;82(1):19-34. PMID 36270658 — https://doi.org/10.1136/ard-2022-223296 · Mandl P et al. EULAR recommendations for the use of imaging in SpA — 2025 update. Apresentado no EULAR 2026 (POS0682) — https://doi.org/10.1136/annrheumdis-2026-eular.B.2205
+
+---

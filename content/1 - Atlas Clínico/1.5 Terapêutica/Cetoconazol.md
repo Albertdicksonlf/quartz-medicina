@@ -88,3 +88,27 @@ card: null
 *- Nota preenchida em 2026-08-28 (Modo 4, dentro do processamento de `Eczemas`). O arquivo existia com **0 byte** — fantasma criado por links prévios em `Cushing Endógeno` e outras notas.*
 *- Texto puro proposital: itraconazol, fluconazol, voriconazol, pitiríase versicolor, ciclosporina, tacrolimo.*
 -
+
+---
+
+### 🔗 O cetoconazol nas micoses superficiais — e a assimetria tópico × oral
+**Data:** 2026-09-19
+**Contexto:** [[Pitiríase Versicolor]]
+
+**Na [[Pitiríase Versicolor|pitiríase versicolor]], o cetoconazol tópico é a primeira linha:**
+- **Xampu 2%** — a formulação preferida. Aplicar no banho, **deixar agir ao menos 5 minutos** antes de enxaguar, por **3 dias**
+- A concentração de **2% é a testada** neste contexto; a de 1% **não foi avaliada**
+- **Creme 2%** — alternativa, por **2 semanas**
+- **Profilaxia nos casos recorrentes:** xampu 2% no corpo todo, 10 minutos, **uma vez por mês**
+
+**Nas [[Dermatofitoses (Tinea)|dermatofitoses]] de pele:** é opção tópica de primeira linha (tinea corporis, cruris, [[Tinea Pedis (Frieira)|pedis]]) — embora na tinea pedis haja **maior evidência para a [[Terbinafina|terbinafina]] tópica**.
+
+**Na [[Tinea Capitis|tinea capitis]]:** o xampu entra apenas como **adjuvante**, para reduzir a dispersão de esporos no paciente e nos contactantes. **Não trata** — a tinea capitis exige antifúngico sistêmico.
+
+> [!danger] Duas coisas que o cetoconazol NÃO faz
+> **1. Oral na pitiríase versicolor: não usar.** Cetoconazol, terbinafina e griseofulvina orais **não são considerados efetivos ou seguros** nesta indicação — o oral de escolha é o [[Fluconazol|fluconazol]] 300 mg/semana por 2 semanas. Note a assimetria: **cetoconazol tópico é a primeira linha, cetoconazol oral não se usa.**
+> **2. Creme de cetoconazol não trata [[Onicomicose|onicomicose]].** Não penetra a placa ungueal. Para unha, a via tópica exige formulação de esmalte/laca (amorolfina 5%, ciclopirox 8%).
+
+**Fonte deste bloco:**
+- Caplan AS, Gold JAW, Smith DJ, Ely JW. Diagnosis and Management of Tinea Infections. Am Fam Physician. 2025;112(4):382-392
+- Processamento de `Micoses Superficiais - Anotações` (Osler), que atribui os regimes ao UpToDate — tópico "Tinea versicolor (pityriasis versicolor)", pendente de consulta pelo Albert

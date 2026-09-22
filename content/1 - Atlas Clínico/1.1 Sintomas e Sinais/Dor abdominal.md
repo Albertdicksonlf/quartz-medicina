@@ -100,3 +100,19 @@ tipo de exame: null
 *- Nota preenchida em 2026-07-11 durante a auditoria do vault (o arquivo tinha **21 bytes** — praticamente vazio — apesar de ser a principal porta de entrada da clínica cirúrgica e da emergência).*
 *- **2026-07-29:** nota RESTAURADA na íntegra após incidente na Trilha B — o assistente sobrescreveu e deletou este arquivo por assumir que `Dor Abdominal` (maiúscula) era uma duplicata; o sistema de arquivos do macOS é case-insensitive, então era o mesmo arquivo. Conteúdo recuperado sem perdas.*
 -
+
+---
+
+### 🔗 Dor abdominal no contexto de trauma
+**Data:** 2026-09-19
+**Contexto:** [[Abordagem do Trauma Abdominal]]
+
+O raciocínio da dor abdominal **traumática** não segue o roteiro habitual deste sintoma-guia — ele é roteado por **mecanismo e estabilidade**, não por caráter, localização e irradiação. Ver **[[Abordagem do Trauma Abdominal]]**.
+
+**O que muda:**
+- **O exame físico é pouco confiável por definição.** Sintomatologia sutil, lesões distratoras e rebaixamento de consciência tornam a avaliação abdominal duvidosa — e o **nível de consciência** passa a ser o segundo determinante da conduta, depois da estabilidade hemodinâmica
+- **Dor à palpação isolada tem pouco valor discriminativo.** Os achados que estratificam risco são [[Sinal do Cinto de Segurança|sinal do cinto de segurança]], peritonite e [[Distensão abdominal|distensão]] — **específicos, não sensíveis**: presentes aumentam muito a probabilidade; ausentes não a reduzem
+- **Ausência de dor não exclui lesão**, especialmente em lesão **retroperitoneal** (duodeno, pâncreas, rim), que não causa peritonite, e em [[Hérnia Diafragmática Traumática|lesão diafragmática]], que é pauci-sintomática
+- **Dor referida no ombro** é pista de hemoperitônio: [[Sinal de Kehr|à esquerda]], baço; à direita, fígado
+
+**Fonte deste bloco:** processamento de `Trauma Abdominal - Anotações` (Osler) + Western Trauma Association 2018/2019 e WSES 2022 — referências completas em [[Abordagem do Trauma Abdominal]].

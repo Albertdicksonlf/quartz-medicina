@@ -240,3 +240,13 @@ Processo cíclico. **Descompensou → volta ao X.** Deterioração súbita quase
 
 ---
 -
+
+### 🔗 Bloco abdominal — desdobramento do C
+**Data:** 2026-09-19
+**Contexto:** [[Abordagem do Trauma Abdominal]]
+
+- O abdome, um dos **cinco lugares onde o sangue se esconde**, agora tem guia próprio: **[[Abordagem do Trauma Abdominal]]**, que desdobra o **C** pelas três perguntas que decidem tudo — mecanismo (contuso × arma branca × arma de fogo), estabilidade e confiabilidade do exame físico.
+- **Quitados do débito de texto puro:** **lavado peritoneal diagnóstico** (agora [[Lavado Peritoneal Diagnóstico (LPD)]]) e **laparotomia exploradora** (agora [[Laparotomia Exploradora]], que existia como arquivo vazio e foi preenchida).
+- **Precisão sobre a regra "FAST positivo + instável = laparotomia"** registrada acima: ela é exata no **trauma contuso**, e é justamente ali que o exame complementar é necessário. No **penetrante**, a instabilidade **sozinha** já indica laparotomia — o FAST não é pré-requisito.
+- Novas notas de apoio criadas na mesma rodada: [[Sinal do Cinto de Segurança]], [[Sinal de Kehr]], [[Blush (Extravasamento de Contraste)]], [[Exploração Local da Ferida]] e [[Laparoscopia Diagnóstica]].
+- **Permanecem em texto puro** deste guia: Escala de Coma de Glasgow *(nota existe — pendência de linkagem, fora do escopo)*, critérios NEXUS, torniquete, cinto pélvico, protocolo START, matriz de Haddon, solução salina hipertônica, cesárea perimortem. `Manejo de Vias Aéreas` segue como link sem arquivo.

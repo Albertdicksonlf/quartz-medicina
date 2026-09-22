@@ -66,3 +66,28 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-07-31 (projeto "pivôs de alto tráfego vazios" de 1.3). Estava com 0 bytes apesar de citada por [[Dor abdominal]], [[Abordagem da Dor Abdominal]], [[Abordagem do Abdome Agudo]] e [[Obstrução Intestinal]]. Fecha o quarteto abdominal com [[Sinal de Blumberg]], [[Sinal de Murphy positivo]] e [[Dor desproporcional à palpação]].*
 -
+
+---
+
+### 🔗 No trauma, o valor do pneumoperitônio depende do mecanismo
+**Data:** 2026-09-19
+**Contexto:** [[Abordagem do Trauma Abdominal]]
+
+A regra geral desta nota — *ar livre, fora do pós-operatório, indica víscera oca rota e manda operar* — **vale integralmente no trauma contuso**, mas precisa de uma ressalva no penetrante.
+
+| Mecanismo | Interpretação | Conduta |
+|---|---|---|
+| **Contuso** | Não há comunicação com a atmosfera → o ar **só pode** ter vindo de víscera oca rota | **[[Laparotomia Exploradora\|Laparotomia]]**, junto com pneumorretroperitônio e rotura diafragmática |
+| **Penetrante** | A cavidade foi aberta para o exterior → **algum ar é esperado** pela própria penetração | **Depende do volume e do exame** — ver divergência abaixo |
+
+> [!warning] Divergência formal entre fontes no trauma penetrante
+> - **UpToDate:** a presença de pneumoperitônio **não** indica laparotomia por si só
+> - **Western Trauma Association (2018):** ar livre subdiafragmático **deve, em geral, levar à exploração cirúrgica**; admite imagem adicional ou observação em paciente **estável, com exame benigno e ar pequeno ou duvidoso**
+>
+> O argumento da WTA é de segurança: embora pequenos volumes possam ser atribuídos à penetração, é mais seguro atribuí-los a lesão de víscera oca. **As duas posições já foram cobradas em prova** — saiba de qual fonte a questão está falando.
+
+**Exame para investigar:** o [[FAST e eFAST|FAST]] **não serve** (ultrassom não vê ar). Radiografia detecta; **[[TC de Abdome e Pelve|tomografia]] é superior**, porque caracteriza volume, localização e sugere a origem.
+
+**Fonte deste bloco:**
+- Martin MJ, Brown CVR, Shatz DV, et al. Evaluation and management of abdominal stab wounds: A Western Trauma Association critical decisions algorithm. J Trauma Acute Care Surg. 2018;85(5):1007-1015. PMID 29659472
+- Smyth L, Bendinelli C, Lee N, et al. WSES guidelines on blunt and penetrating bowel injury. World J Emerg Surg. 2022;17(1):13. PMID 35246190

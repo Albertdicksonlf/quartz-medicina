@@ -236,3 +236,29 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- Nota completada em 2026-08-30 (Modo 4).*
 -
+
+### 🔗 Decorticação e o peso do tempo até a cirurgia
+**Data:** 2026-09-20
+**Contexto:** [[Bronquiectasias]] — processamento da aula "Abscesso Pulmonar, Bronquiectasia e Empiema"
+
+A aula do Albert trouxe o bloco cirúrgico do empiema com números do banco da Society of Thoracic Surgeons. Conferidos na fonte primária, eles sustentam a mensagem central — **referência cirúrgica precoce melhora desfecho** — mas com um enquadramento diferente do que a aula registrou.
+
+**O que a série da STS mostra (7.316 decorticações, 2009–2016; 95,2% por empiema):**
+
+- **VATS foi usada em 60,6%** dos casos, com uso crescente ao longo do período
+- **Mortalidade global: 3,1%.** Complicações em 39,3%; morbidade maior em 15,6%; readmissão em 30 dias em 8,7%
+- Comparada à VATS, a **toracotomia** associou-se a maior mortalidade, maior morbidade maior, internação mais prolongada e mais alta para cuidado transicional
+- **Cada dia adicional de internação pré-operatória, até 5 dias, aumentou a mortalidade.** Além de 5 dias, pioraram também readmissão, morbidade maior e tempo de internação
+- Idade, TFG < 60, DPOC, IMC, ASA, Zubrod e via aberta foram preditores independentes de desfecho pior
+
+**Correções ao material-fonte:**
+
+1. **"Operar dentro de 10 dias da apresentação médica"** — o dado da STS não é sobre dias desde a apresentação, e sim sobre **dias de internação antes da operação**, com o sinal de dano já aparecendo a cada dia até o 5º. A mensagem prática fica **mais** exigente, não menos: uma vez indicada, a cirurgia não deve ficar esperando no leito.
+2. **"Mortalidade 2,8% com VATS versus 3,7% com toracotomia"** — a direção está correta e é o achado do estudo, mas **esses valores por braço não foram confirmados em texto aberto**. O que a fonte publica é a **mortalidade global de 3,1%** e a superioridade da VATS em análise multivariável. Use o número global e a direção, não os dois decimais.
+3. **A seleção confunde a comparação** — os próprios autores concluem que faltam critérios para escolher entre VATS e via aberta, e que é preciso estudo adicional para definir a indicação cirúrgica e reduzir atrasos. Parte da diferença de mortalidade reflete **quem foi levado a cada via**, não só a via.
+
+**Relevância clínica:** o dado reforça o que a nota já dizia sobre o estágio III ("tempo é pulmão"), e acrescenta um alvo operacional concreto — **minimizar o intervalo entre a indicação e a sala**, não apenas indicar cedo.
+
+**Fonte:** Towe CW, Carr SR, Donahue JM, et al. Morbidity and 30-day mortality after decortication for parapneumonic empyema and pleural effusion among patients in the Society of Thoracic Surgeons' General Thoracic Surgery Database. J Thorac Cardiovasc Surg. 2019;157(3):1288–1297.e4. PMID 33198004 — https://doi.org/10.1016/j.jtcvs.2018.10.157 *(confirmada via PubMed)*
+
+---

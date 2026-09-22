@@ -165,3 +165,24 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+---
+
+### 🔗 Paroníquia crônica e onicomicose por *Candida* — a dupla que anda junta
+**Data:** 2026-09-19
+**Contexto:** [[Onicomicose]]
+
+A nota já cita "onicomicose com perioníquia" entre os diferenciais. O bloco de micoses superficiais permite fechar o vínculo, que é mais forte do que "diferencial":
+
+- **A paroníquia crônica é achado frequentemente associado à [[Onicomicose|onicomicose]] por *Candida***, e não apenas um diagnóstico a distinguir dela. As duas costumam coexistir no mesmo dedo
+- **O perfil é o mesmo:** exposição ocupacional à umidade — barman, cozinheiro, faxineiro, lavadeira, profissional de saúde que lava as mãos com frequência. A umidade crônica macera a dobra ungueal, rompe a cutícula e abre caminho tanto para a inflamação da dobra quanto para a colonização da lâmina
+- ***Candida albicans* é a principal levedura** isolada na onicomicose, e acomete **preferencialmente as unhas das mãos** — enquanto as unhas dos pés são território dos dermatófitos
+
+> [!important] Consequência prática para o exame físico
+> **Ao diagnosticar onicomicose, examine as dobras ungueais; ao diagnosticar paroníquia crônica, examine a lâmina.** Tratar só um dos dois deixa o outro como reservatório.
+
+**Implicação terapêutica:** quando há onicomicose por *Candida* confirmada, o antifúngico sistêmico de escolha é o **[[Itraconazol|itraconazol]]**, não a [[Terbinafina|terbinafina]] — cujo espectro contra leveduras é fraco. É uma das poucas situações em que a escolha do antifúngico depende diretamente da **cultura**.
+
+**Fonte deste bloco:**
+- Ameen M, Lear JT, Madan V, Mohd Mustapa MF, Richardson M. British Association of Dermatologists' guidelines for the management of onychomycosis 2014. Br J Dermatol. 2014;171(5):937-958. PMID 25409999
+- Caplan AS, Gold JAW, Smith DJ, Ely JW. Diagnosis and Management of Tinea Infections. Am Fam Physician. 2025;112(4):382-392

@@ -10,7 +10,32 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1
+
+> [!success] Processado em 2026-09-19
+> Processado **em conjunto com** `Micoses Superficiais - Aula`, em Modo Completo. Os três blocos da fonte (Dermatofitoses ~42 cards, Pitiríase Versicolor ~26, Onicomicose ~60) viraram notas próprias.
+>
+> **Notas criadas:** [[Dermatofitoses (Tinea)]] · [[Tinea Capitis]] · [[Onicomicose]] · [[Pitiríase Versicolor]] · [[Terbinafina]] · [[Exame Micológico Direto (KOH)]] · [[Sinal de Zirelí]]
+> **Fantasmas preenchidas (eram 0 bytes):** [[Itraconazol]] · [[Fluconazol]] · [[Descamação Furfurácea]]
+> **Completada:** [[Tinea Pedis (Frieira)]] — existia em formato enxuto desde junho, agora em Modo Completo
+> **Enriquecidas:** [[Cetoconazol]] · [[Paroníquia]]
+>
+> **Decisão estrutural:** as dermatofitoses ficaram em **nota guarda-chuva** ([[Dermatofitoses (Tinea)]], com a tabela das variantes por sítio), mais notas próprias só para as duas com conduta distinta — [[Tinea Capitis]] (sistêmica obrigatória) e [[Onicomicose]]. Evita repetir a mesma fisiopatologia e o mesmo tratamento em seis notas.
+
+> [!warning] Divergência com a aula, registrada de propósito
+> Esta anotação afirma que **fungos geofílicos não causam doença em humanos**. A aula afirma o oposto — e está mais correta: dermatófitos geofílicos (classicamente *Nannizzia gypsea*, antiga *Microsporum gypseum*) infectam humanos, ainda que com pouca frequência, produzindo quadro inflamatório exuberante justamente pela má adaptação ao hospedeiro. A tabela de habitat em [[Dermatofitoses (Tinea)]] segue a aula.
+
+> [!important] Acrescentado às fontes — o que nenhuma das duas traz
+> **Resistência à terbinafina.** A epidemiologia das dermatofitoses mudou nos últimos anos: o ***Trichophyton indotineae***, emergido no sul da Ásia e hoje descrito em vários continentes, causa dermatofitose extensa, inflamatória e **recalcitrante**, por variantes no gene da **esqualeno epoxidase (SQLE)** — exatamente o alvo da terbinafina. Há também relato crescente de *T. rubrum* resistente e de *T. mentagrophytes* genótipo VII com acometimento anogenital.
+>
+> Nesses casos, a conduta passa a ser **[[Itraconazol|itraconazol]] 200 mg/dia** por 6–8 semanas, com suspensão de corticoide tópico e confirmação por cultura/identificação molecular. Registrado em [[Dermatofitoses (Tinea)]] e [[Terbinafina]], com as fontes (AAFP 2025, JEADV 2026, AAD).
+>
+> **Hanseníase indeterminada** foi acrescentada ao diferencial da [[Pitiríase Versicolor|pitiríase versicolor]]: as duas fontes seguem o UpToDate e não a citam, mas mancha hipocrômica no Brasil exige teste de sensibilidade e palpação de nervos.
+
+> [!note] Fora do escopo desta rodada
+> **Candidíase cutaneomucosa não foi processada.** Esta anotação só aborda *Candida* como agente de onicomicose, e a seção correspondente da aula está incompleta. Fica como assunto próprio.
+>
+> Ficaram em **texto puro de propósito**, por não terem nota no vault: psoríase (e psoríase ungueal), pitiríase alba, pitiríase rósea, vitiligo, hanseníase, eritrasma, granuloma anular, onicogrifose, griseofulvina, amorolfina, ciclopirox, miconazol, clotrimazol, sulfeto de selênio, ureia tópica, luz de Wood, granuloma de Majocchi, tinea incognita, tinea imbricata, dermatofitoma e melanoníquia fúngica. 
 
 ![Perfil de estudos](https://oslermedicina.com.br/assets/r1_direct_access_dark-aTn4kPGW.png)
 

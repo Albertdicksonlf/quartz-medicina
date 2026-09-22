@@ -10,7 +10,29 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1
+
+> [!success] Processado em 2026-09-19
+> Processado **em conjunto com** `Micoses Superficiais - Anotações` (Osler), em Modo Completo.
+>
+> **Notas criadas:** [[Dermatofitoses (Tinea)]] · [[Tinea Capitis]] · [[Onicomicose]] · [[Pitiríase Versicolor]] · [[Terbinafina]] · [[Exame Micológico Direto (KOH)]] · [[Sinal de Zirelí]]
+> **Fantasmas preenchidas (eram 0 bytes):** [[Itraconazol]] · [[Fluconazol]] · [[Descamação Furfurácea]]
+> **Completada em Modo Completo:** [[Tinea Pedis (Frieira)]], que já existia em formato enxuto
+> **Enriquecidas:** [[Cetoconazol]] · [[Paroníquia]]
+
+> [!warning] Correções ao conteúdo desta aula
+> **1. Quérion — a prioridade estava invertida.** A aula registra *"Kerion → antibiótico sistêmico e drenagem cirúrgica"*. O tratamento do quérion é o **antifúngico sistêmico**, e precoce — é ele que preserva o folículo e evita a alopecia cicatricial. O antibiótico entra **apenas** se houver infecção bacteriana secundária, e a drenagem é excepcional: o quérion é massa inflamatória imunomediada, não abscesso. Registrado em [[Tinea Capitis]].
+>
+> **2. "Sinal de Zileri" → o epônimo correto é Zirelí**, com acento agudo, de **Zirelí de Oliveira Valença** (1934–2020), dermatologista alagoano que o descreveu em 1974. A grafia sem acento nasceu de um erro na 2ª edição do *Dermatologia Básica* de Sampaio (1978) e se propagou por décadas. A nota foi criada como [[Sinal de Zirelí]], com "Zileri" mantido entre os aliases.
+>
+> **3. Geofílicos — divergência com a Osler, e a aula está certa.** A anotação da Osler afirma que fungos geofílicos "não causam doença em humanos"; esta aula afirma o oposto, e com o mecanismo correto (má adaptação → inflamação exuberante). Dermatófitos geofílicos infectam humanos, ainda que raramente. A tabela de [[Dermatofitoses (Tinea)]] segue esta aula.
+>
+> **4. Onicomicose — a alternativa à terbinafina.** A aula registra *"Terbinafina oral é a primeira linha. Ou em caso que não de certo → Terbinefina"*, repetindo a mesma droga. A segunda linha é o **[[Itraconazol|itraconazol]] 200 mg/dia** — que é também a **primeira** escolha quando o agente é *Candida* ou fungo não-dermatófito.
+>
+> **5. Grafias corrigidas nas notas:** *Trichophyton* (não "Tricophyton"), *Pitiríase* (não "Ptiríase"), *Tinea manuum* (não "Tiena"), cetoconazol (não "cetoconnazol").
+
+> [!note] O que esta aula levanta e ficou fora do escopo
+> A seção **Candidíase** da aula está **incompleta** — termina em "**Tratamento**" sem conteúdo — e a anotação da Osler não cobre candidíase cutânea (só *Candida* como agente de onicomicose). **Nenhuma nota de candidíase cutaneomucosa foi criada.** Fica como assunto próprio, a processar quando houver fonte completa. 
 
 # Micoses Superficiais
 

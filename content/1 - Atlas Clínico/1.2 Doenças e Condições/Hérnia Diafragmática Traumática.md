@@ -182,4 +182,40 @@ tipo de exame: null
 *- Nota criada em 2026-08-29 a partir de `Trauma Torácico - Aulas` (Modo Completo). A aula levanta as perguntas certas ("etiopatogenia: fratura direta ou costela como perfurocortante?"); esta nota responde a elas.*
 *- Acrescentado às fontes: gradiente de pressão permanente como razão pela qual o defeito não fecha e aumenta; as três fases (aguda, latente, obstrutiva); explicação do predomínio esquerdo pelo tamponamento hepático e o viés de detecção à direita; zona de risco anatômica (linha mamilar ao rebordo); regra "aguda → abdominal, tardia → torácica"; videolaparoscopia como padrão-ouro no penetrante estável; risco do dreno em alça herniada.*
 *- Texto puro proposital: videotoracoscopia, videolaparoscopia, eventração diafragmática, hérnia de Bochdalek e Morgagni, abscesso subfrênico, tela.*
+
+---
+
+### 🔗 Números de acurácia e a exceção da lesão à direita
+**Data:** 2026-09-19
+**Contexto:** [[Abordagem do Trauma Abdominal]]
+
+Esta nota nasceu do bloco **torácico**; o bloco **abdominal** traz os números que faltavam e uma ressalva que **corrige** uma afirmação absoluta do corpo da nota.
+
+**Epidemiologia (quantificada):**
+- Representa **menos de 1%** de todas as lesões traumáticas
+- **⅔ por mecanismo penetrante, ⅓ por contuso** — ou seja, ocorre *primariamente* no trauma penetrante, ao contrário do que a intuição do "barotrauma abdominal" sugere
+
+**Acurácia da tomografia — o número que justifica não confiar nela:**
+- Trauma **contuso**, metanálise de 15 estudos: sensibilidade **0,80 (IC95% 0,65–0,90)** e especificidade **0,98 (IC95% 0,89–1,00)**; **falsos-negativos são mais frequentes que falsos-positivos**
+- **Depende do lado:** 78–100% de sensibilidade à **esquerda** contra apenas **50–79% à direita** (TraumaRegister DGU) — a hemicúpula direita, protegida pelo fígado, é também a que a imagem vê pior
+- Números históricos de 14–61% de sensibilidade ainda aparecem em prova; tomógrafos modernos melhoraram muito o desempenho, mas **para fins de prova a resposta continua sendo "a TC não exclui"**
+
+**Laparoscopia × TC (EAST 2018, ferimento por arma branca toracoabdominal esquerdo):**
+- [[Laparoscopia Diagnóstica|Laparoscopia]]: sensibilidade agrupada **0,98 (IC95% 0,88–1,00)**
+- Tomografia: **0,77 (IC95% 0,72–0,82)**
+- → A EAST **recomenda condicionalmente laparoscopia em vez de tomografia** nesse cenário, para reduzir lesão diafragmática perdida. Confirma o que o corpo da nota já dizia, agora com número.
+
+> [!warning] Correção a uma afirmação absoluta desta nota
+> O corpo diz: *"toda lesão diafragmática diagnosticada tem indicação cirúrgica"*. Isso vale como regra prática e para prova, **mas tem uma exceção reconhecida em diretriz**: a **EAST (2018) recomenda condicionalmente manejo NÃO operatório** para pacientes **hemodinamicamente estáveis** com lesão diafragmática **à direita** confirmada ou suspeita — evidência de qualidade baixa, recomendação condicional. O racional é o mesmo que explica o predomínio esquerdo: o fígado tampona o defeito e a chance de herniação é mínima. A Osler registra a mesma ressalva ("pequenas lesões à direita").
+>
+> **Como usar:** em prova, mantenha "diagnosticou, opera". Na discussão clínica, saiba que a direita pequena e estável é a exceção defensável.
+
+**Reparo (EAST 2018, recomendações condicionais):**
+- Fase aguda em paciente estável: **via abdominal** em vez de torácica — pela alta prevalência de lesões abdominais associadas *(confirma a regra já registrada na nota)*
+- Lesão penetrante aguda isolada em candidato adequado: **reparo laparoscópico** em vez de aberto, com menor tempo de internação
+
+**Fonte deste bloco:**
+- McDonald AA, Robinson BRH, Alarcon L, et al. Evaluation and management of traumatic diaphragmatic injuries: A Practice Management Guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg. 2018;85(1):198-207. PMID 29613959
+- Reitano E, Cioffi SPB, Airoldi C, et al. Current trends in the diagnosis and management of traumatic diaphragmatic injuries: A systematic review and a diagnostic accuracy meta-analysis of blunt trauma. Injury. 2022;53(11):3586-3595. PMID 35803743. doi 10.1016/j.injury.2022.07.002
+- Weber C, Willms A, Bieler D, et al. Traumatic diaphragmatic rupture: epidemiology, associated injuries, and outcome — an analysis based on the TraumaRegister DGU. Langenbecks Arch Surg. 2022;407(8):3681-3690. doi 10.1007/s00423-022-02629-y
 -

@@ -144,3 +144,34 @@ tipo de exame: Bedside
 *- Acrescentado às fontes: as 6 janelas, assimetria de valor do lung sliding, ponto pulmonar, limiar de 200–250 mL, cegueira para o retroperitônio, valor do FAST seriado.*
 *- Texto puro proposital: SDRA, lavado peritoneal diagnóstico, laparotomia.*
 -
+
+---
+
+### 🔗 Acurácia quantificada e o papel (limitado) no trauma penetrante
+**Data:** 2026-09-19
+**Contexto:** [[Abordagem do Trauma Abdominal]]
+
+**Os números que sustentam "FAST negativo não exclui":**
+- Metanálise agrupando trauma contuso e penetrante: **sensibilidade 74%**, **especificidade 98%** para líquido livre intra-abdominal
+- Desempenho melhor no **contuso** (sensibilidade 73–99%, especificidade 94–100%) do que no **penetrante**
+- **Até 29% dos pacientes com FAST negativo têm lesão intra-abdominal**
+- Em coortes de **hipotensos** (n = 1.540), sensibilidade e especificidade se aproximam de 100% — o exame rende mais quanto maior o volume de sangue, que é exatamente o cenário em que ele decide conduta
+
+> [!important] A leitura bayesiana correta
+> Especificidade alta, sensibilidade média: **FAST positivo é quase confirmatório; FAST negativo não move a probabilidade o suficiente para excluir.** No paciente instável com FAST negativo e outras fontes descartadas, as saídas são **repetir o exame** em alguns minutos (o sangue pode estar se acumulando), [[Lavado Peritoneal Diagnóstico (LPD)|lavado peritoneal]] ou exploração cirúrgica empírica.
+
+**No trauma penetrante, muda a conduta na minoria dos casos:**
+- Paciente **instável** com ferimento penetrante abdominal já tem indicação de [[Laparotomia Exploradora|laparotomia]] — o FAST não acrescenta
+- Paciente **estável** precisa de [[TC de Abdome e Pelve|tomografia]] ou [[Laparoscopia Diagnóstica|laparoscopia]] — o FAST não substitui nenhuma das duas
+- **Hemoperitônio por si só não implica lesão que exija cirurgia**
+- **Exceção em que o FAST decide:** grande volume de líquido livre em **vários quadrantes** após ferimento por arma de fogo — suspeito de lesão grave
+- O **eFAST** continua plenamente justificado nesse cenário pelo que avalia **fora** do abdome: pericárdio (tamponamento) e pleura (pneumo/hemotórax)
+
+**Duas limitações que decidem prova:**
+- **Não vê ar** — inútil na suspeita de [[Pneumoperitônio|pneumoperitônio]]; para isso, radiografia ou TC
+- **Não vê retroperitônio** — e não distingue sangue de urina, ao contrário da tomografia
+
+**Fonte deste bloco:**
+- Hafez M. Extended Focused Assessment with Sonography for Trauma (eFAST) Exam. J Med Insight. 2021. doi 10.24296/jomi/299.6
+- Spahn DR, Bouillon B, Cerny V, et al. The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition. Crit Care. 2019;23(1):98. doi 10.1186/s13054-019-2347-3
+- Martin MJ, Brown CVR, Shatz DV, et al. Evaluation and management of abdominal stab wounds: A Western Trauma Association critical decisions algorithm. J Trauma Acute Care Surg. 2018;85(5):1007-1015. PMID 29659472

@@ -43,3 +43,27 @@ tipo de exame: Procedimento
 ### ➕ Novas Anotações / Insights
 *- Nota criada em modo esqueleto — completar depois*
 -
+
+### 🔗 Reposicionamento no diagnóstico da síndrome do túnel do carpo (AAOS 2024)
+**Data:** 2026-09-20
+**Contexto:** [[Síndrome do Túnel do Carpo (STC)]]
+
+**A mudança:** a diretriz **AAOS 2024** traz como **recomendação forte, evidência alta** que o **CTS-6 pode ser usado para diagnosticar a síndrome do túnel do carpo, dispensando o uso rotineiro de ultrassonografia ou de ENMG**. A ENMG deixou de ser passo obrigatório na investigação da STC.
+
+**O que a ENMG ainda faz na STC — e é bastante:**
+- **Gradua** o acometimento do nervo (leve / moderado / grave), e é isso que apoia a **decisão cirúrgica** em paciente com sintomas moderados a graves
+- Resolve **dúvida diagnóstica** quando o CTS-6 tem valor preditivo positivo baixo
+- **Exclui ou revela diagnóstico alternativo** — [[Radiculopatia|radiculopatia cervical]], [[Neuropatia Periférica|polineuropatia]], neuropatia ulnar, doença do neurônio motor
+- Paciente com **sintomas moderados mas ENMG com acometimento leve** pode ser manejado conservadoramente — é exatamente esse cruzamento que o exame informa
+
+**Malefícios que a diretriz explicita ao justificar a mudança:** exame **desconfortável e invasivo**, **atraso no início do tratamento** e **custo**. Em contexto de rede pública, o atraso é o mais relevante: esperar ENMG para começar uma órtese noturna não se sustenta.
+
+**Comparação de acurácia registrada na diretriz** (estudos incluídos, usando CTS-6 como referência): ultrassonografia e ENMG tiveram **VPP de 94% e 89%** e **VPN de 82% e 80%**, respectivamente — ou seja, **não há superioridade demonstrada de um método sobre o outro**, e a diretriz não propõe hierarquia entre eles.
+
+**Também recomendado CONTRA (evidência moderada):** **RM e teste neurodinâmico de membro superior não devem ser usados** para diagnosticar STC. O teste neurodinâmico tem especificidade de apenas 47%.
+
+**Relevância clínica:** a heurística de pedido muda. Antes: "suspeitou, pede ENMG". Agora: **"pontue o CTS-6; peça ENMG para graduar, para decidir cirurgia, ou quando o quadro não fecha"**.
+
+**Fonte:** American Academy of Orthopaedic Surgeons. *Management of Carpal Tunnel Syndrome — Evidence-Based Clinical Practice Guideline*. Publicado em 18/05/2024; substitui a edição de 2016 — https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/carpal-tunnel-2024/cts-cpg.pdf
+
+---

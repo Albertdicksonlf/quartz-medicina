@@ -54,3 +54,27 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-07-28 (Trilha A, Tier 2, par pulmonar com [[Dor torácica pleurítica]]). Texto puro por ausência de nota: câncer de pulmão, bronquiectasias, aspergiloma, Goodpasture, GPA, broncoscopia (contexto pneumo, disciplina ainda não cursada — mas hemoptise chega por infecto/TB e por TEP). Frontmatter malformado corrigido.*
 -
+
+### 🔗 Guia de Raciocínio dedicado e definição operacional de gravidade
+**Data:** 2026-09-20
+**Contexto:** [[Abordagem da Hemoptise]] — criado durante o processamento da aula de supurações pulmonares
+
+A hemoptise passou a ter **Guia de Raciocínio próprio** no vault: **[[Abordagem da Hemoptise]]**. Pontos que valem estar também aqui, na nota do sintoma:
+
+**Definição de hemoptise ameaçadora à vida (SCII 2023):** > **150 mL em 24 h**, **OU** taxa de **100 mL/h**, **OU** qualquer sangramento que cause obstrução de via aérea, insuficiência respiratória ou instabilidade hemodinâmica com necessidade de transfusão. **O volume isolado não define gravidade** — em paciente com reserva pulmonar ruim, volume pequeno é catastrófico.
+
+**Anatomia que organiza o raciocínio:** cerca de **95% das hemoptises vêm da circulação brônquica**, que é ramo da aorta e portanto de alta pressão. É o que explica o sangramento volumoso e o que faz da **embolização de artéria brônquica** o tratamento de escolha.
+
+**Três condutas de beira de leito que mudam desfecho:**
+
+1. **Decúbito lateral com o pulmão sangrante para baixo** — protege o pulmão sadio. A hemoptise mata por **asfixia**, não por anemia
+2. **Suspender anticoagulante e antiagregante** e reverter coagulopatia
+3. **Angio-TC antes da broncoscopia** no sangramento volumoso — identifica causa, lado e artérias hipertrofiadas, e entrega o mapa vascular para a embolização
+
+**Exceção do algoritmo:** na **hemorragia alveolar difusa** (infiltrado bilateral + queda de hemoglobina + sedimento urinário ativo), a hemoptise pode estar ausente apesar de sangramento maciço — e o tratamento é imunossupressão, **não** embolização.
+
+**Relevância clínica:** o erro de sequência mais caro é pedir broncoscopia primeiro no paciente instável — atrasa a embolização e desestabiliza a via aérea.
+
+**Fonte:** Singhal R, Santhosh Babu KB, Naranje P, et al. Society of Chest Imaging and Interventions Consensus Guidelines for the Interventional Radiology Management of Hemoptysis. Indian J Radiol Imaging. 2023;33(3):361–372. PMID 37362365 — https://doi.org/10.1055/s-0043-1762552 *(confirmada via PubMed)*
+
+---

@@ -166,3 +166,27 @@ tipo de exame: null
 
 *- (Anote aqui aprendizados de casos)*
 -
+
+### 🔗 Bucket das espondiloartrites — notas agora existentes
+**Data:** 2026-09-20
+**Contexto:** [[Espondiloartrites]]
+
+**O que mudou:** o bucket das espondiloartrites deste guia citava seus membros em texto puro porque as notas não existiam. Agora existem e podem ser navegadas:
+
+- [[Espondiloartrites]] — a nota-família, com o que é comum aos cinco membros
+- [[Espondilite Anquilosante (EA)]] — forma axial radiográfica
+- [[Artrite Psoriásica]]
+- [[Artrite Reativa]]
+- Artrite associada à [[Doença Inflamatória Intestinal (DII)|DII]]
+
+**O pivô que roteia a artralgia para este bucket:** oligoartrite **assimétrica** de **membros inferiores** (joelhos e tornozelos) + [[Entesite|entesite]] + [[Sausage Toe (Dedo em Salsicha)|dactilite]]. Esse trio quase não tem concorrente fora da família.
+
+**O contraponto que roteia para o outro lado:** poliartrite **simétrica** de pequenas articulações com **poupança de IFD** e [[Fator Reumatoide (FR)|FR]]/[[Anticorpo Antipeptídeo Citrulinado Cíclico (Anti-CCP)|anti-CCP]] positivos → [[Artrite Reumatoide]]. O acometimento de **IFD** é o achado que puxa de volta para a [[Artrite Psoriásica|psoriásica]].
+
+**Armadilha de segurança:** monoartrite aguda **febril** não entra neste bucket antes de artrocentese. [[Artrite Séptica]] primeiro, sempre — ver [[Análise do Líquido Sinovial]].
+
+**Relevância clínica:** a distinção "assimétrica e de membros inferiores" × "simétrica e de mãos" é o eixo mais rentável da abordagem da artralgia inflamatória, e ele separa as duas grandes famílias logo na primeira consulta.
+
+**Fonte:** Gossec L et al. EULAR recommendations for the management of psoriatic arthritis with pharmacological therapies: 2023 update. Ann Rheum Dis. 2024;83(6):706-719. PMID 38499325 — https://doi.org/10.1136/ard-2024-225531 · Ramiro S et al. ASAS-EULAR 2022 update. Ann Rheum Dis. 2023;82(1):19-34. PMID 36270658 — https://doi.org/10.1136/ard-2022-223296
+
+---
