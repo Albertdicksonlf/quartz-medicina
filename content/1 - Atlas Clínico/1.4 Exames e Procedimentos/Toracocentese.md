@@ -145,4 +145,23 @@ tipo de exame: Procedimento
 *- Nota preenchida em 2026-08-29 (existia com **0 byte**), no processamento de `Trauma Torácico` (Modo Completo).*
 *- **Decisão estrutural:** escrita cobrindo os dois sentidos do termo, conforme definido em sessão. A separação explícita logo no topo é intencional — a confusão entre eles é erro clínico real, não apenas terminológico.*
 *- Texto puro proposital: critérios de Light (conceito, sem nota), ADA, empiema, gradiente de albumina.*
+
+---
+
+### 🔗 Toracocentese no estadiamento do câncer de pulmão
+**Data:** 2026-09-27
+**Contexto:** [[Câncer de Pulmão]]
+
+**Por que a punção muda o estádio:**
+- Derrame pleural em paciente com suspeita ou diagnóstico de câncer de pulmão levanta acometimento pleural. A toracocentese diagnóstica (ou, se negativa e a suspeita persistir, a biópsia pleural) é o exame que resolve.
+- **Citologia oncótica positiva define M1a** no TNM — estádio IV por definição, **mesmo sem nenhuma metástase a distância visível**.
+- Consequência prática direta: **encerra a possibilidade de tratamento local** (ressecção ou radioterapia com intenção curativa) e move o paciente para tratamento sistêmico.
+- Por isso, diante de nódulo/massa suspeita **com** derrame associado, a toracocentese vem **antes** da biópsia do nódulo: é menos invasiva e pode responder a pergunta mais decisiva (é ressecável?) em um único procedimento.
+- Uma citologia negativa não afasta doença pleural — a sensibilidade de uma única amostra é limitada. Suspeita alta pede repetição ou biópsia pleural.
+- No derrame neoplásico recidivante e sintomático, a punção de repetição não é estratégia: indica-se [[Drenagem Torácica]] com pleurodese ou cateter pleural de demora.
+
+**Relevância clínica:** a toracocentese deixa de ser apenas exame diagnóstico e passa a ser **exame de estadiamento** — o achado de uma agulha reclassifica o paciente de potencialmente curável para estádio IV.
+**Fonte:** IASLC / TNM 9ª edição (vigente desde 01/01/2025) — Klug M et al. RadioGraphics. 2024;44(12):e240057. PMID 39541244 — https://doi.org/10.1148/rg.240057
+
+---
 -

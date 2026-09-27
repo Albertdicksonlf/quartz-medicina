@@ -90,3 +90,22 @@ aliases:
 ### **➕ Novas Anotações / Insights**
 *- (Espaço para suas anotações pessoais, insights de aulas, artigos ou da prática clínica)*
 -
+
+---
+
+### 🔗 Quando a ascite é do cirrótico que interna
+**Data:** 2026-09-24
+**Contexto:** [[Abordagem do Cirrótico Descompensado]] · [[Ascite]] · [[Peritonite Bacteriana Espontânea (PBE)]]
+
+**Características específicas:**
+- Este guia responde "**de onde vem** essa ascite?" (GASA). Quando a resposta é cirrose e o paciente está internando, a pergunta muda para "**o que descompensou**?" — esse é o papel do guia novo.
+- Três atualizações que valem também para este guia:
+	- A paracentese diagnóstica deve ser feita o quanto antes; nas primeiras 12–24 h associa-se a menor mortalidade hospitalar
+	- A cultura deve ser inoculada em frasco de hemocultura **à beira do leito**
+	- Coagulopatia **não** contraindica a punção, e não se corrige INR nem plaquetas de rotina
+- **No primeiro episódio de ascite grau 2**, a diretriz começa com **espironolactona isolada**; a dupla 100:40 descrita acima fica para a ascite recorrente ou quando se quer resposta rápida.
+
+**Relevância clínica:** a seção 4 deste guia descreve a terapia dupla como regra; a nuance do primeiro episódio está em [[Ascite]].
+**Fonte:** AASLD 2021 — Biggins SW et al. Hepatology. 2021;74(2):1014-1048. PMID 33942342 — https://doi.org/10.1002/hep.31884 · EASL 2018 — J Hepatol. 2018;69(2):406-460. PMID 29653741
+
+---

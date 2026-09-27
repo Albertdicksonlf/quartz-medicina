@@ -150,3 +150,22 @@ Child A - realizar a cirurgia
 
 
 ![[Pasted image 20251113082349.png]]
+
+---
+
+### 🔗 Descompensação aguda na urgência
+**Data:** 2026-09-24
+**Contexto:** [[Abordagem do Cirrótico Descompensado]]
+
+**Características específicas:**
+- Descompensação = ascite, hemorragia varicosa ou encefalopatia manifesta (Baveno VII). Cada uma tem nota própria, reescrita em 2026-09-24:
+	- [[Ascite]] · [[Peritonite Bacteriana Espontânea (PBE)]]
+	- [[Hemorragia Digestiva Alta Varicosa]]
+	- [[Encefalopatia Hepática]]
+	- [[Síndrome Hepatorrenal]]
+- O guia de 1.6 organiza a porta de entrada por queixa (sangrou / barriga cresceu / mudou o comportamento / rim parou / infectou) e o trilho paralelo de **caçar o precipitante**.
+
+**Relevância clínica:** a descompensação quase nunca vem sozinha — sangramento → infecção → encefalopatia e SHR. O guia existe para que a complicação que se apresenta não esconda as outras.
+**Fonte:** Baveno VII — de Franchis R et al. J Hepatol. 2022;76(4):959-974. PMID 35120736 · EASL 2018 — J Hepatol. 2018;69(2):406-460. PMID 29653741
+
+---

@@ -88,3 +88,6 @@ Se a causa não for óbvia (ex: cirrose ou B12 baixa), a avaliação da medula �
 - **Pancito + VCM Alto:** [[Megaloblástica ou Mielodisplasia]].
 - **Pancito + Blastos no sangue:** [[Leucemia Aguda]].
 - **Pancito Isolada (sem nada):** [[Aplasia de Medula ou SMD]].
+
+
+![[Pasted image 20260926102810.png]]

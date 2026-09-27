@@ -99,3 +99,22 @@ card: https://s2.glbimg.com/JuofvffkNASRK2Zy9-81DExv188=/e.glbimg.com/og/ed/f/or
 - Se não parar de sangrar ou ressangrar após 2 tentativas endoscópicas:
 - **Radiologia Intervencionista:** Embolização da artéria.
 - **Cirurgia:** Sutura do vaso (Ulcerorrafia). 
+
+---
+
+### 🔗 HDA no paciente cirrótico — a ponte que faltava
+**Data:** 2026-09-24
+**Contexto:** [[Abordagem do Cirrótico Descompensado]] · [[Hemorragia Digestiva Alta Varicosa]]
+
+**Características específicas:**
+- Esta nota cobre a HDA **não varicosa** e exclui varizes por construção. No cirrótico com hipertensão portal, a hematêmese é **tratada como varicosa até a EDA provar o contrário**.
+- O manejo inicial **muda** em três pontos em relação à HDA não varicosa:
+	- Vasoativo ([[Terlipressina]] ou [[Octreotida]]) **antes** da EDA
+	- [[Ceftriaxona]] profilática em todo cirrótico que sangra
+	- **Não** corrigir INR com plasma — sobe a pressão portal
+- EDA em até **12 h** após a ressuscitação; a transfusão segue o mesmo limiar restritivo de Hb 7 g/dL (alvo 7–8 no Baveno VII).
+
+**Relevância clínica:** quem entra por esta porta com estigmas de hepatopatia deve ser desviado para o manejo de HDA varicosa já na sala de emergência.
+**Fonte:** Baveno VII — de Franchis R et al. J Hepatol. 2022;76(4):959-974. PMID 35120736 — https://doi.org/10.1016/j.jhep.2021.12.022 · AASLD 2024 — Kaplan DE et al. Hepatology. 2024;79(5):1180-1211. PMID 37870298
+
+---

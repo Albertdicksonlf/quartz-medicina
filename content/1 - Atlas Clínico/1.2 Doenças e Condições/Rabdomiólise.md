@@ -274,3 +274,32 @@ A combinação desses três mecanismos resulta em [[Necrose Tubular Aguda]] cara
 - Em **terremotos e desastres**, protocolos de **resgate hídrico** são parte do treinamento de equipes de emergência: hidratação IV deve ser iniciada **antes da extricação** do paciente para prevenir reperfusão maciça.
 - **Estatinas + macrolídeos** ([[Claritromicina]], [[Eritromicina]]) é uma das interações mais perigosas em ambulatório — inibição de CYP3A4 pode triplicar concentração de estatina e desencadear rabdomiólise.
 -
+
+### 🔗 Queimadura elétrica — a rabdomiólise que a pele esconde
+**Data:** 2026-09-26
+**Contexto:** [[Queimaduras]] · [[Atendimento Inicial ao Queimado]] · [[Ressuscitação Volêmica no Queimado]]
+
+**O padrão que engana:** na queimadura elétrica a **lesão externa é pequena e aparentemente leve**, limitada aos pontos de entrada e saída da corrente — mas o paciente tem **dor excruciante** e destruição muscular extensa no trajeto profundo entre eles. A corrente segue os tecidos de menor resistência (nervo, vaso, músculo) e cozinha o músculo por dentro, poupando relativamente a pele.
+
+**Consequência:** rabdomiólise com **mioglobinúria** e **alto risco de injúria renal aguda** — num paciente cuja SCQ calculada pela [[Regra dos 9]] subestima grosseiramente o dano real.
+
+**O que muda na conduta, em relação à queimadura térmica:**
+
+| | Queimadura térmica | **Queimadura elétrica** |
+|---|---|---|
+| Fórmula de partida | Brooke modificada — 2 mL × kg × %SCQ | **4 mL × kg × %SCQ** |
+| Meta de diurese (adulto) | 0,5 mL/kg/h | **1,5 mL/kg/h** (ou 75–100 mL/h) |
+| Descompressão da síndrome compartimental | **Escarotomia** (pressão na derme rígida) | **Fasciotomia** (pressão no compartimento **muscular**) |
+
+**Riscos adicionais a rastrear ativamente:**
+- **Arritmias** — monitorização cardíaca e ECG na admissão
+- **Síndrome compartimental** dos membros acometidos
+- **Injúria renal aguda** por mioglobinúria — a razão da meta de diurese mais alta, que serve para clarear a mioglobina
+
+**Critério de encaminhamento:** **toda queimadura elétrica de alta voltagem (⩾ 1.000 V)** e toda lesão por raio são critério de referência a centro de queimados (ABA); baixa voltagem (< 1.000 V) merece consulta e seguimento.
+
+**Relevância clínica:** é o cenário em que a extensão visível e a gravidade real divergem mais. Tratar pela aparência da pele é subressuscitar e perder o rim.
+
+**Fonte:** Joint Trauma System — DoD Clinical Practice Guideline: Burn Care, versão de 10 jun 2025 — meta de "75-100 mL/hr for high-voltage electrical injury, or other conditions causing rhabdomyolysis" — https://jts.health.mil/assets/docs/cpgs/Burn_Care_CPG_10_June_2025_ID12_v1.3.pdf · American Burn Association, Guidelines for Burn Patient Referral, © 2022 — https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral
+
+---

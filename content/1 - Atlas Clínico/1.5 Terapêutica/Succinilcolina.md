@@ -10,7 +10,7 @@ classe de medicamentos:
 aliases:
   - Succi
   - Quelicin
-card: 
+card:
 ---
 
 # Succinilcolina
@@ -55,3 +55,26 @@ A succinilcolina possui uma lista extensa de "Nãos":
 - Se houver contraindicação à succinilcolina, a alternativa na SRI é o [[Rocurônio]] em altas doses (1,2 mg/kg).
 - Não possui efeito analgésico ou sedativo. **NUNCA** administre bloqueador neuromuscular em paciente consciente.
 -
+
+### 🔗 A janela de ~48 horas no paciente queimado
+**Data:** 2026-09-26
+**Contexto:** [[Queimaduras]] · [[Lesão Inalatória]] · [[Atendimento Inicial ao Queimado]]
+
+**A regra:** a succinilcolina é **segura apenas nas primeiras ~48 horas** após a queimadura. Depois disso fica **contraindicada por até um ano**, pelo risco de **hipercalemia aguda grave** e arritmia fatal.
+
+**Mecanismo:** a denervação funcional e a imobilização provocam ***upregulation* de receptores nicotínicos de acetilcolina extrajuncionais** — eles se espalham para fora da placa motora, por toda a membrana da fibra muscular. Quando a succinilcolina despolariza esse campo receptor ampliado, o efluxo de potássio é maciço em vez de localizado. O paciente queimado **já** parte de risco elevado de hipercalemia, e a succinilcolina pode elevar o potássio sérico em até ~0,5 mEq/L.
+
+> [!warning] Três números circulam na literatura — e o prático é o menor
+> - **~24 h:** limite conservador, adotado por muitos serviços
+> - **~48 h:** o mais citado na literatura anestésica (OpenAnesthesia)
+> - **72 h:** o número do deck da Osler (set/2026), que trata "> 72 h" como contraindicação absoluta
+>
+> As três convergem no essencial: **é seguro só muito no começo**. Na dúvida sobre o tempo decorrido desde a queimadura — e a dúvida é a regra no plantão —, **use [[Rocurônio]]**.
+
+**Correção registrada:** a aula-fonte do Albert (`3.1/Queimaduras - Aula`, 24/09/2026) anotava que a hipercalemia "vai demorar **6-8 horas**". Esse número não se sustenta em nenhuma das fontes consultadas; a janela de segurança é bem maior (~48 h), e o problema é o oposto — ela persiste por **até um ano**, não por algumas horas.
+
+**Nota adjacente, mesmo mecanismo com efeito inverso:** o queimado é **resistente** a bloqueadores **não despolarizantes** e frequentemente precisa de **dose e frequência maiores** de [[Rocurônio]]. A resistência tem pico em **5–6 semanas** após a lesão e correlaciona-se com o tamanho da queimadura.
+
+**Fonte:** OpenAnesthesia — "Anesthesia Considerations for Burn Surgery": *"Succinylcholine should be avoided after the first 48 hours, and for at least 1 year after the burn injury, due to the risk of acute severe hyperkalemia"* — https://www.openanesthesia.org/keywords/anesthesia-considerations-for-burn-surgery/
+
+---

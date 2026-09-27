@@ -66,3 +66,25 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Por que é o cristaloide do queimado
+**Data:** 2026-09-26
+**Contexto:** [[Queimaduras]] · [[Ressuscitação Volêmica no Queimado]] · [[Atendimento Inicial ao Queimado]]
+
+**A escolha:** Ringer lactato é o fluido de ressuscitação do grande queimado — **SCQ ⩾ 20%**. Não é preferência de escola: **todos os estudos clássicos de ressuscitação do queimado foram feitos com Ringer lactato**, dos artigos dos anos 1950 (Baxter, Parkland Memorial Hospital) ao ATLS.
+
+**Por que não [[Solução Salina 0,9%|SF 0,9%]]:** não é proscrito, mas não é preferencial. O volume necessário aqui é enorme — um adulto de 100 kg com 30% de SCQ recebe litros nas primeiras horas — e nessa escala o SF produz **acidose metabólica hiperclorêmica**. O Ringer tem lactato como tampão e composição eletrolítica mais próxima do plasma.
+
+**Como se calcula (Brooke modificada, recomendada pelo ATLS e pela ABA):**
+```
+Volume total 24 h = 2 mL × peso (kg) × %SCQ
+Taxa inicial (ATLS 2025) = volume total ÷ 16
+```
+**Pré-hospitalar no adulto: 500 mL/h** de Ringer lactato até chegar ao centro. Detalhes, particularidades pediátricas e da queimadura elétrica em [[Ressuscitação Volêmica no Queimado]].
+
+> [!important] A fórmula programa a bomba; a diurese comanda
+> O que titula o volume é o **débito urinário horário** — meta de **0,5 mL/kg/h** no adulto, **1,0 mL/kg/h** na criança e **1,5 mL/kg/h** na queimadura elétrica com rabdomiólise. Perseguir a fórmula em vez da diurese produz *fluid creep*, com SDRA, pneumonia e síndromes compartimentais.
+
+**Fonte:** Joint Trauma System — DoD Clinical Practice Guideline: Burn Care, versão de 10 jun 2025 — https://jts.health.mil/assets/docs/cpgs/Burn_Care_CPG_10_June_2025_ID12_v1.3.pdf · ATLS 11ª ed., 2025 (conteúdo restrito; taxa horária ÷ 16 registrada pelo material-fonte do Albert, a confirmar no manual) · UpToDate, "Emergency care of moderate and severe thermal burns in adults" *(consultado pelo Albert)*
+
+---
