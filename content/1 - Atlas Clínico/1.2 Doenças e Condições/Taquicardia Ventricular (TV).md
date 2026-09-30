@@ -135,7 +135,7 @@ card:
 	- Suspender drogas que prolongam QT
 - **TV Polimórfica sem QT longo:** geralmente isquêmica → tratar isquemia, [[Amiodarona]]
 
-### **TV Não-Sustentada (TVNS)**
+### **TV Não-Sustentada (TVNS)** - ou Após o evento 
 - Normalmente assintomática — **não requer cardioversão**
 - Investigar cardiopatia subjacente (Eco, RM cardíaca, coronariografia)
 - Tratar causa base (isquemia, eletrólitos, hipóxia)

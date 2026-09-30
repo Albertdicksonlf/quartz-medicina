@@ -46,3 +46,22 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-07-29 (Trilha A, Tier 3). Pivô mecânica × não-mecânica; cruza com [[Hipercalcemia]] e [[Mieloma Múltiplo]]. Texto puro: metástases ósseas, Paget, osteoporose, osteomalácia. Frontmatter malformado corrigido.*
 -
+
+### 🔗 O eixo TRAUMÁTICO da dor óssea
+**Data:** 2026-09-28
+**Contexto:** [[Fratura]]
+
+A nota nasceu organizada pelo eixo **não-mecânico** (neoplasia, infecção, metabólico). Faltava o eixo que domina o pronto-socorro: **dor óssea aguda pós-traumática**, que é a porta de entrada do raciocínio ortopédico. Roteamento completo em [[Abordagem do Trauma de Membro]].
+
+**Características específicas:**
+- **Dor óssea à palpação + incapacidade de descarregar peso** = [[Fratura]] até prova em contrário. Este par, e não "consegue mexer", é o discriminante entorse × fratura (base das *Ottawa Ankle Rules*).
+- **Dor desproporcional, crescente e refratária à analgesia habitual**, com dor à extensão passiva dos dedos → [[Síndrome Compartimental]], não fratura simples. Ver [[Dor desproporcional à palpação]].
+- **Dor óssea mecânica meses após fratura**, que piora com carga e não consolida → [[Pseudoartrose]].
+- **Dor articular profunda meses após fratura de colo do fêmur, escafoide ou tálus**, com radiografia normal → [[Osteonecrose]]; o exame que muda a conduta é a [[Ressonância Magnética]].
+- **Dor insidiosa que surge com a carga repetitiva e cede ao repouso**, sem evento único, em atleta ou recruta → fratura por estresse (radiografia frequentemente normal no início).
+
+**Relevância clínica:** a gaveta "metabólico" já citava fratura por fragilidade — vale explicitar o vetor inverso: **fratura por trauma mínimo é achado-pivô de osso patológico** ([[Fratura por fragilidade]]), e obriga a investigar [[Osteoporose]], mieloma e metástase mesmo quando a queixa chegou como trauma banal.
+
+**Fonte:** AAOS 2025, *Management of Acute Compartment Syndrome CPG (Rapid Update)* — https://www.aaos.org/globalassets/quality-and-practice-resources/acute-compartment-syndrome/2025-acs-rapid-update/acs-cpg-2025.pdf ; Liu DS, Snyder BD, Mahan ST. J Pediatr Soc North Am. 2024;7:100058. PMID 40433283.
+
+---

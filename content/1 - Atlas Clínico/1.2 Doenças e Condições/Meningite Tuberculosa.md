@@ -56,7 +56,7 @@ card: null
 	- Sinais de hipertensão intracraniana e [[Papiledema]] → risco de [[Herniação Cerebral]] na punção lombar.
 	- Déficit focal novo → infarto por vasculite.
 	- Perda visual.
-- **Complicações neurológicas principais:** [[AVC Isquêmico]] (infartos periventriculares por vasculite), **[[Hidrocefalia]]** — via de regra **comunicante** — e perda visual.
+- **Complicações neurológicas principais:** [[AVE Isquêmico]] (infartos periventriculares por vasculite), **[[Hidrocefalia]]** — via de regra **comunicante** — e perda visual.
 
 ### **Tuberculoma de SNC**
 - Foco granulomatoso formado pela coalescência de **tubérculos** (o nome dado à unidade granulomatosa da TB).

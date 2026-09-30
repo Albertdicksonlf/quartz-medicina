@@ -50,7 +50,7 @@ tipo de exame: null
 
 ### **Grupo C: Hipóxia circulatória / estagnante (falha o débito ou o fluxo regional)**
 - **Global:** [[Choque Cardiogênico]], [[Choque Hipovolêmico]], [[Sepse]], [[Tamponamento Cardíaco]]
-- **Regional:** [[Isquemia Mesentérica]], [[Isquemia Aguda de Membros]], [[AVC Isquêmico]]
+- **Regional:** [[Isquemia Mesentérica]], [[Isquemia Aguda de Membros]], [[AVE Isquêmico]]
 - *Pista:* sinais de má perfusão com oxigenação arterial preservada. Ver [[Abordagem do Choque]].
 
 ### **Grupo D: Hipóxia histotóxica ("must not miss")**

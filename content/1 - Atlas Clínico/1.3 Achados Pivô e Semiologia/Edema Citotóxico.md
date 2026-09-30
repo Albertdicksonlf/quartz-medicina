@@ -23,7 +23,7 @@ card:
 *Por que esse sinal acontece?*
 
 - **Falha da Bomba de Sódio-Potássio (Na+/K+-ATPase):** Este é o evento central. A bomba de Na+/K+ é altamente dependente de ATP para manter o gradiente iônico normal, bombeando sódio para fora da célula.
-- **Causa Principal:** Qualquer insulto que cause uma depleção energética severa, como a **[[Isquemia cerebral]]** (ex: [[AVC isquêmico]]) ou hipóxia.
+- **Causa Principal:** Qualquer insulto que cause uma depleção energética severa, como a **[[Isquemia cerebral]]** (ex: [[AVE Isquêmico]]) ou hipóxia.
 - **Cascata de Eventos:**
     1.  **Falta de ATP:** A isquemia interrompe o fornecimento de oxigênio e glicose, parando a produção de ATP.
     2.  **Falha da Bomba:** A bomba de Na+/K+ para de funcionar.
@@ -46,13 +46,13 @@ card:
     - **Menos sensível e mais tardio que a RM.**
     - **Sinais clássicos:** Perda da diferenciação entre a substância cinzenta e branca, hipoatenuação do parênquima e apagamento dos sulcos corticais.
 
-- **Associação Clássica:** [[AVC isquêmico]] agudo = Restrição à difusão na RM.
+- **Associação Clássica:** [[AVE Isquêmico]] agudo = Restrição à difusão na RM.
 
 ---
 
 ## ⚠️ Pitfalls e Falsos
 - **Falsos Positivos na DWI:** Outras condições podem causar restrição à difusão, embora menos comuns, como abscessos cerebrais (centro purulento), alguns tumores muito celulares (linfoma) e encefalopatia hipoglicêmica. A correlação com o mapa de ADC e a clínica é fundamental.
-- **TC Normal Precoce:** Uma TC de crânio pode ser completamente normal nas primeiras horas de um [[AVC isquêmico]], pois o edema citotóxico pode não ser denso o suficiente para ser detectado. Uma RM com difusão é muito mais sensível nesse período.
+- **TC Normal Precoce:** Uma TC de crânio pode ser completamente normal nas primeiras horas de um [[AVE Isquêmico]], pois o edema citotóxico pode não ser denso o suficiente para ser detectado. Uma RM com difusão é muito mais sensível nesse período.
 - **Evolução para Edema Vasogênico:** Com o tempo, a isquemia severa também leva à quebra da barreira hematoencefálica. Por isso, em fases mais tardias de um infarto, é comum haver um componente misto de edema citotóxico e vasogênico.
 
 ---

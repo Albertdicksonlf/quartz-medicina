@@ -104,3 +104,23 @@ O "A" maiúsculo é alveolar, o "a" minúsculo é arterial. A PaO₂ você mede 
 
 ### ➕ Updates de Casos Reais
 -
+
+---
+
+### 🔗 Depois do mecanismo, a decisão de suporte — com força de recomendação
+**Data:** 2026-09-27
+**Contexto:** [[Insuficiência Respiratória]] · [[Gradiente Alvéolo-Arterial (A-a)]] · processamento da aula de Emergências Respiratórias
+
+Este guia resolve *por qual mecanismo* falta oxigênio. O passo seguinte — *qual suporte oferecer* — tem diretriz e força de recomendação, e vale ancorar aqui:
+
+- **Hipoxêmica *de novo*:** preferir **cateter nasal de alto fluxo** à oxigenoterapia convencional (condicional, certeza **moderada**) e à VNI (condicional, certeza **muito baixa**) — ERS 2022.
+- **VNI na hipoxêmica *de novo* / SDRA:** a ERS/ATS 2017 **não faz recomendação** (certeza baixa); só em paciente selecionado e vigiado de perto. É o cenário de maior risco de retardar intubação.
+- **Hipercápnica na DPOC:** o limiar operacional é **pH ≤ 7,35 com PaCO₂ > 45 mmHg** → **[[Ventilação Não Invasiva (VNI)|VNI]]** com recomendação **forte** e certeza **alta**. Com pH > 7,35, recomendação condicional **contra**. E aqui vale tentar **VNI antes** do alto fluxo (ERS 2022).
+- **[[Edema Agudo de Pulmão|Edema agudo de pulmão]] cardiogênico:** VNI com recomendação **forte**, certeza moderada — excluídos choque cardiogênico e síndrome coronariana aguda.
+- **Reavaliação obrigatória:** se em **1–2 h** a frequência respiratória não cai, o pH não sobe e a consciência piora, a conduta é **intubar**. Falha de VNI reconhecida tarde é mortalidade evitável.
+
+**Relevância clínica:** o mecanismo diz se o oxigênio vai funcionar; a diretriz diz por qual **interface** entregá-lo. Shunt refratário não se resolve aumentando a vazão do cateter — precisa de pressão positiva e recrutamento.
+
+**Fonte:** Rochwerg B, Brochard L, Elliott MW, et al. Eur Respir J. 2017;50(2):1602426 (ERS/ATS, VNI na insuficiência respiratória aguda); Ergan B, Scala R, et al. Eur Respir J. 2022;59(4):2101574 (ERS, cateter nasal de alto fluxo); O'Driscoll BR et al. BMJ Open Respir Res. 2017;4(1):e000170 (BTS, alvos de saturação 94–98% e 88–92%).
+
+---

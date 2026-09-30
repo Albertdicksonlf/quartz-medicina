@@ -169,6 +169,7 @@ Os 11 critérios padronizados (≥ 2 em 12 meses) — ver [[Transtorno por Uso d
 > Repõe nicotina **sem** os outros componentes tóxicos do cigarro, em doses estáveis (sem picos), permitindo desmame gradual.
 
 **Apresentações:**
+
 | Forma | Particularidade | Indicação |
 |-------|------------------|-----------|
 | **Adesivo (patch)** | Liberação lenta, contínua (16h ou 24h) | Base — uso diário |

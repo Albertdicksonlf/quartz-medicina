@@ -1,83 +1,111 @@
 ---
-aliases:
-  - Gradiente A-a
-  - Gradiente alveoloarterial
-  - P(A-a)O2
-  - Diferença alvéolo-arterial de oxigênio
-card: null
-classe de medicamentos: null
-date: 2026-08-15T11:15:00
-prevalência: null
-tipo: Achado-Pivô
-tipo de doença: null
-tipo de exame: null
+date: 2026-09-27T16:45:00
 área:
   - Pneumologia
   - Terapia Intensiva
-  - Fisiologia
+  - Medicina de Emergência
+tipo: Achado-Pivô
+tipo de exame: 
+tipo de doença: 
+classe de medicamentos:
+prevalência: 
+aliases:
+  - Gradiente A-a
+  - Gradiente Alvéolo-Arterial de Oxigênio
+  - P(A-a)O2
+  - Diferença Alvéolo-Arterial
+card: 
 ---
 
 # Gradiente Alvéolo-Arterial (A-a)
 
 > [!abstract] O que é?
-> Diferença entre a pressão de oxigênio **no alvéolo** (calculada) e **no sangue arterial** (medida). É o índice que separa hipoxemia por falha do **fole** de hipoxemia por falha da **troca** — e, portanto, o pivô central do raciocínio da [[Hipoxemia]].
+> A diferença entre a pressão parcial de oxigênio **dentro do alvéolo** (PAO₂, calculada) e a que **chegou ao sangue arterial** (PaO₂, medida na [[Gasometria arterial]]). É a medida da **eficiência da travessia alvéolo-capilar** — e, na prática, o único parâmetro que separa hipoxemia por doença do **pulmão** de hipoxemia por falha do **fole** ou por ar pobre em oxigênio.
 
-## 🖐️ Técnica de Cálculo (Como fazer?)
+## 🖐️ Técnica de Exame (Como fazer?)
 
-1. **Obtenha PaO₂ e PaCO₂** por [[Gasometria arterial]], registrando a **FiO₂**.
-2. **Calcule a PAO₂ (equação do gás alveolar):**
-	`PAO₂ = FiO₂ × (Patm − PH₂O) − PaCO₂ / R`
-	Ao nível do mar, em ar ambiente: Patm = 760, PH₂O = 47, FiO₂ = 0,21, R ≈ 0,8 → **PAO₂ ≈ 150 − PaCO₂/0,8**.
-3. **Gradiente = PAO₂ − PaO₂.**
-4. **Critério de positividade:** o valor normal **aumenta com a idade**. Regra prática: **(idade / 4) + 4**. Um gradiente de 20 é normal aos 60 anos e alargado aos 20.
+1. **Colha a gasometria arterial registrando a FiO₂.** Sem FiO₂ anotada o cálculo não existe — e é o erro mais comum.
+2. **Calcule a PAO₂** pela equação do gás alveolar:
+
+	PAO₂ = FiO₂ × (P<sub>atm</sub> − P<sub>H₂O</sub>) − (PaCO₂ / R)
+
+	- Ao nível do mar, em ar ambiente: P<sub>atm</sub> = 760 mmHg, P<sub>H₂O</sub> = 47 mmHg, FiO₂ = 0,21, R (quociente respiratório) = 0,8.
+	- **Atalho de beira de leito:** PAO₂ ≈ **150 − (PaCO₂ / 0,8)**, ou ainda **150 − (PaCO₂ × 1,25)**.
+3. **Subtraia:** Gradiente = PAO₂ − PaO₂.
+4. **Critério de positividade (gradiente alargado):**
+	- Jovem saudável em ar ambiente: **< 10–15 mmHg**.
+	- **Corrigido pela idade — use este:** valor esperado ≈ **(idade / 4) + 4**.
+	- Em FiO₂ elevada o gradiente normal sobe muito (o critério da idade **não** se aplica); nesse cenário prefira a relação **PaO₂/FiO₂**.
+
+> [!example] Exemplo trabalhado
+> Homem de 60 anos, ar ambiente, PaO₂ 58 e PaCO₂ 30.
+> PAO₂ ≈ 150 − (30 × 1,25) = **112,5**. Gradiente = 112,5 − 58 = **54,5 mmHg**.
+> Esperado para a idade = (60/4) + 4 = **19**. Gradiente muito alargado **com hipocapnia** → o pulmão é o problema, e o padrão (hipoxemia desproporcional com radiografia pobre) aponta [[Tromboembolismo Pulmonar (TEP)|TEP]].
 
 ## 🌪️ Mecanismo Fisiopatológico
 
-> [!info]- 🔄 Base Fisiológica Relembrada
-> Num pulmão perfeito, o sangue que sai do capilar teria a mesma PO₂ do alvéolo e o gradiente seria zero. Ele nunca é zero por duas razões fisiológicas: o **shunt anatômico normal** (veias brônquicas e tebesianas, 2–3% do débito) e a **heterogeneidade regional de V/Q** entre ápice e base. Qualquer doença que piore essa heterogeneidade, ou que interponha barreira à difusão, alarga o gradiente.
-
-- Se o alvéolo é mal ventilado **por hipoventilação global**, tanto PAO₂ quanto PaO₂ caem juntas — o gradiente **não se altera**.
-- Se o problema é **dentro da unidade alvéolo-capilar**, a PAO₂ se mantém mas a PaO₂ despenca — o gradiente **alarga**.
+- Em pulmão saudável, o equilíbrio entre gás alveolar e sangue capilar é praticamente completo: a diferença residual vem apenas do **shunt fisiológico** (circulação brônquica e coronária mínima) e da leve heterogeneidade V/Q ápice-base. Daí o gradiente pequeno.
+- **Qualquer mecanismo que degrade a troca alarga o gradiente:** alteração V/Q, shunt verdadeiro, distúrbio de difusão e aumento de espaço morto.
+- **Dois mecanismos NÃO alargam o gradiente**, porque não têm nada de errado com a troca:
+	- **Hipoventilação alveolar** — o alvéolo recebe menos ar, a PAO₂ cai junto com a PaO₂, e a diferença entre elas permanece normal. O CO₂ sobe.
+	- **Baixa PO₂ inspirada** (altitude, mistura hipóxica) — a PAO₂ cai na origem. O CO₂ é normal ou baixo.
+- É exatamente essa assimetria que faz do gradiente um **discriminador**, e não apenas um número descritivo.
 
 ---
 
 ## 🎯 PODER DIAGNÓSTICO (O PIVÔ)
 
-**É este achado que roteia todo o diferencial da hipoxemia:**
+- **Significado Clínico — a bifurcação central de [[Abordagem da Hipoxemia]]:**
 
-- **Gradiente NORMAL + PaCO₂ alta** → **hipoventilação alveolar**. O pulmão está íntegro; o problema é comando ou fole: [[Intoxicação Aguda por Opioides]], [[Síndrome de Guillain-Barré]], [[Miastenia Gravis]], obesidade-hipoventilação, [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] avançada.
-- **Gradiente NORMAL + PaCO₂ normal ou baixa** → **baixa PO₂ inspirada** (altitude).
-- **Gradiente ALARGADO** → doença da unidade de troca. Refine com O₂ a 100%:
-	- **Corrige** → alteração V/Q (efeito shunt) ou distúrbio de difusão. Ex.: [[Asma]], [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]], [[Pneumonia]], doença intersticial.
-	- **NÃO corrige** → **shunt verdadeiro**. Ex.: [[Consolidação Lobar]] preenchida, atelectasia obstrutiva, [[Edema Agudo de Pulmão]], [[Síndrome de Eisenmenger]].
+| Gradiente | PaCO₂ | Interpretação | O que investigar |
+|---|---|---|---|
+| **Normal** | **Alta** | Hipoventilação alveolar | Drive (opioide, [[Lorazepam\|benzodiazepínico]], [[Traumatismo Cranioencefálico (TCE)\|TCE]]), nervo e músculo ([[Miastenia Gravis]], [[Síndrome de Guillain-Barré]], [[Botulismo]]), caixa torácica, obesidade |
+| **Normal** | Normal ou baixa | Baixa PO₂ inspirada | Altitude, ambiente confinado |
+| **Alargado, corrige com O₂** | Variável | V/Q baixo ou difusão | [[Asma]], [[Doença Pulmonar Obstrutiva Crônica (DPOC)\|DPOC]], [[Pneumonia]], doença intersticial |
+| **Alargado, NÃO corrige com O₂** | Variável | Shunt verdadeiro | [[Edema Agudo de Pulmão]], consolidação preenchida, atelectasia, shunt anatômico |
+| **Alargado com radiografia pobre** | Baixa | Espaço morto | [[Tromboembolismo Pulmonar (TEP)\|TEP]] |
 
-- **Associação clássica:** [[Dispneia]] súbita + [[Dor torácica pleurítica]] + gradiente alargado + [[Raio-X de Tórax]] pouco alterado = suspeitar [[Tromboembolismo Pulmonar (TEP)|TEP]]. É o cenário em que o gradiente vale mais que a imagem inicial.
-- **Valor de conduta:** gradiente alargado que não corrige com O₂ significa que aumentar o cateter nasal é inútil. O caminho é recrutamento alveolar, PEEP e tratar a causa.
+- **Associação Clássica:** gradiente alargado + [[Raio-X de Tórax]] normal ou pouco alterado + [[Dispneia]] súbita = **TEP até prova em contrário**.
+- **Acurácia:** o gradiente **não é teste diagnóstico de doença** — é classificador de mecanismo. Especificamente para TEP, um gradiente normal **não exclui** o diagnóstico (a sensibilidade é insuficiente, sobretudo em jovens com êmbolo pequeno), e por isso ele não entra em nenhum algoritmo validado de exclusão como escore de Wells + [[D-dímero]]. Seu valor é fisiológico e de triagem de mecanismo.
+- **Onde muda conduta de verdade:** gradiente normal com hipercapnia desvia toda a investigação do parênquima para o **fole** — e desvia o tratamento de "mais oxigênio" para **reverter a causa da hipoventilação** ou **ventilar** (ver [[Insuficiência Respiratória]] e [[Ventilação Não Invasiva (VNI)|VNI]]).
 
 ---
 
 ## ⚠️ Pitfalls e Falsos
 
-- **Esquecer de registrar a FiO₂.** Sem ela o cálculo é impossível. Erro mais comum na prática.
-- **Usar valor de corte fixo (ex.: "normal até 10").** O gradiente sobe fisiologicamente com a idade; aplicar corte de jovem em idoso gera falso alargamento.
-- **Aplicar a fórmula simplificada fora do nível do mar.** Em altitude, a Patm muda e a conta precisa ser refeita.
-- **Gradiente normal não exclui doença pulmonar** — exclui apenas doença de troca naquele momento. TEP pequeno pode cursar com gradiente normal.
-- **Gradiente alargado não localiza a lesão.** Ele diz *que tipo* de problema existe, não *onde* — quem localiza é a imagem e o exame físico.
+- **Falsos "alargados":**
+	- Não corrigir pela idade — 25 mmHg é patológico aos 20 anos e esperado aos 80.
+	- Calcular com FiO₂ elevada e comparar com o corte de ar ambiente.
+	- Amostra colhida logo após mudança de FiO₂, antes do equilíbrio (aguarde ~20–30 min).
+	- Grande altitude sem ajustar a pressão barométrica.
+- **Falsos "normais":**
+	- **Hipoventilação e doença pulmonar coexistentes** (o caso comum do retentor de CO₂ que aspira): a hipoventilação puxa o gradiente para baixo e mascara o dano parenquimatoso.
+	- TEP pequeno em paciente jovem.
+- **Erro Comum de Execução:** usar **gasometria venosa** — ela não serve para oxigenação, só para pH e PaCO₂.
+- **Armadilha conceitual cobrada em prova:** **distúrbio de difusão CORRIGE** com oxigênio (a FiO₂ alta aumenta o gradiente de pressão que empurra o gás pela membrana). O que **não** corrige é **shunt**.
 
 ---
 
 ### 🖼️ Imagem / Esquema
 
-![[5 - Sistema/Arquivos/Imagens/gradiente-aa-algoritmo.jpg]]
-*TODO: fluxograma — PaCO₂ alta? → gradiente normal/alargado? → corrige com O₂ 100%?*
+![[5 - Sistema/Arquivos/Imagens/gradiente-alveolo-arterial.jpg]]
+*TODO: Adicionar esquema do alvéolo com PAO₂ calculada × PaO₂ medida, e as quatro combinações gradiente/PaCO₂ da tabela acima*
 
 **Onde buscar:**
-- *Mechanisms of hypoxemia*, Lung India 2017 (acesso aberto)
-- West, *Respiratory Physiology: The Essentials*
+- West JB, *Respiratory Physiology: The Essentials* — capítulo de troca gasosa
+- Derangedphysiology.com: "The alveolar-arterial gradient"
+
+---
+
+## 📚 Referências
+*Consultado em 2026-09-27*
+
+1. Equação do gás alveolar, correção do valor normal pela idade e a lógica de discriminação entre hipoventilação e doença de troca são **conhecimento consolidado de fisiologia respiratória, sem diretriz de sociedade que os normatize** — não há recomendação formal com ano/versão a citar aqui.
+2. **[ERS/ATS 2017]** Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J. 2017;50(2):1602426 — usada para o desfecho prático do gradiente normal com hipercapnia (indicação de VNI com pH ≤ 7,35).
+3. **[BTS 2017]** O'Driscoll BR, Howard LS, Earis J, Mak V. BTS guideline for oxygen use in adults in healthcare and emergency settings. BMJ Open Respir Res. 2017;4(1):e000170 — alvos de saturação e obrigação de registrar a FiO₂.
 
 ---
 
 ### ➕ Novas Anotações / Insights
-
-- O gradiente é a ferramenta que impede o erro mais caro da emergência: tratar todo hipoxêmico com oxigênio e não perguntar por quê. Hipoventilação por opioide não precisa de O₂, precisa de naloxona e via aérea.
+*- (Espaço livre para updates futuros)*
 -

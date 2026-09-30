@@ -105,8 +105,8 @@ tipo de exame: null
 
 ## 🕸️ 3. A Rede de Segurança (o que não pode passar)
 
-- **Síndrome compartimental** — ver alerta acima
-- **Fratura exposta** — urgência de antibiótico e desbridamento
+- **[[Síndrome Compartimental]]** — ver alerta acima
+- **[[Fratura Exposta]]** — urgência de antibiótico e desbridamento
 - **Lesão vascular** — assimetria de pulso, hematoma expansivo, sopro. *(O ponto de corte do **índice tornozelo-braquial** ficou como pendência explícita da sessão anterior — a confirmar.)*
 - **Fratura de fêmur e de pelve** — o sangue fica **dentro**; hemodinâmica manda
 - **Luxação** — risco de lesão vasculonervosa; **redução é urgência**
@@ -198,3 +198,23 @@ Indicar radiografia se houver **dor óssea** à palpação nas bordas posteriore
 *- **Pendências herdadas da sessão anterior:** as cinco perguntas de recuperação seguem sem resposta; e o **ponto de corte do índice tornozelo-braquial** na suspeita de lesão vascular foi explicitamente deixado em aberto — buscar em fonte primária, não assumir.*
 *- Deixados em **texto puro de propósito** (a aula listou como cabeçalhos vazios; conteúdo de aula futura): fratura exposta, síndrome compartimental, fraturas de bacia, luxações, fratura supracondiliana, Gustilo-Anderson, Ottawa Ankle Rules, teste de Thompson.*
 -
+
+### 🔗 Pendências fechadas — bloco de Conceitos Gerais de Fraturas
+**Data:** 2026-09-28
+**Contexto:** [[Fratura]]
+
+Três das pendências deixadas em aberto na criação deste guia agora têm nota própria e passaram a ser linkadas no corpo:
+
+- **[[Fratura Exposta]]** — a aula não cobriu e a nota previa o essencial. Confirmado em fonte: **BOAST Open Fractures (BOA/BAPRAS, dez/2017)** — antibiótico IV **idealmente ≤ 1 h da lesão**; desbridamento **imediato** (contaminação grosseira ou comprometimento vascular), **≤ 12 h** (alta energia isolada), **≤ 24 h** (demais); **cobertura definitiva de partes moles ≤ 72 h**; abordagem **ortoplástica**; fixação interna definitiva **só** quando imediatamente seguida de cobertura definitiva. **Gustilo-Anderson classifica-se APÓS o desbridamento**, e a classificação nunca atrasa o antibiótico.
+- **[[Síndrome Compartimental]]** — o alerta do guia ("pulso presente não exclui") está correto e agora tem lastro numérico. **AAOS 2025 (CPG, atualização rápida de nov/2025):** exame clínico seriado no paciente acordado tem **S 0,67 / E 0,89** (evidência limitada) — ou seja, um em cada três escapa; o limiar **ΔP > 30 mmHg** (PA diastólica − pressão intracompartimental) serve para **DESCARTAR**, com **S 0,97 / E 0,99** e propósito declarado de reduzir fasciotomias desnecessárias. No paciente obnubilado, medida **repetida ou contínua** de pressão. Técnica de [[Fasciotomia]] (1 ou 2 incisões) importa menos que a **descompressão completa**; fasciotomia **não indicada** no adulto com dano intracompartimental irreversível.
+- **[[Fratura]]** — a classificação resumida neste guia foi expandida em nota própria (traço como assinatura do vetor, consolidação primária × secundária, fases e complicações).
+
+**Relevância clínica:** a tríade de "must not miss" do guia agora navega direto para as notas de conduta — o roteamento sintoma → doença fica fechado nos dois sentidos.
+
+**Ainda em aberto:**
+- **Ponto de corte do índice tornozelo-braquial** na suspeita de lesão vascular — **não pesquisado nesta sessão**, segue pendente conforme registrado acima.
+- Fraturas de bacia, luxações e fratura supracondiliana seguem sem nota (conteúdo de aula futura).
+
+**Fonte:** BOA/BAPRAS, *BOAST: Open Fractures* (dez/2017) — https://www.boa.ac.uk/resource/boast-4-pdf.html ; AAOS, *Management of Acute Compartment Syndrome CPG — Rapid Update* (nov/2025) — https://www.aaos.org/globalassets/quality-and-practice-resources/acute-compartment-syndrome/2025-acs-rapid-update/acs-cpg-2025.pdf
+
+---

@@ -45,7 +45,8 @@ card: null
     - **Risco intermediário-alto:** estável + disfunção de VD **E** biomarcadores elevados.
     - **Risco intermediário-baixo:** estável + apenas um (ou nenhum) entre disfunção de VD ou biomarcador.
     - **Baixo risco:** estável, sem disfunção de VD, sem biomarcador, escore clínico baixo.
-- *Nota:* há proposta mais recente (estadiamento AHA/ACC, continuum **A–E**, do subclínico assintomático à insuficiência cardiopulmonar estabelecida); o **ESC 2019 segue sendo o operacional**.
+- **⭐ Atualização (fev/2026):** o que era proposta virou **diretriz formal** — as *AHA/ACC Acute Pulmonary Embolism Clinical Categories*, continuum **A–E**, do TEP subclínico assintomático à falência cardiopulmonar estabelecida, **aposentando os termos "maciço" e "submaciço"**. A novidade prática é a **categoria D (choque normotenso)**, que o ESC 2019 não nomeia. Ver [[Classificação de Gravidade do TEP (AHA-ACC 2026)]].
+- *Nota:* o **ESC 2019 permanece a régua mais usada no Brasil**, mas já não é a mais recente.
 
 ## 🤒 Apresentação Clínica
 - **Quadro Típico:** **[[Dispneia]] súbita** + taquipneia + taquicardia, com ausculta pulmonar frequentemente normal — o que mais ajuda é manter alto nível de suspeição diante dos fatores de risco.
@@ -151,3 +152,28 @@ Scores do TEP (PE - Pulmonary Embolism -> PERC, PESI )
 
 **COMPLICAÇÕES DO TEP**
 A complicação mais grave do pós-TEP é a evolução para hipertensão pulmonar de etiologia tromboembólica (i.e., TEP crônico) — que será mais discutida no deck específico.​‌‌‌‍‌‍‍‌‌‍‌‌‌‍‌‍‍‌‍‌‌‌‌‌‌‌‌‍‍‌‍‌‌‍‌‌‍‌‍‌‍‍‌‌​‌‌‌‍‌‍‍‌‌‍‌‌‌‍‌‍‍‌‍‌‌‌‌‌‌‌‌‍‍‌‍‌‌‍‌‌‍‌‍‌‍‍‌‌​
+
+---
+
+### 🔗 Diretriz AHA/ACC 2026 — o que muda na prática
+**Data:** 2026-09-27
+**Contexto:** [[Classificação de Gravidade do TEP (AHA-ACC 2026)]] · processamento da aula de Emergências Respiratórias
+
+**Mudanças estruturantes:**
+- **"Maciço" e "submaciço" foram aposentados.** Eram termos anatômicos usados como se fossem clínicos. A nova régua é fisiológica: categorias **A–E**, cada uma com conduta acoplada.
+- **Categoria D é o ganho real:** o *choque normotenso* — pressão ainda normal com **lactato e creatinina subindo**. O ESC 2019 obrigava a esperar hipotensão para chamar de alto risco.
+- **Medir lactato é Classe 1** nas categorias C a E; **acionar o PERT** é Classe 1 (LOE B-NR) nessas mesmas categorias.
+- **Ecocardiograma é preferido à tomografia** para avaliar disfunção de VD. A TC acha o trombo; o eco mede a consequência.
+- **Duas preferências de anticoagulante em Classe 1:** [[Heparina de Baixo Peso Molecular (HBPM)|HBPM]] **sobre** [[Heparina Não Fracionada (HNF)|HNF]], e DOAC **sobre** [[Varfarina|antagonista da vitamina K]].
+- **Reperfusão:** razoável na **categoria E**; **pode ser considerada** na D e na C com disfunção — nestas duas, sobre evidência fraca. No choque refratário, embolectomia cirúrgica **não** é preferida à [[ECMO|ECMO veno-arterial]].
+
+**Correção ao free recall da aula:** a anotação registra *"C → anticoagulação EV na enfermaria"*. **Impreciso.** A preferência na categoria C é **HBPM subcutânea** (Classe 1 sobre HNF). A via **endovenosa** se justifica quando o paciente está **chocado** (absorção subcutânea imprevisível — observação que a própria aula faz, e está correta), em **insuficiência renal grave**, ou quando se antevê trombólise ou procedimento, porque a HNF é titulável e reversível.
+
+**Confirmações — o free recall estava CORRETO:** trombólise razoável em **E1/E2** com risco de sangramento aceitável; trombólise apenas **"pode ser considerada"** em **D1/D2**; anticoagulação oral com DOAC e manejo ambulatorial na **categoria B**.
+
+**Relevância clínica:** a categoria agora é um **estado dinâmico**, não um selo. O paciente C que começa a subir lactato virou D e a conduta muda — reavaliar é parte da estratificação.
+
+**Fonte:** Creager MA, Barnes GD, Giri J, et al. J Am Coll Cardiol. 2026;87(13):1626-1710 (PMID 41712898, DOI 10.1016/j.jacc.2025.11.005) e Circulation. 2026;153(12):e977-e1051 (PMID 41712677). Crítica: Briceño W, Jiménez D. Rev Clin Esp (Barc). 2026:502610 (PMID 42551697) — as novas categorias **ainda carecem de validação prospectiva**.
+⚠️ Texto integral da diretriz em acesso restrito (403); as subcategorias C1–C3/D1–D2/E1–E2 e o modificador respiratório (R) vêm de sínteses secundárias convergentes e devem ser conferidos no original.
+
+---

@@ -166,3 +166,25 @@ card: null
 *- Nota construída na sessão de processamento de Nefrite Lúpica (jun/2026), a partir de free recall + KDIGO 2024 (manejo de glomerulonefrite/nefrite lúpica) e classificação ISN/RPS. Substituiu nota vazia (esqueleto morto) com frontmatter fora do padrão.*
 *- Correção/atualização aplicada vs. anotação original: paradigma terapêutico do KDIGO 2024 favorece terapia combinada (tripla) já na indução das classes III/IV (belimumabe ou inibidor de calcineurina — voclosporina — somados ao micofenolato/ciclofosfamida).*
 -
+
+### 🔗 Rodada de LES — EULAR 2025 substituiu as recomendações renais de 2019
+**Data:** 2026-09-27
+**Contexto:** [[Lúpus Eritematoso Sistêmico]]
+
+**⚠️ Atualização estruturante:** as recomendações **EULAR/ERA-EDTA de 2019** para lúpus com acometimento renal foram **substituídas** pelo update de **2025** (Fanouriakis A, Kostopoulou M, Anders HJ, et al. Ann Rheum Dis. 2026;85(1):75-90. PMID 41107121). São **4 princípios gerais e 13 recomendações**, construídas sobre revisão sistemática de janeiro/2019 a março/2024.
+
+**O que a versão 2025 cobre, e vale conferir contra o corpo desta nota:**
+- **Biópsia renal** para diagnóstico, e definição de **alvos de tratamento e marcos temporais** de resposta
+- **Terapia imunomoduladora:** antimaláricos, glicocorticoides, imunossupressores (micofenolato, ciclofosfamida, inibidores de calcineurina) e biológicos
+- ⚠️ **O obinutuzumabe entra na lista de biológicos**, ao lado de belimumabe e rituximabe — é a novidade mais relevante em relação ao que o vault registrava
+- Orientação explícita sobre **monoterapia × terapia combinada precoce**, **desmame e retirada do glicocorticoide**, **duração da imunossupressão** e **doença refratária**
+- **Terapia não imune:** nefroproteção, vacinação, proteção cardiovascular e óssea
+- **Planejamento familiar** e **manejo da falência renal**
+
+**Relevância clínica:** a tendência das duas atualizações recentes (EULAR 2023 geral e EULAR 2025 renal) é a mesma — abandonar o modelo clássico de *indução e manutenção* em favor de **combinação precoce**, com o objetivo declarado de reduzir exposição cumulativa a corticoide. O anifrolumabe, por outro lado, **não** entrou como droga de nefrite: a indicação dele é extrarrenal (ver [[Anifrolumabe]]).
+
+**Ação pendente:** revisar as seções de tratamento desta nota contra o texto de 2025, em especial (a) os alvos de resposta e prazos, (b) a posição do obinutuzumabe e (c) as recomendações de retirada do corticoide.
+
+**Fonte:** Fanouriakis A, Kostopoulou M, Anders HJ, et al. EULAR recommendations for the management of systemic lupus erythematosus with kidney involvement: 2025 update. Ann Rheum Dis. 2026;85(1):75-90. PMID 41107121 — https://doi.org/10.1016/j.ard.2025.09.007
+
+---

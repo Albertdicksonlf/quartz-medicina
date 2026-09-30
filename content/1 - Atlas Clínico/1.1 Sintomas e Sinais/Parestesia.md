@@ -61,7 +61,7 @@ tipo de exame: null
 | Dermátomo, com dor cervical e irradiação por todo o membro | [[Radiculopatia\|Radiculopatia cervical]] |
 | **Em luva**, bilateral, simétrica, distal-ascendente | [[Neuropatia Periférica\|Polineuropatia]] |
 | Membro inteiro, pior com elevação do braço | [[Síndrome do Desfiladeiro Torácico\|Desfiladeiro torácico]] |
-| Hemicorpo, de instalação súbita | Causa central — [[AVC Isquêmico\|AVC]] / AIT |
+| Hemicorpo, de instalação súbita | Causa central — [[AVE Isquêmico\|AVC]] / AIT |
 
 **O detalhe anatômico que fecha o caso mais comum:** o **ramo cutâneo palmar do nervo mediano** se destaca **antes** do túnel do carpo e passa **por cima** dele. Por isso, na STC, a **sensibilidade da eminência tenar e da palma proximal costuma estar preservada** mesmo com os dedos dormentes. Dormência que **inclui** a palma proximal aponta para lesão mais proximal.
 

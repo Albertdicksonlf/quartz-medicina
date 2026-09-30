@@ -106,7 +106,7 @@ card:
 
 ## 🔍 Diagnósticos Diferenciais
 
-- [[AVC Isquêmico]] (clínica pode sobrepor — TC diferencia)
+- [[AVE Isquêmico]] (clínica pode sobrepor — TC diferencia)
 - [[Meningite Aguda]] (cefaleia + rigidez de nuca, mas febre e início subagudo)
 - Crise hipertensiva / encefalopatia hipertensiva
 - Tumor cerebral (com ou sem sangramento)

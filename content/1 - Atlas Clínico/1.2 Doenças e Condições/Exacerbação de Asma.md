@@ -198,3 +198,22 @@ card: ""
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-09-08 no processamento da anotação Osler de Asma, separada de [[Asma]] seguindo o precedente de [[Exacerbação de DPOC]]. Corrigido o material-fonte quanto aos limiares de oxigenoterapia e às doses de SABA (ambos revisados no GINA 2026).*
 -
+
+
+---
+
+### 🔗 Beta-2 agonista PARENTERAL — o resgate quando o inalado não chega
+**Data:** 2026-09-27
+**Contexto:** [[Insuficiência Respiratória]] · processamento da aula de Emergências Respiratórias
+
+**Características específicas:**
+- O problema da crise quase-fatal não é só o broncoespasmo: é a **entrega do fármaco**. Sem fluxo aéreo, o aerossol não se deposita no alvéolo. **Tórax silencioso** é o sinal de que a nebulização está sendo desperdiçada.
+- Nesse subgrupo entra a **[[Terbutalina]] subcutânea** (0,25–0,5 mg, repetível; teto de 0,5 mg em 4 h) ou a adrenalina SC/IM — obrigatória se houver componente de anafilaxia, porque o beta-2 puro não trata o alfa.
+- **A GINA 2026 não coloca o beta-2 parenteral como etapa de rotina** do algoritmo de exacerbação. É recurso de exceção para quem não responde ou não consegue inalar; não há ensaio moderno mostrando superioridade sobre a via inalatória otimizada.
+- **Interação a vigiar:** 4 g de [[Sulfato de Magnésio|MgSO₄]] IV **potencializa** efeitos cardiovasculares e metabólicos da terbutalina (alarga RR e QTc, eleva glicemia) — magnitude modesta, sem eventos graves em adultos jovens, mas **monitorize ECG, potássio e glicemia** em cardiopata, idoso e diabético. Como magnésio e beta-2 parenteral tendem a ser usados juntos na crise grave, vale conhecer.
+
+**Relevância clínica:** a decisão de trocar a via não é escalonamento automático de dose — é o reconhecimento de que a via inalatória deixou de funcionar. E é um dos últimos passos antes da via aérea definitiva ([[Intubação Orotraqueal]] com [[Cetamina]]).
+
+**Fonte:** GINA 2026 Strategy Report, seção de exacerbações (https://ginasthma.org); Skorodin MS et al. Chest. 1994;105(3):701-705, PMID 8131528 (interação com magnésio); Peters JI. Curr Opin Pulm Med. 1996;2(1):66-74, PMID 9363117 (parenteral no subgrupo com resposta incompleta ao inalado). Posologia brasileira: bula / guia farmacêutico institucional — conhecimento consolidado, sem diretriz aberta.
+
+---
