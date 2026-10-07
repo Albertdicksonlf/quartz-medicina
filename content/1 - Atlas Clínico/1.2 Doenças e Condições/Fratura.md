@@ -254,3 +254,43 @@ Modalidades: [[Redução Aberta e Fixação Interna (RAFI)]] (estabilidade absol
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Fratura patológica por tumor ósseo: a fratura que não se fixa
+**Data:** 2026-10-05
+**Contexto:** [[Osteossarcoma]] · [[Abordagem da Lesão Óssea Focal]] — rodada de Tumores Ósseos
+
+**Características específicas:**
+- **Fratura desproporcional ao trauma** é achado-pivô de osso patológico: além de osteoporose, mieloma e metástase, entram os tumores primários — [[Tumores Ósseos Benignos|cisto ósseo simples]] (a causa clássica na criança), tumor de células gigantes, [[Osteossarcoma]]
+- ⚠️ **Antes de fixar, olhe a radiografia de novo:** lesão lítica, reação periosteal agressiva ([[Reação Periosteal]]) ou massa de partes moles mudam tudo
+- **No osteossarcoma, a fixação interna é CONTRAINDICADA** — dissemina o tumor pelo osso e pelas partes moles e aumenta a recidiva local. Recomenda-se **imobilização externa**. A fratura **não obriga à amputação**: a quimioterapia neoadjuvante permite que o hematoma se retraia e a ressecção seja planejada (ESMO 2021)
+- A fratura patológica é, em si, **fator prognóstico adverso**, por disseminar células tumorais nos tecidos vizinhos
+- No condrossarcoma desdiferenciado, fratura patológica eleva muito o risco de metástase e recidiva
+
+**Relevância clínica:** a fixação reflexa de uma "fratura simples" em osso com lesão não investigada é um dos erros mais graves e evitáveis da ortopedia de urgência. **Imobilize, estude a lesão, encaminhe.**
+**Fonte:** ESMO–EURACAN–GENTURIS–ERN PaedCan 2021 — Strauss SJ et al. Ann Oncol. 2021;32(12):1520–1536. PMID 34500044 — https://doi.org/10.1016/j.annonc.2021.08.1995
+
+---
+
+### 🔗 Como descrever uma fratura: os eixos que faltavam
+**Data:** 2026-10-06
+**Contexto:** `Principio de Fraturas e Fratura Exposta - Aulas` · [[Fratura Exposta]]
+
+**Características específicas** — a tabela "o traço é a assinatura do vetor" (acima) diz **como** o osso quebrou; a descrição completa tem mais eixos:
+- **Mecanismo direto × indireto:** no **direto**, a força age no ponto da fratura (para-choque na perna → traço transverso ou cominutivo, com lesão de partes moles no mesmo local); no **indireto**, a força é transmitida e o osso quebra longe do ponto de aplicação (pé fixo + rotação do corpo → **espiral** na tíbia)
+- **Completa × incompleta:** completa rompe **todas as corticais** — nas duas incidências radiográficas, as quatro corticais visíveis — mesmo que os fragmentos estejam alinhados. A incompleta é típica da **criança**, cujo osso é mais elástico e o periósteo mais espesso: galho verde, tórus (impactação subperiosteal), deformidade plástica
+- **Desvio:** descrever em **quatro componentes** — translação, angulação, rotação e encurtamento — referidos ao fragmento distal. O "desvio < 2 mm = sem desvio" da aula é **convenção didática**: o limiar que muda conduta **depende do osso** (degrau articular, escafoide, colo do fêmur têm tolerâncias próprias)
+- **Número de fragmentos (AO/OTA 2018):** **simples** = um traço, **dois** fragmentos; **multifragmentária** = **três ou mais**, em **cunha** (os fragmentos principais mantêm contato) ou **complexa** (sem contato entre os principais — inclui a **segmentar**)
+	- ⚠️ **Correção à aula:** "cominutiva = **mais de 3** fragmentos" → o correto é **3 ou mais** (≥ 3) — a mesma régua já usada na tabela acima
+- **Fechada × exposta:** ver [[Fratura Exposta]] e [[Classificação de Gustilo-Anderson]]
+
+**⚠️ Correção à aula — "compressão → oblíqua ou de Chance":** a fratura de **Chance** é o oposto de compressão. É lesão por **flexão-distração** da coluna toracolombar (tipicamente o cinto de segurança abdominal): o elemento posterior **se abre em tração** e o traço atravessa horizontalmente a vértebra. Na classificação AOSpine, é lesão do **tipo B — ruptura da banda de tensão**; as fraturas por **compressão** axial (achatamento, explosão) são o **tipo A**. Ver [[Trauma Raquimedular (TRM)]].
+
+**Complicações tardias citadas nos cards da Osler:**
+- **Consolidação viciosa (má união):** a fratura consolida com deformidade — angulação, rotação ou incongruência articular
+- [[Pseudoartrose]] (não união): as corticais não se reconectam
+- **Síndrome da dor regional complexa:** dor desproporcional em tempo ou intensidade, edema, instabilidade vasomotora, alterações tróficas da pele e desmineralização óssea irregular, de distribuição **regional** (não segue território nervoso nem dermátomo), mais comum em membros distais após fratura, lesão de partes moles ou cirurgia *(sem nota própria no vault)*
+
+**Relevância clínica:** um laudo que diz só "fratura de tíbia" não permite decidir nada. "Fratura **exposta**, **completa**, **multifragmentária em cunha**, diafisária, **desviada** com encurtamento de 2 cm, por **mecanismo direto de alta energia**" já define conduta, risco de infecção e de síndrome compartimental.
+**Fonte:** Meinberg EG, Agel J, Roberts CS, Karam MD, Kellam JF. Fracture and Dislocation Classification Compendium—2018. J Orthop Trauma. 2018;32 Suppl 1:S1–S170. PMID 29256945 — https://doi.org/10.1097/BOT.0000000000001063 · Vaccaro AR, Oner C, Kepler CK et al. AOSpine thoracolumbar spine injury classification system. Spine. 2013;38(23):2028–2037. PMID 23970107 — https://doi.org/10.1097/BRS.0b013e3182a8a381 · Conhecimento consolidado (mecanismo direto/indireto, fraturas incompletas da criança, componentes do desvio)
+
+---

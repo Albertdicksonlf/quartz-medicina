@@ -10,7 +10,7 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
 
 Já tive aula de TCE, mas agora num contexto da urgência e emergência 
 

@@ -191,6 +191,7 @@ Vasodilatação — **desaparece à vitropressão**.
 - [[Eczema]] — o padrão de reação mais frequente e suas três fases; [[Abordagem dos Eczemas]]
 - [[Exantema]] · [[Prurido]] · [[Abordagem do Prurido]] · [[Xerose]]
 - [[Biópsia de pele]] · [[Dermatoscopia]]
+- [[Abordagem das Lesões Bolhosas]] — vesícula e bolha como porta de entrada: tensa × flácida, Nikolsky, IFD
 
 ---
 
@@ -198,3 +199,20 @@ Vasodilatação — **desaparece à vitropressão**.
 *- Nota criada em 2026-08-25 a partir de `Lesões Elementares - Aula` (17/08).*
 *- A aula de `Anatomia e Fisiologia da Pele` encerra com a orientação de "ir sempre reforçando as lesões elementares — a descrição das lesões é universal". Esta nota é a materialização disso e deve ser o ponto de entrada da dermatologia no vault.*
 -
+
+### 🔗 Bolha: o descritor que vale mais que o tamanho
+**Data:** 2026-10-05
+**Contexto:** [[Abordagem das Lesões Bolhosas]] — rodada de Doenças Bolhosas
+
+**Características específicas:**
+- A tabela de "Lesões de Conteúdo Líquido" separa vesícula de bolha **pelo tamanho** (1 cm). Para o raciocínio, o descritor de maior peso é outro: **a bolha é TENSA ou FLÁCIDA?** O teto da bolha entrega o nível da clivagem antes da biópsia:
+	- **Flácida, que se rompe ao menor atrito, deixando erosão** → teto fino → clivagem **intraepidérmica** → pênfigos ([[Pênfigo Vulgar (PV)]], [[Pênfigo Foliáceo (PF)]]). No PF a bolha é tão superficial que **quase nunca é vista íntegra**: o que se encontra são **erosões, eritema, descamação e crostas**. Esperar ver bolha para pensar em PF é o erro clássico
+	- **Tensa, que demora a romper** → teto = epiderme inteira → clivagem **subepidérmica** → [[Penfigoide Bolhoso (PB)]]
+- **Vesículas agrupadas** não são sinônimo de herpes. A lista de associações clássicas acima traz as **dermatoméricas** (zóster); acrescente as **simétricas em superfícies extensoras** — cotovelos, joelhos, nádegas — da [[Dermatite Herpetiforme (DH)]], em que "herpetiforme" descreve a **morfologia**, não a etiologia
+- **A regra da membrana basal (ver "Soluções de Continuidade") vale para as bolhosas:** erosões de pênfigo, intraepidérmicas, cicatrizam sem cicatriz; o PB, embora subepidérmico, também cicatriza **sem cicatriz atrófica e sem mília** — o que o separa da epidermólise bolhosa adquirida
+- **Erosão em mucosa oral, arrastada por semanas, sem bolha visível** é lesão elementar de pênfigo vulgar até prova em contrário — a bolha da mucosa se rompe antes de ser vista
+
+**Relevância clínica:** ao descrever qualquer lesão de conteúdo líquido, registre **tensão do teto**, **presença de erosões** e **mucosas**. Com essas três palavras e o [[Sinal de Nikolsky]], a pré-teste para "pênfigo × penfigoide" já está decidida antes da [[Imunofluorescência Direta (IFD)]].
+**Fonte:** Consenso SBD 2019 (pênfigos) — Porro AM et al. An Bras Dermatol. 2019;94(2 Suppl 1):20–32. PMID 31166407 · Consenso SBD 2019 (PB, PMM e EBA) — Santi CG et al. An Bras Dermatol. 2019;94(2 Suppl 1):33–47. PMID 31166405
+
+---

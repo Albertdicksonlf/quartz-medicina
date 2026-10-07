@@ -88,3 +88,19 @@ aliases:
 ### **➕ Novas Anotações / Insights**
 *- (Espaço para suas anotações pessoais, insights de aulas, artigos ou da prática clínica)*
 -
+
+### 🔗 A pele da doença celíaca: Dermatite Herpetiforme
+**Data:** 2026-10-05
+**Contexto:** [[Dermatite Herpetiforme (DH)]] — rodada de Doenças Bolhosas
+
+**Características específicas:**
+- A DH é a **manifestação cutânea da doença celíaca**: **15% a 25% dos celíacos** têm DH concomitante. A maioria dos pacientes com DH tem atrofia de vilosidades, mas **sintomas gastrointestinais são raros** — é a forma "extraintestinal" levada ao extremo
+- **Dois alvos, uma doença:** o anticorpo da celíaca é anti-**TG2** (transglutaminase tecidual, intestinal); na pele, ele reage de forma cruzada com a **TG3** (transglutaminase **epidérmica**), formando imunocomplexos de IgA que se depositam nas papilas dérmicas
+- ⚠️ **Exceção ao algoritmo acima:** em paciente com **DH confirmada pela [[Imunofluorescência Direta (IFD)]]**, a **biópsia intestinal NÃO é indicada** — a DH já *é* o diagnóstico de enteropatia sensível ao glúten. A biópsia também não serve para checar adesão à dieta; isso se faz pela pele e pela sorologia (anti-TG2, antiendomísio)
+- **Tempos de resposta à dieta sem glúten:** sintomas gastrointestinais em **3–6 meses**; lesões cutâneas só em **1–2 anos**. Por isso a [[Dapsona]] é obrigatória nos primeiros anos da DH, controlando o prurido em horas
+- ⚠️ **A dapsona controla a pele, não o intestino** — não trata a enteropatia nem reduz o risco de linfoma. **Só a dieta faz isso.** Mais de 5 anos de dieta parecem proteger contra o linfoma não-Hodgkin
+
+**Relevância clínica:** paciente com vesículas pruriginosas agrupadas em cotovelos, joelhos e nádegas **é celíaco até prova contrária**, mesmo sem nenhuma queixa intestinal. E o inverso: celíaco com prurido extensor merece IFD, não anti-histamínico. Observação de navegação: o link `Dermatite Herpetiforme` desta nota aponta para o **achado-pivô** em `1.3`; a **doença** completa, com tratamento, vive em `1.2/Dermatite Herpetiforme (DH)`.
+**Fonte:** Consenso SBD 2019 — Vale ECS do, Dimatos OC, Porro AM, Santi CG. An Bras Dermatol. 2019;94(2 Suppl 1):48–55. PMID 31166403 — https://doi.org/10.1590/abd1806-4841.2019940208
+
+---

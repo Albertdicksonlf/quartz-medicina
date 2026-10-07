@@ -108,3 +108,20 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Doenças bolhosas autoimunes: o sinal ganha destino
+**Data:** 2026-10-05
+**Contexto:** [[Abordagem das Lesões Bolhosas]] — rodada de Doenças Bolhosas
+
+**Características específicas:**
+- As três doenças que a tabela acima cita em texto puro agora têm nota própria: **[[Pênfigo Vulgar (PV)]]**, **[[Pênfigo Foliáceo (PF)]]** e **[[Penfigoide Bolhoso (PB)]]**. O roteiro completo, da queixa à IFD, está no guia [[Abordagem das Lesões Bolhosas]]
+- **Correlato microscópico do sinal:** a **[[Acantólise]]** — perda de adesão entre queratinócitos por desfazimento dos desmossomos. O Nikolsky é a acantólise percebida pelo polegar
+- **PF e SSSS são a mesma lesão molecular por dois mecanismos.** Ambos atacam a **Dsg1** — autoanticorpo IgG4 no PF, toxina esfoliativa na SSSS. Por isso a clivagem é a mesma (**subcórnea**) e a mucosa é poupada nos dois: na tabela, as linhas de SSSS e de PF são **idênticas em "Nikolsky + mucosa"**, e só o contexto as separa. Quando o contexto não basta, a **[[Imunofluorescência Direta (IFD)]]** separa: IgG intercelular no PF; negativa na SSSS, em que não há anticorpo
+- **Teoria da compensação no PV:** o perfil sorológico prediz o fenótipo — **anti-Dsg3 isolado = doença só mucosa**; **anti-Dsg3 + anti-Dsg1 = mucocutânea**. Na fase mucosa inicial, a pele ainda mantém a coesão pela Dsg1 — **Nikolsky em pele sã negativo não afasta PV** num paciente com erosões orais arrastadas
+- **O grupo do Nikolsky NEGATIVO** (clivagem subepidérmica, bolha tensa) é maior do que a última linha da tabela sugere: além do PB, inclui a **[[Dermatite Herpetiforme (DH)]]** e a **[[Dermatose por IgA Linear (DIgAL)]]**. As três se separam pela IFD (isotipo e padrão), não pela clínica
+- A aula de Doenças Bolhosas acerta num ponto que vale fixar: **Nikolsky não é patognomônico de pênfigo**
+
+**Relevância clínica:** o Nikolsky responde "intra ou subepidérmica?" e "grave ou banal?". Quem decide **qual** doença é a combinação mucosa + contexto + IFD. Num paciente com erosões orais de semanas, não deixe um Nikolsky cutâneo negativo encerrar a hipótese de pênfigo vulgar.
+**Fonte:** Consenso SBD 2019 (pênfigos) — Porro AM, Hans Filho G, Santi CG. An Bras Dermatol. 2019;94(2 Suppl 1):20–32. PMID 31166407 — https://doi.org/10.1590/abd1806-4841.2019940206
+
+---

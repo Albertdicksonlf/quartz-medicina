@@ -129,6 +129,7 @@ tipo de exame: null
 	- **Esclerose subcondral**
 	- **Osteófitos**
 	- **Cistos subcondrais** (microfraturas)
+	- Gradação pela [[Classificação de Kellgren-Lawrence]] (0 a 4; OA definida a partir do grau 2)
 
 > [!danger] Os quatro sinais radiográficos são TARDIOS
 > A radiografia mostra alterações **tardias** e avalia mal os tecidos periarticulares. Existe **dissociação clínico-radiológica em ambas as direções**: radiografia feia com paciente funcional, e radiografia discreta com dor incapacitante.
@@ -259,3 +260,30 @@ Na prática brasileira, [[Dipirona]] é amplamente usada como analgésico simple
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+---
+
+### 🔗 Gonoartrose — o que a aula de ortopedia acrescenta
+**Data:** 2026-10-06
+**Contexto:** `Gonoartrose - Aula` · [[Classificação de Kellgren-Lawrence]] · [[Infiltração Intra-articular com Corticoide]]
+
+**1. Neovascularização — o "conceito fisiopatológico novo" da aula, calibrado.** A cartilagem sadia é **avascular e aneural** (ver a Base Fisiológica acima). Na OA, há **angiogênese na junção osteocondral** (vasos do osso subcondral invadindo a cartilagem calcificada) e **na sinóvia inflamada**. A aula ligou isso à chegada de células inflamatórias — correto em parte. O ponto mais importante é outro: **os vasos novos chegam acompanhados de fibras nervosas sensitivas**, e esse é um dos caminhos pelos quais uma estrutura que "não dói" passa a doer. A angiogênese também favorece a ossificação da cartilagem calcificada e a formação de osteófitos (Mapp & Walsh 2012).
+
+**2. Kellgren-Lawrence vai de 0 a 4**, não de 1 a 4 — e o grau 1 é "duvidoso". OA radiográfica definida = **grau ≥ 2**. A aula acertou o essencial: **todo grau cabe tratamento conservador**.
+
+**3. "Imobilizador" ≠ órtese.** A aula listou *"imobilizador (talas de joelho)"*. O que o ACR/AF 2019 recomenda **fortemente** é a **órtese tibiofemoral** (joelheira de descarga) na OA tibiofemoral, e **condicionalmente** a órtese patelofemoral. **Imobilizar** o joelho artrósico vai contra o princípio do tratamento — atrofia o quadríceps, que é justamente o músculo que o exercício quer fortalecer.
+
+**4. Corticoide intra-articular:** recomendação **forte**, efeito de semanas; **"1 infiltração" não é regra de diretriz**, mas o uso **programado a cada 3 meses** aumentou a perda de cartilagem sem melhorar a dor (McAlindon 2017). Ver [[Infiltração Intra-articular com Corticoide]].
+
+**5. Cirurgia na gonoartrose refratária** (o que a aula deixou em aberto):
+- **Artroplastia total de joelho** — OA tricompartimental avançada (KL 3–4) com dor e limitação refratárias. Ver [[Artroplastia]]
+- **Artroplastia unicompartimental** — doença restrita a um compartimento (geralmente medial), ligamentos íntegros
+- **Osteotomia tibial alta** — paciente **jovem e ativo** com OA do compartimento **medial** e joelho **varo**: transfere carga para o compartimento lateral preservado
+- **Artroscopia com lavagem/desbridamento: não recomendada** para OA primária de joelho (AAOS 3ª ed.)
+
+**Fonte deste bloco:**
+- Mapp PI, Walsh DA. Mechanisms and targets of angiogenesis and nerve growth in osteoarthritis. Nat Rev Rheumatol. 2012;8(7):390-398. PMID 22641138
+- Kellgren JH, Lawrence JS. Radiological assessment of osteo-arthrosis. Ann Rheum Dis. 1957;16(4):494-502. PMID 13498604
+- Kolasinski SL, et al. 2019 ACR/AF Guideline. Arthritis Rheumatol. 2020;72(2):220-233. PMID 31908163
+- McAlindon TE, et al. JAMA. 2017;317(19):1967-1975. PMID 28510679
+- Brophy RH, Fillingham YA. AAOS CPG Summary: Management of Osteoarthritis of the Knee (Nonarthroplasty), 3rd ed. J Am Acad Orthop Surg. 2022;30(9):e721-e729. PMID 35383651

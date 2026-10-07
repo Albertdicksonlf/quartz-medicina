@@ -218,6 +218,7 @@ Anexas ao folículo piloso, desembocam no infundíbulo. Produzem **sebo**, que c
 - **[[Lesões Elementares da Pele]]** — o vocabulário construído sobre esta base
 - [[Prurido]] · [[Abordagem do Prurido]] · [[Exantema]]
 - [[Biópsia de pele]] · [[Dermatoscopia]]
+- [[Abordagem das Lesões Bolhosas]] · [[Acantólise]] · [[Sinal de Nikolsky]] — a anatomia da adesão aplicada à beira do leito
 
 ---
 
@@ -225,3 +226,29 @@ Anexas ao folículo piloso, desembocam no infundíbulo. Produzem **sebo**, que c
 *- Nota criada em 2026-08-25 a partir de `Anatomia e Fisiologia da Pele - Aula` (10/08).*
 *- A aula contém 5 capturas de tela (esquemas anatômicos) que não foram acessíveis no processamento.*
 -
+
+### 🔗 O cimento e a âncora: desmossomo × hemidesmossomo
+**Data:** 2026-10-05
+**Contexto:** [[Abordagem das Lesões Bolhosas]] — rodada de Doenças Bolhosas
+
+**Características específicas:**
+- A metáfora do "tijolo e cimento" acima descreve só **metade** da coesão da pele. São dois sistemas, em dois eixos:
+
+| Estrutura | Eixo | Onde | Proteínas-alvo | Doença quando falha |
+|---|---|---|---|---|
+| **Desmossomo** ("cimento") | **Lateral** — queratinócito ↔ queratinócito | Toda a epiderme, sobretudo a espinhosa | **Desmogleína 1 e 3** | Pênfigos → bolha **intraepidérmica**, flácida, Nikolsky positivo |
+| **Hemidesmossomo** ("âncora") | **Vertical** — epiderme ↔ derme | Camada basal / zona da membrana basal | **BP180 (colágeno XVII)** e **BP230** | Penfigoide → bolha **subepidérmica**, tensa, Nikolsky negativo |
+
+- **A teoria da compensação completa o callout de desmogleínas acima.** Não basta "Dsg3 → pênfigo vulgar": a **mucosa** expressa essencialmente Dsg3 e a **pele** expressa as duas. Por isso o **perfil sorológico prediz o fenótipo**:
+	- anti-Dsg3 isolado → doença **só mucosa** (a Dsg1 ainda segura a pele)
+	- anti-Dsg3 + anti-Dsg1 → **mucocutânea**
+	- anti-Dsg1 isolado → **[[Pênfigo Foliáceo (PF)]]**, mucosa poupada (a Dsg3 da mucosa compensa)
+	- Corolário: **PF neonatal é mais raro que PV neonatal**, porque na pele do recém-nascido predomina a Dsg3
+- **A mesma Dsg1, três agressores:** autoanticorpo no PF, **toxina esfoliativa** na [[Síndrome da Pele Escaldada Estafilocócica (SSSS)|SSSS]] e no [[Impetigo e Foliculite|impetigo bolhoso]]. Mesma molécula, mesma clivagem subcórnea, mesma mucosa poupada
+- **A zona da membrana basal tem andares, e cada andar tem sua doença:** o salt-split (pele clivada por sal) abre a lâmina lúcida — o anticorpo do [[Penfigoide Bolhoso (PB)|PB]] fica no **teto (lado epidérmico)**; o da epidermólise bolhosa adquirida, dirigido ao **colágeno VII das fibrilas de ancoragem**, fica no **assoalho (lado dérmico)**. A [[Dermatose por IgA Linear (DIgAL)]] tem como alvo um fragmento de **97 kD** do próprio BP180
+- **As papilas dérmicas** (ver Derme) são o sítio de depósito da IgA na [[Dermatite Herpetiforme (DH)]] — compartimento ricamente vascularizado onde imunocomplexos circulantes precipitam
+
+**Relevância clínica:** com duas perguntas anatômicas — **quebrou o cimento ou a âncora?** e **qual andar?** — se deduz a física da bolha, o Nikolsky, o acometimento mucoso e o padrão da [[Imunofluorescência Direta (IFD)]]. É a ponte entre esta nota e as notas de doença: [[Pênfigo Vulgar (PV)]], [[Pênfigo Foliáceo (PF)]], [[Penfigoide Bolhoso (PB)]].
+**Fonte:** Consenso SBD 2019 (pênfigos) — Porro AM et al. An Bras Dermatol. 2019;94(2 Suppl 1):20–32. PMID 31166407 · Consenso SBD 2019 (PB, PMM e EBA) — Santi CG et al. An Bras Dermatol. 2019;94(2 Suppl 1):33–47. PMID 31166405 · Consenso SBD 2019 (DH e DIgAL) — Vale ECS do et al. An Bras Dermatol. 2019;94(2 Suppl 1):48–55. PMID 31166403
+
+---

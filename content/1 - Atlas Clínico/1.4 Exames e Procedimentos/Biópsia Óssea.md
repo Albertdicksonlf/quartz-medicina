@@ -64,3 +64,24 @@ tipo de exame: Procedimento
 ### ➕ Novas Anotações / Insights
 *- Nota criada em modo esqueleto - completar depois*
 -
+
+### 🔗 A biópsia de tumor ósseo: quem faz, onde e como
+**Data:** 2026-10-05
+**Contexto:** [[Abordagem da Lesão Óssea Focal]] — rodada de Tumores Ósseos
+
+**Características específicas:**
+- Esta nota nasceu centrada em [[Osteomielite]]. Na suspeita de **sarcoma ósseo primário**, as regras mudam, porque **o trajeto da agulha passa a fazer parte da cirurgia**:
+	- **ONDE:** o paciente deve ser **encaminhado a centro de referência em sarcoma ANTES da biópsia** (ESMO 2021, IV-B), depois da radiografia e da RM do compartimento inteiro
+	- **QUEM:** a **equipe cirúrgica que fará a ressecção definitiva**, ou um **radiologista intervencionista após discussão com o cirurgião**. Não é "o oncologista" e não é quem estiver de plantão
+	- **COMO:** agulha grossa (*core-needle*) **guiada por imagem** é alternativa adequada à biópsia aberta na maioria; se aberta, **incisão longitudinal**; amostragem múltipla de áreas representativas; mínima contaminação de tecidos
+	- **O TRAJETO:** em tumor agressivo ou maligno, o trajeto e os orifícios de dreno são **considerados contaminados** e serão **ressecados em bloco** com a peça — por isso devem ser **marcados**
+	- **Coluna:** evitar laminectomia/descompressão sem necessidade de aliviar a medula; sempre amostrar tecido se houver suspeita de sarcoma
+	- **Material:** patologista especializado em osso; descalcificação preferencialmente por EDTA; **tecido a fresco congelado** para estudo molecular (obrigatório no [[Sarcoma de Ewing]])
+- **Sempre enviar fragmento para CULTURA** quando o diferencial inclui infecção — é a cultura que separa Ewing de osteomielite
+- **Lesão cartilaginosa grande ou pélvica:** biopsiar a área que **realça na RM com contraste** — a heterogeneidade faz a biópsia de área de baixo grau **subestimar** o [[Condrossarcoma]]
+- **Não biopsiar** lesões benignas de imagem típica (osteocondroma, fibroma não ossificante) — ver [[Tumores Ósseos Benignos]]
+
+**Relevância clínica:** a biópsia mal planejada é o erro evitável mais caro da oncologia ortopédica — um trajeto fora do plano cirúrgico pode transformar uma cirurgia de preservação do membro em amputação.
+**Fonte:** ESMO–EURACAN–GENTURIS–ERN PaedCan 2021 — Strauss SJ et al. Ann Oncol. 2021;32(12):1520–1536. PMID 34500044 — https://doi.org/10.1016/j.annonc.2021.08.1995
+
+---

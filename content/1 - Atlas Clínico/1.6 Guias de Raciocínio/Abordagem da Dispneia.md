@@ -115,3 +115,23 @@ tipo de exame: null
 
 ### ➕ Updates de Casos Reais
 -
+
+---
+
+### 🔗 Ultrassonografia à beira do leito na dispneia aguda — o protocolo BLUE
+**Data:** 2026-10-06
+**Contexto:** [[Ultrassonografia Pulmonar]] · processamento de `Ultrassonografia na emergência`
+
+Na dispneia aguda grave, a [[Ultrassonografia Pulmonar|US pulmonar]] responde em ~3 minutos o que a radiografia leva tempo para responder — e com mais sensibilidade. O raciocínio do **BLUE** encaixa nos buckets deste guia:
+
+| O que a US mostra (regiões anteriores) | Bucket / diagnóstico | S / E |
+|---|---|---|
+| Linhas A + deslizamento presente | A — [[Exacerbação de Asma\|asma]] / [[Exacerbação de DPOC\|DPOC]] | 89% / 97% |
+| Perfil A + TVP ao [[USG Duplex Venoso de MMII\|duplex]] | C — [[Tromboembolismo Pulmonar (TEP)\|TEP]] | 81% / 99% |
+| [[Linhas B (Ultrassonografia Pulmonar)\|Linhas B]] difusas bilaterais + deslizamento | B — [[Edema Agudo de Pulmão\|edema cardiogênico]] | 97% / 95% |
+| [[Deslizamento Pleural\|Deslizamento abolido]] + linhas A + [[Ponto Pulmonar\|ponto pulmonar]] | C — [[Pneumotórax]] | 81% / 100% |
+| Consolidação, linhas B assimétricas, PLAPS | A — [[Pneumonia]] | 89% / 94% |
+
+**Complemento cardíaco:** no paciente instável, o [[Ecocardiograma Focado à Beira do Leito (FoCUS)|FoCUS]] acrescenta VE fraco (edema cardiogênico), VD dilatado com sinal do D (TEP), derrame com colapso de câmaras (tamponamento).
+
+**Fonte deste bloco:** Lichtenstein DA, Mezière GA. Relevance of lung ultrasound in the diagnosis of acute respiratory failure: the BLUE protocol. Chest. 2008;134(1):117-125. PMID 18403664 — 260 pacientes de UTI, 90,5% de acerto global.

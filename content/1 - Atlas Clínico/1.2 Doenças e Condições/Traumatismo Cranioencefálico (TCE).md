@@ -162,3 +162,25 @@ O alvo é **prevenir a lesão secundária**: garantir fluxo sanguíneo e oxigena
 *- Critérios de TC revisados e ancorados na Canadian CT Head Rule (Stiell et al., Lancet 2001; validação JAMA 2005) com adaptação brasileira (ATLS): Glasgow 13–14 → TC sempre; Glasgow 15 → CCHR. Coagulopatia/anticoagulação são exclusões da regra (TC mandatória, não critério).*
 *- Faixa de gravidade: padrão ATLS/NIH-NINDS é leve 13–15; registrada a corrente que reclassifica Glasgow 13 como moderado.*
 -
+
+---
+
+### 🔗 Atualizações de manejo na urgência (TCE — aula 2)
+**Data:** 2026-10-06
+**Contexto:** `TCE - aula 2` (aula de urgência e emergência) · [[Ácido Tranexâmico]] · [[Fenitoína]]
+
+**1. Ácido tranexâmico — a aula errou a população.** A aula indicava TXA *"no TCE moderado a grave"*. A nota já estava certa: no **CRASH-3** (12.737 pacientes, ≤ 3 h do trauma, elegíveis com Glasgow ≤ 12 **ou** sangramento intracraniano na TC):
+- Desfecho primário global: morte relacionada ao TCE **18,5% × 19,8%**, **RR 0,94 (0,86–1,02)** — não significativo
+- **Leve a moderado: RR 0,78 (0,64–0,95)** — o benefício está aqui
+- **Grave: RR 0,99 (0,91–1,07)** — sem efeito
+- No leve-moderado, **quanto mais cedo, melhor**; sem aumento de eventos vaso-oclusivos (RR 0,98) nem de convulsões (RR 1,09)
+- Dose **confere**: 1 g EV em 10 min + 1 g em 8 h
+
+**2. Anticonvulsivante — a indicação da aula está correta.** *Glasgow ≤ 8 e/ou trauma penetrante; ou TCE moderado com afundamento, hematoma sub/extradural ou contusão* reproduz os critérios de alto risco do estudo de Temkin. Benefício **só sobre crise precoce** (até o 7º dia: 3,6% × 14,2%, RR 0,27); **sem efeito em crise tardia** → profilaxia por **7 dias**. ⚠️ **Dose de ataque da aula (5–10 mg/kg) está abaixo da bula (10–15 mg/kg)** — ver [[Fenitoína]].
+
+**3. Tromboprofilaxia — confere com a nota.** **Mecânica desde a admissão**; [[Enoxaparina]] (ou heparina não fracionada) **depois**, quando a lesão estiver estável na TC de controle (BTF 4ª ed.: farmacológica "quando o benefício superar o risco de expansão do sangramento" — evidência nível III; na prática, 24–72 h após TC estável).
+
+**Fonte deste bloco:**
+- CRASH-3 trial collaborators. Effects of tranexamic acid on death, disability, vascular occlusive events and other morbidities in patients with acute traumatic brain injury (CRASH-3). Lancet. 2019;394(10210):1713-1723. PMID 31623894
+- Temkin NR, et al. N Engl J Med. 1990;323(8):497-502. PMID 2115976
+- Carney N, et al. Guidelines for the Management of Severe TBI, 4th ed. Neurosurgery. 2017;80(1):6-15. PMID 27654000

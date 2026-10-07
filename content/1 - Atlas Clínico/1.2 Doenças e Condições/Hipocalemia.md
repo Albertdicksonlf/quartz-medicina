@@ -169,7 +169,7 @@ tipo de exame: null
 - **Xarope de KCl 6%:** **10 a 20 mEq por dose, 2 a 4 vezes ao dia**
 - Alternativas: comprimidos de liberação lenta; alimentos ricos em potássio como adjuvante (nunca como tratamento isolado na hipocalemia sintomática)
 - **Se houver acidose metabólica associada** (ex.: ATR), preferir **bicarbonato ou citrato de potássio** — repõe potássio **e** corrige a acidose. Ver [[Citrato de Potássio]]
-- **Poupadores de potássio** — sobretudo **amilorida** — são muito úteis quando a perda é **renal** e contínua (diurético, hiperaldosteronismo): reduzem a espoliação em vez de apenas compensá-la
+- **Poupadores de potássio** — sobretudo **amilorida** — são muito úteis quando a perda é **renal** e contínua (diurético, hiperaldosteronismo): reduzem a espoliação em vez de apenas compensá-la 
 
 ### 2. Reposição ENDOVENOSA *(restrita)*
 **Indicações:** hipocalemia **sintomática** (arritmia ou fraqueza), **K⁺ < 3,0**, alterações no ECG, intolerância à via oral.

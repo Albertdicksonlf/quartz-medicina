@@ -177,7 +177,7 @@ Indicar radiografia se houver **dor óssea** à palpação nas bordas posteriore
 >
 > **3. "Se não melhorar em 6 semanas → imagem" na entorse:** sem fonte que sustente, e provavelmente **tarde demais**. ⚠️ **Confirmar com o professor.**
 >
-> **4. Fratura exposta — a aula não cobriu.** O essencial: classificação de **Gustilo-Anderson**, **antibiótico o mais precoce possível** (BOA/BAPRAS sugerem dentro de 1 hora), desbridamento cirúrgico. Esquemas concretos divergem entre protocolos.
+> **4. Fratura exposta — a aula não cobriu.** O essencial: classificação de **[[Classificação de Gustilo-Anderson|Gustilo-Anderson]]**, **antibiótico o mais precoce possível** (BOA/BAPRAS sugerem dentro de 1 hora), desbridamento cirúrgico. ~~Esquemas concretos divergem entre protocolos.~~ ✅ *(06/10)* Esquema por grau e contexto, com duração, agora em [[Fratura Exposta]] (EAST 2011): I/II → [[Cefazolina]]; III → + cobertura gram-negativa; solo/fezes → + penicilina em alta dose ou metronidazol.
 
 ---
 

@@ -10,7 +10,7 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
 
 ![Perfil de estudos](https://oslermedicina.com.br/assets/r1_direct_access_dark-aTn4kPGW.png)
 

@@ -99,3 +99,18 @@ tipo de exame: null
 *- O TXA é uma das medicações com melhor relação custo-benefício em trauma — barata, ampla disponibilidade no SUS, evidência robusta.*
 *- Pérola: a janela de 3h é mandatória — atrasou, perdeu o benefício.*
 -
+
+---
+
+### 🔗 CRASH-3 em números — e uma aula que inverteu a indicação
+**Data:** 2026-10-06
+**Contexto:** `TCE - aula 2` · [[Traumatismo Cranioencefálico (TCE)]]
+
+A aula de urgência indicou TXA *"no TCE moderado a grave"*. **O CRASH-3 mostra o oposto quanto ao grave:**
+- Global (≤ 3 h): **RR 0,94 (0,86–1,02)** — não significativo
+- **Leve a moderado: RR 0,78 (0,64–0,95)** · **Grave: RR 0,99 (0,91–1,07)**; heterogeneidade p = 0,03
+- Benefício maior quanto **mais precoce** a dose no leve-moderado (p = 0,005); sem efeito do tempo no grave
+- Segurança: eventos vaso-oclusivos **RR 0,98 (0,74–1,28)**; convulsões **RR 1,09 (0,90–1,33)**
+- Elegibilidade do ensaio: Glasgow ≤ 12 **ou** qualquer sangramento intracraniano na TC, sem hemorragia extracraniana maior
+
+**Fonte:** CRASH-3 trial collaborators. Lancet. 2019;394(10210):1713-1723. PMID 31623894

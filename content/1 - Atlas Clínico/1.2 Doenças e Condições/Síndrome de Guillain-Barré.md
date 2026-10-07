@@ -34,7 +34,7 @@ tipo de exame: null
 ## 🤒 Apresentação Clínica
 - **Sintoma cardinal:** **fraqueza muscular** progressiva, **tipicamente ascendente e simétrica** ([[Fraqueza Muscular|fraqueza]] de padrão polirradiculoneuropático).
 - **Arreflexia / hiporreflexia** (achado-chave).
-- Curso **monofásico:** progressão até um platô em **até 4 semanas** (nadir geralmente ≤ 2–4 semanas), seguida de recuperação.
+- Curso **monofásico:** progressão até um platô em **até 4 semanas** (nadir geralmente ≤ 2–4 semanas), seguida de recuperação. 
 - **Componente sensitivo** geralmente leve; **nervos cranianos** podem ser acometidos (diplegia facial).
 - **Disautonomia** (labilidade pressórica, arritmias) → marcador de gravidade.
 - **Red flag:** **insuficiência respiratória** (complicação mais temida).

@@ -52,3 +52,26 @@ card:
 3.  **P (Pump):** Drogas Vasoativas.
     - Vasopressores (**[[Noradrenalina]]**) se RVP baixa.
     - Inotrópicos (**[[Dobutamina]]**) se falha de bomba.
+
+---
+
+### 🔗 POCUS no choque indiferenciado — o cubo hemodinâmico à beira do leito
+**Data:** 2026-10-06
+**Contexto:** processamento de `Ultrassonografia na emergência` — [[Ecocardiograma Focado à Beira do Leito (FoCUS)]] · [[FAST e eFAST]] · [[Ultrassonografia Pulmonar]]
+
+A tabela acima pede DC, RVP e PVC — que não se medem no pronto-socorro. A ultrassonografia beira-leito transforma cada coluna em uma imagem:
+
+| Tipo | Coração (FoCUS) | VCI | Pulmão / cavidades |
+|---|---|---|---|
+| **Hipovolêmico** | VE **hiperdinâmico**, cavidades pequenas ("*kissing walls*") | **Fina e colabando** | Linhas A; no trauma, procurar sangue com o [[FAST e eFAST\|FAST]] |
+| **Cardiogênico** | VE **dilatado e hipocinético** | Larga, fixa | [[Linhas B (Ultrassonografia Pulmonar)\|Linhas B]] difusas (congestão) |
+| **Obstrutivo** | Derrame com colapso de câmaras ([[Tamponamento Cardíaco\|tamponamento]]) **ou** VD dilatado com sinal do D ([[Tromboembolismo Pulmonar (TEP)\|TEP]]) | **Larga, fixa** | Pneumotórax hipertensivo: [[Deslizamento Pleural\|deslizamento abolido]] — mas esse é diagnóstico clínico |
+| **Distributivo** | VE normo ou hiperdinâmico | Fina ou normal | Linhas A |
+
+> [!warning] A VCI só decide nos extremos
+> Pela ASE 2015, VCI ≤ 2,1 cm com colapso > 50% sugere PAD baixa (~3 mmHg); > 2,1 cm com colapso < 50% sugere PAD alta (~15 mmHg). Mas para prever **resposta a volume** o índice de colapsabilidade tem AUC de apenas 0,71 (Orso 2020) — no meio-termo, não decide.
+
+**Fonte deste bloco:**
+- Via G, et al. International evidence-based recommendations for focused cardiac ultrasound. J Am Soc Echocardiogr. 2014;27(7):683.e1-683.e33. PMID 24951446
+- Lang RM, et al. Recommendations for cardiac chamber quantification by echocardiography in adults. J Am Soc Echocardiogr. 2015;28(1):1-39.e14. PMID 25559473
+- Orso D, et al. J Intensive Care Med. 2020;35(4):354-363. PMID 29343170

@@ -55,3 +55,25 @@ O LDL em excesso se deposita no espaço subendotelial das artérias, sofre oxida
 - **Desfecho:** Obstrução crônica (Angina) ou Ruptura Aguda (Infarto/AVC).
 
 
+
+
+---
+
+### 🔗 Xantomas — a dislipidemia que se vê na pele
+**Data:** 2026-10-06
+**Contexto:** `Doenças Sistêmicas com Manifestações Cutâneas - Aula` (seção "Sistema circulatório": xantelasma e xantoma tuberoso)
+
+Xantomas são depósitos de **macrófagos carregados de lipídios** (células espumosas) na pele e nos tendões. O **tipo** de xantoma aponta o **tipo** de dislipidemia:
+
+| Xantoma | Onde / como | Pensar em |
+|---|---|---|
+| **Xantelasma** | Placas amareladas, planas, nas **pálpebras** (canto medial) | Hipercolesterolemia — **mas cerca de metade dos pacientes tem lipídios normais**; pedir perfil lipídico, não presumir |
+| **Tendinoso** | Nódulos firmes no **tendão de Aquiles** e nos **extensores dos dedos** | [[Hipercolesterolemia Familiar]] — achado de altíssimo valor (entra nos escores diagnósticos de HF) |
+| **Tuberoso** | Nódulos amarelos sobre **cotovelos e joelhos** (pontos de pressão) | Disbetalipoproteinemia (tipo III) e hipercolesterolemia familiar |
+| **Eruptivo** | Surto de **pápulas amarelas com halo eritematoso** em nádegas e extensores | **Hipertrigliceridemia grave** (em geral > 1.000 mg/dL) → **risco de pancreatite aguda** |
+| **Estriado palmar** | Pigmentação amarelada nas **pregas palmares** | Disbetalipoproteinemia (tipo III) — quase patognomônico |
+
+> [!tip] Pérola
+> **Xantoma tendinoso = hipercolesterolemia familiar** até prova em contrário — e significa **rastrear a família**. **Xantoma eruptivo = triglicerídeos altíssimos** — e significa **risco iminente de pancreatite**.
+
+**Fonte:** conhecimento consolidado de dermatologia e lipidologia; sem diretriz aberta específica localizada nesta rodada.

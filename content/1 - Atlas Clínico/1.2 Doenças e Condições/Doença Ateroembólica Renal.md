@@ -226,3 +226,16 @@ A confirmação histológica é desejável em casos atípicos.
 - A **placa de Hollenhorst** na fundoscopia é achado patognomônico mas raro de procurar — vale lembrar em casos suspeitos que o oftalmologista pode fechar o diagnóstico.
 - Em paciente com [[Fibrilação Atrial]] e ateroembolismo, decidir manutenção de anticoagulação é **dilema clássico**: risco trombótico vs perpetuação da embolização. Decisão individualizada com cardiologia.
 -
+
+---
+
+### 🔗 A pele como porta de entrada da embolia de colesterol
+**Data:** 2026-10-06
+**Contexto:** `Doenças Sistêmicas com Manifestações Cutâneas - Aula` · [[Livedo Reticular]] · [[Púrpura Palpável]]
+
+A aula de dermatologia apresentou a embolia de colesterol pelo lado cutâneo: **síndrome do dedo azul** e **livedo**. Duas precisões úteis à beira do leito:
+- O livedo da ateroembolia é do tipo **racemoso** — rede **irregular, quebrada e persistente**, que **não some ao aquecer** (ao contrário do livedo fisiológico). Ver [[Livedo Reticular]].
+- A embolia de colesterol pode dar lesões purpúricas e nódulos que **imitam vasculite de pequenos vasos** ([[Púrpura Palpável]]); a [[Biópsia de Pele|biópsia]] profunda mostra as **fendas de cristais de colesterol** ocluindo arteríolas — e não leucocitoclasia.
+- **Dedo azul com pulsos pediosos palpáveis** é a pista que separa microembolia (colesterol) de isquemia por oclusão de grande artéria.
+
+**Fonte:** Scolari F, Ravani P. Atheroembolic renal disease. Lancet. 2010;375(9726):1650-1660. PMID 20381857 · Gibbs MB, et al. Livedo reticularis: an update. J Am Acad Dermatol. 2005;52(6):1009-1019. PMID 15928620

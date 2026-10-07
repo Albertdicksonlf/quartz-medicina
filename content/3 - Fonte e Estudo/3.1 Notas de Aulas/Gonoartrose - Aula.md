@@ -10,7 +10,7 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
 
 # Artrose de Joelho
 **Conceito fisiopatológico novo**

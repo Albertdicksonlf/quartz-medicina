@@ -11,7 +11,7 @@ prevalência:
 aliases:
 card:
 ---
-Status: #não-Processado 
+Status: #processado-1 
 
 
 VALGO -> Tudo que se aproxima da linha medial 

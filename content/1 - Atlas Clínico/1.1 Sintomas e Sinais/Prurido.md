@@ -68,6 +68,7 @@ tipo de exame: null
 - [[Abordagem do Prurido]] — algoritmo de investigação e tratamento por mecanismo
 - [[Abordagem dos Eczemas]] — quando há lesão primária eczematosa, o roteamento continua aqui
 - [[Icterícia]] — eixo colestático compartilhado (prurido + icterícia)
+- [[Abordagem das Lesões Bolhosas]] — idoso com prurido intenso e escoriações, mesmo sem bolha (fase não bolhosa do penfigoide; dermatite herpetiforme escoriada)
 
 ---
 
@@ -81,6 +82,24 @@ tipo de exame: null
 - O débito registrado acima foi **parcialmente quitado**: [[Dermatite Atópica]], [[Dermatite de Contato]], [[Dermatite Seborreica]] e [[Dermatite das Fraldas]] agora têm nota, e o roteamento vive em [[Abordagem dos Eczemas]]. **Permanecem sem nota:** urticária, psoríase e líquen plano.
 - **Refinamento mecanístico relevante para esta nota:** o prurido do **eczema** é predominantemente **não-histaminérgico** — mediado por **IL-31**, proteases e substância P, não por histamina. Isso o coloca no mesmo grupo do prurido colestático e urêmico quanto à (não) resposta ao anti-H1, ainda que a lesão primária esteja presente. O benefício do anti-histamínico de 1ª geração na dermatite atópica é **sedativo**, não antipruriginoso.
 - **[[Xerose]]** ganhou nota canônica: é o substrato do prurido do atópico e do idoso, e a primeira coisa a corrigir antes de escalonar investigação.
+
+---
+
+### 🔗 O furo da dicotomia: prurido do idoso "sem lesão primária" que é dermatose bolhosa
+**Data:** 2026-10-05
+**Contexto:** [[Penfigoide Bolhoso (PB)]] · [[Dermatite Herpetiforme (DH)]] — rodada de Doenças Bolhosas
+
+**Características específicas:**
+- A regra que organiza esta nota — **sem lesão primária → investigar sistêmico** — falha em duas dermatoses autoimunes, porque nelas a lesão primária **ainda não apareceu** ou **já foi destruída pela unha**:
+	1. **Fase não bolhosa do [[Penfigoide Bolhoso (PB)|penfigoide bolhoso]]** — idoso com **prurido generalizado intenso por semanas a meses**, placas urticadas, escoriações, prurigo e lesões tipo prurigo nodular, **sem nenhuma bolha**. O EADV 2022 reconhece essas formas atípicas, e é nessa fase que o diagnóstico mais se perde. Pistas que sobem a pré-teste: **doença neurológica** (Parkinson, demência, AVC, esclerose múltipla), uso de **gliptina** (vildagliptina, linagliptina) ou de **anti-PD-1**, e **[[Eosinofilia|eosinofilia periférica]]**
+	2. **[[Dermatite Herpetiforme (DH)|Dermatite herpetiforme]]** — as vesículas agrupadas quase sempre chegam ao exame **já escoriadas e crostosas**, simétricas em superfícies **extensoras** (cotovelos, joelhos, nádegas). **Ardor e formigamento precedem** cada surto. O que o examinador vê é marca de unha, e a doença passa por "prurido com escoriação". É marcador cutâneo da [[Doença Celíaca|doença celíaca]]
+- **Implicação prática:** idoso com prurido crônico, escoriações e **workup sistêmico normal** → o próximo passo é **biópsia com [[Imunofluorescência Direta (IFD)]] de pele perilesional**, não mais um anti-histamínico
+- **Mecanismo e resposta terapêutica — os dois são NÃO-histaminérgicos:**
+	- No PB, o prurido vem da via **tipo 2** (IgE/eosinófilo). O bloqueio do IL-4Rα pelo [[Dupilumabe]] reduziu o prurido de forma clinicamente significativa em **38,3% × 10,5%** (ADEPT)
+	- Na DH, anti-H1 tem efeito **limitado**; a [[Dapsona]] cessa o prurido **em horas** — resposta tão característica que funciona como teste terapêutico
+
+**Relevância clínica:** acrescenta um terceiro ramo à bifurcação desta nota: **"sem lesão primária VISÍVEL" no idoso não é sinônimo de sistêmico** — pode ser dermatose bolhosa na fase em que ainda não bolhou. Roteiro completo em [[Abordagem das Lesões Bolhosas]].
+**Fonte:** EADV S2k 2022 (penfigoide bolhoso) — Borradori L, Van Beek N, Feliciani C et al. J Eur Acad Dermatol Venereol — https://onlinelibrary.wiley.com/doi/10.1111/jdv.18220 · Consenso SBD 2019 (DH e DIgAL) — Vale ECS do et al. An Bras Dermatol. 2019;94(2 Suppl 1):48–55. PMID 31166403 · ADEPT, resultados da bula FDA (20/06/2025) — https://www.drugs.com/newdrugs/dupixent-dupilumab-approved-u-s-only-targeted-medicine-patients-bullous-pemphigoid-bp-6552.html
 
 ---
 -

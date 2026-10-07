@@ -175,3 +175,30 @@ tipo de exame: Bedside
 - Hafez M. Extended Focused Assessment with Sonography for Trauma (eFAST) Exam. J Med Insight. 2021. doi 10.24296/jomi/299.6
 - Spahn DR, Bouillon B, Cerny V, et al. The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition. Crit Care. 2019;23(1):98. doi 10.1186/s13054-019-2347-3
 - Martin MJ, Brown CVR, Shatz DV, et al. Evaluation and management of abdominal stab wounds: A Western Trauma Association critical decisions algorithm. J Trauma Acute Care Surg. 2018;85(5):1007-1015. PMID 29659472
+
+---
+
+### 🔗 Detalhes de técnica que mudam o resultado — e duas correções aos cards
+**Data:** 2026-10-06
+**Contexto:** processamento de `Ultrassonografia na emergência` (aula + Osler)
+
+**Ordem das janelas:** a aula ensinou começar "pela região mais provável de ter a lesão". Os cards da Osler acrescentam a regra prática: no ferimento **penetrante precordial** a **pericárdica vem primeiro** (o tamponamento é a lesão que mata mais rápido); sem esse risco, começa-se pela **hepatorrenal**, a mais sensível para hemoperitônio no supino.
+
+**Quando a subxifoide falha** (xifoide proeminente, obesidade, abdome distendido ou doloroso): alternativas são a **paraesternal eixo longo** e a **apical 4 câmaras**. Ver [[Ecocardiograma Focado à Beira do Leito (FoCUS)]].
+
+**Janela pélvica depende da bexiga:** a falta de distensão vesical é a principal causa de **não detectar** líquido nessa janela. Com sonda vesical já passada, há quem infunda ~200 mL de soro para criar janela — prática discutida, não padronizada.
+
+**Sangue coagulado é ecogênico:** coágulo pode aparecer **hiperecoico** e o exame continua positivo. Na bexiga, coágulo de hematúria = foco hiperecoico intravesical.
+
+**Janela pleural — o que a confirma e o que não:** o pneumotórax é lido pela **ausência de [[Deslizamento Pleural|deslizamento pleural]]** (modo M: código de barras), e **confirmado** pelo [[Ponto Pulmonar|ponto pulmonar]] (especificidade de 100%). [[Linhas B (Ultrassonografia Pulmonar)|Linhas B]] visíveis **excluem** pneumotórax no ponto.
+
+> [!warning] ⚠️ Correções ao material-fonte
+> 1. **Card:** *"a ausência de linhas A indica pneumotórax"*. **Errado** — no pneumotórax as linhas A **persistem**; o que some é o deslizamento. A aula estava certa (*"a imagem estática é a mesma com o ar dentro ou fora dos alvéolos"*).
+> 2. **Aula:** *"código de barras → pneumotórax; se não acomete tudo, pode ser simples"*. A ausência de deslizamento é **inespecífica** (intubação seletiva, apneia, aderências, SDRA), e **simples × hipertensivo é distinção clínica**, não ultrassonográfica. O ponto pulmonar indica pneumotórax **parcial**; sua posição estima grosseiramente o tamanho.
+
+**Fora do protocolo, mas útil:** a janela pleural também mostra **[[Fratura de Costelas e Tórax Instável|fratura de costela]]** (descontinuidade cortical + hematoma), com sensibilidade superior à da radiografia.
+
+**Fonte deste bloco:**
+- Lichtenstein D et al. The "lung point". Intensive Care Med. 2000;26(10):1434-1440. PMID 11126253
+- Alrajhi K et al. Chest. 2012;141(3):703-708. PMID 21868468 — US S 90,9% / E 98,2% × radiografia em supino S 50,2% / E 99,4% para pneumotórax
+- Volpicelli G et al. Intensive Care Med. 2012;38(4):577-591. PMID 22392031

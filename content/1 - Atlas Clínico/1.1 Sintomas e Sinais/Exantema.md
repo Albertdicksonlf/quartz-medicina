@@ -72,11 +72,43 @@ tipo de exame: null
 ---
 
 ## 🔗 Conexões com Guias de Raciocínio
+- [[Abordagem do Exantema Agudo]] — **guia dedicado**: triagem de gravidade → lesão elementar → cronologia, com os buckets morfológicos e o roteamento para as doenças
 - [[Abordagem da Sepse]] — exantema petequial/purpúrico com instabilidade
 - [[Febre]] — o exantema quase sempre entra como "febre + rash"
 
 ---
 
 ### ➕ Novas Anotações / Insights
-*- Nota canônica criada em 2026-07-20 (Trilha A do recorte). O stub vazio `Exantema Maculopapular` foi absorvido aqui como morfologia → candidato a consolidação na Trilha B. Lacuna sinalizada: não existe um Guia de Raciocínio dedicado ("Abordagem do Exantema / Doenças Exantemáticas").*
+*- Nota canônica criada em 2026-07-20 (Trilha A do recorte). O stub vazio `Exantema Maculopapular` foi absorvido aqui como morfologia → candidato a consolidação na Trilha B. ~~Lacuna sinalizada: não existe um Guia de Raciocínio dedicado ("Abordagem do Exantema / Doenças Exantemáticas").~~ ✅ **LACUNA FECHADA em 2026-10-04:** o guia existe e se chama [[Abordagem do Exantema Agudo]].*
+
+---
+
+### 🔗 O que NÃO é exantema: a dermatose viral papular
+**Data:** 2026-10-04
+**Contexto:** [[Abordagem do Exantema Agudo]], a partir do processamento de Dermatoses Virais
+
+**Características específicas:**
+- Existe um grupo de dermatoses virais que é **papular e não exantemático**, e que entra por engano no raciocínio de "febre + rash": [[Molusco Contagioso]], [[Verrugas Virais]] e [[Verrugas Genitais (Condilomas)]].
+- O que as separa do exantema não é a morfologia, é a **cronologia**: evolução de **semanas a meses**, **sem febre** e sem progressão em dias.
+- Pivôs que resolvem na inspeção: **umbilicação central** → molusco; **pápula ceratósica com capilares trombosados (pontos escuros)** → verruga.
+
+**Relevância clínica:** quando o paciente diz "apareceu devagar e não tenho febre", o raciocínio deve **sair** do algoritmo de exantema agudo. Esse é o erro de roteamento mais comum do tema, e foi por isso que o guia novo ganhou um bucket próprio (Grupo C) só para essas lesões.
+**Fonte:** CDC — About Molluscum Contagiosum, 2024 — https://www.cdc.gov/molluscum-contagiosum/about/index.html
+
+---
+
+### 🔗 Vesicular: o que desempata varicela, zóster e HSV
+**Data:** 2026-10-04
+**Contexto:** [[Varicela-Zoster]] e [[Herpes Simples]], a partir do processamento de Dermatoses Virais
+
+**Características específicas:**
+- **Polimorfismo** (mácula, pápula, vesícula e crosta coexistindo) → varicela
+- **Monomorfismo em faixa unilateral que não cruza a linha média**, em 1–2 dermátomos contíguos → herpes-zóster
+- **Agrupamento recorrente no MESMO sítio** → [[Herpes Simples]]
+- **[[Sinal de Hutchinson (Herpes-Zóster Oftálmico)|Vesícula na ponta do nariz]]** em zóster de V1 → prediz acometimento ocular; oftalmologista no mesmo dia
+
+**Relevância clínica:** no bucket vesicular, o desempate é morfológico e topográfico, não sorológico. E o pivô nasal é o único desse grupo que muda a conduta na mesma consulta, sob risco de perda visual.
+**Fonte:** CDC — Clinical Overview of Shingles (Herpes Zoster), 2025 — https://www.cdc.gov/shingles/hcp/clinical-overview/index.html
+
+---
 -

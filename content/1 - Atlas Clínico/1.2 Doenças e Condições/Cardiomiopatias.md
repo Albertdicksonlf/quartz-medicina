@@ -42,7 +42,7 @@ card:
 	- [[Fadiga]]
 	- [[Edema]] de membros inferiores
 	- [[Síncope]] (especialmente na hipertrófica)
-	- [[Palpitação]] (arritmias)
+	- Palpitação (arritmias)
 	- [[Dor torácica]] (anginosa na CMH)
 - **Sinais de Alerta (Red Flags):**
 	- Síncope em jovem atleta → suspeita forte de [[Cardiomiopatia Hipertrófica]]
@@ -56,7 +56,7 @@ card:
 *Pivôs que diferenciam os três fenótipos.*
 
 - **Exame Físico:**
-	- **Dilatada:** [[Ictus Deslocado]], [[B3]], [[Sinais de Congestão Sistêmica]]
+	- **Dilatada:** Ictus Deslocado, B3, Sinais de Congestão Sistêmica
 	- **Hipertrófica:** Ictus tópico/propulsivo/sustentado, [[B4]], [[Sopro Sistólico]] que **piora com Valsalva** e melhora com handgrip/cócoras
 	- **Restritiva:** Sinais de IC direita predominante ([[Estase Jugular Patológica]], hepatomegalia, ascite)
 - **Imagem (ECO):**

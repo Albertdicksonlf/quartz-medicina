@@ -59,6 +59,11 @@ tipo de exame: null
 - **[[Dermatite das Fraldas]]** — convexidades poupando dobras (irritativa) × dobras com satélites ([[Candidíase Mucocutânea|candidíase]])
 - 👉 Roteamento completo em **[[Abordagem dos Eczemas]]**
 
+**Dermatoses bolhosas autoimunes — processadas em 2026-10-05:**
+- **[[Penfigoide Bolhoso (PB)]]** — idoso, prurido intenso **antes** da bolha (fase não bolhosa: urticas, escoriações, prurigo — semanas a meses); depois **bolhas tensas** em flexoras. Pistas: doença neurológica, gliptina, anti-PD-1, [[Eosinofilia|eosinofilia]]
+- **[[Dermatite Herpetiforme (DH)]]** — vesículas agrupadas que chegam **já escoriadas**, simétricas em **extensoras** (cotovelos, joelhos, nádegas); ardor precede o surto; marcador cutâneo da [[Doença Celíaca|doença celíaca]]
+- 👉 Roteamento completo em **[[Abordagem das Lesões Bolhosas]]**
+
 **Demais dermatoses:** urticária, psoríase, líquen plano, dermatofitoses ([[Tinea Pedis (Frieira)|tinea]]). *(Ainda sem notas — disciplina em curso.)*
 
 ### **🅑 Sem lesão primária → sistêmico**
@@ -114,3 +119,19 @@ Opioides (histamina + ação central), IECA, estatinas, antibióticos; hidroxicl
 ### ➕ Updates de Casos Reais
 *- Guia criado em 2026-07-29 (Trilha A), fechando o bloco com [[Prurido]] — **último dos guias faltantes de 1.6**. Não duplica a nota-sintoma: aqui vivem o algoritmo de investigação e o tratamento por mecanismo. Texto puro: rifampicina, naltrexona, capsaicina, cluster derm (não cursado).*
 -
+
+### 🔗 Emenda ao algoritmo: o idoso com workup normal
+**Data:** 2026-10-05
+**Contexto:** [[Penfigoide Bolhoso (PB)]] — rodada de Doenças Bolhosas
+
+**Características específicas:**
+- **Emenda ao passo 3 do algoritmo** ("se tudo normal e o prurido persiste, reavaliar em 3–6 meses"): **no idoso**, antes de esperar, pedir **biópsia com [[Imunofluorescência Direta (IFD)]] de pele perilesional**. A fase não bolhosa do penfigoide dura semanas a meses, apresenta-se só com urticas, escoriações ou prurigo, e é exatamente o paciente que este algoritmo empurra para o ramo 🅑 "sem lesão primária"
+- **A dicotomia do Triagem Inicial tem um terceiro ramo:** "sem lesão primária **visível**" ≠ "sem dermatose". No PB a bolha ainda não apareceu; na [[Dermatite Herpetiforme (DH)]] a vesícula já foi destruída pela unha
+- **Acréscimo à tabela de tratamento por mecanismo** (sem reescrevê-la):
+	- **Tipo 2 / IgE-eosinófilo** (penfigoide) → tratar a doença: **clobetasol tópico de corpo inteiro** como 1ª linha (EADV 2022); [[Dupilumabe]] como poupador de corticoide, com redução clinicamente significativa do prurido em 38,3% × 10,5%
+	- **Neutrofílico por IgA** (DH) → **[[Dapsona]]**, que cessa o prurido em horas, **+ dieta sem glúten**. Anti-H1 tem efeito limitado e **corticoide sistêmico não funciona**
+
+**Relevância clínica:** "prurido sem rash é sistêmico até prova em contrário" segue valendo — mas no idoso, a "prova em contrário" inclui a IFD. Pedir só hemograma, função hepática, renal e TSH e liberar com anti-H1 é o caminho exato pelo qual o penfigoide é perdido.
+**Fonte:** EADV S2k 2022 (penfigoide bolhoso) — Borradori L, Van Beek N, Feliciani C et al. J Eur Acad Dermatol Venereol — https://onlinelibrary.wiley.com/doi/10.1111/jdv.18220 · Consenso SBD 2019 (DH e DIgAL) — Vale ECS do et al. An Bras Dermatol. 2019;94(2 Suppl 1):48–55. PMID 31166403
+
+---

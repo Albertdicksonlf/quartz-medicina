@@ -124,3 +124,17 @@ tipo de exame: null
 *- Guia criado em 2026-08-23. A estrutura em três blocos veio do free recall Osler, que já a apresentava organizada.*
 *- Deixados em **texto puro de propósito** (aulas futuras, sem gerar links órfãos): fratura da cabeça do rádio, fratura do olécrano, luxação do cotovelo, tríade terrível, fratura supracondiliana, pronação dolorosa, bursite olecraniana, síndrome do supinador, síndrome do pronador, neuropatia ulnar/túnel cubital, ruptura do bíceps distal, teste do gancho.*
 -
+
+---
+
+### 🔗 Testes especiais da aula de semiologia — conferência
+**Data:** 2026-10-06
+**Contexto:** `Semiologia do Ombro, Cotovelo e Mão`
+
+- **Bíceps distal:** [[Teste do Gancho]] — cotovelo a 90°, supinação ativa, dedo entrando **pela lateral**. Na série de O'Driscoll (2007), **sensibilidade e especificidade de 100%** para avulsão completa, superior à RM (92% / 85%). Ruptura **parcial** dá teste **normal, porém doloroso**.
+- **Ligamentos colaterais:** estresse em **varo** com ~15–30° de flexão (desbloqueia o olécrano) testa o **complexo lateral**; estresse em **valgo** na mesma posição testa o **complexo medial**. *(Varo e valgo definidos pelo desvio do segmento distal — ver a correção registrada em [[Abordagem da Dor no Ombro]].)*
+- **Epicondilite lateral:** Cozen (extensão do punho contra resistência, cotovelo fletido) e Mill (cotovelo estendido, flexão passiva do punho) — a aula **confere**. Ver [[Epicondilite Lateral]].
+- **Epicondilite medial:** dor no epicôndilo medial à flexão do punho/pronação contra resistência e à palpação — ver [[Epicondilite Medial]].
+- **Parestesia na mão vinda do cotovelo:** ver [[Exame dos Nervos Periféricos da Mão]] e [[Dor na Mão e Punho]].
+
+**Fonte deste bloco:** O'Driscoll SW, Goncalves LB, Dietz P. The hook test for distal biceps tendon avulsion. Am J Sports Med. 2007;35(11):1865-1869. PMID 17687121

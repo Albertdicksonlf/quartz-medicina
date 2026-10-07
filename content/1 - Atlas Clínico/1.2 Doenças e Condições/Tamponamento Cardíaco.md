@@ -4,14 +4,14 @@ date: 2026-04-26T14:45:00
   - Cardiologia
   - Emergência
 tipo: Doença
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
 prevalência: Incomum
 aliases:
   - Tamponamento Pericárdico
   - Tamponamento
-card: 
+card:
 ---
 
 # Tamponamento Cardíaco
@@ -199,3 +199,20 @@ card:
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+---
+
+### 🔗 Tamponamento ao ecocardiograma beira-leito — refinando os sinais
+**Data:** 2026-10-06
+**Contexto:** [[Ecocardiograma Focado à Beira do Leito (FoCUS)]] · [[FAST e eFAST]]
+
+- **Colapso do AD:** ocorre no **fim da diástole / início da sístole ventricular** (quando a pressão atrial é mínima). É o sinal **mais precoce e sensível**; quando dura **> 1/3 do ciclo cardíaco**, ganha especificidade.
+- **Colapso diastólico do VD:** **mais específico**.
+- **VCI pletórica e sem variação respiratória:** **muito sensível, pouco específica**. A recíproca é a que mais ajuda: **VCI colabada praticamente afasta tamponamento**.
+- **Janelas:** a **subxifoide** é a do FAST e da PCR; se falhar, **paraesternal eixo longo** e **apical 4 câmaras**.
+- **Armadilhas:** a **aorta descendente** (círculo anecoico atrás do AE no paraesternal longo) imita derrame; **gordura epicárdica** anterior imita derrame pequeno.
+- **Derrame ≠ tamponamento:** o diagnóstico é **clínico-ecocardiográfico** — derrame + colapso de câmaras + repercussão hemodinâmica.
+
+**Fonte deste bloco:**
+- Klein AL, Abbara S, Agler DA, et al. ASE clinical recommendations for multimodality cardiovascular imaging of patients with pericardial disease. J Am Soc Echocardiogr. 2013;26(9):965-1012.e15. PMID 23998693
+- Via G, et al. International evidence-based recommendations for focused cardiac ultrasound. J Am Soc Echocardiogr. 2014;27(7):683.e1-683.e33. PMID 24951446

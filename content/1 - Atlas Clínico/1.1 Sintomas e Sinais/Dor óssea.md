@@ -65,3 +65,19 @@ A nota nasceu organizada pelo eixo **não-mecânico** (neoplasia, infecção, me
 **Fonte:** AAOS 2025, *Management of Acute Compartment Syndrome CPG (Rapid Update)* — https://www.aaos.org/globalassets/quality-and-practice-resources/acute-compartment-syndrome/2025-acs-rapid-update/acs-cpg-2025.pdf ; Liu DS, Snyder BD, Mahan ST. J Pediatr Soc North Am. 2024;7:100058. PMID 40433283.
 
 ---
+
+### 🔗 O eixo NEOPLÁSICO ganhou roteiro: a lesão óssea focal
+**Data:** 2026-10-05
+**Contexto:** [[Abordagem da Lesão Óssea Focal]] — rodada de Tumores Ósseos
+
+**Características específicas:**
+- A gaveta "Neoplásico" desta nota citava **"tumor ósseo primário"** em texto puro. Agora há notas e um Guia de Raciocínio: [[Osteossarcoma]], [[Sarcoma de Ewing]], [[Condrossarcoma]], [[Osteocondroma]], [[Osteoma Osteoide]] e [[Tumores Ósseos Benignos]]. O roteiro, da queixa à biópsia, vive em [[Abordagem da Lesão Óssea Focal]]
+- **A exceção benigna ao pivô desta nota:** "dor não mecânica = neoplasia ou infecção" tem uma exceção clássica — o **[[Osteoma Osteoide]]**, benigno, com dor **noturna** que **cede de forma dramática com AINE**. Dor noturna que **não** cede com AINE volta a ser sinal de alarme
+- **A idade muda a pré-teste (ESMO 2021):** lesão destrutiva **< 5 anos** → neuroblastoma metastático ou histiocitose de Langerhans; **5–40 anos** → sarcoma primário possível; **> 40 anos** → metástase e [[Mieloma Múltiplo]]
+- **Infecção e tumor se imitam:** o [[Sarcoma de Ewing]] tem dor, febre, massa e marcadores inflamatórios altos — exatamente como a [[Osteomielite]]. Osteomielite que não responde a antibiótico vai para biópsia **com cultura**
+- **Fratura por trauma mínimo em osso com lesão suspeita:** imobilizar **externamente** e encaminhar — fixação interna pode disseminar um osteossarcoma
+
+**Relevância clínica:** a nota agora tem os dois roteiros que a completam — o traumático em [[Abordagem do Trauma de Membro]] e o neoplásico em [[Abordagem da Lesão Óssea Focal]].
+**Fonte:** ESMO–EURACAN–GENTURIS–ERN PaedCan 2021 — Strauss SJ et al. Ann Oncol. 2021;32(12):1520–1536. PMID 34500044 — https://doi.org/10.1016/j.annonc.2021.08.1995 · Tepelenis K et al. In Vivo. 2021;35(4):1929–1938. PMID 34182465
+
+---

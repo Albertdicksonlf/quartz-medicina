@@ -4,14 +4,14 @@ date: 2026-08-16T14:05:00
   - Ortopedia
   - Clínica Médica
 tipo: Guia de Raciocínio
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - Abordagem do Ombro Doloroso
   - Raciocínio Clínico da Omalgia
-card: 
+card:
 ---
 
 # Guia de Raciocínio: Abordagem da Dor no Ombro
@@ -101,3 +101,29 @@ O roteamento usa **dois eixos**: intrínseco versus extrínseco, e agudo traumá
 ### ➕ Updates de Casos Reais
 *- (Anote aqui aprendizados de casos)*
 -
+
+---
+
+### 🔗 O arsenal de testes especiais da aula de semiologia — e quanto cada um vale
+**Data:** 2026-10-06
+**Contexto:** `Semiologia do Ombro, Cotovelo e Mão`
+
+**Impacto subacromial (testes de provocação de dor):** [[Teste de Neer]], **Hawkins-Kennedy** (ombro e cotovelo a 90°, rotação interna forçada — o tubérculo maior roda sob o ligamento coracoacromial) e **Yocum** (mão sobre o ombro contralateral, elevar o cotovelo contra resistência). Metanálise de Hegedus 2012: **Neer S 72% / E 60%**, **Hawkins-Kennedy S 79% / E 59%**, [[Arco Doloroso|arco doloroso]] **S 53% / E 76%**. Sensíveis e pouco específicos — servem para **afastar**, como este guia já registra.
+
+**Força por tendão:** [[Teste de Jobe]] (supraespinal) · [[Teste de Patte]] (infraespinal/redondo menor) · subescapular (*lift-off*, *belly press*).
+**Cabeça longa do bíceps:** **teste de Speed** (flexão do ombro contra resistência, cotovelo estendido, antebraço supinado — dor no sulco bicipital).
+**Acromioclavicular:** ***cross-arm*** (adução horizontal forçada — dor localizada na AC).
+**Instabilidade anterior:** **apreensão** (abdução + rotação externa → o paciente teme a luxação; a positividade é a **apreensão**, não a dor), **recolocação** (pressão posterior na cabeça umeral alivia a apreensão) e **gaveta anterior**. Mecanismo da luxação anterior: **abdução + rotação externa**. Ver [[Luxação Glenoumeral]].
+**Instabilidade posterior:** gaveta posterior / teste de Fukuda, *jerk test* (rotação interna e adução com carga axial).
+**Multidirecional:** **sinal do sulco** (tração inferior do braço → depressão abaixo do acrômio).
+
+> [!important] Nenhum teste isolado é patognomônico
+> A mesma metanálise conclui que **nenhum teste isolado** de ombro pode ser recomendado como diagnóstico, e que **combinações** melhoram a acurácia apenas marginalmente. Anamnese + exame completo + o passo 2 deste guia (ativo × passivo) seguem sendo o núcleo.
+
+> [!warning] ⚠️ Correções ao material-fonte (aula)
+> 1. **Valgo e varo.** A aula definiu *"valgo = tudo que se aproxima da linha média; varo = tudo que se afasta"*. A convenção ortopédica define pelo **segmento DISTAL**: **valgo** = o segmento distal desvia **para longe** da linha média (o ápice da angulação aponta para ela — joelhos "em X"); **varo** = o segmento distal desvia **em direção** à linha média (ápice para fora — joelhos "em parêntese"). A frase da aula só fica certa se lida pelo ápice da articulação, não pelo membro — e é exatamente essa ambiguidade que gera erro em prova.
+> 2. **Plano da escápula.** A aula anotou elevação no plano da escápula a *"30° em relação à flexão do ombro"*. O plano escapular fica **~30° anterior ao plano coronal** (isto é, 30° à frente da abdução pura), a meio caminho entre abdução e flexão. É o plano em que o [[Teste de Jobe]] é feito.
+
+**Fonte deste bloco:**
+- Hegedus EJ, Goode AP, Cook CE, et al. Which physical examination tests provide clinicians with the most value when examining the shoulder? Update of a systematic review with meta-analysis of individual tests. Br J Sports Med. 2012;46(14):964-978. PMID 22773322
+- Definições de valgo/varo e plano escapular — conhecimento consolidado de semiologia ortopédica

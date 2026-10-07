@@ -101,7 +101,8 @@ tipo de exame: null
   - [[Estase Jugular Patológica]] — no hipertensivo; **ausente se houver hemorragia associada**
 - **Imagem:**
   - [[Raio-X de Tórax]] — linha pleural visceral com ausência de trama vascular periférica
-  - [[FAST e eFAST]] — abolição do **deslizamento pleural** (*lung sliding*); sensibilidade superior à do raio-X à beira do leito
+  - [[FAST e eFAST]] — abolição do **[[Deslizamento Pleural|deslizamento pleural]]** (*lung sliding*); sensibilidade superior à do raio-X à beira do leito
+  - [[Ponto Pulmonar]] — o único sinal ultrassonográfico que **confirma** sozinho (especificidade de 100%)
   - [[TC de Tórax]] — padrão-ouro; é o exame que define o **oculto**
 
 > [!danger] 🚨 O pivô que mais importa: pneumotórax hipertensivo é diagnóstico CLÍNICO
@@ -209,3 +210,24 @@ tipo de exame: null
 *- Correções aplicadas: pneumotórax oculto é o visível SÓ na TC (a fonte inverteu); sequência do curativo de três pontas; sensibilidade × especificidade do exame físico; origem do ar pleural.*
 *- Texto puro proposital (sem nota no vault): SDRA, atelectasia, empiema, videotoracoscopia, broncoscopia (sessão futura).*
 -
+
+---
+
+### 🔗 Ultrassonografia no pneumotórax — o que cada sinal vale
+**Data:** 2026-10-06
+**Contexto:** [[Ultrassonografia Pulmonar]] · [[FAST e eFAST]]
+
+**Números que justificam a US antes da radiografia em supino:** US **S 90,9% / E 98,2%** × radiografia em supino **S 50,2% / E 99,4%** (Alrajhi 2012; 8 estudos, 1.048 pacientes). No supino o ar se acumula **anteriormente**, onde a radiografia deitada é cega e a US enxerga primeiro.
+
+**Hierarquia dos sinais:**
+- [[Deslizamento Pleural|Deslizamento presente]] ou [[Linhas B (Ultrassonografia Pulmonar)|linha B]] visível → **exclui** pneumotórax naquele ponto
+- **Deslizamento abolido** (código de barras no modo M) → pneumotórax **possível**, não confirmado — também ocorre em intubação seletiva, apneia, aderências, SDRA
+- **Linhas A persistem** no pneumotórax (perfil A' do BLUE) — a ausência delas **não** é sinal de pneumotórax
+- [[Ponto Pulmonar]] → **confirma** (S 66% / E 100%); sua posição correlaciona com o tamanho; **não existe no pneumotórax completo**
+
+**Simples × hipertensivo:** a US não faz essa distinção — ela é **hemodinâmica e clínica**. Corrige a aula de USG na emergência, que sugeria que o pneumotórax "parcial" seria "simples".
+
+**Fonte deste bloco:**
+- Alrajhi K, Woo MY, Vaillancourt C. Chest. 2012;141(3):703-708. PMID 21868468
+- Lichtenstein D et al. Intensive Care Med. 2000;26(10):1434-1440. PMID 11126253
+- Lichtenstein DA, Mezière GA. Chest. 2008;134(1):117-125. PMID 18403664
